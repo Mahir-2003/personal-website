@@ -36,6 +36,13 @@
       "external_url": "https://open.spotify.com/track/419vPj2tN0KADfmLkBfBZe"
     },
     {
+      "name": "Yosemite",
+      "artist": "KETTAMA",
+      "album": "Archangel",
+      "image": "https://i.scdn.co/image/ab67616d0000b273838e79a9ad425bb5e7d6150c",
+      "external_url": "https://open.spotify.com/track/6Z3cE0ZK0tmj7131PFIOeZ"
+    },
+    {
       "name": "aint hard",
       "artist": "Destroy Lonely",
       "album": "</3³",
@@ -62,13 +69,6 @@
       "album": "BUFF BBY",
       "image": "https://i.scdn.co/image/ab67616d0000b2733e3148cd25b179e9280467f8",
       "external_url": "https://open.spotify.com/track/3hgKImbnnlEo91XTerv2NV"
-    },
-    {
-      "name": "high enough",
-      "artist": "deathtoricky",
-      "album": "spring cleaning",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732b0ddbe09307b48fd2d9854b",
-      "external_url": "https://open.spotify.com/track/1rJ4XeN1BjlgpGURhB96gx"
     }
   ],
   "topArtists": [
@@ -76,6 +76,14 @@
       "name": "Destroy Lonely",
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "genres": [
+        "rage rap"
+      ]
+    },
+    {
+      "name": "Ken Carson",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
       "genres": [
         "rage rap"
       ]
@@ -102,14 +110,6 @@
       "name": "Playboi Carti",
       "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
-      "name": "Ken Carson",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
       "genres": [
         "rage rap"
       ]
@@ -156,5 +156,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-11-15T06:15:28.292Z"
+  "lastUpdated": "2025-11-16T06:15:28.468Z"
 }
