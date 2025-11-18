@@ -64,11 +64,11 @@
       "external_url": "https://open.spotify.com/track/1tVyspjjYQ0NFDK6uOOoDx"
     },
     {
-      "name": "Addicted",
-      "artist": "OsamaSon",
-      "album": "psykotic",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f08f912956daaea9fa34cb76",
-      "external_url": "https://open.spotify.com/track/7iZqma5DV0h12Orxlb20VU"
+      "name": "4 Raws",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
+      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
     }
   ],
   "topArtists": [
@@ -129,15 +129,6 @@
       "genres": []
     },
     {
-      "name": "Tame Impala",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
-      "external_url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
-      "genres": [
-        "neo-psychedelic",
-        "indie"
-      ]
-    },
-    {
       "name": "kuru",
       "image": "https://i.scdn.co/image/ab6761610000e5ebcaa57ca5c67210b0daede1ab",
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu",
@@ -148,13 +139,23 @@
       ]
     },
     {
-      "name": "Nine Vicious",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebb4cbd0f9f8221fa92c6c8031",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
+      "name": "Tame Impala",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
+      "external_url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
       "genres": [
-        "underground hip hop"
+        "neo-psychedelic",
+        "indie"
+      ]
+    },
+    {
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "genres": [
+        "underground hip hop",
+        "rage rap"
       ]
     }
   ],
-  "lastUpdated": "2025-11-17T06:18:10.574Z"
+  "lastUpdated": "2025-11-18T06:17:07.883Z"
 }
