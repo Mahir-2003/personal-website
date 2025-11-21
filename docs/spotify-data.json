@@ -64,11 +64,11 @@
       "external_url": "https://open.spotify.com/track/6cF1WdjcCEdjS7aMq6kJDj"
     },
     {
-      "name": "show u how",
-      "artist": "Destroy Lonely",
-      "album": "</3³",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d7b2fb87f7316720422d2525",
-      "external_url": "https://open.spotify.com/track/1tVyspjjYQ0NFDK6uOOoDx"
+      "name": "LV Sandals",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
+      "external_url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
     }
   ],
   "topArtists": [
@@ -86,23 +86,6 @@
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
       "genres": [
         "rage rap"
-      ]
-    },
-    {
-      "name": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
-      "name": "Lucy Bedroque",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb46d54cd46ec87c6838c9f0d5",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
-      "genres": [
-        "hyperpop",
-        "cloud rap"
       ]
     },
     {
@@ -125,16 +108,36 @@
       ]
     },
     {
-      "name": "deathtoricky",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb90a348fb5e6b08f689585752",
-      "external_url": "https://open.spotify.com/artist/2dj6hqelYanB2vqOgf1O4T",
-      "genres": []
+      "name": "Lucy Bedroque",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb46d54cd46ec87c6838c9f0d5",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+      "genres": [
+        "hyperpop",
+        "cloud rap"
+      ]
+    },
+    {
+      "name": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
+      "genres": [
+        "rage rap"
+      ]
     },
     {
       "name": "The Neighbourhood",
       "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
       "external_url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh",
       "genres": []
+    },
+    {
+      "name": "Tame Impala",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
+      "external_url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
+      "genres": [
+        "neo-psychedelic",
+        "indie"
+      ]
     },
     {
       "name": "OsamaSon",
@@ -146,14 +149,13 @@
       ]
     },
     {
-      "name": "Tame Impala",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
-      "external_url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
+      "name": "Jane Remover",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb3f947c9d2fadeafa65c14f41",
+      "external_url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu",
       "genres": [
-        "neo-psychedelic",
-        "indie"
+        "hyperpop"
       ]
     }
   ],
-  "lastUpdated": "2025-11-20T06:16:21.071Z"
+  "lastUpdated": "2025-11-21T06:17:35.245Z"
 }
