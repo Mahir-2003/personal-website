@@ -57,18 +57,18 @@
       "external_url": "https://open.spotify.com/track/419vPj2tN0KADfmLkBfBZe"
     },
     {
-      "name": "aint hard",
-      "artist": "Destroy Lonely",
-      "album": "</3³",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d7b2fb87f7316720422d2525",
-      "external_url": "https://open.spotify.com/track/6cF1WdjcCEdjS7aMq6kJDj"
-    },
-    {
       "name": "LV Sandals",
       "artist": "EsDeeKid",
       "album": "Rebel",
       "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
       "external_url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
+    },
+    {
+      "name": "Rottweiler",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
+      "external_url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
     }
   ],
   "topArtists": [
@@ -81,6 +81,12 @@
       ]
     },
     {
+      "name": "EsDeeKid",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
+      "external_url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
+      "genres": []
+    },
+    {
       "name": "Ken Carson",
       "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
@@ -89,20 +95,14 @@
       ]
     },
     {
-      "name": "EsDeeKid",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
-      "external_url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
-      "genres": []
-    },
-    {
       "name": "Tim Hecker",
       "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
       "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
       "genres": [
         "drone",
         "ambient",
-        "idm",
         "dark ambient",
+        "idm",
         "experimental",
         "minimalism"
       ]
@@ -117,26 +117,17 @@
       ]
     },
     {
-      "name": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
       "name": "The Neighbourhood",
       "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
       "external_url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh",
       "genres": []
     },
     {
-      "name": "Tame Impala",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
-      "external_url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
+      "name": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
       "genres": [
-        "neo-psychedelic",
-        "indie"
+        "rage rap"
       ]
     },
     {
@@ -155,7 +146,17 @@
       "genres": [
         "hyperpop"
       ]
+    },
+    {
+      "name": "kuru",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebcaa57ca5c67210b0daede1ab",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu",
+      "genres": [
+        "hyperpop",
+        "glitch",
+        "cloud rap"
+      ]
     }
   ],
-  "lastUpdated": "2025-11-21T06:17:35.245Z"
+  "lastUpdated": "2025-11-22T06:14:53.607Z"
 }
