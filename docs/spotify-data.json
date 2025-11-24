@@ -64,11 +64,11 @@
       "external_url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
     },
     {
-      "name": "Rottweiler",
+      "name": "Tartan",
       "artist": "EsDeeKid",
       "album": "Rebel",
       "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
-      "external_url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
+      "external_url": "https://open.spotify.com/track/1r7dV486KA1fMo2w1voblx"
     }
   ],
   "topArtists": [
@@ -148,15 +148,17 @@
       ]
     },
     {
-      "name": "kuru",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebcaa57ca5c67210b0daede1ab",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu",
+      "name": "Oneohtrix Point Never",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
+      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
       "genres": [
-        "hyperpop",
-        "glitch",
-        "cloud rap"
+        "idm",
+        "drone",
+        "ambient",
+        "experimental",
+        "vaporwave"
       ]
     }
   ],
-  "lastUpdated": "2025-11-23T06:15:33.757Z"
+  "lastUpdated": "2025-11-24T06:18:11.614Z"
 }
