@@ -43,18 +43,11 @@
       "external_url": "https://open.spotify.com/track/6Z3cE0ZK0tmj7131PFIOeZ"
     },
     {
-      "name": "top flo",
-      "artist": "Destroy Lonely",
-      "album": "</3³",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d7b2fb87f7316720422d2525",
-      "external_url": "https://open.spotify.com/track/4JqrDSsXQF7fGXhJrgtAv3"
-    },
-    {
-      "name": "no pressure",
-      "artist": "Destroy Lonely",
-      "album": "</3³",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d7b2fb87f7316720422d2525",
-      "external_url": "https://open.spotify.com/track/419vPj2tN0KADfmLkBfBZe"
+      "name": "Tartan",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
+      "external_url": "https://open.spotify.com/track/1r7dV486KA1fMo2w1voblx"
     },
     {
       "name": "LV Sandals",
@@ -64,11 +57,18 @@
       "external_url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
     },
     {
-      "name": "Tartan",
+      "name": "Rottweiler",
       "artist": "EsDeeKid",
       "album": "Rebel",
       "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
-      "external_url": "https://open.spotify.com/track/1r7dV486KA1fMo2w1voblx"
+      "external_url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
+    },
+    {
+      "name": "5am",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
+      "external_url": "https://open.spotify.com/track/1QSE7XfNSozCWMx6UuNIaa"
     }
   ],
   "topArtists": [
@@ -92,6 +92,18 @@
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
       "genres": [
         "rage rap"
+      ]
+    },
+    {
+      "name": "Oneohtrix Point Never",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
+      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
+      "genres": [
+        "idm",
+        "drone",
+        "ambient",
+        "experimental",
+        "vaporwave"
       ]
     },
     {
@@ -123,14 +135,6 @@
       "genres": []
     },
     {
-      "name": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
       "name": "OsamaSon",
       "image": "https://i.scdn.co/image/ab6761610000e5eb094034319a7da6773d92c2e5",
       "external_url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1",
@@ -148,17 +152,15 @@
       ]
     },
     {
-      "name": "Oneohtrix Point Never",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
-      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
+      "name": "kuru",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebcaa57ca5c67210b0daede1ab",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu",
       "genres": [
-        "idm",
-        "drone",
-        "ambient",
-        "experimental",
-        "vaporwave"
+        "hyperpop",
+        "glitch",
+        "cloud rap"
       ]
     }
   ],
-  "lastUpdated": "2025-11-24T06:18:11.614Z"
+  "lastUpdated": "2025-11-25T06:17:58.940Z"
 }
