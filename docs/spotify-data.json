@@ -73,18 +73,18 @@
   ],
   "topArtists": [
     {
+      "name": "EsDeeKid",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
+      "external_url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
+      "genres": []
+    },
+    {
       "name": "Destroy Lonely",
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
       "genres": [
         "rage rap"
       ]
-    },
-    {
-      "name": "EsDeeKid",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
-      "external_url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
-      "genres": []
     },
     {
       "name": "Ken Carson",
@@ -135,15 +135,6 @@
       "genres": []
     },
     {
-      "name": "OsamaSon",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb094034319a7da6773d92c2e5",
-      "external_url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
       "name": "Jane Remover",
       "image": "https://i.scdn.co/image/ab6761610000e5eb3f947c9d2fadeafa65c14f41",
       "external_url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu",
@@ -160,7 +151,15 @@
         "glitch",
         "cloud rap"
       ]
+    },
+    {
+      "name": "SoFaygo",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb010635685ba93f98efe6e936",
+      "external_url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby",
+      "genres": [
+        "rage rap"
+      ]
     }
   ],
-  "lastUpdated": "2025-11-25T06:17:58.940Z"
+  "lastUpdated": "2025-11-26T06:17:30.989Z"
 }
