@@ -79,14 +79,6 @@
       "genres": []
     },
     {
-      "name": "Destroy Lonely",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
       "name": "Ken Carson",
       "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
@@ -104,6 +96,14 @@
         "ambient",
         "experimental",
         "vaporwave"
+      ]
+    },
+    {
+      "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "genres": [
+        "rage rap"
       ]
     },
     {
@@ -161,5 +161,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-11-27T06:17:57.196Z"
+  "lastUpdated": "2025-11-28T06:17:51.733Z"
 }
