@@ -29,13 +29,6 @@
       "external_url": "https://open.spotify.com/track/37de7PiZODyk476tuvStLq"
     },
     {
-      "name": "Eternal Rest",
-      "artist": "Avith Ortega",
-      "album": "Silent Hill: The Headphones (Covers)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27362d91dbd4089ea18ff77df7a",
-      "external_url": "https://open.spotify.com/track/40urlaLGS1EZIKDQ7eNQbN"
-    },
-    {
       "name": "Yosemite",
       "artist": "KETTAMA",
       "album": "Archangel",
@@ -64,6 +57,13 @@
       "external_url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
     },
     {
+      "name": "For Residue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
+    },
+    {
       "name": "5am",
       "artist": "EsDeeKid",
       "album": "Rebel",
@@ -79,14 +79,6 @@
       "genres": []
     },
     {
-      "name": "Ken Carson",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -99,9 +91,9 @@
       ]
     },
     {
-      "name": "Destroy Lonely",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "name": "Ken Carson",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
       "genres": [
         "rage rap"
       ]
@@ -126,6 +118,14 @@
       "genres": [
         "hyperpop",
         "cloud rap"
+      ]
+    },
+    {
+      "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "genres": [
+        "rage rap"
       ]
     },
     {
@@ -161,5 +161,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-11-28T06:17:51.733Z"
+  "lastUpdated": "2025-11-29T06:15:43.659Z"
 }
