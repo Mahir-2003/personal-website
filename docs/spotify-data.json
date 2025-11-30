@@ -79,6 +79,19 @@
       "genres": []
     },
     {
+      "name": "Tim Hecker",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
+      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
+      "genres": [
+        "drone",
+        "ambient",
+        "idm",
+        "dark ambient",
+        "experimental",
+        "minimalism"
+      ]
+    },
+    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -99,33 +112,12 @@
       ]
     },
     {
-      "name": "Tim Hecker",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
-      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
-      "genres": [
-        "drone",
-        "ambient",
-        "idm",
-        "dark ambient",
-        "experimental",
-        "minimalism"
-      ]
-    },
-    {
       "name": "Lucy Bedroque",
       "image": "https://i.scdn.co/image/ab6761610000e5eb46d54cd46ec87c6838c9f0d5",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
       "genres": [
         "hyperpop",
         "cloud rap"
-      ]
-    },
-    {
-      "name": "Destroy Lonely",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
-      "genres": [
-        "rage rap"
       ]
     },
     {
@@ -159,7 +151,15 @@
       "genres": [
         "rage rap"
       ]
+    },
+    {
+      "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "genres": [
+        "rage rap"
+      ]
     }
   ],
-  "lastUpdated": "2025-11-29T06:15:43.659Z"
+  "lastUpdated": "2025-11-30T06:16:40.548Z"
 }
