@@ -36,6 +36,13 @@
       "external_url": "https://open.spotify.com/track/6Z3cE0ZK0tmj7131PFIOeZ"
     },
     {
+      "name": "For Residue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
+    },
+    {
       "name": "Tartan",
       "artist": "EsDeeKid",
       "album": "Rebel",
@@ -50,28 +57,33 @@
       "external_url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
     },
     {
-      "name": "Rottweiler",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
-      "external_url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
-    },
-    {
-      "name": "For Residue",
+      "name": "Vestigel",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
+      "external_url": "https://open.spotify.com/track/7tMqVsAWV8RcXM6XqlJjmc"
     },
     {
-      "name": "5am",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
-      "external_url": "https://open.spotify.com/track/1QSE7XfNSozCWMx6UuNIaa"
+      "name": "Bumpy",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/0xv9W6FVNsaUyqtjqZex0X"
     }
   ],
   "topArtists": [
+    {
+      "name": "Oneohtrix Point Never",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
+      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
+      "genres": [
+        "idm",
+        "drone",
+        "ambient",
+        "experimental",
+        "vaporwave"
+      ]
+    },
     {
       "name": "EsDeeKid",
       "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
@@ -89,18 +101,6 @@
         "dark ambient",
         "experimental",
         "minimalism"
-      ]
-    },
-    {
-      "name": "Oneohtrix Point Never",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
-      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
-      "genres": [
-        "idm",
-        "drone",
-        "ambient",
-        "experimental",
-        "vaporwave"
       ]
     },
     {
@@ -153,13 +153,14 @@
       ]
     },
     {
-      "name": "Destroy Lonely",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
       "genres": [
+        "underground hip hop",
         "rage rap"
       ]
     }
   ],
-  "lastUpdated": "2025-11-30T06:16:40.548Z"
+  "lastUpdated": "2025-12-01T06:19:28.781Z"
 }
