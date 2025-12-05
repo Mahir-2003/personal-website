@@ -36,13 +36,6 @@
       "external_url": "https://open.spotify.com/track/6Z3cE0ZK0tmj7131PFIOeZ"
     },
     {
-      "name": "yes",
-      "artist": "Ken Carson",
-      "album": "yes",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cfccf7cb249c22931be7fce0",
-      "external_url": "https://open.spotify.com/track/0AsznzqG4tJ0qnrWBZHrJO"
-    },
-    {
       "name": "Tartan",
       "artist": "EsDeeKid",
       "album": "Rebel",
@@ -69,6 +62,13 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/0xv9W6FVNsaUyqtjqZex0X"
+    },
+    {
+      "name": "Modern Lust",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/6AZgwt8kSepsA72j64Ttjx"
     }
   ],
   "topArtists": [
@@ -113,18 +113,18 @@
       ]
     },
     {
+      "name": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
+      "genres": [
+        "rage rap"
+      ]
+    },
+    {
       "name": "The Neighbourhood",
       "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
       "external_url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh",
       "genres": []
-    },
-    {
-      "name": "Ken Carson",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
-      "genres": [
-        "rage rap"
-      ]
     },
     {
       "name": "Jane Remover",
@@ -135,13 +135,11 @@
       ]
     },
     {
-      "name": "kuru",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebcaa57ca5c67210b0daede1ab",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu",
+      "name": "Ken Carson",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
       "genres": [
-        "hyperpop",
-        "glitch",
-        "cloud rap"
+        "rage rap"
       ]
     },
     {
@@ -161,5 +159,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-12-04T06:18:03.898Z"
+  "lastUpdated": "2025-12-05T06:18:13.712Z"
 }
