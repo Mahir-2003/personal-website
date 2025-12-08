@@ -15,25 +15,18 @@
       "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
     },
     {
-      "name": "Relevant",
-      "artist": "Lil Uzi Vert",
-      "album": "Relevant",
-      "image": "https://i.scdn.co/image/ab67616d0000b273856ff18140d44bbd9dbac201",
-      "external_url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
-    },
-    {
-      "name": "TELEPATHY LOVE (feat. Clara La San)",
-      "artist": "BNYX®",
-      "album": "LOADING...",
-      "image": "https://i.scdn.co/image/ab67616d0000b27338373bdf54004a7d2e1a69ce",
-      "external_url": "https://open.spotify.com/track/37de7PiZODyk476tuvStLq"
-    },
-    {
       "name": "For Residue",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
+    },
+    {
+      "name": "Relevant",
+      "artist": "Lil Uzi Vert",
+      "album": "Relevant",
+      "image": "https://i.scdn.co/image/ab67616d0000b273856ff18140d44bbd9dbac201",
+      "external_url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
     },
     {
       "name": "Yosemite",
@@ -43,13 +36,6 @@
       "external_url": "https://open.spotify.com/track/6Z3cE0ZK0tmj7131PFIOeZ"
     },
     {
-      "name": "Tartan",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
-      "external_url": "https://open.spotify.com/track/1r7dV486KA1fMo2w1voblx"
-    },
-    {
       "name": "Vestigel",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -57,18 +43,32 @@
       "external_url": "https://open.spotify.com/track/7tMqVsAWV8RcXM6XqlJjmc"
     },
     {
-      "name": "LV Sandals",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
-      "external_url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
-    },
-    {
       "name": "Bumpy",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/0xv9W6FVNsaUyqtjqZex0X"
+    },
+    {
+      "name": "Modern Lust",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/6AZgwt8kSepsA72j64Ttjx"
+    },
+    {
+      "name": "Tartan",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
+      "external_url": "https://open.spotify.com/track/1r7dV486KA1fMo2w1voblx"
+    },
+    {
+      "name": "Measuring Ruins",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
     }
   ],
   "topArtists": [
@@ -143,21 +143,21 @@
       ]
     },
     {
-      "name": "Ken Carson",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
       "name": "Lil Uzi Vert",
       "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
       "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
       "genres": [
         "melodic rap"
       ]
+    },
+    {
+      "name": "Cochise",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb650f2a8ea60a0dacfbd1e9fe",
+      "external_url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx",
+      "genres": [
+        "rage rap"
+      ]
     }
   ],
-  "lastUpdated": "2025-12-07T06:15:32.563Z"
+  "lastUpdated": "2025-12-08T06:20:09.053Z"
 }
