@@ -8,13 +8,6 @@
       "external_url": "https://open.spotify.com/track/6UeZEhHbkYBwFPRbCOUAml"
     },
     {
-      "name": "4 Raws",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
-      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
       "name": "For Residue",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -22,18 +15,18 @@
       "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
+      "name": "4 Raws",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
+      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
       "name": "Relevant",
       "artist": "Lil Uzi Vert",
       "album": "Relevant",
       "image": "https://i.scdn.co/image/ab67616d0000b273856ff18140d44bbd9dbac201",
       "external_url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
-    },
-    {
-      "name": "Yosemite",
-      "artist": "KETTAMA",
-      "album": "Archangel",
-      "image": "https://i.scdn.co/image/ab67616d0000b273838e79a9ad425bb5e7d6150c",
-      "external_url": "https://open.spotify.com/track/6Z3cE0ZK0tmj7131PFIOeZ"
     },
     {
       "name": "Vestigel",
@@ -57,11 +50,11 @@
       "external_url": "https://open.spotify.com/track/6AZgwt8kSepsA72j64Ttjx"
     },
     {
-      "name": "Tartan",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
-      "external_url": "https://open.spotify.com/track/1r7dV486KA1fMo2w1voblx"
+      "name": "Yosemite",
+      "artist": "KETTAMA",
+      "album": "Archangel",
+      "image": "https://i.scdn.co/image/ab67616d0000b273838e79a9ad425bb5e7d6150c",
+      "external_url": "https://open.spotify.com/track/6Z3cE0ZK0tmj7131PFIOeZ"
     },
     {
       "name": "Measuring Ruins",
@@ -69,6 +62,13 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
+    },
+    {
+      "name": "Cherry Blue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
     }
   ],
   "topArtists": [
@@ -104,20 +104,20 @@
       ]
     },
     {
+      "name": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
+      "genres": [
+        "rage rap"
+      ]
+    },
+    {
       "name": "Lucy Bedroque",
       "image": "https://i.scdn.co/image/ab6761610000e5eb46d54cd46ec87c6838c9f0d5",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
       "genres": [
         "hyperpop",
         "cloud rap"
-      ]
-    },
-    {
-      "name": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-      "genres": [
-        "rage rap"
       ]
     },
     {
@@ -159,5 +159,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-12-08T06:20:09.053Z"
+  "lastUpdated": "2025-12-09T06:18:45.709Z"
 }
