@@ -121,18 +121,18 @@
       ]
     },
     {
+      "name": "Current Joys",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4a0ff79c4f265a74b3037b22",
+      "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL",
+      "genres": [
+        "lo-fi indie"
+      ]
+    },
+    {
       "name": "The Neighbourhood",
       "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
       "external_url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh",
       "genres": []
-    },
-    {
-      "name": "Jane Remover",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb3f947c9d2fadeafa65c14f41",
-      "external_url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu",
-      "genres": [
-        "hyperpop"
-      ]
     },
     {
       "name": "SoFaygo",
@@ -143,21 +143,21 @@
       ]
     },
     {
+      "name": "Jane Remover",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb3f947c9d2fadeafa65c14f41",
+      "external_url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu",
+      "genres": [
+        "hyperpop"
+      ]
+    },
+    {
       "name": "Lil Uzi Vert",
       "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
       "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
       "genres": [
         "melodic rap"
       ]
-    },
-    {
-      "name": "Cochise",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb650f2a8ea60a0dacfbd1e9fe",
-      "external_url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx",
-      "genres": [
-        "rage rap"
-      ]
     }
   ],
-  "lastUpdated": "2025-12-09T06:18:45.709Z"
+  "lastUpdated": "2025-12-10T06:19:02.500Z"
 }
