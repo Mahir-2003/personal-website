@@ -8,6 +8,13 @@
       "external_url": "https://open.spotify.com/track/6UeZEhHbkYBwFPRbCOUAml"
     },
     {
+      "name": "Relevant",
+      "artist": "Lil Uzi Vert",
+      "album": "Relevant",
+      "image": "https://i.scdn.co/image/ab67616d0000b273856ff18140d44bbd9dbac201",
+      "external_url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
+    },
+    {
       "name": "For Residue",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -20,13 +27,6 @@
       "album": "Rebel",
       "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
       "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
-      "name": "Relevant",
-      "artist": "Lil Uzi Vert",
-      "album": "Relevant",
-      "image": "https://i.scdn.co/image/ab67616d0000b273856ff18140d44bbd9dbac201",
-      "external_url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
     },
     {
       "name": "Vestigel",
@@ -112,6 +112,15 @@
       ]
     },
     {
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
+    {
       "name": "Current Joys",
       "image": "https://i.scdn.co/image/ab6761610000e5eb4a0ff79c4f265a74b3037b22",
       "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL",
@@ -135,15 +144,6 @@
       "genres": []
     },
     {
-      "name": "prettifun",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
-      "genres": [
-        "underground hip hop",
-        "rage rap"
-      ]
-    },
-    {
       "name": "SoFaygo",
       "image": "https://i.scdn.co/image/ab6761610000e5eb010635685ba93f98efe6e936",
       "external_url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby",
@@ -160,5 +160,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-12-11T06:19:27.091Z"
+  "lastUpdated": "2025-12-12T06:19:08.307Z"
 }
