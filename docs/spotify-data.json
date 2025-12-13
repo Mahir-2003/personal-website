@@ -85,12 +85,6 @@
       ]
     },
     {
-      "name": "EsDeeKid",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
-      "external_url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
-      "genres": []
-    },
-    {
       "name": "Tim Hecker",
       "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
       "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
@@ -102,6 +96,12 @@
         "experimental",
         "minimalism"
       ]
+    },
+    {
+      "name": "EsDeeKid",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
+      "external_url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
+      "genres": []
     },
     {
       "name": "Playboi Carti",
@@ -160,5 +160,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-12-12T06:19:08.307Z"
+  "lastUpdated": "2025-12-13T06:16:22.175Z"
 }
