@@ -1,13 +1,6 @@
 {
   "topTracks": [
     {
-      "name": "Still",
-      "artist": "Joeyy",
-      "album": "Still",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c5166e0bd8e5d4f885c4ccc0",
-      "external_url": "https://open.spotify.com/track/6UeZEhHbkYBwFPRbCOUAml"
-    },
-    {
       "name": "Relevant",
       "artist": "Lil Uzi Vert",
       "album": "Relevant",
@@ -20,6 +13,13 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
+    },
+    {
+      "name": "Still",
+      "artist": "Joeyy",
+      "album": "Still",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5166e0bd8e5d4f885c4ccc0",
+      "external_url": "https://open.spotify.com/track/6UeZEhHbkYBwFPRbCOUAml"
     },
     {
       "name": "4 Raws",
@@ -129,6 +129,12 @@
       ]
     },
     {
+      "name": "21 Savage",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4f8f76117470957c0e81e5b2",
+      "external_url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft",
+      "genres": []
+    },
+    {
       "name": "Lucy Bedroque",
       "image": "https://i.scdn.co/image/ab6761610000e5eb46d54cd46ec87c6838c9f0d5",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
@@ -136,12 +142,6 @@
         "hyperpop",
         "cloud rap"
       ]
-    },
-    {
-      "name": "21 Savage",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4f8f76117470957c0e81e5b2",
-      "external_url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft",
-      "genres": []
     },
     {
       "name": "The Neighbourhood",
@@ -158,5 +158,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-12-14T06:16:42.186Z"
+  "lastUpdated": "2025-12-15T06:20:29.795Z"
 }
