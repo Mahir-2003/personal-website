@@ -1,18 +1,18 @@
 {
   "topTracks": [
     {
-      "name": "Relevant",
-      "artist": "Lil Uzi Vert",
-      "album": "Relevant",
-      "image": "https://i.scdn.co/image/ab67616d0000b273856ff18140d44bbd9dbac201",
-      "external_url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
-    },
-    {
       "name": "For Residue",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
+    },
+    {
+      "name": "Relevant",
+      "artist": "Lil Uzi Vert",
+      "album": "Relevant",
+      "image": "https://i.scdn.co/image/ab67616d0000b273856ff18140d44bbd9dbac201",
+      "external_url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
     },
     {
       "name": "4 Raws",
@@ -64,11 +64,11 @@
       "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
     },
     {
-      "name": "Tartan",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
-      "external_url": "https://open.spotify.com/track/1r7dV486KA1fMo2w1voblx"
+      "name": "Fear of Symmetry",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/0IXicbiQBfo03X1gvUooXp"
     }
   ],
   "topArtists": [
@@ -82,19 +82,6 @@
         "ambient",
         "experimental",
         "vaporwave"
-      ]
-    },
-    {
-      "name": "Tim Hecker",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
-      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
-      "genres": [
-        "drone",
-        "ambient",
-        "idm",
-        "dark ambient",
-        "experimental",
-        "minimalism"
       ]
     },
     {
@@ -118,6 +105,19 @@
       "genres": [
         "rage rap",
         "underground hip hop"
+      ]
+    },
+    {
+      "name": "Tim Hecker",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
+      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
+      "genres": [
+        "drone",
+        "ambient",
+        "idm",
+        "dark ambient",
+        "experimental",
+        "minimalism"
       ]
     },
     {
@@ -150,13 +150,13 @@
       "genres": []
     },
     {
-      "name": "Ken Carson",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
+      "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
       "genres": [
         "rage rap"
       ]
     }
   ],
-  "lastUpdated": "2025-12-16T06:19:07.660Z"
+  "lastUpdated": "2025-12-17T06:18:45.516Z"
 }
