@@ -9,21 +9,21 @@ const CareerTimeline = () => {
     const jobs = [
         {
             status: "Current",
-            company: "Sony Interactive Entertainment",
-            position: "Software Developer Intern",
-            description: [
-                "On the Unified Telemetry for Fall 2025"
-            ],
-            img: playstationLogo
-        },
-        {
-            status: "Current",
             company: "UW-Madison Housing Department",
             position: "House Fellow (Resident Assistant)",
             description: [
                 "Working at Sellery Residence Hall, building safe, respectful and inclusive communities for all residents"
             ],
             img: uwLogo
+        },
+                {
+            status: "Previous",
+            company: "Sony Interactive Entertainment",
+            position: "Software Developer Intern",
+            description: [
+                "On the Unified Telemetry Team for Fall 2025"
+            ],
+            img: playstationLogo
         },
         {
             status: "Previous",
