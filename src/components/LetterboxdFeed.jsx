@@ -1,13 +1,15 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
+import { MdRefresh } from 'react-icons/md';
 
 const LetterboxdFeed = () => {
     const [movies, setMovies] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
-    useEffect(() => {
-        const fetchLetterboxdFeed = async () => {
-            try {
+    const fetchLetterboxdFeed = useCallback(async () => {
+        setLoading(true);
+        setError(null);
+        try {
                 // Use a safe, reputable CORS-anywhere service (Cloudflare Workers based)
                 // Alternative: Use allorigins.win which is open-source and reputable
                 const proxyUrl = 'https://api.allorigins.win/raw?url=';
@@ -79,16 +81,17 @@ const LetterboxdFeed = () => {
                 setError('Failed to load recent movies');
                 setLoading(false);
             }
-        };
+        }, []);
 
-        fetchLetterboxdFeed();
-    }, []);
+        useEffect(() => {
+            fetchLetterboxdFeed();
+        }, [fetchLetterboxdFeed]);
 
-    if (loading) {
+    if (loading && movies.length === 0) {
         return (
             <section className="mb-12">
                 <h2 className="text-2xl font-bold text-blue-400 mb-6">RECENT VIEWINGS</h2>
-                <div className="bg-gray-900 p-6 rounded-lg">
+                <div className="bg-gray-900 p-6 rounded-lg min-h-[300px] flex items-center justify-center">
                     <div className="flex items-center justify-center text-gray-400">
                         <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-orange-400"></div>
                         <span className="ml-3">Loading recent movies...</span>
@@ -101,7 +104,16 @@ const LetterboxdFeed = () => {
     if (error) {
         return (
             <section className="mb-12">
-                <h2 className="text-2xl font-bold text-blue-400 mb-6">RECENT VIEWINGS</h2>
+                <div className="flex justify-between items-center mb-6">
+                    <h2 className="text-2xl font-bold text-blue-400">RECENT VIEWINGS</h2>
+                    <button 
+                        onClick={fetchLetterboxdFeed}
+                        className="flex items-center gap-2 px-3 py-1 bg-gray-800 hover:bg-gray-700 text-blue-400 rounded transition-colors text-sm border border-gray-700"
+                    >
+                        <MdRefresh className="text-lg" />
+                        RETRY
+                    </button>
+                </div>
                 <div className="bg-gray-900 p-6 rounded-lg border-l-4 border-red-400">
                     <p className="text-red-400 font-semibold">SYSTEM ERROR</p>
                     <p className="text-gray-300">{error}</p>
@@ -112,8 +124,23 @@ const LetterboxdFeed = () => {
 
     return (
         <section className="mb-12">
-            <h2 className="text-2xl font-bold text-blue-400 mb-6">RECENT VIEWINGS</h2>
-            <div className="bg-gray-900 p-6 rounded-lg">
+            <div className="flex justify-between items-center mb-6">
+                <h2 className="text-2xl font-bold text-blue-400">RECENT VIEWINGS</h2>
+                <button 
+                    onClick={fetchLetterboxdFeed}
+                    disabled={loading}
+                    className={`text-gray-500 hover:text-blue-400 transition-colors p-2 rounded-full hover:bg-gray-800 ${loading ? 'text-blue-400' : ''}`}
+                    title="Refresh Feed"
+                >
+                    REFRESH
+                </button>
+            </div>
+            <div className="bg-gray-900 p-6 rounded-lg relative min-h-[300px]">
+                {loading && (
+                    <div className="absolute inset-0 bg-gray-900/50 z-10 flex items-center justify-center rounded-lg backdrop-blur-sm">
+                        <div className="rounded-full h-8 w-8 border-b-2 border-orange-400"></div>
+                    </div>
+                )}
                 <div className="flex items-center mb-4">
                     <div className="w-3 h-3 bg-orange-400 rounded-full mr-3 animate-pulse"></div>
                     <p className="text-orange-400 font-semibold text-sm tracking-wider">
