@@ -15,13 +15,6 @@
       "external_url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
     },
     {
-      "name": "4 Raws",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b340c3c62478b6961d7f3c34",
-      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
       "name": "Vestigel",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -50,13 +43,6 @@
       "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
     },
     {
-      "name": "Cherry Blue",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
-    },
-    {
       "name": "Lifeworld",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -69,6 +55,20 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/0IXicbiQBfo03X1gvUooXp"
+    },
+    {
+      "name": "Cherry Blue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
+    },
+    {
+      "name": "Chanel Boy",
+      "artist": "Lil Uzi Vert",
+      "album": "Chanel Boy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735aac6ebedb2089fa8a968485",
+      "external_url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
     }
   ],
   "topArtists": [
@@ -77,18 +77,13 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
       "genres": [
+        "plunderphonics",
         "idm",
         "drone",
         "ambient",
         "experimental",
         "vaporwave"
       ]
-    },
-    {
-      "name": "EsDeeKid",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
-      "external_url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
-      "genres": []
     },
     {
       "name": "Playboi Carti",
@@ -114,11 +109,18 @@
       "genres": [
         "drone",
         "ambient",
+        "electroacoustic",
         "idm",
         "dark ambient",
         "experimental",
         "minimalism"
       ]
+    },
+    {
+      "name": "EsDeeKid",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
+      "external_url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
+      "genres": []
     },
     {
       "name": "Current Joys",
@@ -144,19 +146,21 @@
       ]
     },
     {
-      "name": "The Neighbourhood",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
-      "external_url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh",
-      "genres": []
-    },
-    {
       "name": "Destroy Lonely",
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
       "genres": [
         "rage rap"
       ]
+    },
+    {
+      "name": "Ken Carson",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
+      "genres": [
+        "rage rap"
+      ]
     }
   ],
-  "lastUpdated": "2025-12-18T06:18:43.694Z"
+  "lastUpdated": "2025-12-19T06:18:20.450Z"
 }
