@@ -15,18 +15,18 @@
       "external_url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
     },
     {
-      "name": "Vestigel",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/7tMqVsAWV8RcXM6XqlJjmc"
-    },
-    {
       "name": "Bumpy",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/0xv9W6FVNsaUyqtjqZex0X"
+    },
+    {
+      "name": "Vestigel",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/7tMqVsAWV8RcXM6XqlJjmc"
     },
     {
       "name": "Modern Lust",
@@ -117,12 +117,6 @@
       ]
     },
     {
-      "name": "EsDeeKid",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
-      "external_url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
-      "genres": []
-    },
-    {
       "name": "Current Joys",
       "image": "https://i.scdn.co/image/ab6761610000e5eb4a0ff79c4f265a74b3037b22",
       "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL",
@@ -134,6 +128,12 @@
       "name": "21 Savage",
       "image": "https://i.scdn.co/image/ab6761610000e5eb4f8f76117470957c0e81e5b2",
       "external_url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft",
+      "genres": []
+    },
+    {
+      "name": "EsDeeKid",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
+      "external_url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
       "genres": []
     },
     {
@@ -162,5 +162,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-12-20T06:17:49.352Z"
+  "lastUpdated": "2025-12-21T06:17:08.626Z"
 }
