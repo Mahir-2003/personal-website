@@ -29,6 +29,13 @@
       "external_url": "https://open.spotify.com/track/7tMqVsAWV8RcXM6XqlJjmc"
     },
     {
+      "name": "Lifeworld",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
+    },
+    {
       "name": "Modern Lust",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -43,13 +50,6 @@
       "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
     },
     {
-      "name": "Lifeworld",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
-    },
-    {
       "name": "Fear of Symmetry",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -57,11 +57,11 @@
       "external_url": "https://open.spotify.com/track/0IXicbiQBfo03X1gvUooXp"
     },
     {
-      "name": "Cherry Blue",
+      "name": "D.I.S.",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
+      "external_url": "https://open.spotify.com/track/1AWVySdGojdnQDRyNd6Y2s"
     },
     {
       "name": "Chanel Boy",
@@ -131,12 +131,6 @@
       "genres": []
     },
     {
-      "name": "EsDeeKid",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
-      "external_url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
-      "genres": []
-    },
-    {
       "name": "Lucy Bedroque",
       "image": "https://i.scdn.co/image/ab6761610000e5eb46d54cd46ec87c6838c9f0d5",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
@@ -160,7 +154,15 @@
       "genres": [
         "rage rap"
       ]
+    },
+    {
+      "name": "Lil Uzi Vert",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
+      "genres": [
+        "melodic rap"
+      ]
     }
   ],
-  "lastUpdated": "2025-12-21T06:17:08.626Z"
+  "lastUpdated": "2025-12-22T06:20:00.815Z"
 }
