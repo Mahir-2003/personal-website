@@ -50,18 +50,11 @@
       "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
     },
     {
-      "name": "Fear of Symmetry",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/0IXicbiQBfo03X1gvUooXp"
-    },
-    {
-      "name": "D.I.S.",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/1AWVySdGojdnQDRyNd6Y2s"
+      "name": "CONTEST",
+      "artist": "Travis Scott",
+      "album": "JACKBOYS 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
+      "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     },
     {
       "name": "Chanel Boy",
@@ -69,6 +62,13 @@
       "album": "Chanel Boy",
       "image": "https://i.scdn.co/image/ab67616d0000b2735aac6ebedb2089fa8a968485",
       "external_url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
+    },
+    {
+      "name": "Fear of Symmetry",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/0IXicbiQBfo03X1gvUooXp"
     }
   ],
   "topArtists": [
@@ -164,5 +164,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-12-22T06:20:00.815Z"
+  "lastUpdated": "2025-12-23T06:19:07.066Z"
 }
