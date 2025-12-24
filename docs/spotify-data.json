@@ -15,6 +15,13 @@
       "external_url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
     },
     {
+      "name": "CONTEST",
+      "artist": "Travis Scott",
+      "album": "JACKBOYS 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
+      "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
+    },
+    {
       "name": "Bumpy",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -48,13 +55,6 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
-    },
-    {
-      "name": "CONTEST",
-      "artist": "Travis Scott",
-      "album": "JACKBOYS 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
-      "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     },
     {
       "name": "Chanel Boy",
@@ -164,5 +164,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T06:19:07.066Z"
+  "lastUpdated": "2025-12-24T06:19:10.735Z"
 }
