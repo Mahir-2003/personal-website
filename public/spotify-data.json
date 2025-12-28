@@ -22,6 +22,13 @@
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     },
     {
+      "name": "Let's Do It (feat. Playboi Carti & Skooly)",
+      "artist": "Lil Baby",
+      "album": "The Leaks",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737644af592e4c543caa07ba6d",
+      "external_url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
+    },
+    {
       "name": "Bumpy",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -34,6 +41,13 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/7tMqVsAWV8RcXM6XqlJjmc"
+    },
+    {
+      "name": "the acronym (with Destroy Lonely)",
+      "artist": "Ken Carson",
+      "album": "the acronym (with Destroy Lonely)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27309fd614d653a500fc2dd0e73",
+      "external_url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
     },
     {
       "name": "Lifeworld",
@@ -55,23 +69,17 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
-    },
-    {
-      "name": "Let's Do It (feat. Playboi Carti & Skooly)",
-      "artist": "Lil Baby",
-      "album": "The Leaks",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737644af592e4c543caa07ba6d",
-      "external_url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
-    },
-    {
-      "name": "the acronym (with Destroy Lonely)",
-      "artist": "Ken Carson",
-      "album": "the acronym (with Destroy Lonely)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27309fd614d653a500fc2dd0e73",
-      "external_url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
     }
   ],
   "topArtists": [
+    {
+      "name": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
+      "genres": [
+        "rage rap"
+      ]
+    },
     {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
@@ -83,14 +91,6 @@
         "ambient",
         "experimental",
         "vaporwave"
-      ]
-    },
-    {
-      "name": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-      "genres": [
-        "rage rap"
       ]
     },
     {
@@ -125,6 +125,15 @@
       ]
     },
     {
+      "name": "Che",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
+    {
       "name": "21 Savage",
       "image": "https://i.scdn.co/image/ab6761610000e5eb4f8f76117470957c0e81e5b2",
       "external_url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft",
@@ -148,15 +157,6 @@
       ]
     },
     {
-      "name": "Che",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebefc665aaf840aff546d743c2",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
       "name": "Ken Carson",
       "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
@@ -165,5 +165,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-12-27T06:17:37.157Z"
+  "lastUpdated": "2025-12-28T06:17:39.395Z"
 }
