@@ -1,6 +1,13 @@
 {
   "topTracks": [
     {
+      "name": "CONTEST",
+      "artist": "Travis Scott",
+      "album": "JACKBOYS 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
+      "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
+    },
+    {
       "name": "Relevant",
       "artist": "Lil Uzi Vert",
       "album": "Relevant",
@@ -15,32 +22,11 @@
       "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
-      "name": "CONTEST",
-      "artist": "Travis Scott",
-      "album": "JACKBOYS 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
-      "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
-    },
-    {
       "name": "Let's Do It (feat. Playboi Carti & Skooly)",
       "artist": "Lil Baby",
       "album": "The Leaks",
       "image": "https://i.scdn.co/image/ab67616d0000b2737644af592e4c543caa07ba6d",
       "external_url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
-    },
-    {
-      "name": "Bumpy",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/0xv9W6FVNsaUyqtjqZex0X"
-    },
-    {
-      "name": "Vestigel",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/7tMqVsAWV8RcXM6XqlJjmc"
     },
     {
       "name": "the acronym (with Destroy Lonely)",
@@ -50,25 +36,39 @@
       "external_url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
     },
     {
-      "name": "Lifeworld",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
+      "name": "RATHER LIE (with The Weeknd)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "external_url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
     },
     {
-      "name": "Modern Lust",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/6AZgwt8kSepsA72j64Ttjx"
+      "name": "Song of the Highwire Shrimper",
+      "artist": "Tim Hecker",
+      "album": "Radio Amor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c0a49edb7e2c60e7a5f361b9",
+      "external_url": "https://open.spotify.com/track/1sfSuQMUWuqdNnq1v2ph9m"
     },
     {
-      "name": "Measuring Ruins",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
+      "name": "WHIPPIN",
+      "artist": "Che",
+      "album": "REST IN BASS: ENCORE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27394455de524661a5378e3238c",
+      "external_url": "https://open.spotify.com/track/0qxkl2w6rI4aLMzatQhUXv"
+    },
+    {
+      "name": "I SEEEEEE YOU BABY BOI",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "external_url": "https://open.spotify.com/track/2ydagYqcyFfRtQPzKc5E8l"
+    },
+    {
+      "name": "ILMB (feat. Travis Scott)",
+      "artist": "Sheck Wes",
+      "album": "ILMB (feat. Travis Scott)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2382f023664c59a74a3b346",
+      "external_url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
     }
   ],
   "topArtists": [
@@ -78,6 +78,24 @@
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
       "genres": [
         "rage rap"
+      ]
+    },
+    {
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
+    {
+      "name": "Che",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
       ]
     },
     {
@@ -94,43 +112,11 @@
       ]
     },
     {
-      "name": "prettifun",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
-      "name": "Tim Hecker",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
-      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
-      "genres": [
-        "drone",
-        "ambient",
-        "electroacoustic",
-        "idm",
-        "dark ambient",
-        "experimental",
-        "minimalism"
-      ]
-    },
-    {
       "name": "Current Joys",
       "image": "https://i.scdn.co/image/ab6761610000e5eb4a0ff79c4f265a74b3037b22",
       "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL",
       "genres": [
         "lo-fi indie"
-      ]
-    },
-    {
-      "name": "Che",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
       ]
     },
     {
@@ -157,6 +143,14 @@
       ]
     },
     {
+      "name": "Lil Uzi Vert",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
+      "genres": [
+        "melodic rap"
+      ]
+    },
+    {
       "name": "Ken Carson",
       "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
@@ -165,5 +159,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-12-28T06:17:39.395Z"
+  "lastUpdated": "2025-12-29T06:21:02.305Z"
 }
