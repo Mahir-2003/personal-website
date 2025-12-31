@@ -99,6 +99,14 @@
       ]
     },
     {
+      "name": "Current Joys",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4a0ff79c4f265a74b3037b22",
+      "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL",
+      "genres": [
+        "lo-fi indie"
+      ]
+    },
+    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -109,14 +117,6 @@
         "ambient",
         "experimental",
         "vaporwave"
-      ]
-    },
-    {
-      "name": "Current Joys",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4a0ff79c4f265a74b3037b22",
-      "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL",
-      "genres": [
-        "lo-fi indie"
       ]
     },
     {
@@ -143,21 +143,21 @@
       ]
     },
     {
-      "name": "Lil Uzi Vert",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
-      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
-      "genres": [
-        "melodic rap"
-      ]
-    },
-    {
       "name": "Ken Carson",
       "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
       "genres": [
         "rage rap"
       ]
+    },
+    {
+      "name": "Cochise",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb650f2a8ea60a0dacfbd1e9fe",
+      "external_url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx",
+      "genres": [
+        "rage rap"
+      ]
     }
   ],
-  "lastUpdated": "2025-12-30T06:19:00.163Z"
+  "lastUpdated": "2025-12-31T06:19:14.869Z"
 }
