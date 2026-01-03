@@ -8,25 +8,11 @@
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     },
     {
-      "name": "Relevant",
-      "artist": "Lil Uzi Vert",
-      "album": "Relevant",
-      "image": "https://i.scdn.co/image/ab67616d0000b273856ff18140d44bbd9dbac201",
-      "external_url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
-    },
-    {
       "name": "For Residue",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
-    },
-    {
-      "name": "Let's Do It (feat. Playboi Carti & Skooly)",
-      "artist": "Lil Baby",
-      "album": "The Leaks",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737644af592e4c543caa07ba6d",
-      "external_url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
     },
     {
       "name": "the acronym (with Destroy Lonely)",
@@ -57,18 +43,32 @@
       "external_url": "https://open.spotify.com/track/0qxkl2w6rI4aLMzatQhUXv"
     },
     {
-      "name": "I SEEEEEE YOU BABY BOI",
-      "artist": "Playboi Carti",
-      "album": "MUSIC",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-      "external_url": "https://open.spotify.com/track/2ydagYqcyFfRtQPzKc5E8l"
-    },
-    {
       "name": "ILMB (feat. Travis Scott)",
       "artist": "Sheck Wes",
       "album": "ILMB (feat. Travis Scott)",
       "image": "https://i.scdn.co/image/ab67616d0000b273f2382f023664c59a74a3b346",
       "external_url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
+    },
+    {
+      "name": "Lifeworld",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
+    },
+    {
+      "name": "Measuring Ruins",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
+    },
+    {
+      "name": "Last Wish",
+      "artist": "prettifun",
+      "album": "FunHouse Deluxe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273250613507ab9b4b08de3182c",
+      "external_url": "https://open.spotify.com/track/4KuIBBEZNdnS1TuRj3CB7L"
     }
   ],
   "topArtists": [
@@ -99,14 +99,6 @@
       ]
     },
     {
-      "name": "Current Joys",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4a0ff79c4f265a74b3037b22",
-      "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL",
-      "genres": [
-        "lo-fi indie"
-      ]
-    },
-    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -117,6 +109,14 @@
         "ambient",
         "experimental",
         "vaporwave"
+      ]
+    },
+    {
+      "name": "Current Joys",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4a0ff79c4f265a74b3037b22",
+      "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL",
+      "genres": [
+        "lo-fi indie"
       ]
     },
     {
@@ -151,13 +151,13 @@
       ]
     },
     {
-      "name": "Cochise",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb650f2a8ea60a0dacfbd1e9fe",
-      "external_url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx",
+      "name": "The Marías",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+      "external_url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
       "genres": [
-        "rage rap"
+        "bedroom pop"
       ]
     }
   ],
-  "lastUpdated": "2026-01-02T06:19:17.521Z"
+  "lastUpdated": "2026-01-03T06:17:48.492Z"
 }
