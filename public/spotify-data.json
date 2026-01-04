@@ -15,13 +15,6 @@
       "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
-      "name": "the acronym (with Destroy Lonely)",
-      "artist": "Ken Carson",
-      "album": "the acronym (with Destroy Lonely)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27309fd614d653a500fc2dd0e73",
-      "external_url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
-    },
-    {
       "name": "RATHER LIE (with The Weeknd)",
       "artist": "Playboi Carti",
       "album": "MUSIC",
@@ -29,25 +22,11 @@
       "external_url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
     },
     {
-      "name": "Song of the Highwire Shrimper",
-      "artist": "Tim Hecker",
-      "album": "Radio Amor",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c0a49edb7e2c60e7a5f361b9",
-      "external_url": "https://open.spotify.com/track/1sfSuQMUWuqdNnq1v2ph9m"
-    },
-    {
-      "name": "WHIPPIN",
-      "artist": "Che",
-      "album": "REST IN BASS: ENCORE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27394455de524661a5378e3238c",
-      "external_url": "https://open.spotify.com/track/0qxkl2w6rI4aLMzatQhUXv"
-    },
-    {
-      "name": "ILMB (feat. Travis Scott)",
-      "artist": "Sheck Wes",
-      "album": "ILMB (feat. Travis Scott)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f2382f023664c59a74a3b346",
-      "external_url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
+      "name": "the acronym (with Destroy Lonely)",
+      "artist": "Ken Carson",
+      "album": "the acronym (with Destroy Lonely)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27309fd614d653a500fc2dd0e73",
+      "external_url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
     },
     {
       "name": "Lifeworld",
@@ -62,6 +41,27 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
+    },
+    {
+      "name": "Bumpy",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/0xv9W6FVNsaUyqtjqZex0X"
+    },
+    {
+      "name": "Song of the Highwire Shrimper",
+      "artist": "Tim Hecker",
+      "album": "Radio Amor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c0a49edb7e2c60e7a5f361b9",
+      "external_url": "https://open.spotify.com/track/1sfSuQMUWuqdNnq1v2ph9m"
+    },
+    {
+      "name": "WHIPPIN",
+      "artist": "Che",
+      "album": "REST IN BASS: ENCORE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27394455de524661a5378e3238c",
+      "external_url": "https://open.spotify.com/track/0qxkl2w6rI4aLMzatQhUXv"
     },
     {
       "name": "Last Wish",
@@ -126,6 +126,14 @@
       "genres": []
     },
     {
+      "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "genres": [
+        "rage rap"
+      ]
+    },
+    {
       "name": "Lucy Bedroque",
       "image": "https://i.scdn.co/image/ab6761610000e5eb46d54cd46ec87c6838c9f0d5",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
@@ -135,11 +143,11 @@
       ]
     },
     {
-      "name": "Destroy Lonely",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "name": "The Marías",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+      "external_url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
       "genres": [
-        "rage rap"
+        "bedroom pop"
       ]
     },
     {
@@ -149,15 +157,7 @@
       "genres": [
         "rage rap"
       ]
-    },
-    {
-      "name": "The Marías",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-      "external_url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
-      "genres": [
-        "bedroom pop"
-      ]
     }
   ],
-  "lastUpdated": "2026-01-03T06:17:48.492Z"
+  "lastUpdated": "2026-01-04T06:17:46.306Z"
 }
