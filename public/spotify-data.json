@@ -22,18 +22,18 @@
       "external_url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
     },
     {
+      "name": "Punk Rocky",
+      "artist": "A$AP Rocky",
+      "album": "Punk Rocky",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376b996c684f6678357b4c7ec",
+      "external_url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+    },
+    {
       "name": "ILMB (feat. Travis Scott)",
       "artist": "Sheck Wes",
       "album": "ILMB (feat. Travis Scott)",
       "image": "https://i.scdn.co/image/ab67616d0000b273f2382f023664c59a74a3b346",
       "external_url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
-    },
-    {
-      "name": "Song of the Highwire Shrimper",
-      "artist": "Tim Hecker",
-      "album": "Radio Amor",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c0a49edb7e2c60e7a5f361b9",
-      "external_url": "https://open.spotify.com/track/1sfSuQMUWuqdNnq1v2ph9m"
     },
     {
       "name": "RATHER LIE (with The Weeknd)",
@@ -73,14 +73,6 @@
   ],
   "topArtists": [
     {
-      "name": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
       "name": "prettifun",
       "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
@@ -99,14 +91,6 @@
       ]
     },
     {
-      "name": "Current Joys",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4a0ff79c4f265a74b3037b22",
-      "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL",
-      "genres": [
-        "lo-fi indie"
-      ]
-    },
-    {
       "name": "Destroy Lonely",
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
@@ -119,6 +103,14 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb4f8f76117470957c0e81e5b2",
       "external_url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft",
       "genres": []
+    },
+    {
+      "name": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
+      "genres": [
+        "rage rap"
+      ]
     },
     {
       "name": "Oneohtrix Point Never",
@@ -156,7 +148,13 @@
       "genres": [
         "rap"
       ]
+    },
+    {
+      "name": "The Weeknd",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
+      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
+      "genres": []
     }
   ],
-  "lastUpdated": "2026-01-06T06:19:26.629Z"
+  "lastUpdated": "2026-01-07T06:19:24.826Z"
 }
