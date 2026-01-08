@@ -50,11 +50,11 @@
       "external_url": "https://open.spotify.com/track/0qxkl2w6rI4aLMzatQhUXv"
     },
     {
-      "name": "Last Wish",
-      "artist": "prettifun",
-      "album": "FunHouse Deluxe",
-      "image": "https://i.scdn.co/image/ab67616d0000b273250613507ab9b4b08de3182c",
-      "external_url": "https://open.spotify.com/track/4KuIBBEZNdnS1TuRj3CB7L"
+      "name": "DIE HARD",
+      "artist": "Che",
+      "album": "REST IN BASS: ENCORE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27394455de524661a5378e3238c",
+      "external_url": "https://open.spotify.com/track/2gNnEP3XwJZ62SsnsaDOU7"
     },
     {
       "name": "KING OF ROCK",
@@ -73,18 +73,18 @@
   ],
   "topArtists": [
     {
-      "name": "prettifun",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "name": "Che",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
       "genres": [
         "rage rap",
         "underground hip hop"
       ]
     },
     {
-      "name": "Che",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
       "genres": [
         "rage rap",
         "underground hip hop"
@@ -134,14 +134,6 @@
       ]
     },
     {
-      "name": "Ken Carson",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
       "name": "Travis Scott",
       "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
       "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
@@ -154,7 +146,15 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
       "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
       "genres": []
+    },
+    {
+      "name": "A$AP Rocky",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5c58c41a506a0d6b32cc6cad",
+      "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
+      "genres": [
+        "rap"
+      ]
     }
   ],
-  "lastUpdated": "2026-01-07T06:19:24.826Z"
+  "lastUpdated": "2026-01-08T06:19:10.798Z"
 }
