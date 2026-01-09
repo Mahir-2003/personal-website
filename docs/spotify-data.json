@@ -15,6 +15,13 @@
       "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
+      "name": "ILMB (feat. Travis Scott)",
+      "artist": "Sheck Wes",
+      "album": "ILMB (feat. Travis Scott)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2382f023664c59a74a3b346",
+      "external_url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
+    },
+    {
       "name": "the acronym (with Destroy Lonely)",
       "artist": "Ken Carson",
       "album": "the acronym (with Destroy Lonely)",
@@ -27,20 +34,6 @@
       "album": "Punk Rocky",
       "image": "https://i.scdn.co/image/ab67616d0000b27376b996c684f6678357b4c7ec",
       "external_url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
-    },
-    {
-      "name": "ILMB (feat. Travis Scott)",
-      "artist": "Sheck Wes",
-      "album": "ILMB (feat. Travis Scott)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f2382f023664c59a74a3b346",
-      "external_url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
-    },
-    {
-      "name": "RATHER LIE (with The Weeknd)",
-      "artist": "Playboi Carti",
-      "album": "MUSIC",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-      "external_url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
     },
     {
       "name": "WHIPPIN",
@@ -64,11 +57,18 @@
       "external_url": "https://open.spotify.com/track/6B2t1vEeh8YyEBTDIsLLB8"
     },
     {
-      "name": "No One Noticed",
-      "artist": "The Marías",
-      "album": "Submarine",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b19ac38a59cddd80da3cedcb",
-      "external_url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+      "name": "Song of the Highwire Shrimper",
+      "artist": "Tim Hecker",
+      "album": "Radio Amor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c0a49edb7e2c60e7a5f361b9",
+      "external_url": "https://open.spotify.com/track/1sfSuQMUWuqdNnq1v2ph9m"
+    },
+    {
+      "name": "Olson (Version 3) - Peel Session",
+      "artist": "Boards of Canada",
+      "album": "Peel Session",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731a9ca8a8d22612675017a044",
+      "external_url": "https://open.spotify.com/track/1UejHGKrz7g94qXiAsoNpV"
     }
   ],
   "topArtists": [
@@ -76,15 +76,6 @@
       "name": "Che",
       "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
       "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
-      "name": "prettifun",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
       "genres": [
         "rage rap",
         "underground hip hop"
@@ -154,7 +145,16 @@
       "genres": [
         "rap"
       ]
+    },
+    {
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
     }
   ],
-  "lastUpdated": "2026-01-08T06:19:10.798Z"
+  "lastUpdated": "2026-01-09T06:19:17.199Z"
 }
