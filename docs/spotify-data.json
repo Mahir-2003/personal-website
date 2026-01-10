@@ -22,13 +22,6 @@
       "external_url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
     },
     {
-      "name": "the acronym (with Destroy Lonely)",
-      "artist": "Ken Carson",
-      "album": "the acronym (with Destroy Lonely)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27309fd614d653a500fc2dd0e73",
-      "external_url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
-    },
-    {
       "name": "Punk Rocky",
       "artist": "A$AP Rocky",
       "album": "Punk Rocky",
@@ -57,11 +50,11 @@
       "external_url": "https://open.spotify.com/track/6B2t1vEeh8YyEBTDIsLLB8"
     },
     {
-      "name": "Song of the Highwire Shrimper",
-      "artist": "Tim Hecker",
-      "album": "Radio Amor",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c0a49edb7e2c60e7a5f361b9",
-      "external_url": "https://open.spotify.com/track/1sfSuQMUWuqdNnq1v2ph9m"
+      "name": "the acronym (with Destroy Lonely)",
+      "artist": "Ken Carson",
+      "album": "the acronym (with Destroy Lonely)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27309fd614d653a500fc2dd0e73",
+      "external_url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
     },
     {
       "name": "Olson (Version 3) - Peel Session",
@@ -69,6 +62,13 @@
       "album": "Peel Session",
       "image": "https://i.scdn.co/image/ab67616d0000b2731a9ca8a8d22612675017a044",
       "external_url": "https://open.spotify.com/track/1UejHGKrz7g94qXiAsoNpV"
+    },
+    {
+      "name": "Smile The Day After Today",
+      "artist": "Black Moth Super Rainbow",
+      "album": "Eating Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f64d1c0adea1b4a4d86b1844",
+      "external_url": "https://open.spotify.com/track/3d2IeXv14uLNn8LyBAuOEI"
     }
   ],
   "topArtists": [
@@ -96,14 +96,6 @@
       "genres": []
     },
     {
-      "name": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -117,11 +109,11 @@
       ]
     },
     {
-      "name": "The Marías",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-      "external_url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
+      "name": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
       "genres": [
-        "bedroom pop"
+        "rage rap"
       ]
     },
     {
@@ -130,6 +122,14 @@
       "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
       "genres": [
         "rap"
+      ]
+    },
+    {
+      "name": "The Marías",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+      "external_url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
+      "genres": [
+        "bedroom pop"
       ]
     },
     {
@@ -156,5 +156,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-09T06:19:17.199Z"
+  "lastUpdated": "2026-01-10T06:17:10.307Z"
 }
