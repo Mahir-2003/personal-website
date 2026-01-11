@@ -90,12 +90,6 @@
       ]
     },
     {
-      "name": "21 Savage",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4f8f76117470957c0e81e5b2",
-      "external_url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft",
-      "genres": []
-    },
-    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -106,14 +100,6 @@
         "ambient",
         "experimental",
         "vaporwave"
-      ]
-    },
-    {
-      "name": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-      "genres": [
-        "rage rap"
       ]
     },
     {
@@ -154,7 +140,29 @@
         "rage rap",
         "underground hip hop"
       ]
+    },
+    {
+      "name": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
+      "genres": [
+        "rage rap"
+      ]
+    },
+    {
+      "name": "Tim Hecker",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
+      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
+      "genres": [
+        "drone",
+        "ambient",
+        "electroacoustic",
+        "idm",
+        "dark ambient",
+        "experimental",
+        "minimalism"
+      ]
     }
   ],
-  "lastUpdated": "2026-01-10T06:17:10.307Z"
+  "lastUpdated": "2026-01-11T06:18:04.735Z"
 }
