@@ -50,18 +50,11 @@
       "external_url": "https://open.spotify.com/track/6B2t1vEeh8YyEBTDIsLLB8"
     },
     {
-      "name": "the acronym (with Destroy Lonely)",
-      "artist": "Ken Carson",
-      "album": "the acronym (with Destroy Lonely)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27309fd614d653a500fc2dd0e73",
-      "external_url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
-    },
-    {
-      "name": "Olson (Version 3) - Peel Session",
-      "artist": "Boards of Canada",
-      "album": "Peel Session",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731a9ca8a8d22612675017a044",
-      "external_url": "https://open.spotify.com/track/1UejHGKrz7g94qXiAsoNpV"
+      "name": "Inference (I)",
+      "artist": "Fog Lake",
+      "album": "Inference 3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273449d5908d3028f7f82b70129",
+      "external_url": "https://open.spotify.com/track/072r6J0NUBLjcXwOc01pYL"
     },
     {
       "name": "Smile The Day After Today",
@@ -69,6 +62,13 @@
       "album": "Eating Us",
       "image": "https://i.scdn.co/image/ab67616d0000b273f64d1c0adea1b4a4d86b1844",
       "external_url": "https://open.spotify.com/track/3d2IeXv14uLNn8LyBAuOEI"
+    },
+    {
+      "name": "Cherry Blue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
     }
   ],
   "topArtists": [
@@ -82,14 +82,6 @@
       ]
     },
     {
-      "name": "Destroy Lonely",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -100,6 +92,23 @@
         "ambient",
         "experimental",
         "vaporwave"
+      ]
+    },
+    {
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
+    {
+      "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "genres": [
+        "rage rap"
       ]
     },
     {
@@ -119,12 +128,6 @@
       ]
     },
     {
-      "name": "The Weeknd",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
-      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
-      "genres": []
-    },
-    {
       "name": "A$AP Rocky",
       "image": "https://i.scdn.co/image/ab6761610000e5eb5c58c41a506a0d6b32cc6cad",
       "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
@@ -133,13 +136,10 @@
       ]
     },
     {
-      "name": "prettifun",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
+      "name": "The Weeknd",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
+      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
+      "genres": []
     },
     {
       "name": "Playboi Carti",
@@ -150,19 +150,13 @@
       ]
     },
     {
-      "name": "Tim Hecker",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
-      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
+      "name": "slayr",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb89099397bce7114d52d6976a",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
       "genres": [
-        "drone",
-        "ambient",
-        "electroacoustic",
-        "idm",
-        "dark ambient",
-        "experimental",
-        "minimalism"
+        "rage rap"
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T06:22:13.103Z"
+  "lastUpdated": "2026-01-13T06:19:25.969Z"
 }
