@@ -8,13 +8,6 @@
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     },
     {
-      "name": "For Residue",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
-    },
-    {
       "name": "ILMB (feat. Travis Scott)",
       "artist": "Sheck Wes",
       "album": "ILMB (feat. Travis Scott)",
@@ -27,6 +20,13 @@
       "album": "Punk Rocky",
       "image": "https://i.scdn.co/image/ab67616d0000b27376b996c684f6678357b4c7ec",
       "external_url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+    },
+    {
+      "name": "For Residue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
       "name": "WHIPPIN",
@@ -64,11 +64,11 @@
       "external_url": "https://open.spotify.com/track/3d2IeXv14uLNn8LyBAuOEI"
     },
     {
-      "name": "Cherry Blue",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
+      "name": "the acronym (with Destroy Lonely)",
+      "artist": "Ken Carson",
+      "album": "the acronym (with Destroy Lonely)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27309fd614d653a500fc2dd0e73",
+      "external_url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
     }
   ],
   "topArtists": [
@@ -76,6 +76,15 @@
       "name": "Che",
       "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
       "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
+    {
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
       "genres": [
         "rage rap",
         "underground hip hop"
@@ -92,23 +101,6 @@
         "ambient",
         "experimental",
         "vaporwave"
-      ]
-    },
-    {
-      "name": "prettifun",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
-      "name": "Destroy Lonely",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
-      "genres": [
-        "rage rap"
       ]
     },
     {
@@ -142,11 +134,20 @@
       "genres": []
     },
     {
-      "name": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
+      "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
       "genres": [
         "rage rap"
+      ]
+    },
+    {
+      "name": "Lucy Bedroque",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb46d54cd46ec87c6838c9f0d5",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+      "genres": [
+        "hyperpop",
+        "cloud rap"
       ]
     },
     {
@@ -158,5 +159,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-14T06:23:57.652Z"
+  "lastUpdated": "2026-01-15T06:19:36.925Z"
 }
