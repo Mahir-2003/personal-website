@@ -8,11 +8,18 @@
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     },
     {
+      "name": "HELICOPTER",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+    },
+    {
       "name": "PUNK ROCKY",
       "artist": "A$AP Rocky",
-      "album": "PUNK ROCKY",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376b996c684f6678357b4c7ec",
-      "external_url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
     },
     {
       "name": "ILMB (feat. Travis Scott)",
@@ -22,18 +29,25 @@
       "external_url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
     },
     {
-      "name": "HELICOPTER",
+      "name": "ORDER OF PROTECTION",
       "artist": "A$AP Rocky",
-      "album": "HELICOPTER",
-      "image": "https://i.scdn.co/image/ab67616d0000b27382fc16c662f7dcdedf87c5c0",
-      "external_url": "https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn"
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
     },
     {
-      "name": "For Residue",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
+      "name": "DON'T BE DUMB / TRIP BABY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
+    },
+    {
+      "name": "STAY HERE 4 LIFE",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
     },
     {
       "name": "WHIPPIN",
@@ -55,23 +69,17 @@
       "album": "REST IN BASS: ENCORE",
       "image": "https://i.scdn.co/image/ab67616d0000b27394455de524661a5378e3238c",
       "external_url": "https://open.spotify.com/track/6B2t1vEeh8YyEBTDIsLLB8"
-    },
-    {
-      "name": "ORDER OF PROTECTION",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
-    },
-    {
-      "name": "Smile The Day After Today",
-      "artist": "Black Moth Super Rainbow",
-      "album": "Eating Us",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f64d1c0adea1b4a4d86b1844",
-      "external_url": "https://open.spotify.com/track/3d2IeXv14uLNn8LyBAuOEI"
     }
   ],
   "topArtists": [
+    {
+      "name": "A$AP Rocky",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5c58c41a506a0d6b32cc6cad",
+      "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
+      "genres": [
+        "rap"
+      ]
+    },
     {
       "name": "Che",
       "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
@@ -79,14 +87,6 @@
       "genres": [
         "rage rap",
         "underground hip hop"
-      ]
-    },
-    {
-      "name": "A$AP Rocky",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5c58c41a506a0d6b32cc6cad",
-      "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
-      "genres": [
-        "rap"
       ]
     },
     {
@@ -121,6 +121,12 @@
       ]
     },
     {
+      "name": "Madison Beer",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe49a051508f6c1eeaecff664",
+      "external_url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q",
+      "genres": []
+    },
+    {
       "name": "Travis Scott",
       "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
       "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
@@ -137,12 +143,6 @@
       ]
     },
     {
-      "name": "The Weeknd",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
-      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
-      "genres": []
-    },
-    {
       "name": "Destroy Lonely",
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
@@ -151,14 +151,11 @@
       ]
     },
     {
-      "name": "KULAPHANTASY",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb2e88bd439832b3ac3775db1f",
-      "external_url": "https://open.spotify.com/artist/0h0owg66fumDOks3UBAkGz",
-      "genres": [
-        "hyperpop",
-        "rally house"
-      ]
+      "name": "The Weeknd",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
+      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
+      "genres": []
     }
   ],
-  "lastUpdated": "2026-01-17T06:17:29.178Z"
+  "lastUpdated": "2026-01-18T06:18:09.520Z"
 }
