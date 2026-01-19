@@ -1,6 +1,13 @@
 {
   "topTracks": [
     {
+      "name": "PUNK ROCKY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
+    },
+    {
       "name": "CONTEST",
       "artist": "Travis Scott",
       "album": "JACKBOYS 2",
@@ -15,20 +22,6 @@
       "external_url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
     },
     {
-      "name": "PUNK ROCKY",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
-    },
-    {
-      "name": "ILMB (feat. Travis Scott)",
-      "artist": "Sheck Wes",
-      "album": "ILMB (feat. Travis Scott)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f2382f023664c59a74a3b346",
-      "external_url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
-    },
-    {
       "name": "ORDER OF PROTECTION",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -36,11 +29,11 @@
       "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
     },
     {
-      "name": "DON'T BE DUMB / TRIP BABY",
+      "name": "PLAYA",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
+      "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
       "name": "STAY HERE 4 LIFE",
@@ -50,25 +43,32 @@
       "external_url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
     },
     {
-      "name": "WHIPPIN",
-      "artist": "Che",
-      "album": "REST IN BASS: ENCORE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27394455de524661a5378e3238c",
-      "external_url": "https://open.spotify.com/track/0qxkl2w6rI4aLMzatQhUXv"
+      "name": "NO TRESPASSING",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL"
     },
     {
-      "name": "DIE HARD",
-      "artist": "Che",
-      "album": "REST IN BASS: ENCORE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27394455de524661a5378e3238c",
-      "external_url": "https://open.spotify.com/track/2gNnEP3XwJZ62SsnsaDOU7"
+      "name": "DON'T BE DUMB / TRIP BABY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
-      "name": "KING OF ROCK",
-      "artist": "Che",
-      "album": "REST IN BASS: ENCORE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27394455de524661a5378e3238c",
-      "external_url": "https://open.spotify.com/track/6B2t1vEeh8YyEBTDIsLLB8"
+      "name": "STOLE YA FLOW",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
+    },
+    {
+      "name": "AIR FORCE (BLACK DEMARCO)",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
     }
   ],
   "topArtists": [
@@ -127,14 +127,6 @@
       "genres": []
     },
     {
-      "name": "Travis Scott",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
-      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
-      "genres": [
-        "rap"
-      ]
-    },
-    {
       "name": "The Marías",
       "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
       "external_url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
@@ -151,11 +143,19 @@
       ]
     },
     {
+      "name": "Travis Scott",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
+      "genres": [
+        "rap"
+      ]
+    },
+    {
       "name": "The Weeknd",
       "image": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
       "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
       "genres": []
     }
   ],
-  "lastUpdated": "2026-01-18T06:18:09.520Z"
+  "lastUpdated": "2026-01-19T06:23:57.566Z"
 }
