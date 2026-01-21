@@ -1,18 +1,11 @@
 {
   "topTracks": [
     {
-      "name": "PUNK ROCKY",
+      "name": "ORDER OF PROTECTION",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
-    },
-    {
-      "name": "CONTEST",
-      "artist": "Travis Scott",
-      "album": "JACKBOYS 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
-      "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
+      "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
     },
     {
       "name": "HELICOPTER",
@@ -22,11 +15,11 @@
       "external_url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
     },
     {
-      "name": "ORDER OF PROTECTION",
+      "name": "PUNK ROCKY",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
+      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
     },
     {
       "name": "PLAYA",
@@ -36,11 +29,18 @@
       "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
-      "name": "STAY HERE 4 LIFE",
+      "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
+    },
+    {
+      "name": "STOLE YA FLOW",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
     },
     {
       "name": "NO TRESPASSING",
@@ -57,11 +57,11 @@
       "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
-      "name": "STOLE YA FLOW",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
+      "name": "CONTEST",
+      "artist": "Travis Scott",
+      "album": "JACKBOYS 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
+      "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     },
     {
       "name": "AIR FORCE (BLACK DEMARCO)",
@@ -74,7 +74,7 @@
   "topArtists": [
     {
       "name": "A$AP Rocky",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5c58c41a506a0d6b32cc6cad",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
       "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
       "genres": [
         "rap"
@@ -135,19 +135,19 @@
       ]
     },
     {
-      "name": "Destroy Lonely",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
       "name": "Travis Scott",
       "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
       "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
       "genres": [
         "rap"
+      ]
+    },
+    {
+      "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "genres": [
+        "rage rap"
       ]
     },
     {
@@ -157,5 +157,5 @@
       "genres": []
     }
   ],
-  "lastUpdated": "2026-01-20T06:21:12.536Z"
+  "lastUpdated": "2026-01-21T06:21:38.539Z"
 }
