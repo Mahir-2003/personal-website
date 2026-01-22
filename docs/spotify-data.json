@@ -29,18 +29,11 @@
       "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
-      "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+      "name": "AIR FORCE (BLACK DEMARCO)",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
-    },
-    {
-      "name": "STOLE YA FLOW",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
+      "external_url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
     },
     {
       "name": "NO TRESPASSING",
@@ -50,6 +43,13 @@
       "external_url": "https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL"
     },
     {
+      "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
+    },
+    {
       "name": "DON'T BE DUMB / TRIP BABY",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -57,18 +57,18 @@
       "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
-      "name": "CONTEST",
-      "artist": "Travis Scott",
-      "album": "JACKBOYS 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
-      "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
-    },
-    {
-      "name": "AIR FORCE (BLACK DEMARCO)",
+      "name": "STOLE YA FLOW",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
+      "external_url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
+    },
+    {
+      "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
     }
   ],
   "topArtists": [
@@ -157,5 +157,5 @@
       "genres": []
     }
   ],
-  "lastUpdated": "2026-01-21T06:21:38.539Z"
+  "lastUpdated": "2026-01-22T06:20:01.821Z"
 }
