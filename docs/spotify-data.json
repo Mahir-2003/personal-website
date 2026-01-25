@@ -90,18 +90,18 @@
       ]
     },
     {
-      "name": "Che",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
       "genres": [
         "rage rap",
         "underground hip hop"
       ]
     },
     {
-      "name": "prettifun",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "name": "Che",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
       "genres": [
         "rage rap",
         "underground hip hop"
@@ -127,14 +127,6 @@
       "genres": []
     },
     {
-      "name": "The Marías",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-      "external_url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
-      "genres": [
-        "bedroom pop"
-      ]
-    },
-    {
       "name": "Travis Scott",
       "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
       "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
@@ -155,7 +147,15 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
       "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
       "genres": []
+    },
+    {
+      "name": "The Marías",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+      "external_url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
+      "genres": [
+        "bedroom pop"
+      ]
     }
   ],
-  "lastUpdated": "2026-01-24T06:17:47.016Z"
+  "lastUpdated": "2026-01-25T06:18:24.484Z"
 }
