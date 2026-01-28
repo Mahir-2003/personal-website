@@ -8,6 +8,13 @@
       "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
     },
     {
+      "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
+    },
+    {
       "name": "HELICOPTER",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -22,18 +29,18 @@
       "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
+      "name": "Party4u!",
+      "artist": "Autumn!",
+      "album": "Party4u!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
+      "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
+    },
+    {
       "name": "PUNK ROCKY",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
-    },
-    {
-      "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
     },
     {
       "name": "DON'T BE DUMB / TRIP BABY",
@@ -62,13 +69,6 @@
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
-    },
-    {
-      "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
     }
   ],
   "topArtists": [
@@ -93,6 +93,15 @@
       "name": "prettifun",
       "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
+    {
+      "name": "slayr",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
       "genres": [
         "rage rap",
         "underground hip hop"
@@ -127,15 +136,6 @@
       "genres": []
     },
     {
-      "name": "slayr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
       "name": "Travis Scott",
       "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
       "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
@@ -158,5 +158,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-26T06:23:23.962Z"
+  "lastUpdated": "2026-01-28T06:22:04.676Z"
 }
