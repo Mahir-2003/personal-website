@@ -15,13 +15,6 @@
       "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
     },
     {
-      "name": "HELICOPTER",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
-    },
-    {
       "name": "PLAYA",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -29,25 +22,18 @@
       "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
+      "name": "HELICOPTER",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+    },
+    {
       "name": "Party4u!",
       "artist": "Autumn!",
       "album": "Party4u!",
       "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
       "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
-    },
-    {
-      "name": "PUNK ROCKY",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
-    },
-    {
-      "name": "DON'T BE DUMB / TRIP BABY",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
       "name": "AIR FORCE (BLACK DEMARCO)",
@@ -62,6 +48,20 @@
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL"
+    },
+    {
+      "name": "PUNK ROCKY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
+    },
+    {
+      "name": "DON'T BE DUMB / TRIP BABY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
       "name": "STOLE YA FLOW",
@@ -144,19 +144,22 @@
       ]
     },
     {
-      "name": "The Weeknd",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
-      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ",
-      "genres": []
+      "name": "Playboi Carti",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
+      "genres": [
+        "rage rap"
+      ]
     },
     {
-      "name": "The Marías",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-      "external_url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
+      "name": "Lil Uzi Vert",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
       "genres": [
-        "bedroom pop"
+        "melodic rap",
+        "rage rap"
       ]
     }
   ],
-  "lastUpdated": "2026-01-28T06:22:04.676Z"
+  "lastUpdated": "2026-01-29T06:33:52.703Z"
 }
