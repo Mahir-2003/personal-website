@@ -108,15 +108,6 @@
       ]
     },
     {
-      "name": "Che",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -130,10 +121,27 @@
       ]
     },
     {
+      "name": "Che",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
+    {
       "name": "Madison Beer",
       "image": "https://i.scdn.co/image/ab6761610000e5ebe49a051508f6c1eeaecff664",
       "external_url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q",
       "genres": []
+    },
+    {
+      "name": "fakemink",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7b78261a96e0cf274cf3e628",
+      "external_url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi",
+      "genres": [
+        "cloud rap"
+      ]
     },
     {
       "name": "Travis Scott",
@@ -144,22 +152,19 @@
       ]
     },
     {
-      "name": "Playboi Carti",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
+      "name": "Tim Hecker",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
+      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
       "genres": [
-        "rage rap"
-      ]
-    },
-    {
-      "name": "Lil Uzi Vert",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
-      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
-      "genres": [
-        "melodic rap",
-        "rage rap"
+        "drone",
+        "ambient",
+        "electroacoustic",
+        "idm",
+        "dark ambient",
+        "experimental",
+        "minimalism"
       ]
     }
   ],
-  "lastUpdated": "2026-01-29T06:33:52.703Z"
+  "lastUpdated": "2026-01-30T06:34:44.409Z"
 }
