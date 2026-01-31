@@ -103,8 +103,7 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
       "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
       "genres": [
-        "rage rap",
-        "underground hip hop"
+        "rage rap"
       ]
     },
     {
@@ -144,11 +143,11 @@
       ]
     },
     {
-      "name": "Travis Scott",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
-      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
+      "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
       "genres": [
-        "rap"
+        "rage rap"
       ]
     },
     {
@@ -166,5 +165,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-30T06:34:44.409Z"
+  "lastUpdated": "2026-01-31T06:24:50.588Z"
 }
