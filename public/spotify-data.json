@@ -99,30 +99,15 @@
       ]
     },
     {
+      "name": "Don Toliver",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
+      "genres": []
+    },
+    {
       "name": "slayr",
       "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
       "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
-      "name": "Oneohtrix Point Never",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
-      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
-      "genres": [
-        "plunderphonics",
-        "idm",
-        "drone",
-        "ambient",
-        "experimental",
-        "vaporwave"
-      ]
-    },
-    {
-      "name": "Che",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
       "genres": [
         "rage rap",
         "underground hip hop"
@@ -143,11 +128,16 @@
       ]
     },
     {
-      "name": "Destroy Lonely",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "name": "Oneohtrix Point Never",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
+      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
       "genres": [
-        "rage rap"
+        "plunderphonics",
+        "idm",
+        "drone",
+        "ambient",
+        "experimental",
+        "vaporwave"
       ]
     },
     {
@@ -163,7 +153,15 @@
         "experimental",
         "minimalism"
       ]
+    },
+    {
+      "name": "Lil Uzi Vert",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
+      "genres": [
+        "melodic rap"
+      ]
     }
   ],
-  "lastUpdated": "2026-01-31T06:24:50.588Z"
+  "lastUpdated": "2026-02-01T06:36:50.396Z"
 }
