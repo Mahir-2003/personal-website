@@ -22,13 +22,6 @@
       "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
-      "name": "HELICOPTER",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
-    },
-    {
       "name": "Party4u!",
       "artist": "Autumn!",
       "album": "Party4u!",
@@ -43,6 +36,13 @@
       "external_url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
     },
     {
+      "name": "HELICOPTER",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+    },
+    {
       "name": "NO TRESPASSING",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -50,11 +50,11 @@
       "external_url": "https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL"
     },
     {
-      "name": "PUNK ROCKY",
+      "name": "STOLE YA FLOW",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
+      "external_url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
     },
     {
       "name": "DON'T BE DUMB / TRIP BABY",
@@ -64,11 +64,11 @@
       "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
-      "name": "STOLE YA FLOW",
+      "name": "PUNK ROCKY",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
+      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
     }
   ],
   "topArtists": [
@@ -82,12 +82,18 @@
     },
     {
       "name": "Lucy Bedroque",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb46d54cd46ec87c6838c9f0d5",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebea9b0f9de29a6a85633f60fb",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
       "genres": [
         "hyperpop",
         "cloud rap"
       ]
+    },
+    {
+      "name": "Don Toliver",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
+      "genres": []
     },
     {
       "name": "prettifun",
@@ -97,12 +103,6 @@
         "rage rap",
         "underground hip hop"
       ]
-    },
-    {
-      "name": "Don Toliver",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
-      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
-      "genres": []
     },
     {
       "name": "slayr",
@@ -155,13 +155,17 @@
       ]
     },
     {
-      "name": "Lil Uzi Vert",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
-      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
+      "name": "Boards of Canada",
+      "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
+      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
       "genres": [
-        "melodic rap"
+        "idm",
+        "ambient",
+        "trip hop",
+        "downtempo",
+        "electronic"
       ]
     }
   ],
-  "lastUpdated": "2026-02-01T06:36:50.396Z"
+  "lastUpdated": "2026-02-03T06:37:10.655Z"
 }
