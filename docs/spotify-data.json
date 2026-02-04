@@ -64,11 +64,11 @@
       "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
-      "name": "PUNK ROCKY",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T"
+      "name": "E85",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27322d78c55313a187559efd93b",
+      "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     }
   ],
   "topArtists": [
@@ -81,6 +81,12 @@
       ]
     },
     {
+      "name": "Don Toliver",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
+      "genres": []
+    },
+    {
       "name": "Lucy Bedroque",
       "image": "https://i.scdn.co/image/ab6761610000e5ebea9b0f9de29a6a85633f60fb",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
@@ -88,12 +94,6 @@
         "hyperpop",
         "cloud rap"
       ]
-    },
-    {
-      "name": "Don Toliver",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
-      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
-      "genres": []
     },
     {
       "name": "prettifun",
@@ -120,14 +120,6 @@
       "genres": []
     },
     {
-      "name": "fakemink",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb7b78261a96e0cf274cf3e628",
-      "external_url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi",
-      "genres": [
-        "cloud rap"
-      ]
-    },
-    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -138,6 +130,14 @@
         "ambient",
         "experimental",
         "vaporwave"
+      ]
+    },
+    {
+      "name": "fakemink",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7b78261a96e0cf274cf3e628",
+      "external_url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi",
+      "genres": [
+        "cloud rap"
       ]
     },
     {
@@ -167,5 +167,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-03T06:37:10.655Z"
+  "lastUpdated": "2026-02-04T06:37:20.545Z"
 }
