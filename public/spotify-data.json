@@ -29,6 +29,13 @@
       "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
     },
     {
+      "name": "ATM",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27322d78c55313a187559efd93b",
+      "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
+    },
+    {
       "name": "AIR FORCE (BLACK DEMARCO)",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -43,6 +50,13 @@
       "external_url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
     },
     {
+      "name": "E85",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27322d78c55313a187559efd93b",
+      "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
+    },
+    {
       "name": "NO TRESPASSING",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -55,20 +69,6 @@
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
-    },
-    {
-      "name": "DON'T BE DUMB / TRIP BABY",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
-    },
-    {
-      "name": "E85",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27322d78c55313a187559efd93b",
-      "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     }
   ],
   "topArtists": [
@@ -96,15 +96,6 @@
       ]
     },
     {
-      "name": "prettifun",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
       "name": "slayr",
       "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
       "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
@@ -112,12 +103,6 @@
         "rage rap",
         "underground hip hop"
       ]
-    },
-    {
-      "name": "Madison Beer",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebe49a051508f6c1eeaecff664",
-      "external_url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q",
-      "genres": []
     },
     {
       "name": "Tim Hecker",
@@ -134,6 +119,21 @@
       ]
     },
     {
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
+    {
+      "name": "Madison Beer",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe49a051508f6c1eeaecff664",
+      "external_url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q",
+      "genres": []
+    },
+    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -148,7 +148,7 @@
     },
     {
       "name": "fakemink",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb7b78261a96e0cf274cf3e628",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb48f0308e3a796ac7dd4b2284",
       "external_url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi",
       "genres": [
         "cloud rap"
@@ -167,5 +167,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-06T06:39:41.158Z"
+  "lastUpdated": "2026-02-07T06:29:07.382Z"
 }
