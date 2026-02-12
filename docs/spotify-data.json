@@ -8,11 +8,25 @@
       "external_url": "https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av"
     },
     {
+      "name": "ATM",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
+    },
+    {
       "name": "ORDER OF PROTECTION",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
+    },
+    {
+      "name": "E85",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
       "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
@@ -27,20 +41,6 @@
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
-    },
-    {
-      "name": "ATM",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
-    },
-    {
-      "name": "E85",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
       "name": "Party4u!",
@@ -87,21 +87,21 @@
       "genres": []
     },
     {
-      "name": "Lucy Bedroque",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebea9b0f9de29a6a85633f60fb",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
-      "genres": [
-        "hyperpop",
-        "cloud rap"
-      ]
-    },
-    {
       "name": "slayr",
       "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
       "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
       "genres": [
         "rage rap",
         "underground hip hop"
+      ]
+    },
+    {
+      "name": "Lucy Bedroque",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebea9b0f9de29a6a85633f60fb",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+      "genres": [
+        "hyperpop",
+        "cloud rap"
       ]
     },
     {
@@ -141,6 +141,18 @@
       ]
     },
     {
+      "name": "Boards of Canada",
+      "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
+      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
+      "genres": [
+        "idm",
+        "ambient",
+        "trip hop",
+        "downtempo",
+        "electronic"
+      ]
+    },
+    {
       "name": "prettifun",
       "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
@@ -148,15 +160,7 @@
         "rage rap",
         "underground hip hop"
       ]
-    },
-    {
-      "name": "Lil Uzi Vert",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
-      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
-      "genres": [
-        "melodic rap"
-      ]
     }
   ],
-  "lastUpdated": "2026-02-11T06:50:35.673Z"
+  "lastUpdated": "2026-02-12T06:49:25.886Z"
 }
