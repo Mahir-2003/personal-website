@@ -15,18 +15,18 @@
       "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
     },
     {
-      "name": "ORDER OF PROTECTION",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
-    },
-    {
       "name": "E85",
       "artist": "Don Toliver",
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
       "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
+    },
+    {
+      "name": "ORDER OF PROTECTION",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
     },
     {
       "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
@@ -96,15 +96,6 @@
       ]
     },
     {
-      "name": "Lucy Bedroque",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebea9b0f9de29a6a85633f60fb",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
-      "genres": [
-        "hyperpop",
-        "cloud rap"
-      ]
-    },
-    {
       "name": "Nine Vicious",
       "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
@@ -133,6 +124,15 @@
       "genres": []
     },
     {
+      "name": "Lucy Bedroque",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebea9b0f9de29a6a85633f60fb",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+      "genres": [
+        "hyperpop",
+        "cloud rap"
+      ]
+    },
+    {
       "name": "fakemink",
       "image": "https://i.scdn.co/image/ab6761610000e5eb48f0308e3a796ac7dd4b2284",
       "external_url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi",
@@ -153,14 +153,13 @@
       ]
     },
     {
-      "name": "prettifun",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "name": "Lil Uzi Vert",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
       "genres": [
-        "rage rap",
-        "underground hip hop"
+        "melodic rap"
       ]
     }
   ],
-  "lastUpdated": "2026-02-12T06:49:25.886Z"
+  "lastUpdated": "2026-02-13T06:45:42.935Z"
 }
