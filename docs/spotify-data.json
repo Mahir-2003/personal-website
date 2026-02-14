@@ -22,18 +22,18 @@
       "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
-      "name": "ORDER OF PROTECTION",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
-    },
-    {
       "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
+    },
+    {
+      "name": "ORDER OF PROTECTION",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
     },
     {
       "name": "PLAYA",
@@ -64,11 +64,11 @@
       "external_url": "https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL"
     },
     {
-      "name": "STOLE YA FLOW",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
+      "name": "Rosary (feat. Travis Scott)",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
     }
   ],
   "topArtists": [
@@ -104,6 +104,14 @@
       ]
     },
     {
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+      "genres": [
+        "rap"
+      ]
+    },
+    {
       "name": "Tim Hecker",
       "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
       "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
@@ -115,6 +123,18 @@
         "dark ambient",
         "experimental",
         "minimalism"
+      ]
+    },
+    {
+      "name": "Boards of Canada",
+      "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
+      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
+      "genres": [
+        "idm",
+        "ambient",
+        "trip hop",
+        "downtempo",
+        "electronic"
       ]
     },
     {
@@ -139,27 +159,7 @@
       "genres": [
         "cloud rap"
       ]
-    },
-    {
-      "name": "Boards of Canada",
-      "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
-      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
-      "genres": [
-        "idm",
-        "ambient",
-        "trip hop",
-        "downtempo",
-        "electronic"
-      ]
-    },
-    {
-      "name": "Lil Uzi Vert",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
-      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
-      "genres": [
-        "melodic rap"
-      ]
     }
   ],
-  "lastUpdated": "2026-02-13T06:45:42.935Z"
+  "lastUpdated": "2026-02-14T06:31:51.670Z"
 }
