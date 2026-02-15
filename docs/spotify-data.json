@@ -50,6 +50,13 @@
       "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
     },
     {
+      "name": "DON'T BE DUMB / TRIP BABY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
+    },
+    {
       "name": "AIR FORCE (BLACK DEMARCO)",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -62,13 +69,6 @@
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL"
-    },
-    {
-      "name": "Rosary (feat. Travis Scott)",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
     }
   ],
   "topArtists": [
@@ -161,5 +161,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-14T06:31:51.670Z"
+  "lastUpdated": "2026-02-15T06:37:59.824Z"
 }
