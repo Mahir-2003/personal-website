@@ -22,18 +22,18 @@
       "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
+      "name": "Party4u!",
+      "artist": "Autumn!",
+      "album": "Party4u!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
+      "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
+    },
+    {
       "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
-    },
-    {
-      "name": "ORDER OF PROTECTION",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
     },
     {
       "name": "PLAYA",
@@ -43,11 +43,18 @@
       "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
-      "name": "Party4u!",
-      "artist": "Autumn!",
-      "album": "Party4u!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
-      "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
+      "name": "ORDER OF PROTECTION",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
+    },
+    {
+      "name": "Rosary (feat. Travis Scott)",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
     },
     {
       "name": "DON'T BE DUMB / TRIP BABY",
@@ -62,13 +69,6 @@
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
-    },
-    {
-      "name": "NO TRESPASSING",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL"
     }
   ],
   "topArtists": [
@@ -87,15 +87,6 @@
       "genres": []
     },
     {
-      "name": "slayr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
       "name": "Nine Vicious",
       "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
@@ -104,11 +95,12 @@
       ]
     },
     {
-      "name": "Drake",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+      "name": "slayr",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
       "genres": [
-        "rap"
+        "rage rap",
+        "underground hip hop"
       ]
     },
     {
@@ -126,6 +118,14 @@
       ]
     },
     {
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+      "genres": [
+        "rap"
+      ]
+    },
+    {
       "name": "Boards of Canada",
       "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
@@ -136,12 +136,6 @@
         "downtempo",
         "electronic"
       ]
-    },
-    {
-      "name": "Madison Beer",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebe49a051508f6c1eeaecff664",
-      "external_url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q",
-      "genres": []
     },
     {
       "name": "Lucy Bedroque",
@@ -159,7 +153,15 @@
       "genres": [
         "cloud rap"
       ]
+    },
+    {
+      "name": "Travis Scott",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
+      "genres": [
+        "rap"
+      ]
     }
   ],
-  "lastUpdated": "2026-02-15T06:37:59.824Z"
+  "lastUpdated": "2026-02-16T06:52:05.568Z"
 }
