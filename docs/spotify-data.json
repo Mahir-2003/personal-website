@@ -64,14 +64,20 @@
       "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
-      "name": "AIR FORCE (BLACK DEMARCO)",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
+      "name": "PIERCING ON MY HAND",
+      "artist": "North West",
+      "album": "PIERCING ON MY HAND",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
+      "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
     }
   ],
   "topArtists": [
+    {
+      "name": "Don Toliver",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
+      "genres": []
+    },
     {
       "name": "A$AP Rocky",
       "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
@@ -79,12 +85,6 @@
       "genres": [
         "rap"
       ]
-    },
-    {
-      "name": "Don Toliver",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
-      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
-      "genres": []
     },
     {
       "name": "Nine Vicious",
@@ -126,6 +126,19 @@
       ]
     },
     {
+      "name": "Oneohtrix Point Never",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
+      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
+      "genres": [
+        "plunderphonics",
+        "idm",
+        "drone",
+        "ambient",
+        "experimental",
+        "vaporwave"
+      ]
+    },
+    {
       "name": "Boards of Canada",
       "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
@@ -153,15 +166,7 @@
       "genres": [
         "cloud rap"
       ]
-    },
-    {
-      "name": "Travis Scott",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
-      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
-      "genres": [
-        "rap"
-      ]
     }
   ],
-  "lastUpdated": "2026-02-16T06:52:05.568Z"
+  "lastUpdated": "2026-02-17T06:44:26.370Z"
 }
