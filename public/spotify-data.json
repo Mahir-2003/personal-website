@@ -36,25 +36,18 @@
       "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
     },
     {
-      "name": "PLAYA",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
-    },
-    {
-      "name": "ORDER OF PROTECTION",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
-    },
-    {
       "name": "Rosary (feat. Travis Scott)",
       "artist": "Don Toliver",
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
       "external_url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
+    },
+    {
+      "name": "PLAYA",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
       "name": "DON'T BE DUMB / TRIP BABY",
@@ -69,6 +62,13 @@
       "album": "PIERCING ON MY HAND",
       "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
       "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
+    },
+    {
+      "name": "AIR FORCE (BLACK DEMARCO)",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
     }
   ],
   "topArtists": [
@@ -168,5 +168,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-17T06:44:26.370Z"
+  "lastUpdated": "2026-02-18T06:49:20.022Z"
 }
