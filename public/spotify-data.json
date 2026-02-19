@@ -29,13 +29,6 @@
       "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
     },
     {
-      "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
-    },
-    {
       "name": "Rosary (feat. Travis Scott)",
       "artist": "Don Toliver",
       "album": "OCTANE",
@@ -43,18 +36,11 @@
       "external_url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
     },
     {
-      "name": "PLAYA",
+      "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
-    },
-    {
-      "name": "DON'T BE DUMB / TRIP BABY",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
+      "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
     },
     {
       "name": "PIERCING ON MY HAND",
@@ -64,11 +50,25 @@
       "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
     },
     {
-      "name": "AIR FORCE (BLACK DEMARCO)",
+      "name": "PLAYA",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
+      "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
+    },
+    {
+      "name": "Free Smoke",
+      "artist": "Nine Vicious",
+      "album": "B4EM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
+      "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
+    },
+    {
+      "name": "Holding",
+      "artist": "slayr",
+      "album": "Half Blood",
+      "image": "https://i.scdn.co/image/ab67616d0000b27355a9a5494579add8dd303e2e",
+      "external_url": "https://open.spotify.com/track/2NumN4ZhSOff680vGhRu03"
     }
   ],
   "topArtists": [
@@ -151,6 +151,15 @@
       ]
     },
     {
+      "name": "Hans Zimmer",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
+      "external_url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
+      "genres": [
+        "soundtrack",
+        "score"
+      ]
+    },
+    {
       "name": "Lucy Bedroque",
       "image": "https://i.scdn.co/image/ab6761610000e5ebea9b0f9de29a6a85633f60fb",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
@@ -158,15 +167,7 @@
         "hyperpop",
         "cloud rap"
       ]
-    },
-    {
-      "name": "fakemink",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb48f0308e3a796ac7dd4b2284",
-      "external_url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi",
-      "genres": [
-        "cloud rap"
-      ]
     }
   ],
-  "lastUpdated": "2026-02-18T06:49:20.022Z"
+  "lastUpdated": "2026-02-19T06:46:47.986Z"
 }
