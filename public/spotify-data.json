@@ -36,25 +36,11 @@
       "external_url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
     },
     {
-      "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
-    },
-    {
       "name": "PIERCING ON MY HAND",
       "artist": "North West",
       "album": "PIERCING ON MY HAND",
       "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
       "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
-    },
-    {
-      "name": "PLAYA",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
       "name": "Free Smoke",
@@ -69,6 +55,20 @@
       "album": "Half Blood",
       "image": "https://i.scdn.co/image/ab67616d0000b27355a9a5494579add8dd303e2e",
       "external_url": "https://open.spotify.com/track/2NumN4ZhSOff680vGhRu03"
+    },
+    {
+      "name": "Sloppy Joe",
+      "artist": "slayr",
+      "album": "Half Blood",
+      "image": "https://i.scdn.co/image/ab67616d0000b27355a9a5494579add8dd303e2e",
+      "external_url": "https://open.spotify.com/track/3JZO1MJaqB34F8fvkMjzPo"
+    },
+    {
+      "name": "PLAYA",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     }
   ],
   "topArtists": [
@@ -160,14 +160,13 @@
       ]
     },
     {
-      "name": "Lucy Bedroque",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebea9b0f9de29a6a85633f60fb",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+      "name": "fakemink",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb48f0308e3a796ac7dd4b2284",
+      "external_url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi",
       "genres": [
-        "hyperpop",
         "cloud rap"
       ]
     }
   ],
-  "lastUpdated": "2026-02-20T06:41:18.885Z"
+  "lastUpdated": "2026-02-21T06:29:23.707Z"
 }
