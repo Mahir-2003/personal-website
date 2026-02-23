@@ -22,11 +22,11 @@
       "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
-      "name": "Party4u!",
-      "artist": "Autumn!",
-      "album": "Party4u!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
-      "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
+      "name": "PIERCING ON MY HAND",
+      "artist": "North West",
+      "album": "PIERCING ON MY HAND",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
+      "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
     },
     {
       "name": "Rosary (feat. Travis Scott)",
@@ -36,13 +36,6 @@
       "external_url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
     },
     {
-      "name": "PIERCING ON MY HAND",
-      "artist": "North West",
-      "album": "PIERCING ON MY HAND",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
-      "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
-    },
-    {
       "name": "Free Smoke",
       "artist": "Nine Vicious",
       "album": "B4EM",
@@ -50,18 +43,11 @@
       "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
     },
     {
-      "name": "Holding",
-      "artist": "slayr",
-      "album": "Half Blood",
-      "image": "https://i.scdn.co/image/ab67616d0000b27355a9a5494579add8dd303e2e",
-      "external_url": "https://open.spotify.com/track/2NumN4ZhSOff680vGhRu03"
-    },
-    {
-      "name": "Sloppy Joe",
-      "artist": "slayr",
-      "album": "Half Blood",
-      "image": "https://i.scdn.co/image/ab67616d0000b27355a9a5494579add8dd303e2e",
-      "external_url": "https://open.spotify.com/track/3JZO1MJaqB34F8fvkMjzPo"
+      "name": "Party4u!",
+      "artist": "Autumn!",
+      "album": "Party4u!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
+      "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
     },
     {
       "name": "PLAYA",
@@ -69,6 +55,20 @@
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
+    },
+    {
+      "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
+    },
+    {
+      "name": "Long Way To Calabasas",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/0FMAKUsgIBszj75WEENYDO"
     }
   ],
   "topArtists": [
@@ -104,6 +104,14 @@
       ]
     },
     {
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+      "genres": [
+        "rap"
+      ]
+    },
+    {
       "name": "Tim Hecker",
       "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
       "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
@@ -118,14 +126,6 @@
       ]
     },
     {
-      "name": "Drake",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
-      "genres": [
-        "rap"
-      ]
-    },
-    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -137,6 +137,12 @@
         "experimental",
         "vaporwave"
       ]
+    },
+    {
+      "name": "Baby Keem",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe45a6e4cee2ef5f4c0fec713",
+      "external_url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
+      "genres": []
     },
     {
       "name": "Boards of Canada",
@@ -158,13 +164,7 @@
         "soundtrack",
         "score"
       ]
-    },
-    {
-      "name": "Baby Keem",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebe45a6e4cee2ef5f4c0fec713",
-      "external_url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
-      "genres": []
     }
   ],
-  "lastUpdated": "2026-02-22T06:34:36.714Z"
+  "lastUpdated": "2026-02-23T06:52:53.692Z"
 }
