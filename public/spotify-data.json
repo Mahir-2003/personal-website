@@ -43,13 +43,6 @@
       "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
     },
     {
-      "name": "Party4u!",
-      "artist": "Autumn!",
-      "album": "Party4u!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
-      "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
-    },
-    {
       "name": "PLAYA",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -57,18 +50,25 @@
       "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
     },
     {
-      "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
-    },
-    {
       "name": "Long Way To Calabasas",
       "artist": "Don Toliver",
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
       "external_url": "https://open.spotify.com/track/0FMAKUsgIBszj75WEENYDO"
+    },
+    {
+      "name": "Tuition",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
+    },
+    {
+      "name": "Piercing on my hand",
+      "artist": "INV",
+      "album": "NOSU CHAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ac12cdc19d5cfdda6068ad7",
+      "external_url": "https://open.spotify.com/track/6PFMCc28nR6pqgdF9KMnNu"
     }
   ],
   "topArtists": [
@@ -95,23 +95,6 @@
       ]
     },
     {
-      "name": "slayr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
-      "name": "Drake",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
-      "genres": [
-        "rap"
-      ]
-    },
-    {
       "name": "Tim Hecker",
       "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
       "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
@@ -123,6 +106,23 @@
         "dark ambient",
         "experimental",
         "minimalism"
+      ]
+    },
+    {
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+      "genres": [
+        "rap"
+      ]
+    },
+    {
+      "name": "slayr",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
       ]
     },
     {
@@ -166,5 +166,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-23T06:52:53.692Z"
+  "lastUpdated": "2026-02-24T06:46:37.232Z"
 }
