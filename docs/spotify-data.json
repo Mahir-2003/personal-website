@@ -15,18 +15,18 @@
       "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
     },
     {
-      "name": "E85",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
-    },
-    {
       "name": "PIERCING ON MY HAND",
       "artist": "North West",
       "album": "PIERCING ON MY HAND",
       "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
       "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
+    },
+    {
+      "name": "E85",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
       "name": "Free Smoke",
@@ -36,11 +36,11 @@
       "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
     },
     {
-      "name": "Rosary (feat. Travis Scott)",
+      "name": "Tuition",
       "artist": "Don Toliver",
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
+      "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
     },
     {
       "name": "Racks Blue",
@@ -57,18 +57,18 @@
       "external_url": "https://open.spotify.com/track/6PFMCc28nR6pqgdF9KMnNu"
     },
     {
-      "name": "Long Way To Calabasas",
+      "name": "Rosary (feat. Travis Scott)",
       "artist": "Don Toliver",
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/0FMAKUsgIBszj75WEENYDO"
+      "external_url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
     },
     {
-      "name": "Tuition",
+      "name": "Excavator",
       "artist": "Don Toliver",
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
+      "external_url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
     }
   ],
   "topArtists": [
@@ -166,5 +166,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-01T06:33:12.410Z"
+  "lastUpdated": "2026-03-02T06:43:14.909Z"
 }
