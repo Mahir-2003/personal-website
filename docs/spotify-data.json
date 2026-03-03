@@ -57,18 +57,18 @@
       "external_url": "https://open.spotify.com/track/6PFMCc28nR6pqgdF9KMnNu"
     },
     {
-      "name": "Rosary (feat. Travis Scott)",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
-    },
-    {
       "name": "Excavator",
       "artist": "Don Toliver",
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
       "external_url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
+    },
+    {
+      "name": "Raging Love",
+      "artist": "Nine Vicious",
+      "album": "B4EM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
+      "external_url": "https://open.spotify.com/track/2dsYk3XN4OljAm2YYvzTfm"
     }
   ],
   "topArtists": [
@@ -95,6 +95,12 @@
       ]
     },
     {
+      "name": "Baby Keem",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe45a6e4cee2ef5f4c0fec713",
+      "external_url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
+      "genres": []
+    },
+    {
       "name": "Drake",
       "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
@@ -110,12 +116,6 @@
         "rage rap",
         "underground hip hop"
       ]
-    },
-    {
-      "name": "Baby Keem",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebe45a6e4cee2ef5f4c0fec713",
-      "external_url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
-      "genres": []
     },
     {
       "name": "Boards of Canada",
@@ -166,5 +166,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-02T06:43:14.909Z"
+  "lastUpdated": "2026-03-03T06:37:16.309Z"
 }
