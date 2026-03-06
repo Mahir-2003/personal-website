@@ -8,13 +8,6 @@
       "external_url": "https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av"
     },
     {
-      "name": "PIERCING ON MY HAND",
-      "artist": "North West",
-      "album": "PIERCING ON MY HAND",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
-      "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
-    },
-    {
       "name": "ATM",
       "artist": "Don Toliver",
       "album": "OCTANE",
@@ -22,11 +15,11 @@
       "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
     },
     {
-      "name": "Free Smoke",
-      "artist": "Nine Vicious",
-      "album": "B4EM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
-      "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
+      "name": "PIERCING ON MY HAND",
+      "artist": "North West",
+      "album": "PIERCING ON MY HAND",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
+      "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
     },
     {
       "name": "E85",
@@ -36,11 +29,25 @@
       "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
+      "name": "Free Smoke",
+      "artist": "Nine Vicious",
+      "album": "B4EM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
+      "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
+    },
+    {
       "name": "Tuition",
       "artist": "Don Toliver",
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
       "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
+    },
+    {
+      "name": "Excavator",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
     },
     {
       "name": "Piercing on my hand",
@@ -57,18 +64,11 @@
       "external_url": "https://open.spotify.com/track/2WC3VzMODeulafyPNUysIh"
     },
     {
-      "name": "Racks Blue",
-      "artist": "Nine Vicious",
-      "album": "B4EM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
-      "external_url": "https://open.spotify.com/track/5Up171bDTYbyUP1dWT9Ln2"
-    },
-    {
-      "name": "Excavator",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
+      "name": "Ca$ino",
+      "artist": "Baby Keem",
+      "album": "Ca$ino",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+      "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
     }
   ],
   "topArtists": [
@@ -83,8 +83,7 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
       "genres": [
-        "underground hip hop",
-        "rage rap"
+        "underground hip hop"
       ]
     },
     {
@@ -93,6 +92,15 @@
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
       "genres": [
         "rap"
+      ]
+    },
+    {
+      "name": "slayr",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
       ]
     },
     {
@@ -108,15 +116,6 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebe45a6e4cee2ef5f4c0fec713",
       "external_url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
       "genres": []
-    },
-    {
-      "name": "slayr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
     },
     {
       "name": "Boards of Canada",
@@ -153,19 +152,11 @@
       ]
     },
     {
-      "name": "Tim Hecker",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
-      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B",
-      "genres": [
-        "drone",
-        "ambient",
-        "electroacoustic",
-        "idm",
-        "dark ambient",
-        "experimental",
-        "minimalism"
-      ]
+      "name": "sosocamo",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb16208e184275c80f138735c2",
+      "external_url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd",
+      "genres": []
     }
   ],
-  "lastUpdated": "2026-03-05T06:37:18.012Z"
+  "lastUpdated": "2026-03-06T06:34:23.458Z"
 }
