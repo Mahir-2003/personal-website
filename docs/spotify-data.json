@@ -22,13 +22,6 @@
       "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
     },
     {
-      "name": "E85",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
-    },
-    {
       "name": "Free Smoke",
       "artist": "Nine Vicious",
       "album": "B4EM",
@@ -36,25 +29,11 @@
       "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
     },
     {
-      "name": "Tuition",
+      "name": "E85",
       "artist": "Don Toliver",
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
-    },
-    {
-      "name": "Excavator",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
-    },
-    {
-      "name": "Piercing on my hand",
-      "artist": "INV",
-      "album": "NOSU CHAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ac12cdc19d5cfdda6068ad7",
-      "external_url": "https://open.spotify.com/track/6PFMCc28nR6pqgdF9KMnNu"
+      "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
       "name": "What ham",
@@ -69,6 +48,27 @@
       "album": "Ca$ino",
       "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
       "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
+    },
+    {
+      "name": "Excavator",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
+    },
+    {
+      "name": "Racks Blue",
+      "artist": "Nine Vicious",
+      "album": "B4EM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
+      "external_url": "https://open.spotify.com/track/5Up171bDTYbyUP1dWT9Ln2"
+    },
+    {
+      "name": "CONTEST",
+      "artist": "Travis Scott",
+      "album": "JACKBOYS 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
+      "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     }
   ],
   "topArtists": [
@@ -95,15 +95,6 @@
       ]
     },
     {
-      "name": "slayr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
       "name": "A$AP Rocky",
       "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
       "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
@@ -127,6 +118,15 @@
         "trip hop",
         "downtempo",
         "electronic"
+      ]
+    },
+    {
+      "name": "slayr",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
       ]
     },
     {
@@ -158,5 +158,5 @@
       "genres": []
     }
   ],
-  "lastUpdated": "2026-03-06T06:34:23.458Z"
+  "lastUpdated": "2026-03-07T06:25:53.984Z"
 }
