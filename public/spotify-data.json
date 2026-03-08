@@ -8,6 +8,13 @@
       "external_url": "https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av"
     },
     {
+      "name": "Free Smoke",
+      "artist": "Nine Vicious",
+      "album": "B4EM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
+      "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
+    },
+    {
       "name": "ATM",
       "artist": "Don Toliver",
       "album": "OCTANE",
@@ -20,13 +27,6 @@
       "album": "PIERCING ON MY HAND",
       "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
       "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
-    },
-    {
-      "name": "Free Smoke",
-      "artist": "Nine Vicious",
-      "album": "B4EM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
-      "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
     },
     {
       "name": "E85",
@@ -50,13 +50,6 @@
       "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
     },
     {
-      "name": "Excavator",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
-    },
-    {
       "name": "Racks Blue",
       "artist": "Nine Vicious",
       "album": "B4EM",
@@ -69,6 +62,13 @@
       "album": "JACKBOYS 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
+    },
+    {
+      "name": "I am not a Lyricist",
+      "artist": "Baby Keem",
+      "album": "Ca$ino",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+      "external_url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
     }
   ],
   "topArtists": [
@@ -121,21 +121,21 @@
       ]
     },
     {
-      "name": "slayr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
       "name": "Hans Zimmer",
       "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
       "external_url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
       "genres": [
         "soundtrack",
         "score"
+      ]
+    },
+    {
+      "name": "slayr",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
       ]
     },
     {
@@ -158,5 +158,5 @@
       "genres": []
     }
   ],
-  "lastUpdated": "2026-03-07T06:25:53.984Z"
+  "lastUpdated": "2026-03-08T06:29:58.580Z"
 }
