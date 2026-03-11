@@ -22,13 +22,6 @@
       "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
     },
     {
-      "name": "Free Smoke",
-      "artist": "Nine Vicious",
-      "album": "B4EM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
-      "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
-    },
-    {
       "name": "What ham",
       "artist": "Pradabagshawty",
       "album": "What ham",
@@ -69,6 +62,13 @@
       "album": "JACKBOYS 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
+    },
+    {
+      "name": "Free Smoke",
+      "artist": "Nine Vicious",
+      "album": "B4EM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
+      "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
     }
   ],
   "topArtists": [
@@ -77,15 +77,6 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
       "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
       "genres": []
-    },
-    {
-      "name": "Nine Vicious",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
-      "genres": [
-        "underground hip hop",
-        "rage rap"
-      ]
     },
     {
       "name": "Drake",
@@ -101,6 +92,15 @@
       "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
       "genres": [
         "rap"
+      ]
+    },
+    {
+      "name": "Nine Vicious",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
+      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
+      "genres": [
+        "underground hip hop",
+        "rage rap"
       ]
     },
     {
@@ -140,15 +140,6 @@
       ]
     },
     {
-      "name": "slayr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
       "name": "Oneohtrix Point Never",
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
@@ -160,7 +151,13 @@
         "experimental",
         "vaporwave"
       ]
+    },
+    {
+      "name": "sosocamo",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb16208e184275c80f138735c2",
+      "external_url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd",
+      "genres": []
     }
   ],
-  "lastUpdated": "2026-03-10T06:35:35.715Z"
+  "lastUpdated": "2026-03-11T06:38:31.987Z"
 }
