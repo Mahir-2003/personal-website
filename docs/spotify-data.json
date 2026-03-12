@@ -153,11 +153,13 @@
       ]
     },
     {
-      "name": "sosocamo",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb16208e184275c80f138735c2",
-      "external_url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd",
-      "genres": []
+      "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "genres": [
+        "rage rap"
+      ]
     }
   ],
-  "lastUpdated": "2026-03-11T06:38:31.987Z"
+  "lastUpdated": "2026-03-12T06:40:16.346Z"
 }
