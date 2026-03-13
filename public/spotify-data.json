@@ -8,11 +8,11 @@
       "external_url": "https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av"
     },
     {
-      "name": "ATM",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
+      "name": "DON'T BE DUMB / TRIP BABY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
       "name": "PIERCING ON MY HAND",
@@ -29,25 +29,11 @@
       "external_url": "https://open.spotify.com/track/2WC3VzMODeulafyPNUysIh"
     },
     {
-      "name": "E85",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
-    },
-    {
       "name": "Ca$ino",
       "artist": "Baby Keem",
       "album": "Ca$ino",
       "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
       "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
-    },
-    {
-      "name": "DON'T BE DUMB / TRIP BABY",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
       "name": "PLAYA",
@@ -64,11 +50,25 @@
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     },
     {
-      "name": "Free Smoke",
-      "artist": "Nine Vicious",
-      "album": "B4EM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
-      "external_url": "https://open.spotify.com/track/5S8ssodlFm1KWewbtzYmOn"
+      "name": "ATM",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
+    },
+    {
+      "name": "I am not a Lyricist",
+      "artist": "Baby Keem",
+      "album": "Ca$ino",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+      "external_url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
+    },
+    {
+      "name": "Away From Home",
+      "artist": "Drake",
+      "album": "For All The Dogs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     }
   ],
   "topArtists": [
@@ -119,6 +119,15 @@
       ]
     },
     {
+      "name": "Hans Zimmer",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
+      "external_url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
+      "genres": [
+        "soundtrack",
+        "score"
+      ]
+    },
+    {
       "name": "Boards of Canada",
       "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
@@ -128,15 +137,6 @@
         "trip hop",
         "downtempo",
         "electronic"
-      ]
-    },
-    {
-      "name": "Hans Zimmer",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
-      "external_url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
-      "genres": [
-        "soundtrack",
-        "score"
       ]
     },
     {
@@ -161,5 +161,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-12T06:40:16.346Z"
+  "lastUpdated": "2026-03-13T06:38:10.281Z"
 }
