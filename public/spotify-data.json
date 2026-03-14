@@ -79,14 +79,6 @@
       "genres": []
     },
     {
-      "name": "Drake",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
-      "genres": [
-        "rap"
-      ]
-    },
-    {
       "name": "A$AP Rocky",
       "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
       "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
@@ -108,6 +100,14 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebe45a6e4cee2ef5f4c0fec713",
       "external_url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
       "genres": []
+    },
+    {
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+      "genres": [
+        "rap"
+      ]
     },
     {
       "name": "Nettspend",
@@ -161,5 +161,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-13T06:38:10.281Z"
+  "lastUpdated": "2026-03-14T06:33:10.491Z"
 }
