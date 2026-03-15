@@ -1,20 +1,6 @@
 {
   "topTracks": [
     {
-      "name": "24Hrs",
-      "artist": "Nine Vicious",
-      "album": "B4EM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
-      "external_url": "https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av"
-    },
-    {
-      "name": "DON'T BE DUMB / TRIP BABY",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
-    },
-    {
       "name": "PIERCING ON MY HAND",
       "artist": "North West",
       "album": "PIERCING ON MY HAND",
@@ -22,11 +8,11 @@
       "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
     },
     {
-      "name": "What ham",
-      "artist": "Pradabagshawty",
-      "album": "What ham",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fd339b9f9021bd2481c68fda",
-      "external_url": "https://open.spotify.com/track/2WC3VzMODeulafyPNUysIh"
+      "name": "24Hrs",
+      "artist": "Nine Vicious",
+      "album": "B4EM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
+      "external_url": "https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av"
     },
     {
       "name": "Ca$ino",
@@ -36,18 +22,32 @@
       "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
     },
     {
-      "name": "PLAYA",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
-    },
-    {
       "name": "CONTEST",
       "artist": "Travis Scott",
       "album": "JACKBOYS 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
+    },
+    {
+      "name": "I am not a Lyricist",
+      "artist": "Baby Keem",
+      "album": "Ca$ino",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+      "external_url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
+    },
+    {
+      "name": "All The Parties (feat. Chief Keef)",
+      "artist": "Drake",
+      "album": "For All The Dogs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+      "external_url": "https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY"
+    },
+    {
+      "name": "What ham",
+      "artist": "Pradabagshawty",
+      "album": "What ham",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fd339b9f9021bd2481c68fda",
+      "external_url": "https://open.spotify.com/track/2WC3VzMODeulafyPNUysIh"
     },
     {
       "name": "ATM",
@@ -57,11 +57,11 @@
       "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
     },
     {
-      "name": "I am not a Lyricist",
-      "artist": "Baby Keem",
-      "album": "Ca$ino",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
-      "external_url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
+      "name": "ce",
+      "artist": "Nettspend",
+      "album": "early life crisis",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c43db80bd5f5f090c02a2a41",
+      "external_url": "https://open.spotify.com/track/0EnWCYFq2hDjHjqBEzpIbq"
     },
     {
       "name": "Away From Home",
@@ -79,14 +79,6 @@
       "genres": []
     },
     {
-      "name": "A$AP Rocky",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
-      "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
-      "genres": [
-        "rap"
-      ]
-    },
-    {
       "name": "Nine Vicious",
       "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
@@ -100,14 +92,6 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebe45a6e4cee2ef5f4c0fec713",
       "external_url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
       "genres": []
-    },
-    {
-      "name": "Drake",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
-      "genres": [
-        "rap"
-      ]
     },
     {
       "name": "Nettspend",
@@ -128,15 +112,11 @@
       ]
     },
     {
-      "name": "Boards of Canada",
-      "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
-      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
+      "name": "A$AP Rocky",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
+      "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
       "genres": [
-        "idm",
-        "ambient",
-        "trip hop",
-        "downtempo",
-        "electronic"
+        "rap"
       ]
     },
     {
@@ -159,7 +139,21 @@
       "genres": [
         "rage rap"
       ]
+    },
+    {
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+      "genres": [
+        "rap"
+      ]
+    },
+    {
+      "name": "sosocamo",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb16208e184275c80f138735c2",
+      "external_url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd",
+      "genres": []
     }
   ],
-  "lastUpdated": "2026-03-14T06:33:10.491Z"
+  "lastUpdated": "2026-03-15T06:43:00.904Z"
 }
