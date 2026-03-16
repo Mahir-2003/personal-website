@@ -29,11 +29,25 @@
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     },
     {
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artist": "beabadoobee",
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "external_url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
+    },
+    {
       "name": "I am not a Lyricist",
       "artist": "Baby Keem",
       "album": "Ca$ino",
       "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
       "external_url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
+    },
+    {
+      "name": "Away From Home",
+      "artist": "Drake",
+      "album": "For All The Dogs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     },
     {
       "name": "All The Parties (feat. Chief Keef)",
@@ -55,20 +69,6 @@
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
       "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
-    },
-    {
-      "name": "ce",
-      "artist": "Nettspend",
-      "album": "early life crisis",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c43db80bd5f5f090c02a2a41",
-      "external_url": "https://open.spotify.com/track/0EnWCYFq2hDjHjqBEzpIbq"
-    },
-    {
-      "name": "Away From Home",
-      "artist": "Drake",
-      "album": "For All The Dogs",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
-      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     }
   ],
   "topArtists": [
@@ -112,6 +112,14 @@
       ]
     },
     {
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+      "genres": [
+        "rap"
+      ]
+    },
+    {
       "name": "A$AP Rocky",
       "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
       "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
@@ -141,19 +149,11 @@
       ]
     },
     {
-      "name": "Drake",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
-      "genres": [
-        "rap"
-      ]
-    },
-    {
       "name": "sosocamo",
       "image": "https://i.scdn.co/image/ab6761610000e5eb16208e184275c80f138735c2",
       "external_url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd",
       "genres": []
     }
   ],
-  "lastUpdated": "2026-03-15T06:43:00.904Z"
+  "lastUpdated": "2026-03-16T07:04:10.282Z"
 }
