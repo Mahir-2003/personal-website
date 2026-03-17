@@ -1,20 +1,6 @@
 {
   "topTracks": [
     {
-      "name": "PIERCING ON MY HAND",
-      "artist": "North West",
-      "album": "PIERCING ON MY HAND",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
-      "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
-    },
-    {
-      "name": "24Hrs",
-      "artist": "Nine Vicious",
-      "album": "B4EM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
-      "external_url": "https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av"
-    },
-    {
       "name": "Ca$ino",
       "artist": "Baby Keem",
       "album": "Ca$ino",
@@ -57,11 +43,11 @@
       "external_url": "https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY"
     },
     {
-      "name": "What ham",
-      "artist": "Pradabagshawty",
-      "album": "What ham",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fd339b9f9021bd2481c68fda",
-      "external_url": "https://open.spotify.com/track/2WC3VzMODeulafyPNUysIh"
+      "name": "PIERCING ON MY HAND",
+      "artist": "North West",
+      "album": "PIERCING ON MY HAND",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
+      "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
     },
     {
       "name": "ATM",
@@ -69,6 +55,20 @@
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
       "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
+    },
+    {
+      "name": "ce",
+      "artist": "Nettspend",
+      "album": "early life crisis",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c43db80bd5f5f090c02a2a41",
+      "external_url": "https://open.spotify.com/track/0EnWCYFq2hDjHjqBEzpIbq"
+    },
+    {
+      "name": "DON'T BE DUMB / TRIP BABY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     }
   ],
   "topArtists": [
@@ -77,15 +77,6 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
       "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
       "genres": []
-    },
-    {
-      "name": "Nine Vicious",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
-      "genres": [
-        "underground hip hop",
-        "rage rap"
-      ]
     },
     {
       "name": "Baby Keem",
@@ -103,12 +94,33 @@
       ]
     },
     {
+      "name": "Nine Vicious",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
+      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
+      "genres": [
+        "underground hip hop",
+        "rage rap"
+      ]
+    },
+    {
       "name": "Hans Zimmer",
       "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
       "external_url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
       "genres": [
         "soundtrack",
         "score"
+      ]
+    },
+    {
+      "name": "Boards of Canada",
+      "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
+      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
+      "genres": [
+        "idm",
+        "ambient",
+        "trip hop",
+        "downtempo",
+        "electronic"
       ]
     },
     {
@@ -128,32 +140,19 @@
       ]
     },
     {
-      "name": "Oneohtrix Point Never",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
-      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK",
-      "genres": [
-        "plunderphonics",
-        "idm",
-        "drone",
-        "ambient",
-        "experimental",
-        "vaporwave"
-      ]
-    },
-    {
-      "name": "Destroy Lonely",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
-      "genres": [
-        "rage rap"
-      ]
-    },
-    {
       "name": "sosocamo",
       "image": "https://i.scdn.co/image/ab6761610000e5eb16208e184275c80f138735c2",
       "external_url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd",
       "genres": []
+    },
+    {
+      "name": "Slow Attack Ensemble",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
+      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As",
+      "genres": [
+        "ambient"
+      ]
     }
   ],
-  "lastUpdated": "2026-03-16T07:04:10.282Z"
+  "lastUpdated": "2026-03-17T06:51:26.667Z"
 }
