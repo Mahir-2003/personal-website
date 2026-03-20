@@ -8,6 +8,13 @@
       "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
     },
     {
+      "name": "November, 1st in Detroit",
+      "artist": "Slow Attack Ensemble",
+      "album": "Soundscapes for the Emotional-Type Listener",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
+      "external_url": "https://open.spotify.com/track/3JS3uZ6rk1q2ZrsccN665t"
+    },
+    {
       "name": "CONTEST",
       "artist": "Travis Scott",
       "album": "JACKBOYS 2",
@@ -62,13 +69,6 @@
       "album": "early life crisis",
       "image": "https://i.scdn.co/image/ab67616d0000b273c43db80bd5f5f090c02a2a41",
       "external_url": "https://open.spotify.com/track/0EnWCYFq2hDjHjqBEzpIbq"
-    },
-    {
-      "name": "DON'T BE DUMB / TRIP BABY",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     }
   ],
   "topArtists": [
@@ -94,21 +94,20 @@
       ]
     },
     {
+      "name": "Slow Attack Ensemble",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
+      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As",
+      "genres": [
+        "ambient"
+      ]
+    },
+    {
       "name": "Nine Vicious",
       "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
       "genres": [
         "underground hip hop",
         "rage rap"
-      ]
-    },
-    {
-      "name": "Hans Zimmer",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
-      "external_url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
-      "genres": [
-        "soundtrack",
-        "score"
       ]
     },
     {
@@ -121,14 +120,6 @@
         "trip hop",
         "downtempo",
         "electronic"
-      ]
-    },
-    {
-      "name": "Slow Attack Ensemble",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
-      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As",
-      "genres": [
-        "ambient"
       ]
     },
     {
@@ -152,7 +143,15 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb16208e184275c80f138735c2",
       "external_url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd",
       "genres": []
+    },
+    {
+      "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
+      "genres": [
+        "rage rap"
+      ]
     }
   ],
-  "lastUpdated": "2026-03-19T06:43:54.991Z"
+  "lastUpdated": "2026-03-20T06:40:46.202Z"
 }
