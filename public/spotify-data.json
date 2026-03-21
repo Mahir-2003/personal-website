@@ -1,18 +1,18 @@
 {
   "topTracks": [
     {
-      "name": "Ca$ino",
-      "artist": "Baby Keem",
-      "album": "Ca$ino",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
-      "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
-    },
-    {
       "name": "November, 1st in Detroit",
       "artist": "Slow Attack Ensemble",
       "album": "Soundscapes for the Emotional-Type Listener",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
       "external_url": "https://open.spotify.com/track/3JS3uZ6rk1q2ZrsccN665t"
+    },
+    {
+      "name": "Away From Home",
+      "artist": "Drake",
+      "album": "For All The Dogs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     },
     {
       "name": "CONTEST",
@@ -22,25 +22,18 @@
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     },
     {
+      "name": "Ca$ino",
+      "artist": "Baby Keem",
+      "album": "Ca$ino",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+      "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
+    },
+    {
       "name": "All I Did Was Dream of You (feat. The Marías)",
       "artist": "beabadoobee",
       "album": "All I Did Was Dream of You (feat. The Marías)",
       "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
       "external_url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
-    },
-    {
-      "name": "I am not a Lyricist",
-      "artist": "Baby Keem",
-      "album": "Ca$ino",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
-      "external_url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
-    },
-    {
-      "name": "Away From Home",
-      "artist": "Drake",
-      "album": "For All The Dogs",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
-      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     },
     {
       "name": "All The Parties (feat. Chief Keef)",
@@ -69,6 +62,13 @@
       "album": "early life crisis",
       "image": "https://i.scdn.co/image/ab67616d0000b273c43db80bd5f5f090c02a2a41",
       "external_url": "https://open.spotify.com/track/0EnWCYFq2hDjHjqBEzpIbq"
+    },
+    {
+      "name": "DON'T BE DUMB / TRIP BABY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
+      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     }
   ],
   "topArtists": [
@@ -79,10 +79,12 @@
       "genres": []
     },
     {
-      "name": "Baby Keem",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebe45a6e4cee2ef5f4c0fec713",
-      "external_url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
-      "genres": []
+      "name": "Slow Attack Ensemble",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
+      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As",
+      "genres": [
+        "ambient"
+      ]
     },
     {
       "name": "Nettspend",
@@ -91,14 +93,6 @@
       "genres": [
         "rage rap",
         "underground hip hop"
-      ]
-    },
-    {
-      "name": "Slow Attack Ensemble",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
-      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As",
-      "genres": [
-        "ambient"
       ]
     },
     {
@@ -121,6 +115,12 @@
         "downtempo",
         "electronic"
       ]
+    },
+    {
+      "name": "Baby Keem",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe45a6e4cee2ef5f4c0fec713",
+      "external_url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
+      "genres": []
     },
     {
       "name": "Drake",
@@ -153,5 +153,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-20T06:40:46.202Z"
+  "lastUpdated": "2026-03-21T06:30:21.892Z"
 }
