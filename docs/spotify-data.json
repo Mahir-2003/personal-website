@@ -1,6 +1,13 @@
 {
   "topTracks": [
     {
+      "name": "DIE HARD",
+      "artist": "Che",
+      "album": "REST IN BASS: ENCORE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7f1e129b06640d7836c9a5c",
+      "external_url": "https://open.spotify.com/track/2gNnEP3XwJZ62SsnsaDOU7"
+    },
+    {
       "name": "November, 1st in Detroit",
       "artist": "Slow Attack Ensemble",
       "album": "Soundscapes for the Emotional-Type Listener",
@@ -22,13 +29,6 @@
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
     },
     {
-      "name": "Ca$ino",
-      "artist": "Baby Keem",
-      "album": "Ca$ino",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
-      "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
-    },
-    {
       "name": "All I Did Was Dream of You (feat. The Marías)",
       "artist": "beabadoobee",
       "album": "All I Did Was Dream of You (feat. The Marías)",
@@ -43,18 +43,11 @@
       "external_url": "https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY"
     },
     {
-      "name": "PIERCING ON MY HAND",
-      "artist": "North West",
-      "album": "PIERCING ON MY HAND",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b3e0bdd9ef6d157891dd81ec",
-      "external_url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
-    },
-    {
-      "name": "ATM",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
+      "name": "Ca$ino",
+      "artist": "Baby Keem",
+      "album": "Ca$ino",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+      "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
     },
     {
       "name": "ce",
@@ -69,6 +62,13 @@
       "album": "Don't Be Dumb",
       "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
       "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
+    },
+    {
+      "name": "Landscape of Perpetual Oblivion",
+      "artist": "Slow Attack Ensemble",
+      "album": "Soundscapes for the Emotional-Type Listener",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
+      "external_url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
     }
   ],
   "topArtists": [
@@ -117,12 +117,6 @@
       ]
     },
     {
-      "name": "Baby Keem",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebe45a6e4cee2ef5f4c0fec713",
-      "external_url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1",
-      "genres": []
-    },
-    {
       "name": "Drake",
       "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
@@ -151,7 +145,13 @@
       "genres": [
         "rage rap"
       ]
+    },
+    {
+      "name": "Pz'",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9087490518ae4f6b178d6d78",
+      "external_url": "https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT",
+      "genres": []
     }
   ],
-  "lastUpdated": "2026-03-21T06:30:21.892Z"
+  "lastUpdated": "2026-03-22T06:37:47.050Z"
 }
