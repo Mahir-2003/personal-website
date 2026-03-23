@@ -15,13 +15,6 @@
       "external_url": "https://open.spotify.com/track/3JS3uZ6rk1q2ZrsccN665t"
     },
     {
-      "name": "Away From Home",
-      "artist": "Drake",
-      "album": "For All The Dogs",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
-      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
-    },
-    {
       "name": "CONTEST",
       "artist": "Travis Scott",
       "album": "JACKBOYS 2",
@@ -36,18 +29,11 @@
       "external_url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
     },
     {
-      "name": "All The Parties (feat. Chief Keef)",
+      "name": "Away From Home",
       "artist": "Drake",
       "album": "For All The Dogs",
       "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
-      "external_url": "https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY"
-    },
-    {
-      "name": "Ca$ino",
-      "artist": "Baby Keem",
-      "album": "Ca$ino",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
-      "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
+      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     },
     {
       "name": "ce",
@@ -64,11 +50,25 @@
       "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
+      "name": "Ca$ino",
+      "artist": "Baby Keem",
+      "album": "Ca$ino",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+      "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
+    },
+    {
       "name": "Landscape of Perpetual Oblivion",
       "artist": "Slow Attack Ensemble",
       "album": "Soundscapes for the Emotional-Type Listener",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
       "external_url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
+    },
+    {
+      "name": "Elegy for Elodie",
+      "artist": "Slow Attack Ensemble",
+      "album": "Soundscapes for the Emotional-Type Listener",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
+      "external_url": "https://open.spotify.com/track/3Rt6DVyF0LjZGf19DRRT2g"
     }
   ],
   "topArtists": [
@@ -117,17 +117,17 @@
       ]
     },
     {
-      "name": "Drake",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+      "name": "A$AP Rocky",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
+      "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
       "genres": [
         "rap"
       ]
     },
     {
-      "name": "A$AP Rocky",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
-      "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
       "genres": [
         "rap"
       ]
@@ -153,5 +153,5 @@
       "genres": []
     }
   ],
-  "lastUpdated": "2026-03-22T06:37:47.050Z"
+  "lastUpdated": "2026-03-23T06:57:13.192Z"
 }
