@@ -15,11 +15,11 @@
       "external_url": "https://open.spotify.com/track/3JS3uZ6rk1q2ZrsccN665t"
     },
     {
-      "name": "Away From Home",
+      "name": "Time Flies",
       "artist": "Drake",
-      "album": "For All The Dogs",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
-      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
+      "album": "Dark Lane Demo Tapes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+      "external_url": "https://open.spotify.com/track/5H4mXWKcicuLKDn4Jy0sK7"
     },
     {
       "name": "CONTEST",
@@ -27,6 +27,13 @@
       "album": "JACKBOYS 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
       "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
+    },
+    {
+      "name": "Away From Home",
+      "artist": "Drake",
+      "album": "For All The Dogs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     },
     {
       "name": "All I Did Was Dream of You (feat. The Marías)",
@@ -62,13 +69,6 @@
       "album": "Soundscapes for the Emotional-Type Listener",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
       "external_url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
-    },
-    {
-      "name": "Elegy for Elodie",
-      "artist": "Slow Attack Ensemble",
-      "album": "Soundscapes for the Emotional-Type Listener",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
-      "external_url": "https://open.spotify.com/track/3Rt6DVyF0LjZGf19DRRT2g"
     }
   ],
   "topArtists": [
@@ -90,6 +90,15 @@
       "name": "Nettspend",
       "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
+    {
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
       "genres": [
         "rage rap",
         "underground hip hop"
@@ -145,13 +154,7 @@
       "genres": [
         "rage rap"
       ]
-    },
-    {
-      "name": "Pz'",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9087490518ae4f6b178d6d78",
-      "external_url": "https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT",
-      "genres": []
     }
   ],
-  "lastUpdated": "2026-03-24T06:51:36.824Z"
+  "lastUpdated": "2026-03-25T06:51:03.535Z"
 }
