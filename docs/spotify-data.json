@@ -64,14 +64,23 @@
       "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
     },
     {
-      "name": "Landscape of Perpetual Oblivion",
-      "artist": "Slow Attack Ensemble",
-      "album": "Soundscapes for the Emotional-Type Listener",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
-      "external_url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
+      "name": "Type Beat",
+      "artist": "prettifun",
+      "album": "Pretti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273986fb8c23fb36f54373ca88c",
+      "external_url": "https://open.spotify.com/track/789hx4weUMcaO6x28wX1LP"
     }
   ],
   "topArtists": [
+    {
+      "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
     {
       "name": "Don Toliver",
       "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
@@ -90,15 +99,6 @@
       "name": "Nettspend",
       "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
-      "name": "prettifun",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
       "genres": [
         "rage rap",
         "underground hip hop"
@@ -156,5 +156,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-25T06:51:03.535Z"
+  "lastUpdated": "2026-03-26T06:56:08.975Z"
 }
