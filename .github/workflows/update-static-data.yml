@@ -123,7 +123,13 @@ jobs:
           import os
           from datetime import datetime
 
-          LB_NS = 'https://a4.letterboxd.com/ns/1.0/'
+          def ns_find(item, local_name):
+              for child in item:
+                  tag = child.tag
+                  local = tag.split('}', 1)[-1] if '}' in tag else tag
+                  if local == local_name:
+                      return child.text or ''
+              return ''
 
           url = 'https://letterboxd.com/MeatyMahir/rss/'
           req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -136,10 +142,10 @@ jobs:
 
           movies = []
           for item in items:
-              film_title = item.findtext(f'{{{LB_NS}}}filmTitle') or ''
-              film_year = item.findtext(f'{{{LB_NS}}}filmYear') or ''
-              rating_val = item.findtext(f'{{{LB_NS}}}memberRating') or ''
-              watched_date = item.findtext(f'{{{LB_NS}}}watchedDate') or ''
+              film_title = ns_find(item, 'filmTitle')
+              film_year = ns_find(item, 'filmYear')
+              rating_val = ns_find(item, 'memberRating')
+              watched_date = ns_find(item, 'watchedDate')
               link = item.findtext('link') or ''
               description = item.findtext('description') or ''
 
