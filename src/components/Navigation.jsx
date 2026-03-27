@@ -147,16 +147,19 @@ const Navigation = memo(() => {
                                    transition-transform duration-300 ease-out"
                         onClick={toggleExpanded}
                     >
+                        {/* Ping ring — only when collapsed */}
+                        {!isExpanded && (
+                            <div className="border-2 border-orange-400/40 rounded-full absolute inset-0 animate-ping" style={{ animationDuration: '2s' }}></div>
+                        )}
                         {/* Subtle background for visibility */}
-                        <div className="absolute inset-0 rounded-full lcars-nav-active backdrop-blur-sm border border-orange-400/30"></div>
-                        
-                        <img 
-                            src={tngBadge} 
+                        <div className="absolute inset-0 rounded-full lcars-nav-active backdrop-blur-sm border-2 border-orange-400/70"></div>
+
+                        <img
+                            src={tngBadge}
                             alt="TNG Badge"
                             className="w-full h-full object-contain relative z-10"
                         />
                     </div>
-
                     {/* LCARS container - always present but invisible when collapsed */}
                     <div className={lcarsContainerClassName}>
                         <div className="relative z-10">
