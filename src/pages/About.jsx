@@ -1,9 +1,30 @@
+import { useState, useEffect } from 'react';
 import { Canvas } from '@react-three/fiber';
 import Starfield from '../components/Starfield';
 import LetterboxdFeed from '../components/LetterboxdFeed';
 import SpotifyStats from '../components/SpotifyStats';
 
+function timeAgo(isoString) {
+    const seconds = Math.floor((Date.now() - new Date(isoString)) / 1000);
+    if (seconds < 60) return 'just now';
+    const minutes = Math.floor(seconds / 60);
+    if (minutes < 60) return `${minutes}m ago`;
+    const hours = Math.floor(minutes / 60);
+    if (hours < 24) return `${hours}h ago`;
+    const days = Math.floor(hours / 24);
+    return `${days}d ago`;
+}
+
 const About = () => {
+    const [lastSynced, setLastSynced] = useState(null);
+
+    useEffect(() => {
+        fetch('/p24/spotify-data.json')
+            .then(r => r.json())
+            .then(d => setLastSynced(d.lastUpdated))
+            .catch(() => {});
+    }, []);
+
     return (
         <>
             {/* Fixed infinite starfield background */}
@@ -30,7 +51,14 @@ const About = () => {
 
                     {/* bio */}
                     <section className="mb-12">
-                        <h2 className="text-2xl font-bold text-blue-400 mb-4">RECENT ACTIVITY</h2>
+                        <div className="flex items-baseline justify-between mb-4">
+                            <h2 className="text-2xl font-bold text-blue-400">RECENT ACTIVITY</h2>
+                            {lastSynced && (
+                                <span className="text-gray-500 text-xs tracking-widest">
+                                    SYNCED {timeAgo(lastSynced).toUpperCase()}
+                                </span>
+                            )}
+                        </div>
                         <div className="bg-gray-900/90 backdrop-blur-sm p-6 rounded-lg">
                             <p className="text-gray-300 leading-relaxed">
                                 I'm drawn to stories - whether they're told through film, music, books, or anything else. I also like keeping track of the things I watch and listen to.

@@ -1,5 +1,5 @@
 import { Link, useLocation } from "react-router";
-import { useState, useMemo, useCallback, memo } from "react";
+import { useState, useMemo, useCallback, useEffect, memo } from "react";
 import tngBadge from "../assets/TNG_badge.svg";
 
 const NAVIGATION_ITEMS = [
@@ -66,6 +66,14 @@ const Navigation = memo(() => {
     }, []);
 
     const isActive = useCallback((path) => location.pathname === path, [location.pathname]);
+
+    useEffect(() => {
+        const handleKeyDown = (e) => {
+            if (e.key === 'Escape' && isExpanded) setIsExpanded(false);
+        };
+        document.addEventListener('keydown', handleKeyDown);
+        return () => document.removeEventListener('keydown', handleKeyDown);
+    }, [isExpanded]);
 
     // memoized all classnames for better performance.
 
@@ -152,6 +160,15 @@ const Navigation = memo(() => {
                     className="w-full h-full object-contain relative z-10"
                 />
             </div>
+
+            {/* Transparent backdrop — invisible tap/click target to close nav */}
+            {isExpanded && (
+                <div
+                    className="fixed inset-0 z-40"
+                    onClick={toggleExpanded}
+                    aria-hidden="true"
+                />
+            )}
 
             {/* floating nav sidebar */}
             <nav className={navClassName}>
