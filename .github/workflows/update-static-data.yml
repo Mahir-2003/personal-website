@@ -123,18 +123,14 @@ jobs:
           import os
           from datetime import datetime
 
-          def ns_find(item, local_name):
-              for child in item:
-                  tag = child.tag
-                  local = tag.split('}', 1)[-1] if '}' in tag else tag
-                  if local == local_name:
-                      return child.text or ''
-              return ''
-
           url = 'https://letterboxd.com/MeatyMahir/rss/'
           req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
           with urllib.request.urlopen(req) as response:
-              xml_data = response.read()
+              xml_data = response.read().decode('utf-8')
+
+          # Strip namespace prefixes so all elements are accessible without namespace
+          xml_data = re.sub(r'<(/?)\w+:', r'<\1', xml_data)
+          xml_data = re.sub(r'\s+xmlns(?::\w+)?="[^"]*"', '', xml_data)
 
           root = ET.fromstring(xml_data)
           channel = root.find('channel')
@@ -142,10 +138,10 @@ jobs:
 
           movies = []
           for item in items:
-              film_title = ns_find(item, 'filmTitle')
-              film_year = ns_find(item, 'filmYear')
-              rating_val = ns_find(item, 'memberRating')
-              watched_date = ns_find(item, 'watchedDate')
+              film_title = item.findtext('filmTitle') or ''
+              film_year = item.findtext('filmYear') or ''
+              rating_val = item.findtext('memberRating') or ''
+              watched_date = item.findtext('watchedDate') or ''
               link = item.findtext('link') or ''
               description = item.findtext('description') or ''
 
