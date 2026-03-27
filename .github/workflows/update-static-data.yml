@@ -128,9 +128,7 @@ jobs:
           with urllib.request.urlopen(req) as response:
               xml_data = response.read().decode('utf-8')
 
-          # Strip namespace prefixes so all elements are accessible without namespace
-          xml_data = re.sub(r'<(/?)\w+:', r'<\1', xml_data)
-          xml_data = re.sub(r'\s+xmlns(?::\w+)?="[^"]*"', '', xml_data)
+          LB = 'https://letterboxd.com'
 
           root = ET.fromstring(xml_data)
           channel = root.find('channel')
@@ -138,10 +136,10 @@ jobs:
 
           movies = []
           for item in items:
-              film_title = item.findtext('filmTitle') or ''
-              film_year = item.findtext('filmYear') or ''
-              rating_val = item.findtext('memberRating') or ''
-              watched_date = item.findtext('watchedDate') or ''
+              film_title = item.findtext(f'{{{LB}}}filmTitle') or ''
+              film_year = item.findtext(f'{{{LB}}}filmYear') or ''
+              rating_val = item.findtext(f'{{{LB}}}memberRating') or ''
+              watched_date = item.findtext(f'{{{LB}}}watchedDate') or ''
               link = item.findtext('link') or ''
               description = item.findtext('description') or ''
 
