@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   fetch-spotify:
     runs-on: ubuntu-latest
@@ -190,17 +193,20 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: spotify-data
-          path: public/
+          path: .
 
       - uses: actions/download-artifact@v4
         with:
           name: letterboxd-data
-          path: public/
+          path: .
 
-      - name: Commit if changed
+      - name: Copy to docs and commit if changed
         run: |
+          mkdir -p docs
+          cp public/spotify-data.json docs/spotify-data.json
+          cp public/letterboxd.json docs/letterboxd.json
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/spotify-data.json public/letterboxd.json
+          git add public/spotify-data.json public/letterboxd.json docs/spotify-data.json docs/letterboxd.json
           git diff --staged --quiet || git commit -m "chore: update static data [skip ci]"
           git push
