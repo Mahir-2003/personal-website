@@ -1,5 +1,4 @@
 {
-  "lastUpdated": "2026-03-27T03:34:54.356Z",
   "topTracks": [
     {
       "name": "DIE HARD",
@@ -70,196 +69,92 @@
       "album": "Pretti",
       "image": "https://i.scdn.co/image/ab67616d0000b273986fb8c23fb36f54373ca88c",
       "external_url": "https://open.spotify.com/track/789hx4weUMcaO6x28wX1LP"
-    },
-    {
-      "name": "Landscape of Perpetual Oblivion",
-      "artist": "Slow Attack Ensemble",
-      "album": "Soundscapes for the Emotional-Type Listener",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
-      "external_url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
-    },
-    {
-      "name": "Elegy for Elodie",
-      "artist": "Slow Attack Ensemble",
-      "album": "Soundscapes for the Emotional-Type Listener",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
-      "external_url": "https://open.spotify.com/track/3Rt6DVyF0LjZGf19DRRT2g"
-    },
-    {
-      "name": "Mizue",
-      "artist": "Slow Attack Ensemble",
-      "album": "Soundscapes for the Emotional-Type Listener",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
-      "external_url": "https://open.spotify.com/track/4aQ5OQ1Wf6q9mdRaWwpkLD"
-    },
-    {
-      "name": "Cold Dream",
-      "artist": "Slow Attack Ensemble",
-      "album": "Soundscapes for the Emotional-Type Listener",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
-      "external_url": "https://open.spotify.com/track/6Hc1kwaRIUeneST69mEWmn"
-    },
-    {
-      "name": "After Images",
-      "artist": "Slow Attack Ensemble",
-      "album": "Soundscapes for the Emotional-Type Listener",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
-      "external_url": "https://open.spotify.com/track/61EZPNi7EfoU3gOarIPldD"
-    },
-    {
-      "name": "PLAYA",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
-    },
-    {
-      "name": "you ready?",
-      "artist": "Nettspend",
-      "album": "early life crisis",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c43db80bd5f5f090c02a2a41",
-      "external_url": "https://open.spotify.com/track/4StTpr2rt9cNqeDsu1bqFk"
-    },
-    {
-      "name": "ATM",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
-    },
-    {
-      "name": "Slime You Out (feat. SZA)",
-      "artist": "Drake",
-      "album": "For All The Dogs",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
-      "external_url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
-    },
-    {
-      "name": "24Hrs",
-      "artist": "Nine Vicious",
-      "album": "B4EM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
-      "external_url": "https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av"
-    },
-    {
-      "name": "Bells",
-      "artist": "Slow Attack Ensemble",
-      "album": "Soundscapes for the Emotional-Type Listener",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
-      "external_url": "https://open.spotify.com/track/0PxYmpgTISq1MdllZwmhVj"
-    },
-    {
-      "name": "bada bing, bada bØØm",
-      "artist": "diamond*",
-      "album": "nØ idØls",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b52f085f2072caf63207e15a",
-      "external_url": "https://open.spotify.com/track/0UWHB6M62TXlNBxXDnMvBH"
-    },
-    {
-      "name": "Setting Sun",
-      "artist": "You'll Never Get to Heaven",
-      "album": "Wave Your Moonlight Hat For The Snowfall Train",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ce5c493f13bfb11a6b9a98c",
-      "external_url": "https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN"
-    },
-    {
-      "name": "Tuition",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
-    },
-    {
-      "name": "You're Lonely I Guess",
-      "artist": "Egobreak",
-      "album": "Snow Ballet",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bcce95951594f29e02b32ee0",
-      "external_url": "https://open.spotify.com/track/3qDAdlxIqpleZylNovi3Lc"
     }
   ],
   "topArtists": [
     {
       "name": "prettifun",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
       "genres": [
         "rage rap",
         "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+      ]
     },
     {
       "name": "Don Toliver",
-      "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
-      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
+      "genres": []
     },
     {
       "name": "Slow Attack Ensemble",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
+      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As",
       "genres": [
         "ambient"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
-      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
+      ]
     },
     {
       "name": "Nettspend",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
+      "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA",
       "genres": [
         "rage rap",
         "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
-      "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+      ]
     },
     {
       "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
       "genres": [
         "rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      ]
     },
     {
       "name": "Nine Vicious",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
+      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
       "genres": [
         "underground hip hop",
         "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+      ]
     },
     {
       "name": "Boards of Canada",
+      "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
+      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
       "genres": [
         "idm",
         "ambient",
         "trip hop",
         "downtempo",
         "electronic"
-      ],
-      "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
-      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+      ]
     },
     {
       "name": "A$AP Rocky",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
+      "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
       "genres": [
         "rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
-      "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+      ]
     },
     {
       "name": "sosocamo",
-      "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb16208e184275c80f138735c2",
-      "external_url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd"
+      "external_url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd",
+      "genres": []
     },
     {
       "name": "Destroy Lonely",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD",
       "genres": [
         "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+      ]
     }
-  ]
+  ],
+  "lastUpdated": "2026-03-27T06:56:03.636Z"
 }
