@@ -10,78 +10,17 @@ const LetterboxdFeed = () => {
         setLoading(true);
         setError(null);
         try {
-                // Use a safe, reputable CORS-anywhere service (Cloudflare Workers based)
-                // Alternative: Use allorigins.win which is open-source and reputable
-                const proxyUrl = 'https://api.allorigins.win/raw?url=';
-                const rssUrl = 'https://letterboxd.com/MeatyMahir/rss/';
-                
-                // Add timeout and proper error handling
-                const controller = new AbortController();
-                const timeoutId = setTimeout(() => controller.abort(), 10000);
-                
-                const response = await fetch(proxyUrl + encodeURIComponent(rssUrl), {
-                    signal: controller.signal,
-                    headers: {
-                        'Accept': 'application/rss+xml, application/xml, text/xml'
-                    }
-                });
-                
-                clearTimeout(timeoutId);
-                
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                
-                const xmlText = await response.text();
-                
-                // Parse XML
-                const parser = new DOMParser();
-                const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
-                const items = xmlDoc.querySelectorAll('item');
-                
-                const movieData = Array.from(items).slice(0, 5).map(item => {
-                    const title = item.querySelector('title')?.textContent || '';
-                    const link = item.querySelector('link')?.textContent || '';
-                    const pubDate = item.querySelector('pubDate')?.textContent || '';
-                    const watchedDate = item.querySelector('letterboxd\\:watchedDate, watchedDate')?.textContent || '';
-                    const filmTitle = item.querySelector('letterboxd\\:filmTitle, filmTitle')?.textContent || '';
-                    const filmYear = item.querySelector('letterboxd\\:filmYear, filmYear')?.textContent || '';
-                    const rating = item.querySelector('letterboxd\\:memberRating, memberRating')?.textContent || '';
-                    const description = item.querySelector('description')?.textContent || '';
-                    
-                    // Extract poster URL from description
-                    const imgMatch = description.match(/src="([^"]+)"/);
-                    const posterUrl = imgMatch ? imgMatch[1] : null;
-                    
-                    // Convert rating to stars
-                    const starRating = rating ? '★'.repeat(Math.floor(parseFloat(rating))) + (parseFloat(rating) % 1 >= 0.5 ? '½' : '') : '';
-                    
-                    // Format date
-                    const formattedDate = watchedDate ? new Date(watchedDate).toLocaleDateString('en-US', { 
-                        month: 'short', 
-                        day: 'numeric', 
-                        year: 'numeric' 
-                    }) : '';
-
-                    return {
-                        title: filmTitle,
-                        year: filmYear,
-                        rating: starRating,
-                        posterUrl,
-                        watchedDate: formattedDate,
-                        link,
-                        fullTitle: title
-                    };
-                });
-                
-                setMovies(movieData);
-                setLoading(false);
-            } catch (err) {
-                console.error('Error fetching Letterboxd feed:', err);
-                setError('Failed to load recent movies');
-                setLoading(false);
-            }
-        }, []);
+            const response = await fetch('/p24/letterboxd.json');
+            if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+            const movies = await response.json();
+            setMovies(movies);
+            setLoading(false);
+        } catch (err) {
+            console.error('Error fetching Letterboxd feed:', err);
+            setError('Failed to load recent movies');
+            setLoading(false);
+        }
+    }, []);
 
         useEffect(() => {
             fetchLetterboxdFeed();

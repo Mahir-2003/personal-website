@@ -1,0 +1,206 @@
+name: Update Static Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-spotify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch Spotify data
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          node - << 'EOF'
+          const https = require('https');
+          const fs = require('fs');
+
+          function httpsRequest(options, postData) {
+            return new Promise((resolve, reject) => {
+              const req = https.request(options, (res) => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => {
+                  try { resolve(JSON.parse(data)); } catch(e) { resolve(data); }
+                });
+              });
+              req.on('error', reject);
+              if (postData) req.write(postData);
+              req.end();
+            });
+          }
+
+          (async () => {
+            const clientId = process.env.SPOTIFY_CLIENT_ID;
+            const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
+            const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
+            const auth = Buffer.from(`${clientId}:${clientSecret}`).toString('base64');
+
+            const tokenBody = `grant_type=refresh_token&refresh_token=${encodeURIComponent(refreshToken)}`;
+            const tokenData = await httpsRequest({
+              hostname: 'accounts.spotify.com',
+              path: '/api/token',
+              method: 'POST',
+              headers: {
+                'Authorization': `Basic ${auth}`,
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'Content-Length': Buffer.byteLength(tokenBody)
+              }
+            }, tokenBody);
+
+            const accessToken = tokenData.access_token;
+
+            const tracksData = await httpsRequest({
+              hostname: 'api.spotify.com',
+              path: '/v1/me/top/tracks?time_range=short_term&limit=25',
+              method: 'GET',
+              headers: { 'Authorization': `Bearer ${accessToken}` }
+            });
+
+            const artistsData = await httpsRequest({
+              hostname: 'api.spotify.com',
+              path: '/v1/me/top/artists?time_range=short_term&limit=10',
+              method: 'GET',
+              headers: { 'Authorization': `Bearer ${accessToken}` }
+            });
+
+            const topTracks = tracksData.items.map(t => ({
+              name: t.name,
+              artist: t.artists[0].name,
+              album: t.album.name,
+              image: t.album.images[0]?.url || '',
+              external_url: t.external_urls.spotify
+            }));
+
+            const topArtists = artistsData.items.map(a => ({
+              name: a.name,
+              genres: a.genres,
+              image: a.images[0]?.url || '',
+              external_url: a.external_urls.spotify
+            }));
+
+            const output = {
+              lastUpdated: new Date().toISOString(),
+              topTracks,
+              topArtists
+            };
+
+            fs.mkdirSync('public', { recursive: true });
+            fs.writeFileSync('public/spotify-data.json', JSON.stringify(output, null, 2));
+            console.log('Spotify data written successfully');
+          })().catch(err => { console.error(err); process.exit(1); });
+          EOF
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: spotify-data
+          path: public/spotify-data.json
+
+  fetch-letterboxd:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch Letterboxd data
+        run: |
+          python3 - << 'EOF'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import json
+          import re
+          import os
+          from datetime import datetime
+
+          LB_NS = 'https://a4.letterboxd.com/ns/1.0/'
+
+          url = 'https://letterboxd.com/MeatyMahir/rss/'
+          req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+          with urllib.request.urlopen(req) as response:
+              xml_data = response.read()
+
+          root = ET.fromstring(xml_data)
+          channel = root.find('channel')
+          items = channel.findall('item')[:5]
+
+          movies = []
+          for item in items:
+              film_title = item.findtext(f'{{{LB_NS}}}filmTitle') or ''
+              film_year = item.findtext(f'{{{LB_NS}}}filmYear') or ''
+              rating_val = item.findtext(f'{{{LB_NS}}}memberRating') or ''
+              watched_date = item.findtext(f'{{{LB_NS}}}watchedDate') or ''
+              link = item.findtext('link') or ''
+              description = item.findtext('description') or ''
+
+              if rating_val:
+                  r = float(rating_val)
+                  stars = '\u2605' * int(r) + ('\u00bd' if r % 1 >= 0.5 else '')
+              else:
+                  stars = ''
+
+              if watched_date:
+                  try:
+                      dt = datetime.strptime(watched_date, '%Y-%m-%d')
+                      formatted_date = dt.strftime('%b %d, %Y')
+                  except Exception:
+                      formatted_date = watched_date
+              else:
+                  formatted_date = ''
+
+              img_match = re.search(r'src="([^"]+)"', description)
+              poster_url = img_match.group(1) if img_match else ''
+
+              movies.append({
+                  'title': film_title,
+                  'year': film_year,
+                  'rating': stars,
+                  'posterUrl': poster_url,
+                  'watchedDate': formatted_date,
+                  'link': link
+              })
+
+          os.makedirs('public', exist_ok=True)
+          with open('public/letterboxd.json', 'w') as f:
+              json.dump(movies, f, indent=2)
+
+          print('Letterboxd data written successfully')
+          EOF
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: letterboxd-data
+          path: public/letterboxd.json
+
+  commit:
+    needs: [fetch-spotify, fetch-letterboxd]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: spotify-data
+          path: public/
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: letterboxd-data
+          path: public/
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/spotify-data.json public/letterboxd.json
+          git diff --staged --quiet || git commit -m "chore: update static data [skip ci]"
+          git push
