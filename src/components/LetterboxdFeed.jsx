@@ -10,7 +10,7 @@ const LetterboxdFeed = () => {
         setLoading(true);
         setError(null);
         try {
-            const response = await fetch('/p24/letterboxd.json');
+            const response = await fetch('/letterboxd.json');
             if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
             const movies = await response.json();
             setMovies(movies);

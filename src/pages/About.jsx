@@ -19,7 +19,7 @@ const About = () => {
     const [lastSynced, setLastSynced] = useState(null);
 
     useEffect(() => {
-        fetch('/p24/spotify-data.json')
+        fetch('/spotify-data.json')
             .then(r => r.json())
             .then(d => setLastSynced(d.lastUpdated))
             .catch(() => {});
