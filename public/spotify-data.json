@@ -25,8 +25,8 @@
       "name": "CONTEST",
       "artist": "Travis Scott",
       "album": "JACKBOYS 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c9e25378bc8de02341f3db99",
-      "external_url": "https://open.spotify.com/track/2j3vVnYP5uCWpeGYXqXrUu"
+      "image": "https://i.scdn.co/image/ab67616d0000b273efbd6db75af779c6028cb95c",
+      "external_url": "https://open.spotify.com/track/6SeW9LxX9nUMLIcowW30fb"
     },
     {
       "name": "Away From Home",
@@ -43,6 +43,13 @@
       "external_url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
     },
     {
+      "name": "Ca$ino",
+      "artist": "Baby Keem",
+      "album": "Ca$ino",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+      "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
+    },
+    {
       "name": "ce",
       "artist": "Nettspend",
       "album": "early life crisis",
@@ -57,13 +64,6 @@
       "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
-      "name": "Ca$ino",
-      "artist": "Baby Keem",
-      "album": "Ca$ino",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
-      "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
-    },
-    {
       "name": "Type Beat",
       "artist": "prettifun",
       "album": "Pretti",
@@ -72,6 +72,14 @@
     }
   ],
   "topArtists": [
+    {
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+      "genres": [
+        "rap"
+      ]
+    },
     {
       "name": "prettifun",
       "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
@@ -105,23 +113,6 @@
       ]
     },
     {
-      "name": "Drake",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
-      "genres": [
-        "rap"
-      ]
-    },
-    {
-      "name": "Nine Vicious",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
-      "genres": [
-        "underground hip hop",
-        "rage rap"
-      ]
-    },
-    {
       "name": "Boards of Canada",
       "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
@@ -131,6 +122,23 @@
         "trip hop",
         "downtempo",
         "electronic"
+      ]
+    },
+    {
+      "name": "Che",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
+    {
+      "name": "Kanye West",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+      "external_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+      "genres": [
+        "rap"
       ]
     },
     {
@@ -146,16 +154,7 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb16208e184275c80f138735c2",
       "external_url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd",
       "genres": []
-    },
-    {
-      "name": "Che",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
     }
   ],
-  "lastUpdated": "2026-03-28T06:44:54.109Z"
+  "lastUpdated": "2026-03-29T06:52:18.810Z"
 }
