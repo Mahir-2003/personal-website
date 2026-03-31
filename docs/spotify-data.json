@@ -43,13 +43,6 @@
       "external_url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
     },
     {
-      "name": "Ca$ino",
-      "artist": "Baby Keem",
-      "album": "Ca$ino",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
-      "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
-    },
-    {
       "name": "ce",
       "artist": "Nettspend",
       "album": "early life crisis",
@@ -69,6 +62,13 @@
       "album": "Pretti",
       "image": "https://i.scdn.co/image/ab67616d0000b273986fb8c23fb36f54373ca88c",
       "external_url": "https://open.spotify.com/track/789hx4weUMcaO6x28wX1LP"
+    },
+    {
+      "name": "Landscape of Perpetual Oblivion",
+      "artist": "Slow Attack Ensemble",
+      "album": "Soundscapes for the Emotional-Type Listener",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
+      "external_url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
     }
   ],
   "topArtists": [
@@ -90,12 +90,6 @@
       ]
     },
     {
-      "name": "Don Toliver",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
-      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
-      "genres": []
-    },
-    {
       "name": "Slow Attack Ensemble",
       "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
       "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As",
@@ -113,6 +107,12 @@
       ]
     },
     {
+      "name": "Don Toliver",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
+      "genres": []
+    },
+    {
       "name": "Boards of Canada",
       "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
@@ -126,7 +126,7 @@
     },
     {
       "name": "Che",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb17b42820d63182b363ed5781",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
       "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
       "genres": [
         "rage rap",
@@ -156,5 +156,5 @@
       "genres": []
     }
   ],
-  "lastUpdated": "2026-03-30T07:14:33.620Z"
+  "lastUpdated": "2026-03-31T07:00:58.521Z"
 }
