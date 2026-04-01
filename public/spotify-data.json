@@ -22,13 +22,6 @@
       "external_url": "https://open.spotify.com/track/3JS3uZ6rk1q2ZrsccN665t"
     },
     {
-      "name": "CONTEST",
-      "artist": "Travis Scott",
-      "album": "JACKBOYS 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273efbd6db75af779c6028cb95c",
-      "external_url": "https://open.spotify.com/track/6SeW9LxX9nUMLIcowW30fb"
-    },
-    {
       "name": "Away From Home",
       "artist": "Drake",
       "album": "For All The Dogs",
@@ -41,6 +34,13 @@
       "album": "All I Did Was Dream of You (feat. The Marías)",
       "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
       "external_url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
+    },
+    {
+      "name": "CONTEST",
+      "artist": "Travis Scott",
+      "album": "JACKBOYS 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efbd6db75af779c6028cb95c",
+      "external_url": "https://open.spotify.com/track/6SeW9LxX9nUMLIcowW30fb"
     },
     {
       "name": "ce",
@@ -150,11 +150,13 @@
       ]
     },
     {
-      "name": "sosocamo",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb16208e184275c80f138735c2",
-      "external_url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd",
-      "genres": []
+      "name": "slayr",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
+      "genres": [
+        "rage rap"
+      ]
     }
   ],
-  "lastUpdated": "2026-03-31T07:00:58.521Z"
+  "lastUpdated": "2026-04-01T07:07:34.289Z"
 }
