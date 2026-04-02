@@ -22,13 +22,6 @@
       "external_url": "https://open.spotify.com/track/3JS3uZ6rk1q2ZrsccN665t"
     },
     {
-      "name": "Away From Home",
-      "artist": "Drake",
-      "album": "For All The Dogs",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
-      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
-    },
-    {
       "name": "All I Did Was Dream of You (feat. The Marías)",
       "artist": "beabadoobee",
       "album": "All I Did Was Dream of You (feat. The Marías)",
@@ -43,13 +36,6 @@
       "external_url": "https://open.spotify.com/track/6SeW9LxX9nUMLIcowW30fb"
     },
     {
-      "name": "ce",
-      "artist": "Nettspend",
-      "album": "early life crisis",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c43db80bd5f5f090c02a2a41",
-      "external_url": "https://open.spotify.com/track/0EnWCYFq2hDjHjqBEzpIbq"
-    },
-    {
       "name": "DON'T BE DUMB / TRIP BABY",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -57,11 +43,25 @@
       "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
+      "name": "ce",
+      "artist": "Nettspend",
+      "album": "early life crisis",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c43db80bd5f5f090c02a2a41",
+      "external_url": "https://open.spotify.com/track/0EnWCYFq2hDjHjqBEzpIbq"
+    },
+    {
       "name": "Type Beat",
       "artist": "prettifun",
       "album": "Pretti",
       "image": "https://i.scdn.co/image/ab67616d0000b273986fb8c23fb36f54373ca88c",
       "external_url": "https://open.spotify.com/track/789hx4weUMcaO6x28wX1LP"
+    },
+    {
+      "name": "Away From Home",
+      "artist": "Drake",
+      "album": "For All The Dogs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     },
     {
       "name": "Landscape of Perpetual Oblivion",
@@ -113,6 +113,15 @@
       "genres": []
     },
     {
+      "name": "Che",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ]
+    },
+    {
       "name": "Boards of Canada",
       "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
@@ -125,20 +134,12 @@
       ]
     },
     {
-      "name": "Che",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+      "name": "slayr",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
       "genres": [
         "rage rap",
         "underground hip hop"
-      ]
-    },
-    {
-      "name": "Kanye West",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-      "external_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
-      "genres": [
-        "rap"
       ]
     },
     {
@@ -150,13 +151,13 @@
       ]
     },
     {
-      "name": "slayr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
+      "name": "Kanye West",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+      "external_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
       "genres": [
-        "rage rap"
+        "rap"
       ]
     }
   ],
-  "lastUpdated": "2026-04-01T07:07:34.289Z"
+  "lastUpdated": "2026-04-02T06:59:18.741Z"
 }
