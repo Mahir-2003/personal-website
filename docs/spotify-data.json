@@ -29,13 +29,6 @@
       "external_url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
     },
     {
-      "name": "CONTEST",
-      "artist": "Travis Scott",
-      "album": "JACKBOYS 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273efbd6db75af779c6028cb95c",
-      "external_url": "https://open.spotify.com/track/6SeW9LxX9nUMLIcowW30fb"
-    },
-    {
       "name": "DON'T BE DUMB / TRIP BABY",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -69,6 +62,13 @@
       "album": "Soundscapes for the Emotional-Type Listener",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
       "external_url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
+    },
+    {
+      "name": "Elegy for Elodie",
+      "artist": "Slow Attack Ensemble",
+      "album": "Soundscapes for the Emotional-Type Listener",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
+      "external_url": "https://open.spotify.com/track/3Rt6DVyF0LjZGf19DRRT2g"
     }
   ],
   "topArtists": [
@@ -90,11 +90,12 @@
       ]
     },
     {
-      "name": "Slow Attack Ensemble",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
-      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As",
+      "name": "slayr",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
       "genres": [
-        "ambient"
+        "rage rap",
+        "underground hip hop"
       ]
     },
     {
@@ -107,10 +108,12 @@
       ]
     },
     {
-      "name": "Don Toliver",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
-      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
-      "genres": []
+      "name": "Slow Attack Ensemble",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
+      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As",
+      "genres": [
+        "ambient"
+      ]
     },
     {
       "name": "Che",
@@ -134,18 +137,17 @@
       ]
     },
     {
-      "name": "slayr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
       "name": "A$AP Rocky",
       "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
       "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
+      "genres": [
+        "rap"
+      ]
+    },
+    {
+      "name": "Travis Scott",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
       "genres": [
         "rap"
       ]
@@ -159,5 +161,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-04-02T06:59:18.741Z"
+  "lastUpdated": "2026-04-03T06:56:33.802Z"
 }
