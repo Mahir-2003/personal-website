@@ -29,18 +29,11 @@
       "external_url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
     },
     {
-      "name": "DON'T BE DUMB / TRIP BABY",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413",
-      "external_url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
-    },
-    {
-      "name": "ce",
-      "artist": "Nettspend",
-      "album": "early life crisis",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c43db80bd5f5f090c02a2a41",
-      "external_url": "https://open.spotify.com/track/0EnWCYFq2hDjHjqBEzpIbq"
+      "name": "Posing Tonight",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/2JLzVBFFRsqgmu20e3p2Rm"
     },
     {
       "name": "Type Beat",
@@ -57,18 +50,25 @@
       "external_url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
     },
     {
-      "name": "Posing Tonight",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/2JLzVBFFRsqgmu20e3p2Rm"
-    },
-    {
       "name": "Elegy for Elodie",
       "artist": "Slow Attack Ensemble",
       "album": "Soundscapes for the Emotional-Type Listener",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
       "external_url": "https://open.spotify.com/track/3Rt6DVyF0LjZGf19DRRT2g"
+    },
+    {
+      "name": "Mizue",
+      "artist": "Slow Attack Ensemble",
+      "album": "Soundscapes for the Emotional-Type Listener",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
+      "external_url": "https://open.spotify.com/track/4aQ5OQ1Wf6q9mdRaWwpkLD"
+    },
+    {
+      "name": "Need",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
     }
   ],
   "topArtists": [
@@ -85,15 +85,6 @@
       "name": "prettifun",
       "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
-      "name": "Nettspend",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
-      "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA",
       "genres": [
         "rage rap",
         "underground hip hop"
@@ -154,13 +145,19 @@
       ]
     },
     {
-      "name": "A$AP Rocky",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
-      "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
+      "name": "Travis Scott",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
       "genres": [
         "rap"
       ]
+    },
+    {
+      "name": "diamond*",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5395dbf3c0f10f77c0bcb58c",
+      "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC",
+      "genres": []
     }
   ],
-  "lastUpdated": "2026-04-06T07:16:29.061Z"
+  "lastUpdated": "2026-04-07T07:03:28.380Z"
 }
