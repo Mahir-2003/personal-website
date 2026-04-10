@@ -8,6 +8,13 @@
       "external_url": "https://open.spotify.com/track/2gNnEP3XwJZ62SsnsaDOU7"
     },
     {
+      "name": "Trevon O'Ryan Echols",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
+    },
+    {
       "name": "November, 1st in Detroit",
       "artist": "Slow Attack Ensemble",
       "album": "Soundscapes for the Emotional-Type Listener",
@@ -15,25 +22,11 @@
       "external_url": "https://open.spotify.com/track/3JS3uZ6rk1q2ZrsccN665t"
     },
     {
-      "name": "All I Did Was Dream of You (feat. The Marías)",
-      "artist": "beabadoobee",
-      "album": "All I Did Was Dream of You (feat. The Marías)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
-      "external_url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
-    },
-    {
       "name": "Time Flies",
       "artist": "Drake",
       "album": "Dark Lane Demo Tapes",
       "image": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
       "external_url": "https://open.spotify.com/track/5H4mXWKcicuLKDn4Jy0sK7"
-    },
-    {
-      "name": "Trevon O'Ryan Echols",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
     },
     {
       "name": "Project4play/Svj",
@@ -50,6 +43,20 @@
       "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
     },
     {
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artist": "beabadoobee",
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "external_url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
+    },
+    {
+      "name": "Vivienne Westwood / RIP",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
+    },
+    {
       "name": "Posing Tonight",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
@@ -62,13 +69,6 @@
       "album": "Pretti",
       "image": "https://i.scdn.co/image/ab67616d0000b273986fb8c23fb36f54373ca88c",
       "external_url": "https://open.spotify.com/track/789hx4weUMcaO6x28wX1LP"
-    },
-    {
-      "name": "Landscape of Perpetual Oblivion",
-      "artist": "Slow Attack Ensemble",
-      "album": "Soundscapes for the Emotional-Type Listener",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
-      "external_url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
     }
   ],
   "topArtists": [
@@ -159,5 +159,5 @@
       "genres": []
     }
   ],
-  "lastUpdated": "2026-04-09T07:09:32.264Z"
+  "lastUpdated": "2026-04-10T07:14:18.779Z"
 }
