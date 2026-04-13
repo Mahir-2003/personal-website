@@ -2,7 +2,8 @@ name: Update Static Data
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # runs every day at 6 AM UTC, 1 AM CST
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 permissions:
