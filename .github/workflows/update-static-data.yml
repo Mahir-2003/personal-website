@@ -118,16 +118,28 @@ jobs:
         run: |
           python3 - << 'EOF'
           import urllib.request
+          import urllib.error
           import xml.etree.ElementTree as ET
           import json
           import re
           import os
+          import sys
           from datetime import datetime
 
           url = 'https://letterboxd.com/MeatyMahir/rss/'
           req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-          with urllib.request.urlopen(req) as response:
-              xml_data = response.read().decode('utf-8')
+
+          try:
+              with urllib.request.urlopen(req, timeout=15) as response:
+                  status = response.status
+                  xml_data = response.read().decode('utf-8')
+              print(f'Fetched RSS OK (HTTP {status}), length={len(xml_data)}')
+          except urllib.error.HTTPError as e:
+              print(f'ERROR: HTTP {e.code} fetching RSS: {e.reason}', file=sys.stderr)
+              sys.exit(1)
+          except Exception as e:
+              print(f'ERROR fetching RSS: {e}', file=sys.stderr)
+              sys.exit(1)
 
           LB = 'https://letterboxd.com'
 
@@ -143,6 +155,8 @@ jobs:
               watched_date = item.findtext(f'{{{LB}}}watchedDate') or ''
               link = item.findtext('link') or ''
               description = item.findtext('description') or ''
+
+              print(f'  Parsed: {film_title!r} ({film_year}) rating={rating_val!r} date={watched_date!r}')
 
               if rating_val:
                   r = float(rating_val)
