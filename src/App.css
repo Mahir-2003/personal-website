@@ -467,11 +467,53 @@ body {
   100% { background-position: 0 0, 0 0, 200px 200px, 250px 250px, 300px 300px, 0 0; }
 }
 
+/* ===== LCARS Inline Hyperlink ===== */
+.lcars-inline-link {
+  position: relative;
+  color: #fb923c;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-shadow: 0 0 8px rgba(251, 146, 60, 0.35);
+  text-decoration: none;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+  white-space: nowrap;
+}
+
+/* Resting underline: dim gradient bar */
+.lcars-inline-link::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, #fb923c 30%, #fb923c 70%, transparent 100%);
+  opacity: 0.4;
+  box-shadow: 0 0 4px rgba(251, 146, 60, 0.3);
+  transition: opacity 0.35s ease, box-shadow 0.35s ease;
+  pointer-events: none;
+}
+
+.lcars-inline-link:hover {
+  color: #ffc166;
+  text-shadow:
+    0 0 10px rgba(251, 146, 60, 0.85),
+    0 0 22px rgba(251, 146, 60, 0.45),
+    0 0 38px rgba(251, 146, 60, 0.18);
+}
+
+.lcars-inline-link:hover::after {
+  opacity: 1;
+  box-shadow: 0 0 8px rgba(251, 146, 60, 0.75), 0 0 18px rgba(251, 146, 60, 0.35);
+}
+
 /* Respect reduced motion */
 @media (prefers-reduced-motion: reduce) {
   .lcars-loading-overlay,
   .lcars-seg::before,
   .lcars-seg,
   .lcars-dot { animation: none !important; }
+
+  .lcars-inline-link, .lcars-inline-link::after { transition: none !important; }
 }
 

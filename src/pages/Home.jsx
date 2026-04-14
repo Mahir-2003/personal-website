@@ -1,5 +1,6 @@
 import { Canvas } from '@react-three/fiber';
 import { Suspense, useMemo } from 'react';
+import { Link } from 'react-router';
 import Galaxy from '../components/Galaxy';
 import Starfield from '../components/Starfield';
 import CareerTimeline from '../components/CareerTimeline';
@@ -86,13 +87,13 @@ const Home = () => {
                         </h2>
                         <div className="bg-gray-900/90 backdrop-blur-sm p-6 rounded-lg border border-blue-400/30">
                             <p className="text-gray-300 leading-relaxed">
-                                I am an aspiring software engineer with a passion for creating innovative solutions
-                                and exploring the possibilities of technology. I believe in seeking out new technologies,
-                                new frameworks, and boldly building what no one has built before.
+                                I am a software engineer with a passion for creating innovative solutions
+                                and exploring the possibilities of technology. I'm always seeking out new technologies,
+                                new frameworks, and boldly building exploring no one has before.
                             </p>
                             <br />
                             <p className="text-gray-300 leading-relaxed">
-                                When I'm not engineering, you'll likely find me playing video games, listening to music, watching movies, or contemplating about space.
+                                When I'm not engineering, you'll likely find me playing video games, listening to music, or watching movies - Feel free to check out my <Link to="/personal-log" className="lcars-inline-link">Personal Log</Link> to see what I've been up to!
                             </p>
                         </div>
                     </section>

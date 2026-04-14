@@ -30,7 +30,7 @@ const CareerTimeline = () => {
             company: "UW-Madison Space Science and Engineering Center",
             position: "Software Engineer Intern",
             description: [
-                "Working on the NASA Cloud Mask Project, optimizing the codebase to be more memory efficient"
+                "Worked on the NASA Cloud Mask Project, optimizing the codebase to be more memory efficient"
             ],
             img: ssecLogo
 
