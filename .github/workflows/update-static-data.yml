@@ -113,6 +113,7 @@ jobs:
 
   fetch-letterboxd:
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - name: Fetch Letterboxd data
         run: |
@@ -124,21 +125,40 @@ jobs:
           import re
           import os
           import sys
+          import time
           from datetime import datetime
 
           url = 'https://letterboxd.com/MeatyMahir/rss/'
-          req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+          headers = {
+              'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+              'Accept': 'application/rss+xml,application/xml,text/xml,*/*',
+              'Accept-Language': 'en-US,en;q=0.9',
+          }
 
-          try:
-              with urllib.request.urlopen(req, timeout=15) as response:
-                  status = response.status
-                  xml_data = response.read().decode('utf-8')
-              print(f'Fetched RSS OK (HTTP {status}), length={len(xml_data)}')
-          except urllib.error.HTTPError as e:
-              print(f'ERROR: HTTP {e.code} fetching RSS: {e.reason}', file=sys.stderr)
-              sys.exit(1)
-          except Exception as e:
-              print(f'ERROR fetching RSS: {e}', file=sys.stderr)
+          xml_data = None
+          for attempt in range(3):
+              try:
+                  req = urllib.request.Request(url, headers=headers)
+                  with urllib.request.urlopen(req, timeout=30) as response:
+                      status = response.status
+                      xml_data = response.read().decode('utf-8')
+                  print(f'Fetched RSS OK (HTTP {status}), length={len(xml_data)}')
+                  break
+              except urllib.error.HTTPError as e:
+                  print(f'Attempt {attempt+1}: HTTP {e.code} - {e.reason}', file=sys.stderr)
+                  if e.code in [429, 503] and attempt < 2:
+                      time.sleep(10 * (attempt + 1))
+                  else:
+                      sys.exit(1)
+              except Exception as e:
+                  print(f'Attempt {attempt+1}: {e}', file=sys.stderr)
+                  if attempt < 2:
+                      time.sleep(10)
+                  else:
+                      sys.exit(1)
+
+          if xml_data is None:
+              print('All retry attempts failed', file=sys.stderr)
               sys.exit(1)
 
           LB = 'https://letterboxd.com'
@@ -211,6 +231,7 @@ jobs:
           path: .
 
       - uses: actions/download-artifact@v4
+        continue-on-error: true
         with:
           name: letterboxd-data
           path: .
