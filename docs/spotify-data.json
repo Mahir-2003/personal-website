@@ -1,11 +1,19 @@
 {
+  "lastUpdated": "2026-04-19T19:41:33.218Z",
   "topTracks": [
     {
-      "name": "DIE HARD",
-      "artist": "Che",
-      "album": "REST IN BASS: ENCORE",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f7f1e129b06640d7836c9a5c",
-      "external_url": "https://open.spotify.com/track/2gNnEP3XwJZ62SsnsaDOU7"
+      "name": "Blowing Emotions",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/3tJwazgzs1oyFeBZboDczp"
+    },
+    {
+      "name": "Vivienne Westwood / RIP",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
     },
     {
       "name": "Trevon O'Ryan Echols",
@@ -15,11 +23,18 @@
       "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
     },
     {
-      "name": "November, 1st in Detroit",
-      "artist": "Slow Attack Ensemble",
-      "album": "Soundscapes for the Emotional-Type Listener",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c323c9ba4755ca63297dc34",
-      "external_url": "https://open.spotify.com/track/3JS3uZ6rk1q2ZrsccN665t"
+      "name": "Need",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
+    },
+    {
+      "name": "Want U",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/2TMaFYbBks4HTZndM2U5eC"
     },
     {
       "name": "Project4play/Svj",
@@ -36,18 +51,11 @@
       "external_url": "https://open.spotify.com/track/5H4mXWKcicuLKDn4Jy0sK7"
     },
     {
-      "name": "Need",
+      "name": "Sunset Hill",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
-    },
-    {
-      "name": "Vivienne Westwood / RIP",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
+      "external_url": "https://open.spotify.com/track/2kGrJIxMfR7aG7C2ozQm1e"
     },
     {
       "name": "Posing Tonight",
@@ -57,6 +65,13 @@
       "external_url": "https://open.spotify.com/track/2JLzVBFFRsqgmu20e3p2Rm"
     },
     {
+      "name": "I can live w that",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342048479746d51802d8552e1",
+      "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
+    },
+    {
       "name": "Talk About It",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
@@ -64,100 +79,188 @@
       "external_url": "https://open.spotify.com/track/655xaThetgIXE8mSupvVpP"
     },
     {
+      "name": "FATHER (feat. Travis Scott)",
+      "artist": "Kanye West",
+      "album": "BULLY",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+      "external_url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
+    },
+    {
+      "name": "Molly Ecstacy",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/6EohETAKrGAxnDitgIZR2j"
+    },
+    {
       "name": "Type Beat",
       "artist": "prettifun",
       "album": "Pretti",
       "image": "https://i.scdn.co/image/ab67616d0000b273986fb8c23fb36f54373ca88c",
       "external_url": "https://open.spotify.com/track/789hx4weUMcaO6x28wX1LP"
+    },
+    {
+      "name": "Glass",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342048479746d51802d8552e1",
+      "external_url": "https://open.spotify.com/track/0dyU4wcuHCldwHD9MQFVjM"
+    },
+    {
+      "name": "Clock It",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/4pkzd0unmJ0x1Db4ldhw54"
+    },
+    {
+      "name": "My Whole Heart",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/4vMFhv4TnqHzIFy5FHCov0"
+    },
+    {
+      "name": "Lifes Funny",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/0atizZNug6v8gWF9lLNNXn"
+    },
+    {
+      "name": "Pray for...",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342048479746d51802d8552e1",
+      "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
+    },
+    {
+      "name": "Electric Feel",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/2zzQ1ESLFz9KUwHInDWBu5"
+    },
+    {
+      "name": "Sketch 3",
+      "artist": "Tim Hecker",
+      "album": "Dropped Pianos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de86e440c074a89e0995ae09",
+      "external_url": "https://open.spotify.com/track/3sfQoqjzyrDpI8NXlZ2ddX"
+    },
+    {
+      "name": "Fashion Killa",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/6Xf6oTtMk6WahN6RNbJnca"
+    },
+    {
+      "name": "Forgot",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/7ojdYI5ntMP6FVw71NYh91"
+    },
+    {
+      "name": "Raging Love",
+      "artist": "Nine Vicious",
+      "album": "B4EM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9077a2ab5695ccf273c0443",
+      "external_url": "https://open.spotify.com/track/2dsYk3XN4OljAm2YYvzTfm"
+    },
+    {
+      "name": "DIE HARD",
+      "artist": "Che",
+      "album": "REST IN BASS: ENCORE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7f1e129b06640d7836c9a5c",
+      "external_url": "https://open.spotify.com/track/2gNnEP3XwJZ62SsnsaDOU7"
     }
   ],
   "topArtists": [
     {
       "name": "Nine Vicious",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy",
       "genres": [
         "rage rap",
         "underground hip hop"
-      ]
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
+      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+    },
+    {
+      "name": "kuru",
+      "genres": [
+        "hyperpop",
+        "glitch",
+        "cloud rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
       "name": "prettifun",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb786cb3a7d1e4009e2755ffbc",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
-      "name": "Slow Attack Ensemble",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
-      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As",
-      "genres": [
-        "ambient"
-      ]
-    },
-    {
-      "name": "Che",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
-      "name": "slayr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ]
-    },
-    {
-      "name": "Boards of Canada",
-      "image": "https://i.scdn.co/image/c533bf6f08a42119065d8c2171cdfa8e96720b4c",
-      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1",
-      "genres": [
-        "idm",
-        "ambient",
-        "trip hop",
-        "downtempo",
-        "electronic"
-      ]
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
       "name": "Kanye West",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-      "external_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
       "genres": [
         "rap"
-      ]
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+      "external_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    {
+      "name": "slayr",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+    },
+    {
+      "name": "Che",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+    },
+    {
+      "name": "Destroy Lonely",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
       "name": "Drake",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
       "genres": [
         "rap"
-      ]
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
       "name": "Travis Scott",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
-      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
       "genres": [
         "rap"
-      ]
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
     },
     {
-      "name": "diamond*",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5395dbf3c0f10f77c0bcb58c",
-      "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC",
-      "genres": []
+      "name": "Ye",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb592816284c71eee455ff7093",
+      "external_url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
     }
-  ],
-  "lastUpdated": "2026-04-12T07:02:33.108Z"
+  ]
 }
