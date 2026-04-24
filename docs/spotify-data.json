@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T07:58:05.634Z",
+  "lastUpdated": "2026-04-24T08:07:07.557Z",
   "topTracks": [
     {
       "name": "Blowing Emotions",
@@ -206,14 +206,6 @@
       "external_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     },
     {
-      "name": "Drake",
-      "genres": [
-        "rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-    },
-    {
       "name": "slayr",
       "genres": [
         "rage rap",
@@ -221,6 +213,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
       "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+    },
+    {
+      "name": "Tezzus",
+      "genres": [
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb3a33f0114702986fd0e6a32a",
+      "external_url": "https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm"
     },
     {
       "name": "Destroy Lonely",
@@ -231,12 +231,12 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
-      "name": "Tezzus",
+      "name": "Drake",
       "genres": [
-        "underground hip hop"
+        "rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb3a33f0114702986fd0e6a32a",
-      "external_url": "https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
       "name": "Che",
