@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T08:07:07.557Z",
+  "lastUpdated": "2026-04-25T07:20:50.312Z",
   "topTracks": [
     {
       "name": "Blowing Emotions",
@@ -37,18 +37,18 @@
       "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
     },
     {
-      "name": "Need",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
-    },
-    {
       "name": "I can live w that",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
+    },
+    {
+      "name": "Need",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
     },
     {
       "name": "Want U",
@@ -93,6 +93,13 @@
       "external_url": "https://open.spotify.com/track/2JLzVBFFRsqgmu20e3p2Rm"
     },
     {
+      "name": "Noir kei",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
+    },
+    {
       "name": "Pray for...",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -105,6 +112,13 @@
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
       "external_url": "https://open.spotify.com/track/4pkzd0unmJ0x1Db4ldhw54"
+    },
+    {
+      "name": "Good game",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/6p32RsBARvo6qlCyiuqnAk"
     },
     {
       "name": "Don't get stuck",
@@ -128,13 +142,6 @@
       "external_url": "https://open.spotify.com/track/6EohETAKrGAxnDitgIZR2j"
     },
     {
-      "name": "Good game",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/6p32RsBARvo6qlCyiuqnAk"
-    },
-    {
       "name": "Gracious",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -156,25 +163,18 @@
       "external_url": "https://open.spotify.com/track/0atizZNug6v8gWF9lLNNXn"
     },
     {
-      "name": "Noir kei",
+      "name": "FW19",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
+      "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
     },
     {
-      "name": "Electric Feel",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/2zzQ1ESLFz9KUwHInDWBu5"
-    },
-    {
-      "name": "Sketch 3",
-      "artist": "Tim Hecker",
-      "album": "Dropped Pianos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273de86e440c074a89e0995ae09",
-      "external_url": "https://open.spotify.com/track/3sfQoqjzyrDpI8NXlZ2ddX"
+      "name": "Let the keys cry",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/0FywccftKyXPwzXlKoFJmm"
     }
   ],
   "topArtists": [
@@ -191,8 +191,7 @@
       "name": "kuru",
       "genres": [
         "hyperpop",
-        "cloud rap",
-        "glitch"
+        "cloud rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
@@ -248,12 +247,6 @@
       "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
     },
     {
-      "name": "Ye",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb592816284c71eee455ff7093",
-      "external_url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-    },
-    {
       "name": "Boards of Canada",
       "genres": [
         "idm",
@@ -264,6 +257,12 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+    },
+    {
+      "name": "Tory Lanez",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb408e89661ccd44e0dc21ca45",
+      "external_url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
     }
   ]
 }
