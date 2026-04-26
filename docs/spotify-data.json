@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T07:20:50.312Z",
+  "lastUpdated": "2026-04-26T07:43:07.076Z",
   "topTracks": [
     {
       "name": "Blowing Emotions",
@@ -16,6 +16,13 @@
       "external_url": "https://open.spotify.com/track/0dyU4wcuHCldwHD9MQFVjM"
     },
     {
+      "name": "End of spring",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
+    },
+    {
       "name": "Trevon O'Ryan Echols",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
@@ -28,13 +35,6 @@
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
       "external_url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
-    },
-    {
-      "name": "End of spring",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
     },
     {
       "name": "I can live w that",
@@ -128,13 +128,6 @@
       "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
     },
     {
-      "name": "FATHER (feat. Travis Scott)",
-      "artist": "Kanye West",
-      "album": "BULLY",
-      "image": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
-      "external_url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
-    },
-    {
       "name": "Molly Ecstacy",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
@@ -175,6 +168,13 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/0FywccftKyXPwzXlKoFJmm"
+    },
+    {
+      "name": "Electric Feel",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/2zzQ1ESLFz9KUwHInDWBu5"
     }
   ],
   "topArtists": [
@@ -195,14 +195,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-    },
-    {
-      "name": "Kanye West",
-      "genres": [
-        "rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-      "external_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     },
     {
       "name": "slayr",
@@ -238,15 +230,6 @@
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
-      "name": "Che",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
-    },
-    {
       "name": "Boards of Canada",
       "genres": [
         "idm",
@@ -263,6 +246,24 @@
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb408e89661ccd44e0dc21ca45",
       "external_url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+    },
+    {
+      "name": "Lil Uzi Vert",
+      "genres": [
+        "melodic rap",
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+    },
+    {
+      "name": "You'll Never Get to Heaven",
+      "genres": [
+        "dream pop",
+        "shoegaze"
+      ],
+      "image": "https://i.scdn.co/image/9c743f55c4581a5fdc458f8e79f3b4e2f5cf8e57",
+      "external_url": "https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7"
     }
   ]
 }
