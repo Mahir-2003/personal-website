@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T08:28:02.027Z",
+  "lastUpdated": "2026-04-29T08:22:20.770Z",
   "topTracks": [
     {
       "name": "Blowing Emotions",
@@ -51,6 +51,13 @@
       "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
     },
     {
+      "name": "Shibuya transfer",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
+    },
+    {
       "name": "Project4play/Svj",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
@@ -70,13 +77,6 @@
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
       "external_url": "https://open.spotify.com/track/2TMaFYbBks4HTZndM2U5eC"
-    },
-    {
-      "name": "Shibuya transfer",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
     },
     {
       "name": "Gracious",
@@ -207,9 +207,7 @@
     },
     {
       "name": "Tezzus",
-      "genres": [
-        "underground hip hop"
-      ],
+      "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb3a33f0114702986fd0e6a32a",
       "external_url": "https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm"
     },
