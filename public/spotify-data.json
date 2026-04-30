@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T08:22:20.770Z",
+  "lastUpdated": "2026-04-30T08:24:40.751Z",
   "topTracks": [
     {
       "name": "Blowing Emotions",
@@ -37,6 +37,13 @@
       "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
     },
     {
+      "name": "Shibuya transfer",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
+    },
+    {
       "name": "I can live w that",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -51,11 +58,11 @@
       "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
     },
     {
-      "name": "Shibuya transfer",
+      "name": "U wld never do it",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
+      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
     },
     {
       "name": "Project4play/Svj",
@@ -79,18 +86,18 @@
       "external_url": "https://open.spotify.com/track/2TMaFYbBks4HTZndM2U5eC"
     },
     {
-      "name": "Gracious",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/2kd2D7YoZnSYDxNadbOz7I"
-    },
-    {
       "name": "Don't get stuck",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
+    },
+    {
+      "name": "Gracious",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/2kd2D7YoZnSYDxNadbOz7I"
     },
     {
       "name": "Talk About It",
@@ -107,11 +114,11 @@
       "external_url": "https://open.spotify.com/track/2kGrJIxMfR7aG7C2ozQm1e"
     },
     {
-      "name": "U wld never do it",
+      "name": "Noir kei",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
     },
     {
       "name": "Clock It",
@@ -149,13 +156,6 @@
       "external_url": "https://open.spotify.com/track/7ojdYI5ntMP6FVw71NYh91"
     },
     {
-      "name": "Noir kei",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
-    },
-    {
       "name": "Like glue",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -179,15 +179,6 @@
   ],
   "topArtists": [
     {
-      "name": "Nine Vicious",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
-    },
-    {
       "name": "kuru",
       "genres": [
         "hyperpop",
@@ -197,13 +188,13 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
-      "name": "slayr",
+      "name": "Nine Vicious",
       "genres": [
         "rage rap",
         "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
+      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     },
     {
       "name": "Tezzus",
@@ -220,13 +211,13 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
-      "name": "Che",
+      "name": "slayr",
       "genres": [
         "rage rap",
         "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
     },
     {
       "name": "Boards of Canada",
@@ -239,6 +230,15 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+    },
+    {
+      "name": "Che",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
     },
     {
       "name": "Tory Lanez",
@@ -255,13 +255,13 @@
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
-      "name": "Lil Uzi Vert",
+      "name": "You'll Never Get to Heaven",
       "genres": [
-        "melodic rap",
-        "rage rap"
+        "dream pop",
+        "shoegaze"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
-      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+      "image": "https://i.scdn.co/image/9c743f55c4581a5fdc458f8e79f3b4e2f5cf8e57",
+      "external_url": "https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7"
     }
   ]
 }
