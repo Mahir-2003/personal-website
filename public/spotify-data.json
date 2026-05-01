@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T08:24:40.751Z",
+  "lastUpdated": "2026-05-01T08:14:00.428Z",
   "topTracks": [
     {
       "name": "Blowing Emotions",
@@ -128,6 +128,13 @@
       "external_url": "https://open.spotify.com/track/4pkzd0unmJ0x1Db4ldhw54"
     },
     {
+      "name": "Let the keys cry",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/0FywccftKyXPwzXlKoFJmm"
+    },
+    {
       "name": "Posing Tonight",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
@@ -168,13 +175,6 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/6p32RsBARvo6qlCyiuqnAk"
-    },
-    {
-      "name": "Lifes Funny",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/0atizZNug6v8gWF9lLNNXn"
     }
   ],
   "topArtists": [
@@ -198,7 +198,9 @@
     },
     {
       "name": "Tezzus",
-      "genres": [],
+      "genres": [
+        "underground hip hop"
+      ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb3a33f0114702986fd0e6a32a",
       "external_url": "https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm"
     },
@@ -211,15 +213,6 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
-      "name": "slayr",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5de59c4f047745a6514fbf1e",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
-    },
-    {
       "name": "Boards of Canada",
       "genres": [
         "idm",
@@ -230,15 +223,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-    },
-    {
-      "name": "Che",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
     },
     {
       "name": "Tory Lanez",
@@ -262,6 +246,23 @@
       ],
       "image": "https://i.scdn.co/image/9c743f55c4581a5fdc458f8e79f3b4e2f5cf8e57",
       "external_url": "https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7"
+    },
+    {
+      "name": "Lil Uzi Vert",
+      "genres": [
+        "melodic rap",
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+    },
+    {
+      "name": "Kanye West",
+      "genres": [
+        "rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+      "external_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     }
   ]
 }
