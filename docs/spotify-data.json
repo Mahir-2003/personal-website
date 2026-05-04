@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T08:03:42.313Z",
+  "lastUpdated": "2026-05-04T08:32:23.010Z",
   "topTracks": [
     {
       "name": "Glass",
@@ -42,6 +42,13 @@
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
       "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
+    },
+    {
+      "name": "Away From Home",
+      "artist": "Drake",
+      "album": "For All The Dogs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     },
     {
       "name": "Vivienne Westwood / RIP",
@@ -168,21 +175,13 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/6p32RsBARvo6qlCyiuqnAk"
-    },
-    {
-      "name": "Forgot",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/7ojdYI5ntMP6FVw71NYh91"
     }
   ],
   "topArtists": [
     {
       "name": "kuru",
       "genres": [
-        "hyperpop",
-        "cloud rap"
+        "hyperpop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
@@ -193,7 +192,7 @@
         "rage rap",
         "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9d3d1eb4d6eef6e04e4d1d89",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb759cf00050615f7aa558dd3d",
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     },
     {
@@ -204,9 +203,7 @@
     },
     {
       "name": "Tezzus",
-      "genres": [
-        "underground hip hop"
-      ],
+      "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb3a33f0114702986fd0e6a32a",
       "external_url": "https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm"
     },
@@ -217,6 +214,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+    },
+    {
+      "name": "Drake",
+      "genres": [
+        "rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
       "name": "Boards of Canada",
@@ -231,14 +236,6 @@
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
     },
     {
-      "name": "Drake",
-      "genres": [
-        "rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-    },
-    {
       "name": "Tory Lanez",
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb408e89661ccd44e0dc21ca45",
@@ -251,13 +248,18 @@
       "external_url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
     },
     {
-      "name": "Lil Uzi Vert",
+      "name": "Tim Hecker",
       "genres": [
-        "melodic rap",
-        "rage rap"
+        "drone",
+        "ambient",
+        "electroacoustic",
+        "idm",
+        "dark ambient",
+        "experimental",
+        "minimalism"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
-      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
+      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
     }
   ]
 }
