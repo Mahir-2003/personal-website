@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T08:32:23.010Z",
+  "lastUpdated": "2026-05-05T08:13:01.783Z",
   "topTracks": [
     {
       "name": "Glass",
@@ -37,18 +37,18 @@
       "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
     },
     {
-      "name": "Trevon O'Ryan Echols",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
-    },
-    {
       "name": "Away From Home",
       "artist": "Drake",
       "album": "For All The Dogs",
       "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
       "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
+    },
+    {
+      "name": "Trevon O'Ryan Echols",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
     },
     {
       "name": "Vivienne Westwood / RIP",
@@ -128,13 +128,6 @@
       "external_url": "https://open.spotify.com/track/0FywccftKyXPwzXlKoFJmm"
     },
     {
-      "name": "Clock It",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/4pkzd0unmJ0x1Db4ldhw54"
-    },
-    {
       "name": "Sunset Hill",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
@@ -156,13 +149,6 @@
       "external_url": "https://open.spotify.com/track/4WNPHMoMm3tcGW70lxRkZ4"
     },
     {
-      "name": "Talk About It",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/655xaThetgIXE8mSupvVpP"
-    },
-    {
       "name": "Molly Ecstacy",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
@@ -175,6 +161,20 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/6p32RsBARvo6qlCyiuqnAk"
+    },
+    {
+      "name": "Forgot",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/7ojdYI5ntMP6FVw71NYh91"
+    },
+    {
+      "name": "Clock It",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/4pkzd0unmJ0x1Db4ldhw54"
     }
   ],
   "topArtists": [
@@ -202,6 +202,14 @@
       "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
+      "name": "Drake",
+      "genres": [
+        "rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
       "name": "Tezzus",
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb3a33f0114702986fd0e6a32a",
@@ -216,12 +224,20 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
-      "name": "Drake",
+      "name": "Slow Attack Ensemble",
       "genres": [
-        "rap"
+        "ambient"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
+      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
+    },
+    {
+      "name": "Chino Yoshio",
+      "genres": [
+        "ambient"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebac5e2e3006ac53462db15b60",
+      "external_url": "https://open.spotify.com/artist/6oY3qWxcj7thT8q0zogH8m"
     },
     {
       "name": "Boards of Canada",
@@ -236,30 +252,14 @@
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
     },
     {
-      "name": "Tory Lanez",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb408e89661ccd44e0dc21ca45",
-      "external_url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-    },
-    {
-      "name": "North West",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb967b9470e21b38a7836b0bbd",
-      "external_url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
-    },
-    {
-      "name": "Tim Hecker",
+      "name": "Terekke",
       "genres": [
-        "drone",
         "ambient",
-        "electroacoustic",
-        "idm",
-        "dark ambient",
-        "experimental",
-        "minimalism"
+        "lo-fi house",
+        "drone"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
-      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+      "image": "https://i.scdn.co/image/b95ac9c97ae339ba7100f620f060ebd0e1b9652b",
+      "external_url": "https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu"
     }
   ]
 }
