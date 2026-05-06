@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T08:13:01.783Z",
+  "lastUpdated": "2026-05-06T08:29:08.328Z",
   "topTracks": [
     {
       "name": "Glass",
@@ -30,18 +30,18 @@
       "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
     },
     {
-      "name": "I can live w that",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
-    },
-    {
       "name": "Away From Home",
       "artist": "Drake",
       "album": "For All The Dogs",
       "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
       "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
+    },
+    {
+      "name": "I can live w that",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
     },
     {
       "name": "Trevon O'Ryan Echols",
@@ -70,6 +70,13 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
+    },
+    {
+      "name": "My Whole Heart",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/4vMFhv4TnqHzIFy5FHCov0"
     },
     {
       "name": "Don't get stuck",
@@ -105,13 +112,6 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
-    },
-    {
-      "name": "My Whole Heart",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/4vMFhv4TnqHzIFy5FHCov0"
     },
     {
       "name": "Need",
@@ -202,6 +202,18 @@
       "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
+      "name": "Boards of Canada",
+      "genres": [
+        "idm",
+        "ambient",
+        "trip hop",
+        "downtempo",
+        "electronic"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d",
+      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+    },
+    {
       "name": "Drake",
       "genres": [
         "rap"
@@ -224,12 +236,14 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
-      "name": "Slow Attack Ensemble",
+      "name": "Lucy Bedroque",
       "genres": [
-        "ambient"
+        "hyperpop",
+        "rage rap",
+        "cloud rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
-      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
       "name": "Chino Yoshio",
@@ -240,26 +254,12 @@
       "external_url": "https://open.spotify.com/artist/6oY3qWxcj7thT8q0zogH8m"
     },
     {
-      "name": "Boards of Canada",
+      "name": "Slow Attack Ensemble",
       "genres": [
-        "idm",
-        "ambient",
-        "trip hop",
-        "downtempo",
-        "electronic"
+        "ambient"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d",
-      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-    },
-    {
-      "name": "Terekke",
-      "genres": [
-        "ambient",
-        "lo-fi house",
-        "drone"
-      ],
-      "image": "https://i.scdn.co/image/b95ac9c97ae339ba7100f620f060ebd0e1b9652b",
-      "external_url": "https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
+      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
     }
   ]
 }
