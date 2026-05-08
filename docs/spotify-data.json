@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T08:36:27.978Z",
+  "lastUpdated": "2026-05-08T07:44:42.166Z",
   "topTracks": [
     {
       "name": "Glass",
@@ -44,25 +44,18 @@
       "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
     },
     {
-      "name": "U wld never do it",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
-    },
-    {
-      "name": "Vivienne Westwood / RIP",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
-    },
-    {
       "name": "Pray for...",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
+    },
+    {
+      "name": "U wld never do it",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
     },
     {
       "name": "Don't get stuck",
@@ -72,27 +65,6 @@
       "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
     },
     {
-      "name": "Gracious",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/2kd2D7YoZnSYDxNadbOz7I"
-    },
-    {
-      "name": "Noir kei",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
-    },
-    {
-      "name": "Trevon O'Ryan Echols",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
-    },
-    {
       "name": "FW19",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -100,25 +72,11 @@
       "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
     },
     {
-      "name": "My Whole Heart",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/4vMFhv4TnqHzIFy5FHCov0"
-    },
-    {
-      "name": "Let the keys cry",
+      "name": "Gracious",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/0FywccftKyXPwzXlKoFJmm"
-    },
-    {
-      "name": "Want U",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/2TMaFYbBks4HTZndM2U5eC"
+      "external_url": "https://open.spotify.com/track/2kd2D7YoZnSYDxNadbOz7I"
     },
     {
       "name": "Like glue",
@@ -128,18 +86,18 @@
       "external_url": "https://open.spotify.com/track/4WNPHMoMm3tcGW70lxRkZ4"
     },
     {
-      "name": "Good game",
+      "name": "Noir kei",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/6p32RsBARvo6qlCyiuqnAk"
+      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
     },
     {
-      "name": "Tofu",
+      "name": "Let the keys cry",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/506gkKhPTLXEbmpBqJaA3h"
+      "external_url": "https://open.spotify.com/track/0FywccftKyXPwzXlKoFJmm"
     },
     {
       "name": "Soju",
@@ -149,11 +107,60 @@
       "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
     },
     {
-      "name": "Need",
+      "name": "My Whole Heart",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
+      "external_url": "https://open.spotify.com/track/4vMFhv4TnqHzIFy5FHCov0"
+    },
+    {
+      "name": "Vivienne Westwood / RIP",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
+    },
+    {
+      "name": "Want U",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/2TMaFYbBks4HTZndM2U5eC"
+    },
+    {
+      "name": "Tofu",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/506gkKhPTLXEbmpBqJaA3h"
+    },
+    {
+      "name": "Three worlds apart",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/5CtOcvApQBGISBBzVsVZYt"
+    },
+    {
+      "name": "Good game",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/6p32RsBARvo6qlCyiuqnAk"
+    },
+    {
+      "name": "Trevon O'Ryan Echols",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
+    },
+    {
+      "name": "ufo shopping",
+      "artist": "tomcbumpz",
+      "album": "comfortable silence",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738acd052e5a399cf78c956d61",
+      "external_url": "https://open.spotify.com/track/3QIMsFyR69L7vURJfNqqEj"
     },
     {
       "name": "Ca$ino",
@@ -168,13 +175,6 @@
       "album": "Hurry Up Tomorrow",
       "image": "https://i.scdn.co/image/ab67616d0000b273460b137f921b16041901104a",
       "external_url": "https://open.spotify.com/track/4oahRRZECfGud6eL7Lj7CO"
-    },
-    {
-      "name": "Clock It",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/4pkzd0unmJ0x1Db4ldhw54"
     }
   ],
   "topArtists": [
@@ -202,26 +202,27 @@
       "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
+      "name": "Oneohtrix Point Never",
+      "genres": [
+        "plunderphonics",
+        "idm",
+        "drone",
+        "ambient",
+        "experimental",
+        "vaporwave"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
+      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+    },
+    {
       "name": "Lucy Bedroque",
       "genres": [
         "hyperpop",
-        "cloud rap",
-        "rage rap"
+        "rage rap",
+        "cloud rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
-    },
-    {
-      "name": "Boards of Canada",
-      "genres": [
-        "idm",
-        "ambient",
-        "trip hop",
-        "downtempo",
-        "electronic"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d",
-      "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
     },
     {
       "name": "Drake",
@@ -248,26 +249,20 @@
       "external_url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
     },
     {
-      "name": "Destroy Lonely",
+      "name": "Slow Attack Ensemble",
       "genres": [
-        "rage rap"
+        "ambient"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
+      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
     },
     {
-      "name": "Tim Hecker",
+      "name": "Chino Yoshio",
       "genres": [
-        "drone",
-        "ambient",
-        "electroacoustic",
-        "idm",
-        "dark ambient",
-        "experimental",
-        "minimalism"
+        "ambient"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
-      "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebac5e2e3006ac53462db15b60",
+      "external_url": "https://open.spotify.com/artist/6oY3qWxcj7thT8q0zogH8m"
     }
   ]
 }
