@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T08:10:13.021Z",
+  "lastUpdated": "2026-05-11T09:42:55.489Z",
   "topTracks": [
     {
       "name": "Glass",
@@ -107,13 +107,6 @@
       "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
     },
     {
-      "name": "My Whole Heart",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/4vMFhv4TnqHzIFy5FHCov0"
-    },
-    {
       "name": "Three worlds apart",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -121,18 +114,11 @@
       "external_url": "https://open.spotify.com/track/5CtOcvApQBGISBBzVsVZYt"
     },
     {
-      "name": "Vivienne Westwood / RIP",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
-    },
-    {
-      "name": "Want U",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/2TMaFYbBks4HTZndM2U5eC"
+      "name": "Lifeworld",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
     },
     {
       "name": "Tofu",
@@ -142,6 +128,20 @@
       "external_url": "https://open.spotify.com/track/506gkKhPTLXEbmpBqJaA3h"
     },
     {
+      "name": "My Whole Heart",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/4vMFhv4TnqHzIFy5FHCov0"
+    },
+    {
+      "name": "Vivienne Westwood / RIP",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
+    },
+    {
       "name": "Good game",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -149,32 +149,32 @@
       "external_url": "https://open.spotify.com/track/6p32RsBARvo6qlCyiuqnAk"
     },
     {
-      "name": "Trevon O'Ryan Echols",
+      "name": "Want U",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
+      "external_url": "https://open.spotify.com/track/2TMaFYbBks4HTZndM2U5eC"
     },
     {
-      "name": "ufo shopping",
-      "artist": "tomcbumpz",
-      "album": "comfortable silence",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738acd052e5a399cf78c956d61",
-      "external_url": "https://open.spotify.com/track/3QIMsFyR69L7vURJfNqqEj"
+      "name": "Cherry Blue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
     },
     {
-      "name": "Ca$ino",
-      "artist": "Baby Keem",
-      "album": "Ca$ino",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
-      "external_url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
+      "name": "For Residue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
-      "name": "Opening Night",
-      "artist": "The Weeknd",
-      "album": "Hurry Up Tomorrow",
-      "image": "https://i.scdn.co/image/ab67616d0000b273460b137f921b16041901104a",
-      "external_url": "https://open.spotify.com/track/4oahRRZECfGud6eL7Lj7CO"
+      "name": "Fear of Symmetry",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/0IXicbiQBfo03X1gvUooXp"
     }
   ],
   "topArtists": [
@@ -196,12 +196,6 @@
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     },
     {
-      "name": "The Weeknd",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
-      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-    },
-    {
       "name": "Oneohtrix Point Never",
       "genres": [
         "plunderphonics",
@@ -215,14 +209,10 @@
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
     },
     {
-      "name": "Lucy Bedroque",
-      "genres": [
-        "hyperpop",
-        "rage rap",
-        "cloud rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+      "name": "The Weeknd",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
       "name": "Drake",
@@ -231,6 +221,16 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "name": "Lucy Bedroque",
+      "genres": [
+        "hyperpop",
+        "rage rap",
+        "cloud rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
       "name": "Tezzus",
