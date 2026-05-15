@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T08:39:55.420Z",
+  "lastUpdated": "2026-05-15T08:50:55.603Z",
   "topTracks": [
     {
       "name": "Glass",
@@ -23,13 +23,6 @@
       "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
     },
     {
-      "name": "I can live w that",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
-    },
-    {
       "name": "Away From Home",
       "artist": "Drake",
       "album": "For All The Dogs",
@@ -37,18 +30,18 @@
       "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     },
     {
+      "name": "I can live w that",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
+    },
+    {
       "name": "U wld never do it",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
-    },
-    {
-      "name": "Pray for...",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
     },
     {
       "name": "Don't get stuck",
@@ -86,6 +79,13 @@
       "external_url": "https://open.spotify.com/track/0FywccftKyXPwzXlKoFJmm"
     },
     {
+      "name": "Pray for...",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
+    },
+    {
       "name": "Like glue",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -107,13 +107,6 @@
       "external_url": "https://open.spotify.com/track/3tJwazgzs1oyFeBZboDczp"
     },
     {
-      "name": "Soju",
-      "artist": "Lucy Bedroque",
-      "album": "Tether",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c2fa41d8565f3264a1162a82",
-      "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
-    },
-    {
       "name": "Three worlds apart",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -128,6 +121,13 @@
       "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
     },
     {
+      "name": "Soju",
+      "artist": "Lucy Bedroque",
+      "album": "Tether",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c2fa41d8565f3264a1162a82",
+      "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
+    },
+    {
       "name": "Tofu",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -140,13 +140,6 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/6p32RsBARvo6qlCyiuqnAk"
-    },
-    {
-      "name": "Want U",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/2TMaFYbBks4HTZndM2U5eC"
     },
     {
       "name": "Cherry Blue",
@@ -175,6 +168,13 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/0IXicbiQBfo03X1gvUooXp"
+    },
+    {
+      "name": "ufo shopping",
+      "artist": "tomcbumpz",
+      "album": "comfortable silence",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738acd052e5a399cf78c956d61",
+      "external_url": "https://open.spotify.com/track/3QIMsFyR69L7vURJfNqqEj"
     }
   ],
   "topArtists": [
@@ -187,13 +187,12 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
-      "name": "Nine Vicious",
+      "name": "Drake",
       "genres": [
-        "rage rap",
-        "underground hip hop"
+        "rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb759cf00050615f7aa558dd3d",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
       "name": "Oneohtrix Point Never",
@@ -209,18 +208,19 @@
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
     },
     {
+      "name": "Nine Vicious",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb759cf00050615f7aa558dd3d",
+      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+    },
+    {
       "name": "The Weeknd",
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
       "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-    },
-    {
-      "name": "Drake",
-      "genres": [
-        "rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
       "name": "Lucy Bedroque",
@@ -231,6 +231,15 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+    },
+    {
+      "name": "prettifun",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb858a9572db464eac2dc14042",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
       "name": "Tezzus",
@@ -255,14 +264,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
       "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
-    },
-    {
-      "name": "Chino Yoshio",
-      "genres": [
-        "ambient"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebac5e2e3006ac53462db15b60",
-      "external_url": "https://open.spotify.com/artist/6oY3qWxcj7thT8q0zogH8m"
     }
   ]
 }
