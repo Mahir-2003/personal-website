@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T08:06:35.994Z",
+  "lastUpdated": "2026-05-17T08:23:35.341Z",
   "topTracks": [
     {
       "name": "Glass",
@@ -23,13 +23,6 @@
       "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
     },
     {
-      "name": "I can live w that",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
-    },
-    {
       "name": "Away From Home",
       "artist": "Drake",
       "album": "For All The Dogs",
@@ -37,11 +30,32 @@
       "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     },
     {
+      "name": "I can live w that",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
+    },
+    {
+      "name": "Blowing Emotions",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/3tJwazgzs1oyFeBZboDczp"
+    },
+    {
       "name": "U wld never do it",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+    },
+    {
+      "name": "For Residue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
       "name": "Don't get stuck",
@@ -72,13 +86,6 @@
       "external_url": "https://open.spotify.com/track/2kd2D7YoZnSYDxNadbOz7I"
     },
     {
-      "name": "Blowing Emotions",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/3tJwazgzs1oyFeBZboDczp"
-    },
-    {
       "name": "Let the keys cry",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -93,25 +100,18 @@
       "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
     },
     {
+      "name": "E85",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
+    },
+    {
       "name": "Like glue",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/4WNPHMoMm3tcGW70lxRkZ4"
-    },
-    {
-      "name": "For Residue",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
-    },
-    {
-      "name": "Three worlds apart",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/5CtOcvApQBGISBBzVsVZYt"
     },
     {
       "name": "Lifeworld",
@@ -128,20 +128,6 @@
       "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
     },
     {
-      "name": "Tofu",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/506gkKhPTLXEbmpBqJaA3h"
-    },
-    {
-      "name": "Good game",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/6p32RsBARvo6qlCyiuqnAk"
-    },
-    {
       "name": "Cherry Blue",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -149,11 +135,32 @@
       "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
     },
     {
+      "name": "Three worlds apart",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/5CtOcvApQBGISBBzVsVZYt"
+    },
+    {
+      "name": "Petro",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/4NmHUoWxmWwdQSPgd8IkEW"
+    },
+    {
       "name": "My Whole Heart",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
       "external_url": "https://open.spotify.com/track/4vMFhv4TnqHzIFy5FHCov0"
+    },
+    {
+      "name": "Tofu",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/506gkKhPTLXEbmpBqJaA3h"
     },
     {
       "name": "Vestigel",
@@ -168,13 +175,6 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/0IXicbiQBfo03X1gvUooXp"
-    },
-    {
-      "name": "ufo shopping",
-      "artist": "tomcbumpz",
-      "album": "comfortable silence",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738acd052e5a399cf78c956d61",
-      "external_url": "https://open.spotify.com/track/3QIMsFyR69L7vURJfNqqEj"
     }
   ],
   "topArtists": [
@@ -218,16 +218,16 @@
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     },
     {
-      "name": "The Weeknd",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
-      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-    },
-    {
       "name": "Don Toliver",
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
       "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+    },
+    {
+      "name": "The Weeknd",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
       "name": "Lucy Bedroque",
