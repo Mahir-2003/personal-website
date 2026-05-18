@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T08:23:35.341Z",
+  "lastUpdated": "2026-05-18T10:08:06.940Z",
   "topTracks": [
     {
       "name": "Glass",
@@ -30,6 +30,13 @@
       "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     },
     {
+      "name": "For Residue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
+    },
+    {
       "name": "I can live w that",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -49,13 +56,6 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
-    },
-    {
-      "name": "For Residue",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
       "name": "Don't get stuck",
@@ -86,11 +86,25 @@
       "external_url": "https://open.spotify.com/track/2kd2D7YoZnSYDxNadbOz7I"
     },
     {
+      "name": "Lifeworld",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
+    },
+    {
       "name": "Let the keys cry",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/0FywccftKyXPwzXlKoFJmm"
+    },
+    {
+      "name": "Cherry Blue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
     },
     {
       "name": "Pray for...",
@@ -114,13 +128,6 @@
       "external_url": "https://open.spotify.com/track/4WNPHMoMm3tcGW70lxRkZ4"
     },
     {
-      "name": "Lifeworld",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
-    },
-    {
       "name": "Soju",
       "artist": "Lucy Bedroque",
       "album": "Tether",
@@ -128,18 +135,11 @@
       "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
     },
     {
-      "name": "Cherry Blue",
+      "name": "Bumpy",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
-    },
-    {
-      "name": "Three worlds apart",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/5CtOcvApQBGISBBzVsVZYt"
+      "external_url": "https://open.spotify.com/track/0xv9W6FVNsaUyqtjqZex0X"
     },
     {
       "name": "Petro",
@@ -147,20 +147,6 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/4NmHUoWxmWwdQSPgd8IkEW"
-    },
-    {
-      "name": "My Whole Heart",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/4vMFhv4TnqHzIFy5FHCov0"
-    },
-    {
-      "name": "Tofu",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/506gkKhPTLXEbmpBqJaA3h"
     },
     {
       "name": "Vestigel",
@@ -175,6 +161,20 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/0IXicbiQBfo03X1gvUooXp"
+    },
+    {
+      "name": "Tranquilizer",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/4OWlKRd6nq43XES0CvncZI"
+    },
+    {
+      "name": "Three worlds apart",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/5CtOcvApQBGISBBzVsVZYt"
     }
   ],
   "topArtists": [
