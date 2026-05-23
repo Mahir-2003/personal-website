@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T09:29:02.138Z",
+  "lastUpdated": "2026-05-23T08:21:54.063Z",
   "topTracks": [
     {
       "name": "Shibuya transfer",
@@ -65,11 +65,11 @@
       "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
     },
     {
-      "name": "I can live w that",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
+      "name": "Need",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
     },
     {
       "name": "Bumpy",
@@ -91,6 +91,13 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/4NmHUoWxmWwdQSPgd8IkEW"
+    },
+    {
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
+      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
       "name": "Vestigel",
@@ -135,6 +142,13 @@
       "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
     },
     {
+      "name": "I can live w that",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
+    },
+    {
       "name": "D.I.S.",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -161,20 +175,6 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/4WNPHMoMm3tcGW70lxRkZ4"
-    },
-    {
-      "name": "My Whole Heart",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/4vMFhv4TnqHzIFy5FHCov0"
-    },
-    {
-      "name": "Three worlds apart",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/5CtOcvApQBGISBBzVsVZYt"
     }
   ],
   "topArtists": [
