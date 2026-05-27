@@ -1,13 +1,6 @@
 {
-  "lastUpdated": "2026-05-26T09:59:26.981Z",
+  "lastUpdated": "2026-05-27T09:55:03.404Z",
   "topTracks": [
-    {
-      "name": "Shibuya transfer",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
-    },
     {
       "name": "For Residue",
       "artist": "Oneohtrix Point Never",
@@ -35,6 +28,20 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
+    },
+    {
+      "name": "Shibuya transfer",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
+    },
+    {
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
       "name": "Soju",
@@ -72,20 +79,6 @@
       "external_url": "https://open.spotify.com/track/3QIMsFyR69L7vURJfNqqEj"
     },
     {
-      "name": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "name": "Need",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
-    },
-    {
       "name": "Bumpy",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -114,6 +107,13 @@
       "external_url": "https://open.spotify.com/track/3tJwazgzs1oyFeBZboDczp"
     },
     {
+      "name": "Whisper My Name",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+    },
+    {
       "name": "Fear of Symmetry",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -135,32 +135,25 @@
       "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
     },
     {
+      "name": "What Did I Miss?",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
+    },
+    {
+      "name": "Need",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
+    },
+    {
       "name": "D.I.S.",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/1AWVySdGojdnQDRyNd6Y2s"
-    },
-    {
-      "name": "Pray for...",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
-    },
-    {
-      "name": "Like glue",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/4WNPHMoMm3tcGW70lxRkZ4"
-    },
-    {
-      "name": "My Whole Heart",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/4vMFhv4TnqHzIFy5FHCov0"
     },
     {
       "name": "Measuring Ruins",
@@ -170,22 +163,21 @@
       "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
     },
     {
-      "name": "Whisper My Name",
+      "name": "Shabang",
       "artist": "Drake",
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+      "external_url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
+    },
+    {
+      "name": "Make Them Cry",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
     }
   ],
   "topArtists": [
-    {
-      "name": "kuru",
-      "genres": [
-        "hyperpop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-    },
     {
       "name": "Drake",
       "genres": [
@@ -193,6 +185,15 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "name": "kuru",
+      "genres": [
+        "hyperpop",
+        "cloud rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
       "name": "Oneohtrix Point Never",
