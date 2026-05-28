@@ -1,5 +1,13 @@
 [
   {
+    "title": "Batman Begins",
+    "year": "2005",
+    "rating": "\u2605\u2605\u2605\u00bd",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/4/51784-batman-begins-0-600-0-900-crop.jpg?v=f090edc352",
+    "watchedDate": "May 27, 2026",
+    "link": "https://letterboxd.com/meatymahir/film/batman-begins/"
+  },
+  {
     "title": "Glass Onion",
     "year": "2022",
     "rating": "\u2605\u2605\u2605\u00bd",
@@ -30,13 +38,5 @@
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/1/2/51712-the-devil-wears-prada-0-600-0-900-crop.jpg?v=65a9cdb330",
     "watchedDate": "Apr 27, 2026",
     "link": "https://letterboxd.com/meatymahir/film/the-devil-wears-prada/"
-  },
-  {
-    "title": "Diary of a Wimpy Kid: Dog Days",
-    "year": "2012",
-    "rating": "\u2605\u2605\u2605\u00bd",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/9/0/6/8/69068-diary-of-a-wimpy-kid-dog-days-0-600-0-900-crop.jpg?v=0736c9e82d",
-    "watchedDate": "Apr 12, 2026",
-    "link": "https://letterboxd.com/meatymahir/film/diary-of-a-wimpy-kid-dog-days/"
   }
 ]
