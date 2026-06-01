@@ -1,13 +1,6 @@
 {
-  "lastUpdated": "2026-05-31T08:48:08.230Z",
+  "lastUpdated": "2026-06-01T11:38:53.354Z",
   "topTracks": [
-    {
-      "name": "For Residue",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
-    },
     {
       "name": "Janice STFU",
       "artist": "Drake",
@@ -16,11 +9,39 @@
       "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
+      "name": "For Residue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
+    },
+    {
+      "name": "Soju",
+      "artist": "Lucy Bedroque",
+      "album": "Tether",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c2fa41d8565f3264a1162a82",
+      "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
+    },
+    {
       "name": "Away From Home",
       "artist": "Drake",
       "album": "For All The Dogs",
       "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
       "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
+    },
+    {
+      "name": "New Bestie",
+      "artist": "Drake",
+      "album": "MAID OF HONOUR",
+      "image": "https://i.scdn.co/image/ab67616d0000b273539bb112d7c970545dd971e3",
+      "external_url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
+    },
+    {
+      "name": "Whisper My Name",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
     },
     {
       "name": "End of spring",
@@ -37,32 +58,11 @@
       "external_url": "https://open.spotify.com/track/0dyU4wcuHCldwHD9MQFVjM"
     },
     {
-      "name": "Whisper My Name",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
-    },
-    {
-      "name": "Soju",
-      "artist": "Lucy Bedroque",
-      "album": "Tether",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c2fa41d8565f3264a1162a82",
-      "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
-    },
-    {
       "name": "Lifeworld",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
-    },
-    {
-      "name": "Cherry Blue",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
     },
     {
       "name": "E85",
@@ -86,11 +86,25 @@
       "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
     },
     {
+      "name": "Need",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
+    },
+    {
       "name": "Bumpy",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/0xv9W6FVNsaUyqtjqZex0X"
+    },
+    {
+      "name": "Cherry Blue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
     },
     {
       "name": "Petro",
@@ -107,25 +121,11 @@
       "external_url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
     },
     {
-      "name": "New Bestie",
-      "artist": "Drake",
-      "album": "MAID OF HONOUR",
-      "image": "https://i.scdn.co/image/ab67616d0000b273539bb112d7c970545dd971e3",
-      "external_url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
-    },
-    {
       "name": "Vestigel",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/7tMqVsAWV8RcXM6XqlJjmc"
-    },
-    {
-      "name": "Blowing Emotions",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/3tJwazgzs1oyFeBZboDczp"
     },
     {
       "name": "Shabang",
@@ -233,6 +233,15 @@
       "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
     },
     {
+      "name": "prettifun",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebf83e338d30495fe22b85703a",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+    },
+    {
       "name": "Lucy Bedroque",
       "genres": [
         "hyperpop",
@@ -243,15 +252,6 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "prettifun",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebf83e338d30495fe22b85703a",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
-    },
-    {
       "name": "tomcbumpz",
       "genres": [
         "lo-fi hip hop"
@@ -260,12 +260,10 @@
       "external_url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
     },
     {
-      "name": "Slow Attack Ensemble",
-      "genres": [
-        "ambient"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb60f501712c84cf7a3506f3e2",
-      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
+      "name": "BENEE",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb42a704d73b253170e18c16a1",
+      "external_url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
     }
   ]
 }
