@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T11:38:53.354Z",
+  "lastUpdated": "2026-06-02T10:27:05.708Z",
   "topTracks": [
     {
       "name": "Janice STFU",
@@ -16,20 +16,6 @@
       "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
-      "name": "Soju",
-      "artist": "Lucy Bedroque",
-      "album": "Tether",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c2fa41d8565f3264a1162a82",
-      "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
-    },
-    {
-      "name": "Away From Home",
-      "artist": "Drake",
-      "album": "For All The Dogs",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
-      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
-    },
-    {
       "name": "New Bestie",
       "artist": "Drake",
       "album": "MAID OF HONOUR",
@@ -37,11 +23,11 @@
       "external_url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
     },
     {
-      "name": "Whisper My Name",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+      "name": "Soju",
+      "artist": "Lucy Bedroque",
+      "album": "Tether",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c2fa41d8565f3264a1162a82",
+      "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
     },
     {
       "name": "End of spring",
@@ -49,6 +35,13 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
+    },
+    {
+      "name": "Whisper My Name",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
     },
     {
       "name": "Glass",
@@ -175,6 +168,13 @@
       "album": "Tranquilizer",
       "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
       "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
+    },
+    {
+      "name": "Away From Home",
+      "artist": "Drake",
+      "album": "For All The Dogs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
     }
   ],
   "topArtists": [
