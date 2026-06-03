@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T10:27:05.708Z",
+  "lastUpdated": "2026-06-03T11:02:54.849Z",
   "topTracks": [
     {
       "name": "Janice STFU",
@@ -72,18 +72,18 @@
       "external_url": "https://open.spotify.com/track/3QIMsFyR69L7vURJfNqqEj"
     },
     {
-      "name": "What Did I Miss?",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
-    },
-    {
       "name": "Need",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
       "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
+    },
+    {
+      "name": "What Did I Miss?",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
     },
     {
       "name": "Bumpy",
@@ -142,6 +142,13 @@
       "external_url": "https://open.spotify.com/track/4OWlKRd6nq43XES0CvncZI"
     },
     {
+      "name": "Shibuya transfer",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
+    },
+    {
       "name": "Tuition",
       "artist": "Don Toliver",
       "album": "OCTANE",
@@ -156,13 +163,6 @@
       "external_url": "https://open.spotify.com/track/1AWVySdGojdnQDRyNd6Y2s"
     },
     {
-      "name": "Shibuya transfer",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
-    },
-    {
       "name": "Measuring Ruins",
       "artist": "Oneohtrix Point Never",
       "album": "Tranquilizer",
@@ -170,11 +170,11 @@
       "external_url": "https://open.spotify.com/track/6wZWTcktJlNwglUnYwTB8u"
     },
     {
-      "name": "Away From Home",
+      "name": "Make Them Pay",
       "artist": "Drake",
-      "album": "For All The Dogs",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
-      "external_url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
     }
   ],
   "topArtists": [
@@ -224,6 +224,16 @@
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     },
     {
+      "name": "Lucy Bedroque",
+      "genres": [
+        "hyperpop",
+        "rage rap",
+        "cloud rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+    },
+    {
       "name": "bleood",
       "genres": [
         "rage rap",
@@ -242,14 +252,10 @@
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
-      "name": "Lucy Bedroque",
-      "genres": [
-        "hyperpop",
-        "rage rap",
-        "cloud rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+      "name": "BENEE",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb42a704d73b253170e18c16a1",
+      "external_url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
     },
     {
       "name": "tomcbumpz",
@@ -258,12 +264,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb8cd45ac4db673299c2cc9c63",
       "external_url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
-    },
-    {
-      "name": "BENEE",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb42a704d73b253170e18c16a1",
-      "external_url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
     }
   ]
 }
