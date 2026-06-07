@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T08:35:31.154Z",
+  "lastUpdated": "2026-06-07T09:15:12.766Z",
   "topTracks": [
     {
       "name": "Janice STFU",
@@ -58,13 +58,6 @@
       "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
     },
     {
-      "name": "End of spring",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
-    },
-    {
       "name": "What Did I Miss?",
       "artist": "Drake",
       "album": "ICEMAN",
@@ -79,18 +72,18 @@
       "external_url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
     },
     {
-      "name": "Glass",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/0dyU4wcuHCldwHD9MQFVjM"
-    },
-    {
       "name": "Shabang",
       "artist": "Drake",
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "external_url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
+    },
+    {
+      "name": "End of spring",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
     },
     {
       "name": "Cherry Blue",
@@ -107,6 +100,20 @@
       "external_url": "https://open.spotify.com/track/7tMqVsAWV8RcXM6XqlJjmc"
     },
     {
+      "name": "Glass",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
+      "external_url": "https://open.spotify.com/track/0dyU4wcuHCldwHD9MQFVjM"
+    },
+    {
+      "name": "Blowing Emotions",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/3tJwazgzs1oyFeBZboDczp"
+    },
+    {
       "name": "ATM",
       "artist": "Don Toliver",
       "album": "OCTANE",
@@ -121,11 +128,11 @@
       "external_url": "https://open.spotify.com/track/0IXicbiQBfo03X1gvUooXp"
     },
     {
-      "name": "Blowing Emotions",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/3tJwazgzs1oyFeBZboDczp"
+      "name": "munni & drugs",
+      "artist": "bleood",
+      "album": "how bleood stole Xmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
+      "external_url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD"
     },
     {
       "name": "Tranquilizer",
@@ -168,13 +175,6 @@
       "album": "Ur an Angel I’m Just Particles",
       "image": "https://i.scdn.co/image/ab67616d0000b273cd91de3901cce7d141c0480e",
       "external_url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
-    },
-    {
-      "name": "Posing Tonight",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/2JLzVBFFRsqgmu20e3p2Rm"
     }
   ],
   "topArtists": [
@@ -206,15 +206,6 @@
       "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     },
     {
-      "name": "Nine Vicious",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb759cf00050615f7aa558dd3d",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
-    },
-    {
       "name": "bleood",
       "genres": [
         "rage rap",
@@ -222,6 +213,15 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
       "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+    },
+    {
+      "name": "Nine Vicious",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb759cf00050615f7aa558dd3d",
+      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     },
     {
       "name": "Lucy Bedroque",
@@ -249,6 +249,14 @@
       "external_url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
     },
     {
+      "name": "Ken Carson",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+    },
+    {
       "name": "Aphex Twin",
       "genres": [
         "idm",
@@ -257,14 +265,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebaa3c91d792eb520a5d58daa5",
       "external_url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-    },
-    {
-      "name": "Destroy Lonely",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     }
   ]
 }
