@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T09:15:12.766Z",
+  "lastUpdated": "2026-06-08T10:59:37.050Z",
   "topTracks": [
     {
       "name": "Janice STFU",
@@ -16,18 +16,18 @@
       "external_url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
     },
     {
-      "name": "For Residue",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
-    },
-    {
       "name": "Whisper My Name",
       "artist": "Drake",
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+    },
+    {
+      "name": "For Residue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
       "name": "Tuition",
@@ -49,13 +49,6 @@
       "album": "OCTANE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
       "external_url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
-    },
-    {
-      "name": "Lifeworld",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
     },
     {
       "name": "What Did I Miss?",
@@ -86,20 +79,6 @@
       "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
     },
     {
-      "name": "Cherry Blue",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/3go8gVfny946UDXxtqosA3"
-    },
-    {
-      "name": "Vestigel",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/7tMqVsAWV8RcXM6XqlJjmc"
-    },
-    {
       "name": "Glass",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -121,25 +100,11 @@
       "external_url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
     },
     {
-      "name": "Fear of Symmetry",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/0IXicbiQBfo03X1gvUooXp"
-    },
-    {
       "name": "munni & drugs",
       "artist": "bleood",
       "album": "how bleood stole Xmas",
       "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
       "external_url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD"
-    },
-    {
-      "name": "Tranquilizer",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/4OWlKRd6nq43XES0CvncZI"
     },
     {
       "name": "Make Them Pay",
@@ -156,25 +121,60 @@
       "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
     },
     {
-      "name": "Bumpy",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/0xv9W6FVNsaUyqtjqZex0X"
-    },
-    {
-      "name": "D.I.S.",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/1AWVySdGojdnQDRyNd6Y2s"
-    },
-    {
       "name": "Princess",
       "artist": "BENEE",
       "album": "Ur an Angel I’m Just Particles",
       "image": "https://i.scdn.co/image/ab67616d0000b273cd91de3901cce7d141c0480e",
       "external_url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
+    },
+    {
+      "name": "Posing Tonight",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/2JLzVBFFRsqgmu20e3p2Rm"
+    },
+    {
+      "name": "FUCK U BITCH I WANNA B ALONE",
+      "artist": "bleood",
+      "album": "rascal 51",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
+      "external_url": "https://open.spotify.com/track/58k79edmPOpxXbP7Hppn34"
+    },
+    {
+      "name": "Rosary (feat. Travis Scott)",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm"
+    },
+    {
+      "name": "Make Them Know",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/1xO3PpGchMqMmmF6OEtH5Y"
+    },
+    {
+      "name": "Rendezvous (feat. Yeat)",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/2Ejyg4CavumEr7lFUkk9aF"
+    },
+    {
+      "name": "Soju",
+      "artist": "Lucy Bedroque",
+      "album": "Tether",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c2fa41d8565f3264a1162a82",
+      "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
+    },
+    {
+      "name": "maybach key fob",
+      "artist": "bleood",
+      "album": "PROTAGONIST",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738eabe1fe40434866f52fea76",
+      "external_url": "https://open.spotify.com/track/6RRpMHfjsLFMu2S8LUAtHj"
     }
   ],
   "topArtists": [
@@ -185,19 +185,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-    },
-    {
-      "name": "Oneohtrix Point Never",
-      "genres": [
-        "plunderphonics",
-        "idm",
-        "ambient",
-        "drone",
-        "experimental",
-        "vaporwave"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
-      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
     },
     {
       "name": "Don Toliver",
@@ -234,6 +221,19 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
+      "name": "Oneohtrix Point Never",
+      "genres": [
+        "plunderphonics",
+        "idm",
+        "ambient",
+        "drone",
+        "experimental",
+        "vaporwave"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
+      "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+    },
+    {
       "name": "kuru",
       "genres": [
         "hyperpop",
@@ -249,14 +249,6 @@
       "external_url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
     },
     {
-      "name": "Ken Carson",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-    },
-    {
       "name": "Aphex Twin",
       "genres": [
         "idm",
@@ -265,6 +257,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebaa3c91d792eb520a5d58daa5",
       "external_url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+    },
+    {
+      "name": "Destroy Lonely",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     }
   ]
 }
