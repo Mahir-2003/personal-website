@@ -8,7 +8,7 @@ import cyberforceLogo from "../assets/career/cyberforce_logo_white.png"
 const CareerTimeline = () => {
     const jobs = [
         {
-            status: "Current",
+            status: "Previous",
             company: "UW-Madison Housing Department",
             position: "House Fellow (Resident Assistant)",
             description: [
