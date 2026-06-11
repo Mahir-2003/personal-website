@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T10:04:02.808Z",
+  "lastUpdated": "2026-06-11T10:38:46.521Z",
   "topTracks": [
     {
       "name": "Janice STFU",
@@ -21,13 +21,6 @@
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
-    },
-    {
-      "name": "For Residue",
-      "artist": "Oneohtrix Point Never",
-      "album": "Tranquilizer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
-      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
       "name": "Tuition",
@@ -77,6 +70,13 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
       "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
+    },
+    {
+      "name": "For Residue",
+      "artist": "Oneohtrix Point Never",
+      "album": "Tranquilizer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+      "external_url": "https://open.spotify.com/track/69e46jBcHtetO7B1IDSzoi"
     },
     {
       "name": "Glass",
@@ -243,6 +243,14 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
+      "name": "Ken Carson",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+    },
+    {
       "name": "BENEE",
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb42a704d73b253170e18c16a1",
@@ -257,14 +265,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebaa3c91d792eb520a5d58daa5",
       "external_url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-    },
-    {
-      "name": "Destroy Lonely",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     }
   ]
 }
