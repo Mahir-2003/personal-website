@@ -70,11 +70,31 @@ const CareerTimeline = () => {
 
     return (
         <div className="relative z-10 min-h-screen mb-12">
-            <h2 className="text-2xl font-bold text-orange-400 mb-6">[ CAREER HISTORY ]</h2>
-            <div className="space-y-6">
-                {jobs.map((j, idx) => {
-                    return <CareerCard key={idx} status={j.status} company={j.company} position={j.position} description={j.description} img={j.img}/>
-                })}
+            {/* Section header */}
+            <div className="mb-7">
+                <h2 className="text-2xl font-bold text-orange-400 mb-1">[ CAREER HISTORY ]</h2>
+                <p className="career-timeline-meta">STARFLEET PERSONNEL DATABASE // {jobs.length} RECORDS</p>
+                {/* LCARS diagnostic strip */}
+                <div className="career-timeline-strip" aria-hidden="true">
+                    <span />
+                    <span />
+                    <span />
+                    <span />
+                    <span />
+                </div>
+            </div>
+
+            <div className="space-y-5">
+                {jobs.map((j, idx) => (
+                    <CareerCard
+                        key={idx}
+                        status={j.status}
+                        company={j.company}
+                        position={j.position}
+                        description={j.description}
+                        img={j.img}
+                    />
+                ))}
             </div>
         </div>
     )

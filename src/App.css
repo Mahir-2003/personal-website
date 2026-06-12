@@ -621,6 +621,229 @@ body {
   box-shadow: 0 0 8px rgba(251, 146, 60, 0.75), 0 0 18px rgba(251, 146, 60, 0.35);
 }
 
+/* ===== Career Timeline Header ===== */
+.career-timeline-meta {
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  color: rgba(153, 153, 255, 0.9);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+.career-timeline-strip {
+  display: flex;
+  gap: 5px;
+  height: 3px;
+  width: 100%;
+  max-width: 480px;
+}
+
+.career-timeline-strip span:nth-child(1) { flex: 3; background: #fb923c; border-radius: 1px; opacity: 0.8; }
+.career-timeline-strip span:nth-child(2) { flex: 1; background: #9999ff; border-radius: 1px; opacity: 0.7; }
+.career-timeline-strip span:nth-child(3) { flex: 2; background: #c084fc; border-radius: 1px; opacity: 0.6; }
+.career-timeline-strip span:nth-child(4) { flex: 1; background: #fb923c; border-radius: 1px; opacity: 0.5; }
+.career-timeline-strip span:nth-child(5) { flex: 4; background: #9999ff; border-radius: 1px; opacity: 0.35; }
+
+/* ===== Career Card ===== */
+.career-card {
+  position: relative;
+  background: rgba(0, 5, 18, 0.88);
+  border: 1px solid rgba(255, 153, 0, 0.12);
+  border-radius: 3px;
+  overflow: hidden;
+  transition: border-color 0.35s ease, box-shadow 0.35s ease;
+}
+
+.career-card:hover {
+  border-color: rgba(255, 153, 0, 0.28);
+  box-shadow: 0 4px 28px rgba(255, 153, 0, 0.07), inset 0 0 40px rgba(255, 153, 0, 0.02);
+}
+
+/* Top accent bar — left-bright, fades right, color per status */
+.career-card-topbar {
+  height: 2px;
+  width: 100%;
+}
+
+.career-card--previous .career-card-topbar {
+  background: linear-gradient(90deg, #c084fc 0%, rgba(192, 132, 252, 0.25) 55%, transparent 100%);
+  box-shadow: 0 0 10px rgba(192, 132, 252, 0.45);
+}
+.career-card--current .career-card-topbar {
+  background: linear-gradient(90deg, #fb923c 0%, rgba(251, 146, 60, 0.25) 55%, transparent 100%);
+  box-shadow: 0 0 10px rgba(251, 146, 60, 0.45);
+}
+.career-card--incoming .career-card-topbar {
+  background: linear-gradient(90deg, #9999ff 0%, rgba(153, 153, 255, 0.25) 55%, transparent 100%);
+  box-shadow: 0 0 10px rgba(153, 153, 255, 0.45);
+}
+
+/* Card body */
+.career-card-body {
+  display: flex;
+  gap: 20px;
+  padding: 18px 22px 20px;
+  align-items: flex-start;
+}
+
+/* Logo box */
+.career-card-logo-wrap {
+  flex-shrink: 0;
+  width: 58px;
+  height: 58px;
+  position: relative;
+  border: 1px solid rgba(255, 153, 0, 0.18);
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 9px;
+  background: rgba(255, 255, 255, 0.03);
+  transition: border-color 0.35s ease;
+}
+
+.career-card:hover .career-card-logo-wrap {
+  border-color: rgba(255, 153, 0, 0.38);
+}
+
+/* LCARS top-left corner accent on logo box */
+.career-card-logo-wrap::before {
+  content: "";
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  width: 13px;
+  height: 13px;
+  border-top: 1.5px solid #fb923c;
+  border-left: 1.5px solid #fb923c;
+}
+
+.career-card-logo-wrap img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* Content column */
+.career-card-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.career-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.career-card-company {
+  font-size: clamp(13px, 1.6vw, 16px);
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: #fb923c;
+  text-transform: uppercase;
+  line-height: 1.25;
+  margin: 0 0 5px 0;
+  text-shadow: 0 0 14px rgba(251, 146, 60, 0.2);
+  transition: text-shadow 0.35s ease;
+}
+
+.career-card:hover .career-card-company {
+  text-shadow: 0 0 18px rgba(251, 146, 60, 0.42);
+}
+
+.career-card-position {
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  color: rgba(153, 153, 255, 1);
+  text-transform: uppercase;
+  margin: 0;
+  line-height: 1.4;
+}
+
+/* Status badge */
+.career-card-status {
+  flex-shrink: 0;
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  padding: 3px 10px;
+  border-radius: 1px;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.career-card-status--previous {
+  color: #d8b4fe;
+  border: 1px solid rgba(192, 132, 252, 0.6);
+  background: rgba(192, 132, 252, 0.14);
+}
+.career-card-status--current {
+  color: #fb923c;
+  border: 1px solid rgba(251, 146, 60, 0.6);
+  background: rgba(251, 146, 60, 0.14);
+}
+.career-card-status--incoming {
+  color: #9999ff;
+  border: 1px solid rgba(153, 153, 255, 0.35);
+  background: rgba(153, 153, 255, 0.07);
+}
+
+/* Divider between header and description */
+.career-card-divider {
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 153, 0, 0.28) 0%,
+    rgba(153, 153, 255, 0.12) 45%,
+    transparent 100%
+  );
+  margin-bottom: 12px;
+}
+
+/* Description list */
+.career-card-desc {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.career-card-desc li {
+  display: flex;
+  gap: 9px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.65;
+  letter-spacing: 0.015em;
+  transition: color 0.3s ease;
+}
+
+.career-card:hover .career-card-desc li {
+  color: #ffffff;
+}
+
+.career-card-desc .career-chevron {
+  color: rgba(251, 146, 60, 0.4);
+  font-size: 8px;
+  flex-shrink: 0;
+  margin-top: 5px;
+  transition: color 0.3s ease;
+}
+
+.career-card:hover .career-card-desc .career-chevron {
+  color: rgba(251, 146, 60, 0.65);
+}
+
 /* Respect reduced motion */
 @media (prefers-reduced-motion: reduce) {
   .lcars-seg::before,
