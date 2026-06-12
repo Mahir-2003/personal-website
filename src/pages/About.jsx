@@ -52,19 +52,19 @@ const About = () => {
                     {/* bio */}
                     <section className="mb-12">
                         <div className="flex items-baseline justify-between mb-4">
-                            <h2 className="text-2xl font-bold text-blue-400">RECENT ACTIVITY</h2>
+                            <h2 className="text-2xl font-bold text-orange-400">RECENT ACTIVITY</h2>
                             {lastSynced && (
-                                <span className="text-gray-500 text-xs tracking-widest">
+                                <span className="career-timeline-meta" style={{ fontSize: '10px', marginBottom: 0 }}>
                                     SYNCED {timeAgo(lastSynced).toUpperCase()}
                                 </span>
                             )}
                         </div>
-                        <div className="bg-gray-900/90 backdrop-blur-sm p-6 rounded-lg">
-                            <p className="text-gray-300 leading-relaxed">
+                        <div className="lcars-text-block">
+                            <p className="leading-relaxed" style={{ color: 'var(--lcars-text)' }}>
                                 I'm drawn to stories - whether they're told through film, music, books, or anything else. I also like keeping track of the things I watch and listen to.
                             </p>
                             <br />
-                            <p className="text-gray-300 leading-relaxed">
+                            <p className="leading-relaxed" style={{ color: 'var(--lcars-text)' }}>
                                 Below you can find what I've been up to recently!
                             </p>
                         </div>

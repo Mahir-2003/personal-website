@@ -82,7 +82,8 @@ const CategoryCard = ({ category, skills }) => {
                     return (
                         <div
                             key={skill.name}
-                            className="group relative bg-gray-900/50 backdrop-blur-sm p-2 rounded border border-gray-700/50 hover:border-blue-400/60 transition-all duration-300 hover:bg-gray-800/60"
+                            className="group relative p-2 rounded-sm border border-orange-400/15 hover:border-orange-400/45 transition-all duration-300"
+                            style={{ background: 'var(--lcars-bg-card)' }}
                         >
                             <div className="flex items-center gap-2">
                                 {/* Icon */}

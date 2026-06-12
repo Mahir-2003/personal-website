@@ -85,14 +85,14 @@ const Home = () => {
                         <h2 className="text-2xl font-bold text-orange-400 mb-6">
                             [ CURRENT STATUS ]
                         </h2>
-                        <div className="bg-gray-900/90 backdrop-blur-sm p-6 rounded-lg border border-blue-400/30">
-                            <p className="text-gray-300 leading-relaxed">
+                        <div className="lcars-text-block">
+                            <p className="leading-relaxed" style={{ color: 'rgba(255,255,255,0.88)' }}>
                                 I am a software engineer with a passion for creating innovative solutions
                                 and exploring the possibilities of technology. I'm always seeking out new technologies,
                                 new frameworks, and boldly building exploring no one has before.
                             </p>
                             <br />
-                            <p className="text-gray-300 leading-relaxed">
+                            <p className="leading-relaxed" style={{ color: 'rgba(255,255,255,0.88)' }}>
                                 When I'm not engineering, you'll likely find me playing video games, listening to music, or watching movies - Feel free to check out my <Link to="/personal-log" className="lcars-inline-link">Personal Log</Link> to see what I've been up to!
                             </p>
                         </div>

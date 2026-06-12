@@ -1,6 +1,18 @@
 import { Canvas } from '@react-three/fiber';
 import Starfield from '../components/Starfield';
 
+const BADGE_CLASS = {
+  'Completed':     'lcars-badge lcars-badge--completed',
+  'Active':        'lcars-badge lcars-badge--active',
+  'In Development':'lcars-badge lcars-badge--development',
+};
+
+const STATUS_SLUG = {
+  'Completed':      'completed',
+  'Active':         'active',
+  'In Development': 'development',
+};
+
 const Projects = () => {
   const projects = [
     {
@@ -10,7 +22,6 @@ const Projects = () => {
       technologies: ["TypeScript", "React", "TailwindCSS", "Python", "FastAPI", "WebSocket", "Pydantic", "Recharts", "Salsa20"],
       status: "In Development",
       link: "https://github.com/Mahir-2003/turismo-telemetry"
-
     },
     {
       id: 2,
@@ -48,7 +59,7 @@ const Projects = () => {
       id: 6,
       name: "CS 220 Queue Monitor",
       description: ["Automated help queue monitoring for CS 220", "Google Sheets integration with macOS notifications"],
-      technologies: ["Python", "Google Sheets API", "MacOS Notifications", "Google Cloud Platform"],
+      technologies: ["Python", "Google Sheets API", "AppleScript", "GCP"],
       status: "Completed",
       link: "https://github.com/Mahir-2003/cs220-queue-monitor",
     },
@@ -59,99 +70,89 @@ const Projects = () => {
       {/* Fixed infinite starfield background */}
       <div className="fixed inset-0 w-screen h-screen -z-20 overflow-hidden">
         <Canvas
-          camera={{
-            position: [0, 0, 50],
-            fov: 60,
-            near: 0.1,
-            far: 1000
-          }}
+          camera={{ position: [0, 0, 50], fov: 60, near: 0.1, far: 1000 }}
           className="bg-black"
         >
           <Starfield />
         </Canvas>
       </div>
+
       <div className="min-h-screen p-8">
         <div className="max-w-6xl mx-auto">
-          <h1 className="text-4xl font-bold text-orange-400 mb-8">
+          {/* Page header — matches Home.jsx section header style */}
+          <h1 className="text-4xl font-bold text-orange-400 mb-2">
             [ PROJECT ARCHIVE ]
           </h1>
+          <p className="career-timeline-meta">STARFLEET PROJECT DATABASE // {projects.length} RECORDS</p>
+          <div className="career-timeline-strip" aria-hidden="true">
+            <span /><span /><span /><span /><span />
+          </div>
 
-          <p className="text-gray-300 mb-12 text-lg">
+          <p className="mt-8 mb-10 text-lg" style={{ color: 'var(--lcars-text)' }}>
             Take a look at some of the projects I've worked on!
           </p>
 
           {/* Projects Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {projects.map(project => (
-              <div
-                key={project.id}
-                className="bg-gray-900 rounded-lg p-6 border border-gray-700 hover:border-blue-400 transition-all duration-300 transform hover:scale-105"
-              >
-                <div className="flex justify-between items-start mb-4">
-                  <h3 className="text-xl font-bold text-blue-400">{project.name}</h3>
-                  <span className={`px-2 py-1 rounded text-xs ${project.status === 'Active' ? 'bg-green-600' :
-                    project.status === 'Completed' ? 'bg-blue-600' :
-                      'bg-orange-600'
-                    }`}>
-                    {project.status}
-                  </span>
-                </div>
-
-                <div className="text-gray-300 mb-4">
-                  {Array.isArray(project.description) ? (
-                    <ul className="space-y-1">
-                      {project.description.map((point, index) => (
-                        <li key={index} className="flex items-start">
-                          <span className="text-orange-400 mr-2 mt-1">-</span>
-                          <span>{point}</span>
-                        </li>
-                      ))}
-                    </ul>
-                  ) : (
-                    <p>{project.description}</p>
-                  )}
-                </div>
-
-                <div className="mb-4">
-                  <h4 className="text-orange-400 text-sm font-semibold mb-2">TECHNOLOGIES:</h4>
-                  <div className="flex flex-wrap gap-2">
-                    {project.technologies.map(tech => (
-                      <span
-                        key={tech}
-                        className="bg-green-700 px-2 py-1 rounded text-xs"
-                      >
-                        {tech}
-                      </span>
-                    ))}
+              <article key={project.id} className={`lcars-project-card lcars-project-card--${STATUS_SLUG[project.status] ?? 'development'}`}>
+                <div className="lcars-project-card-body">
+                  {/* Header: name + status badge */}
+                  <div className="career-card-header">
+                    <p className="career-card-company">{project.name}</p>
+                    <span className={BADGE_CLASS[project.status] ?? 'lcars-badge lcars-badge--development'}>
+                      {project.status}
+                    </span>
                   </div>
-                </div>
 
-                <a 
-                  href={project.link} 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="block w-full bg-purple-600 hover:bg-purple-700 py-2 px-4 rounded transition-colors duration-200 text-center no-underline"
-                  style={{ color: 'white', textDecoration: 'none' }}
-                >
-                  <span className="text-white font-bold">EXPLORE PROJECT</span>
-                </a>
-              </div>
+                  <div className="career-card-divider" aria-hidden="true" />
+
+                  {/* Description */}
+                  <ul className="career-card-desc mb-4">
+                    {project.description.map((point, i) => (
+                      <li key={i}>
+                        <span className="career-chevron" aria-hidden="true">▶</span>
+                        {point}
+                      </li>
+                    ))}
+                  </ul>
+
+                  {/* Tech stack — mt-auto pins this + button to the card bottom */}
+                  <div className="mt-auto mb-4">
+                    <p className="lcars-section-label">Technologies</p>
+                    <div className="flex flex-wrap gap-1.5">
+                      {project.technologies.map(tech => (
+                        <span key={tech} className="lcars-tag">{tech}</span>
+                      ))}
+                    </div>
+                  </div>
+
+                  {/* CTA */}
+                  <a
+                    href={project.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="lcars-action-btn"
+                  >
+                    EXPLORE PROJECT
+                  </a>
+                </div>
+              </article>
             ))}
           </div>
 
-          {/* Add Project Note */}
-          <div className="mt-12 bg-gray-900 p-6 rounded-lg border-l-4 border-orange-400">
-            <p className="text-gray-300">
-              <span className="text-orange-400 font-semibold">MISSION LOG:</span> More projects
-              are being catalogued and will be added to this archive as they complete their
+          {/* Mission log note */}
+          <div className="mt-12 lcars-note-block">
+            <p style={{ color: 'var(--lcars-text)' }}>
+              <span style={{ color: 'var(--lcars-orange)', fontWeight: 700 }}>MISSION LOG:</span>{' '}
+              More projects are being catalogued and will be added to this archive as they complete their
               respective development cycles.
             </p>
           </div>
         </div>
       </div>
     </>
+  );
+};
 
-  )
-}
-
-export default Projects
+export default Projects;

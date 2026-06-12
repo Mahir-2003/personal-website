@@ -82,16 +82,16 @@ const SkillsGlobe = () => {
             // Scale based on proficiency: much smaller nodes (0.3x to 0.8x)
             const scale = 0.3 + (skill.proficiency / 100) * 0.5;
             
-            // Assign blue shades based on category
+            // LCARS tri-color per category (names must match skill data exactly)
             let color;
             if (skill.category === 'Programming Languages') {
-                color = '#60a5fa'; // Light blue
-            } else if (skill.category === 'Frontend Frameworks') {
-                color = '#3b82f6'; // Blue
-            } else if (skill.category === 'Backend & Databases') {
-                color = '#2563eb'; // Darker blue
-            } else {
-                color = '#1e40af'; // Deep blue
+                color = '#fb923c'; // LCARS orange
+            } else if (skill.category === 'Frameworks') {
+                color = '#9999ff'; // LCARS blue
+            } else if (skill.category === 'Backend / Databases') {
+                color = '#c084fc'; // LCARS purple
+            } else { // Tools
+                color = '#60a5fa'; // sky blue
             }
             
             positions.push({
@@ -124,7 +124,7 @@ const SkillsGlobe = () => {
                         lines.push({
                             start: skill.position,
                             end: relatedSkill.position,
-                            color: '#3b82f6' // Blue connection lines
+                            color: '#9999ff' // LCARS blue connection lines
                         });
                     }
                 }
@@ -191,9 +191,9 @@ const SkillsGlobe = () => {
                 <mesh>
                     <sphereGeometry args={[isMobile ? 6.5 : 10.5, 32, 32]} />
                     <meshBasicMaterial
-                        color="#3b82f6"
+                        color="#9999ff"
                         transparent
-                        opacity={0.02}
+                        opacity={0.025}
                         side={THREE.BackSide}
                     />
                 </mesh>
@@ -259,17 +259,18 @@ const SkillNode = ({ skill, isMobile }) => {
                     }}
                 >
                     <div style={{
-                        background: 'rgba(30, 41, 59, 0.9)',
-                        backdropFilter: 'blur(10px)',
+                        background: 'var(--lcars-bg-card)',
+                        backdropFilter: 'blur(8px)',
                         padding: '2px 7px',
-                        borderRadius: '3px',
-                        border: `1px solid ${skill.color}`,
+                        borderRadius: '2px',
+                        border: `1px solid ${skill.color}99`,
                         color: '#fff',
                         fontSize: '10px',
                         fontWeight: '600',
                         whiteSpace: 'nowrap',
-                        boxShadow: `0 0 10px ${skill.color}40`,
-                        fontFamily: 'Orbitron, sans-serif'
+                        boxShadow: `0 0 8px ${skill.color}50`,
+                        fontFamily: 'Orbitron, sans-serif',
+                        letterSpacing: '0.05em',
                     }}>
                         {skill.name}
                     </div>

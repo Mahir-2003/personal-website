@@ -39,6 +39,17 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* ── LCARS design tokens ── */
+  --lcars-bg-card:    rgba(4, 11, 35, 0.9);
+  --lcars-orange:     #fb923c;
+  --lcars-gold:       #ff9900;
+  --lcars-blue:       #9999ff;
+  --lcars-sky:        #60a5fa;
+  --lcars-amber:      #fbbf24;
+  --lcars-purple:     #c084fc;
+  --lcars-text:       rgba(255, 255, 255, 0.9);
+  --lcars-text-dim:   rgba(148, 163, 184, 0.7);
 }
 
 body {
@@ -621,6 +632,19 @@ body {
   box-shadow: 0 0 8px rgba(251, 146, 60, 0.75), 0 0 18px rgba(251, 146, 60, 0.35);
 }
 
+/* ===== Generic LCARS text block (bio sections, etc.) ===== */
+.lcars-text-block {
+  background: var(--lcars-bg-card);
+  border: 1px solid rgba(255, 153, 0, 0.2);
+  border-radius: 3px;
+  padding: 24px;
+  transition: border-color 0.3s ease;
+}
+
+.lcars-text-block:hover {
+  border-color: rgba(255, 153, 0, 0.35);
+}
+
 /* ===== Career Timeline Header ===== */
 .career-timeline-meta {
   font-family: 'JetBrains Mono', 'Courier New', monospace;
@@ -649,7 +673,7 @@ body {
 /* ===== Career Card ===== */
 .career-card {
   position: relative;
-  background: rgba(0, 5, 18, 0.88);
+  background: var(--lcars-bg-card);
   border: 1px solid rgba(255, 153, 0, 0.12);
   border-radius: 3px;
   overflow: hidden;
@@ -744,7 +768,7 @@ body {
   font-size: clamp(13px, 1.6vw, 16px);
   font-weight: 700;
   letter-spacing: 0.1em;
-  color: #fb923c;
+  color: var(--lcars-orange);
   text-transform: uppercase;
   line-height: 1.25;
   margin: 0 0 5px 0;
@@ -761,7 +785,7 @@ body {
   font-size: 13px;
   font-weight: 700;
   letter-spacing: 0.14em;
-  color: rgba(153, 153, 255, 1);
+  color: var(--lcars-blue);
   text-transform: uppercase;
   margin: 0;
   line-height: 1.4;
@@ -821,8 +845,8 @@ body {
 .career-card-desc li {
   display: flex;
   gap: 9px;
-  font-size: 13px;
-  color: rgba(255, 255, 255, 0.9);
+  font-size: 14px;
+  color: var(--lcars-text);
   line-height: 1.65;
   letter-spacing: 0.015em;
   transition: color 0.3s ease;
@@ -842,6 +866,215 @@ body {
 
 .career-card:hover .career-card-desc .career-chevron {
   color: rgba(251, 146, 60, 0.65);
+}
+
+/* ===== LCARS Section label (small mono caps above tags, lists, etc.) ===== */
+.lcars-section-label {
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  color: rgba(153, 153, 255, 0.7);
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+/* ===== LCARS Status / generic badge ===== */
+.lcars-badge {
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  padding: 3px 10px;
+  border-radius: 1px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.lcars-badge--completed {
+  color: var(--lcars-sky);
+  border: 1px solid rgba(96, 165, 250, 0.4);
+  background: rgba(96, 165, 250, 0.1);
+}
+
+.lcars-badge--development {
+  color: var(--lcars-orange);
+  border: 1px solid rgba(251, 146, 60, 0.5);
+  background: rgba(251, 146, 60, 0.1);
+}
+
+.lcars-badge--active {
+  color: var(--lcars-purple);
+  border: 1px solid rgba(192, 132, 252, 0.5);
+  background: rgba(192, 132, 252, 0.1);
+}
+
+/* ===== LCARS Tech tag ===== */
+.lcars-tag {
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  padding: 3px 8px;
+  border-radius: 2px;
+  border: 1px solid rgba(251, 191, 36, 0.3);
+  background: rgba(251, 191, 36, 0.08);
+  color: var(--lcars-amber);
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+
+/* ===== LCARS Project card ===== */
+.lcars-project-card {
+  position: relative;
+  background: var(--lcars-bg-card);
+  border: 1px solid rgba(255, 153, 0, 0.12);
+  border-radius: 3px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: border-color 0.35s ease, box-shadow 0.35s ease, transform 0.3s ease;
+}
+
+.lcars-project-card::before {
+  content: '';
+  display: block;
+  height: 2px;
+  width: 100%;
+  background: linear-gradient(90deg, var(--lcars-blue) 0%, rgba(153, 153, 255, 0.25) 55%, transparent 100%);
+  box-shadow: 0 0 10px rgba(153, 153, 255, 0.45);
+}
+
+/* Top bar color matches status badge color */
+.lcars-project-card--completed::before {
+  background: linear-gradient(90deg, var(--lcars-sky) 0%, rgba(96, 165, 250, 0.25) 55%, transparent 100%);
+  box-shadow: 0 0 10px rgba(96, 165, 250, 0.45);
+}
+
+.lcars-project-card--development::before {
+  background: linear-gradient(90deg, var(--lcars-orange) 0%, rgba(251, 146, 60, 0.25) 55%, transparent 100%);
+  box-shadow: 0 0 10px rgba(251, 146, 60, 0.45);
+}
+
+.lcars-project-card--active::before {
+  background: linear-gradient(90deg, var(--lcars-purple) 0%, rgba(192, 132, 252, 0.25) 55%, transparent 100%);
+  box-shadow: 0 0 10px rgba(192, 132, 252, 0.45);
+}
+
+.lcars-project-card:hover {
+  border-color: rgba(255, 153, 0, 0.28);
+  box-shadow: 0 4px 28px rgba(255, 153, 0, 0.07), inset 0 0 40px rgba(255, 153, 0, 0.02);
+  transform: translateY(-2px);
+}
+
+.lcars-project-card-body {
+  padding: 18px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+/* ===== LCARS Action button (CTA links) ===== */
+.lcars-action-btn {
+  display: block;
+  width: 100%;
+  background: rgba(153, 153, 255, 0.08);
+  border: 1px solid rgba(153, 153, 255, 0.28);
+  border-radius: 2px;
+  color: rgba(153, 153, 255, 0.85);
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-align: center;
+  padding: 12px 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: background 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.lcars-action-btn:hover {
+  background: rgba(153, 153, 255, 0.18);
+  border-color: rgba(153, 153, 255, 0.55);
+  color: #ffffff;
+  box-shadow: 0 0 12px rgba(153, 153, 255, 0.2);
+}
+
+/* ===== LCARS Refresh / small action button ===== */
+.lcars-refresh-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  padding: 5px 12px;
+  border: 1px solid rgba(153, 153, 255, 0.28);
+  border-radius: 2px;
+  background: rgba(153, 153, 255, 0.07);
+  color: rgba(153, 153, 255, 0.8);
+  cursor: pointer;
+  transition: background 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+  text-transform: uppercase;
+}
+
+.lcars-refresh-btn:hover:not(:disabled) {
+  background: rgba(153, 153, 255, 0.16);
+  border-color: rgba(153, 153, 255, 0.5);
+  color: #fff;
+}
+
+.lcars-refresh-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+/* ===== LCARS Media card (Letterboxd poster tiles) ===== */
+.lcars-media-card {
+  background: rgba(14, 30, 80, 0.75);
+  border: 1px solid rgba(153, 153, 255, 0.15);
+  border-radius: 2px;
+  overflow: hidden;
+  display: block;
+  text-decoration: none;
+  transition: border-color 0.3s ease, transform 0.3s ease;
+}
+
+.lcars-media-card:hover {
+  border-color: rgba(153, 153, 255, 0.4);
+  transform: scale(1.03) translateY(-2px);
+}
+
+.lcars-media-card-info {
+  padding: 8px 10px;
+}
+
+/* ===== LCARS List row (Spotify track / artist items) ===== */
+.lcars-list-row {
+  display: flex;
+  align-items: center;
+  padding: 10px 12px;
+  background: rgba(14, 30, 80, 0.75);
+  border: 1px solid rgba(153, 153, 255, 0.12);
+  border-radius: 2px;
+  text-decoration: none;
+  transition: border-color 0.3s ease, background 0.3s ease;
+}
+
+.lcars-list-row:hover {
+  border-color: rgba(153, 153, 255, 0.35);
+  background: rgba(20, 42, 100, 0.85);
+}
+
+/* ===== LCARS Note / callout block ===== */
+.lcars-note-block {
+  background: var(--lcars-bg-card);
+  border: 1px solid rgba(255, 153, 0, 0.18);
+  border-left: 3px solid var(--lcars-orange);
+  border-radius: 2px;
+  padding: 18px 22px;
 }
 
 /* Respect reduced motion */

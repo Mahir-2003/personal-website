@@ -12,8 +12,8 @@ const LetterboxdFeed = () => {
         try {
             const response = await fetch('/letterboxd.json');
             if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-            const movies = await response.json();
-            setMovies(movies);
+            const data = await response.json();
+            setMovies(data);
             setLoading(false);
         } catch (err) {
             console.error('Error fetching Letterboxd feed:', err);
@@ -22,18 +22,35 @@ const LetterboxdFeed = () => {
         }
     }, []);
 
-        useEffect(() => {
-            fetchLetterboxdFeed();
-        }, [fetchLetterboxdFeed]);
+    useEffect(() => {
+        fetchLetterboxdFeed();
+    }, [fetchLetterboxdFeed]);
+
+    const SectionHeader = () => (
+        <div className="flex justify-between items-center mb-4">
+            <h2 className="text-2xl font-bold text-orange-400">RECENT VIEWINGS</h2>
+            <button
+                onClick={fetchLetterboxdFeed}
+                disabled={loading}
+                className="lcars-refresh-btn"
+                title="Refresh feed"
+            >
+                <MdRefresh className={loading ? 'animate-spin' : ''} />
+                REFRESH
+            </button>
+        </div>
+    );
 
     if (loading && movies.length === 0) {
         return (
             <section className="mb-12">
-                <h2 className="text-2xl font-bold text-blue-400 mb-6">RECENT VIEWINGS</h2>
-                <div className="bg-gray-900 p-6 rounded-lg min-h-[300px] flex items-center justify-center">
-                    <div className="flex items-center justify-center text-gray-400">
-                        <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-orange-400"></div>
-                        <span className="ml-3">Loading recent movies...</span>
+                <SectionHeader />
+                <div className="lcars-text-block flex items-center justify-center" style={{ minHeight: '200px' }}>
+                    <div className="flex items-center gap-3">
+                        <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-orange-400" />
+                        <span className="text-sm tracking-wider" style={{ color: 'var(--lcars-text-dim)' }}>
+                            LOADING RECENT MOVIES...
+                        </span>
                     </div>
                 </div>
             </section>
@@ -43,19 +60,10 @@ const LetterboxdFeed = () => {
     if (error) {
         return (
             <section className="mb-12">
-                <div className="flex justify-between items-center mb-6">
-                    <h2 className="text-2xl font-bold text-blue-400">RECENT VIEWINGS</h2>
-                    <button 
-                        onClick={fetchLetterboxdFeed}
-                        className="flex items-center gap-2 px-3 py-1 bg-gray-800 hover:bg-gray-700 text-blue-400 rounded transition-colors text-sm border border-gray-700"
-                    >
-                        <MdRefresh className="text-lg" />
-                        RETRY
-                    </button>
-                </div>
-                <div className="bg-gray-900 p-6 rounded-lg border-l-4 border-red-400">
-                    <p className="text-red-400 font-semibold">SYSTEM ERROR</p>
-                    <p className="text-gray-300">{error}</p>
+                <SectionHeader />
+                <div className="lcars-note-block" style={{ borderLeftColor: '#f87171' }}>
+                    <p style={{ color: '#f87171', fontWeight: 700, marginBottom: '4px' }}>SYSTEM ERROR</p>
+                    <p style={{ color: 'var(--lcars-text-dim)' }}>{error}</p>
                 </div>
             </section>
         );
@@ -63,79 +71,74 @@ const LetterboxdFeed = () => {
 
     return (
         <section className="mb-12">
-            <div className="flex justify-between items-center mb-6">
-                <h2 className="text-2xl font-bold text-blue-400">RECENT VIEWINGS</h2>
-                <button 
-                    onClick={fetchLetterboxdFeed}
-                    disabled={loading}
-                    className={`text-gray-500 hover:text-blue-400 transition-colors p-2 rounded-full hover:bg-gray-800 ${loading ? 'text-blue-400' : ''}`}
-                    title="Refresh Feed"
-                >
-                    REFRESH
-                </button>
-            </div>
-            <div className="bg-gray-900 p-6 rounded-lg relative min-h-[300px]">
+            <SectionHeader />
+
+            <div className="lcars-text-block relative" style={{ minHeight: '300px' }}>
+                {/* Loading overlay when refreshing with existing data */}
                 {loading && (
-                    <div className="absolute inset-0 bg-gray-900/50 z-10 flex items-center justify-center rounded-lg backdrop-blur-sm">
-                        <div className="rounded-full h-8 w-8 border-b-2 border-orange-400"></div>
+                    <div className="absolute inset-0 z-10 flex items-center justify-center rounded-sm"
+                         style={{ background: 'rgba(4, 11, 35, 0.75)', backdropFilter: 'blur(4px)' }}>
+                        <div className="rounded-full h-8 w-8 border-b-2 border-orange-400" />
                     </div>
                 )}
-                <div className="flex items-center mb-4">
-                    <div className="w-3 h-3 bg-orange-400 rounded-full mr-3 animate-pulse"></div>
-                    <p className="text-orange-400 font-semibold text-sm tracking-wider">
+
+                {/* Stream status */}
+                <div className="flex items-center gap-3 mb-5">
+                    <div className="w-2 h-2 rounded-full animate-pulse" style={{ background: 'var(--lcars-orange)', flexShrink: 0 }} />
+                    <p className="text-sm font-bold tracking-wider" style={{ color: 'var(--lcars-orange)' }}>
                         LETTERBOXD DATA STREAM ACTIVE
                     </p>
                 </div>
-                
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
+
+                {/* Movie grid */}
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
                     {movies.map((movie, index) => (
-                        <a 
+                        <a
                             key={index}
                             href={movie.link}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="group block bg-gray-800 rounded-lg overflow-hidden border border-gray-700 hover:border-blue-400 transition-all duration-300 transform hover:scale-105"
+                            className="lcars-media-card group"
                         >
                             {movie.posterUrl && (
-                                <div className="aspect-[2/3] bg-gray-700 overflow-hidden">
-                                    <img 
+                                <div className="aspect-[2/3] overflow-hidden"
+                                     style={{ background: 'rgba(255,255,255,0.03)' }}>
+                                    <img
                                         src={movie.posterUrl}
                                         alt={`${movie.title} poster`}
-                                        className="w-full h-full object-cover group-hover:opacity-90 transition-opacity duration-300"
+                                        className="w-full h-full object-cover group-hover:opacity-85 transition-opacity duration-300"
                                         loading="lazy"
                                     />
                                 </div>
                             )}
-                            
-                            <div className="p-3">
-                                <h3 className="text-white font-semibold text-sm leading-tight mb-1 group-hover:text-blue-400 transition-colors">
+                            <div className="lcars-media-card-info">
+                                <h3 className="font-semibold text-sm leading-tight mb-1"
+                                    style={{ color: 'var(--lcars-text)' }}>
                                     {movie.title}
                                 </h3>
-                                
-                                <p className="text-gray-400 text-xs mb-2">
+                                <p className="text-xs mb-1" style={{ color: 'var(--lcars-text-dim)' }}>
                                     {movie.year}
                                 </p>
-                                
                                 {movie.rating && (
-                                    <div className="text-orange-400 text-sm mb-2">
+                                    <div className="text-sm mb-1" style={{ color: 'var(--lcars-orange)' }}>
                                         {movie.rating}
                                     </div>
                                 )}
-                                
-                                <p className="text-gray-500 text-xs">
+                                <p className="text-xs" style={{ color: 'rgba(148,163,184,0.45)' }}>
                                     {movie.watchedDate}
                                 </p>
                             </div>
                         </a>
                     ))}
                 </div>
-                
-                <div className="mt-4 pt-4 border-t border-gray-700">
-                    <a 
+
+                {/* Footer link */}
+                <div className="mt-5 pt-4" style={{ borderTop: '1px solid rgba(255,153,0,0.15)' }}>
+                    <a
                         href="https://letterboxd.com/MeatyMahir/"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-blue-400 hover:text-blue-300 text-sm font-semibold tracking-wider transition-colors inline-flex items-center"
+                        className="lcars-inline-link text-sm font-semibold tracking-wider"
                     >
                         VIEW FULL PROFILE →
                     </a>
