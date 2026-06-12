@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T10:38:46.521Z",
+  "lastUpdated": "2026-06-12T10:16:29.235Z",
   "topTracks": [
     {
       "name": "Janice STFU",
@@ -202,6 +202,14 @@
       "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
     },
     {
+      "name": "Ken Carson",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+    },
+    {
       "name": "Nine Vicious",
       "genres": [
         "rage rap",
@@ -243,28 +251,18 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
-      "name": "Ken Carson",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-    },
-    {
       "name": "BENEE",
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb42a704d73b253170e18c16a1",
       "external_url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
     },
     {
-      "name": "Aphex Twin",
+      "name": "Destroy Lonely",
       "genres": [
-        "idm",
-        "ambient",
-        "electronica"
+        "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebaa3c91d792eb520a5d58daa5",
-      "external_url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     }
   ]
 }
