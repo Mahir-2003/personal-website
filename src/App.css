@@ -305,37 +305,87 @@ body {
 
 /* ===== LCARS Loading Overlay ===== */
 .lcars-loading-overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background:
-    radial-gradient(1200px 600px at 70% 30%, rgba(128, 90, 213, 0.18), transparent 60%),
-    radial-gradient(1000px 500px at 35% 70%, rgba(59, 130, 246, 0.12), transparent 60%),
-    /* starfield (cheap): two layered noise dots */
-    radial-gradient(1px 1px at 10% 20%, rgba(255,255,255,.7) 50%, transparent 51%),
-    radial-gradient(1px 1px at 40% 80%, rgba(255,255,255,.6) 50%, transparent 51%),
-    radial-gradient(1px 1px at 75% 50%, rgba(255,255,255,.5) 50%, transparent 51%),
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(255, 255, 255, 0.03) 2px,
+      rgba(255, 255, 255, 0.03) 4px
+    ),
+    radial-gradient(ellipse 110% 90% at 50% 50%, rgba(0, 8, 24, 0.85) 0%, #000 75%),
     #000;
-  background-size: auto, auto, 200px 200px, 250px 250px, 300px 300px, auto;
-  animation: lcarsStarDrift 30s linear infinite;
 }
 
-/* Glassy center panel */
-.lcars-panel {
+/* HUD top bar */
+.lcars-hud-top {
   position: absolute;
-  inset: 0;
-  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 30px;
+  background: rgba(255, 153, 0, 0.08);
+  border-bottom: 1px solid rgba(255, 153, 0, 0.65);
+  box-shadow: 0 1px 14px rgba(255, 153, 0, 0.25);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 72px;
+  overflow: visible;
+  transform-origin: top center;
+  animation: lcars-reveal 300ms ease-out 0ms both;
+}
+
+.lcars-hud-logo {
+  font-size: 13px;
+  letter-spacing: 0.3em;
+  color: #ff9900;
+  text-shadow: 0 0 12px rgba(255, 153, 0, 0.8);
+  text-transform: uppercase;
+}
+
+.lcars-hud-ident {
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  color: rgba(255, 153, 0, 0.7);
+}
+
+
+/* HUD bottom bar */
+.lcars-hud-bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: #9999ff;
+  box-shadow: 0 0 10px rgba(153, 153, 255, 0.8), 0 0 24px rgba(153, 153, 255, 0.3);
+  overflow: visible;
+  transform-origin: bottom center;
+  animation: lcars-reveal 300ms ease-out 80ms both;
+}
+
+
+/* Center panel */
+.lcars-panel {
+  position: relative;
   width: min(720px, 92vw);
-  height: 320px;
   border-radius: 28px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 18px;
+  gap: 14px;
   padding: 32px 28px;
   text-align: center;
-  /* inherit your glass style */
+  animation: lcars-reveal 300ms ease-out 160ms both;
 }
 
-/* LCARS pylons (curved side bars) */
+/* LCARS pylons (curved side bars) — kept for reference */
 .lcars-arc {
   position: absolute;
   top: 0;
@@ -347,17 +397,34 @@ body {
   box-shadow: inset 0 0 24px rgba(251,146,60,0.2);
   will-change: transform, opacity;
 }
-
 .lcars-arc-left {
   left: 0;
   border-radius: 0 80px 80px 0;
   transform: translateX(-12px);
 }
-
 .lcars-arc-right {
   right: 0;
   border-radius: 80px 0 0 80px;
   transform: translateX(12px);
+}
+
+/* Ship figure */
+.lcars-ship-wrap {
+  width: 280px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+.lcars-ship {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  filter:
+    drop-shadow(0 0 24px rgba(96, 165, 250, 0.5))
+    drop-shadow(0 0 8px rgba(251, 146, 60, 0.2));
 }
 
 /* Logo + subtitle */
@@ -375,67 +442,114 @@ body {
   opacity: 0.95;
 }
 
-/* Segmented bar */
+/* Segmented progress bar — 16 segments, 3-color cycling */
 .lcars-segbar {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  gap: 10px;
-  width: min(620px, 90vw);
+  grid-template-columns: repeat(16, 1fr);
+  gap: 8px;
+  width: min(640px, 90vw);
   margin-top: 6px;
 }
 
 .lcars-seg {
-  height: 12px;
-  border-radius: 10px;
-  background: rgba(251,146,60,0.22);
-  overflow: hidden;
+  height: 14px;
+  border-radius: 3px;
   position: relative;
+  overflow: hidden;
   transform: translateZ(0);
+  animation: lcarsPulse 1.4s ease-in-out infinite;
 }
+
+.lcars-seg:nth-child(3n + 1) {
+  background: rgba(251, 146, 60, 0.18);
+  --seg-sweep: rgba(251, 146, 60, 0.9);
+  --seg-glow: rgba(251, 146, 60, 0.5);
+}
+.lcars-seg:nth-child(3n + 2) {
+  background: rgba(96, 165, 250, 0.18);
+  --seg-sweep: rgba(96, 165, 250, 0.9);
+  --seg-glow: rgba(96, 165, 250, 0.5);
+}
+.lcars-seg:nth-child(3n) {
+  background: rgba(192, 132, 252, 0.18);
+  --seg-sweep: rgba(192, 132, 252, 0.9);
+  --seg-glow: rgba(192, 132, 252, 0.5);
+}
+
 .lcars-seg::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(90deg, rgba(251,146,60,.0), rgba(251,146,60,.9), rgba(251,146,60,.0));
+  background: linear-gradient(90deg, transparent, var(--seg-sweep, rgba(251, 146, 60, 0.9)), transparent);
   transform: translateX(-100%);
-  animation: lcarsSweep 1.4s cubic-bezier(.4,0,.2,1) infinite;
-}
-.lcars-seg {
-  animation: lcarsPulse 1.4s ease-in-out infinite;
+  animation: lcarsSweep 1.4s cubic-bezier(.4, 0, .2, 1) infinite;
 }
 
-/* Ticker */
+/* Data readout panel */
+.lcars-readout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px 16px;
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  width: min(400px, 88vw);
+}
+
+.lcars-readout-labels {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  text-align: left;
+  color: rgba(148, 163, 184, 0.55);
+  text-transform: uppercase;
+}
+
+.lcars-readout-values {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  text-align: right;
+  color: #fb923c;
+  opacity: 0.75;
+}
+
+/* Status ticker */
 .lcars-ticker {
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  margin-top: 6px;
+  margin-top: 4px;
   font-size: 12px;
-  letter-spacing: .2em;
-  color: rgba(229,231,235,.85);
+  letter-spacing: 0.2em;
+  color: rgba(229, 231, 235, 0.85);
 }
-.lcars-dot {
-  width: 8px; height: 8px; border-radius: 50%;
-  background: #fb923c;
-  box-shadow: 0 0 10px #fb923c;
+
+.lcars-chevron {
+  color: #fb923c;
+  font-size: 9px;
   animation: lcarsBlink 1s ease-in-out infinite;
+  text-shadow: 0 0 8px rgba(251, 146, 60, 0.9);
+  flex-shrink: 0;
 }
+
 .lcars-ticker-text {
   white-space: nowrap;
   max-width: calc(min(560px, 80vw));
   overflow: hidden;
   text-align: center;
   text-overflow: ellipsis;
+  text-shadow: 0 0 8px rgba(229, 231, 235, 0.2);
 }
 
-/* tiny corner id */
+/* corner id badge (kept for backward compatibility) */
 .lcars-corner-id {
   position: absolute;
   bottom: 18px;
   right: 22px;
   font-size: 11px;
-  letter-spacing: .25em;
-  color: rgba(148,163,184,.8);
+  letter-spacing: 0.25em;
+  color: rgba(148, 163, 184, 0.8);
 }
 
 /* Animations */
@@ -444,17 +558,27 @@ body {
   60%  { transform: translateX(120%); }
   100% { transform: translateX(120%); }
 }
+
 @keyframes lcarsPulse {
-  0%,100% { filter: brightness(1); }
-  50%     { filter: brightness(1.35); }
+  0%, 100% { filter: brightness(1); }
+  50%      { filter: brightness(1.4); box-shadow: 0 0 8px var(--seg-glow, rgba(251, 146, 60, 0.5)); }
 }
+
 @keyframes lcarsBlink {
   0%, 100% { opacity: 1; }
-  50% { opacity: .45; }
+  50%      { opacity: 0.3; }
 }
-@keyframes lcarsStarDrift {
-  0%   { background-position: 0 0, 0 0, 0 0, 0 0, 0 0, 0 0; }
-  100% { background-position: 0 0, 0 0, 200px 200px, 250px 250px, 300px 300px, 0 0; }
+
+
+@keyframes lcars-reveal {
+  from {
+    opacity: 0;
+    transform: scaleY(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scaleY(1);
+  }
 }
 
 /* ===== LCARS Inline Hyperlink ===== */
@@ -499,10 +623,12 @@ body {
 
 /* Respect reduced motion */
 @media (prefers-reduced-motion: reduce) {
-  .lcars-loading-overlay,
   .lcars-seg::before,
   .lcars-seg,
-  .lcars-dot { animation: none !important; }
+  .lcars-chevron,
+  .lcars-hud-top,
+  .lcars-hud-bottom,
+  .lcars-panel { animation: none !important; }
 
   .lcars-inline-link, .lcars-inline-link::after { transition: none !important; }
 }

@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo} from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import enterpriseTop from "../assets/ncc1701-top-transparent.webp"
 import enterpriseIso from "../assets/ncc1701-iso-transparent.webp"
 import enterpriseFront from "../assets/ncc1701-front-transparent.webp"
@@ -9,7 +9,10 @@ const STATUS_CYCLE = [
     "AUTHENTICATING STARFLEET NODE",
     "SYNCING LCARS SUBROUTINES",
     "SCANNING ISOLINEAR CHIPS",
-    "ALIGNING HEISENBERG COMPENSATORS"
+    "ALIGNING HEISENBERG COMPENSATORS",
+    "ROUTING THROUGH RELAY STATION EPSILON",
+    "VERIFYING BIOMETRIC SIGNATURE",
+    "UPLINK TO STARFLEET COMMAND ESTABLISHED"
 ]
 
 const pageInfo = {
@@ -31,6 +34,7 @@ const LoadingScreen = ({ isLoading, currentPage }) => {
     const [mounted, setMounted] = useState(false);
     const [isOpaque, setIsOpaque] = useState(false);
     const [tick, setTick] = useState(0);
+    const [scramble, setScramble] = useState(["47634.44", "001", "ALPHA-1"]);
 
     const page = pageInfo[currentPage] ?? pageInfo["/"];
     const message = useMemo(() => page.msg, [page]);
@@ -45,12 +49,25 @@ const LoadingScreen = ({ isLoading, currentPage }) => {
         }
     }, [isLoading]);
 
-    // rotate little status line while visible
+    // rotate status line while visible
     useEffect(() => {
         if (!mounted) return;
         const id = setInterval(() => setTick((t) => (t + 1) % STATUS_CYCLE.length), 1600);
         return () => clearInterval(id);
-    }, [mounted])
+    }, [mounted]);
+
+    // scramble readout values while loading
+    useEffect(() => {
+        if (!mounted) return;
+        const id = setInterval(() => {
+            setScramble([
+                (40000 + Math.random() * 9999).toFixed(2),
+                String(Math.floor(Math.random() * 999)).padStart(3, '0'),
+                `ALPHA-${Math.floor(Math.random() * 9) + 1}`
+            ]);
+        }, 200);
+        return () => clearInterval(id);
+    }, [mounted]);
 
     const handleTransitionEnd = () => {
         if (!isLoading) {
@@ -68,18 +85,24 @@ const LoadingScreen = ({ isLoading, currentPage }) => {
             aria-live="polite"
             role="status"
         >
+            {/* Top HUD bar — corner brackets via ::before / ::after */}
+            <div className="lcars-hud-top" aria-hidden="true">
+                <span className="lcars-hud-logo" style={{ fontFamily: "TNG, Orbitron, sans-serif" }}>LCARS</span>
+                <span className="lcars-hud-ident">NCC-1701 // UX OPS</span>
+            </div>
+
+            {/* Bottom HUD bar — corner brackets via ::before / ::after */}
+            <div className="lcars-hud-bottom" aria-hidden="true" />
+
             {/* center panel */}
             <div className="lcars-panel">
-                <figure className="lcars-ship-wrap" aria-hidden>
-                    <img 
-                    src={page.img} 
-                    alt={`An image of the Constitution Class USS Enterprise `} 
-                    className="lcars-ship"
-                    draggable="false"
+                <figure className="lcars-ship-wrap" aria-hidden="true">
+                    <img
+                        src={page.img}
+                        alt={`An image of the Constitution Class USS Enterprise`}
+                        className="lcars-ship"
+                        draggable="false"
                     />
-                    <span className="lcars-ship-glow" />
-                    <span className="lcars-ship-reflection" />
-                    <span className="lcars-ship-scanlines" />
                 </figure>
 
                 <div
@@ -91,11 +114,10 @@ const LoadingScreen = ({ isLoading, currentPage }) => {
 
                 <div className="lcars-subtitle">{message}</div>
 
-                {/* segmented progress bar */}
+                {/* segmented progress bar — 16 segments, 3-color cycling */}
                 <div className="lcars-segbar" aria-label="Loading progress">
-                    {Array.from({ length: 12 }).map((_, i) => (
+                    {Array.from({ length: 16 }).map((_, i) => (
                         <span
-                            // stagger the animation for each segment
                             key={i}
                             style={{ animationDelay: `${i * 90}ms` }}
                             className="lcars-seg"
@@ -103,18 +125,27 @@ const LoadingScreen = ({ isLoading, currentPage }) => {
                     ))}
                 </div>
 
-                {/* small status ticker */}
+                {/* LCARS data readout panel */}
+                <div className="lcars-readout" aria-hidden="true">
+                    <div className="lcars-readout-labels">
+                        <span>STARDATE 47634.44</span>
+                        <span>SECTOR 001</span>
+                        <span>CLEARANCE: ALPHA-1</span>
+                    </div>
+                    <div className="lcars-readout-values">
+                        <span>{scramble[0]}</span>
+                        <span>{scramble[1]}</span>
+                        <span>{scramble[2]}</span>
+                    </div>
+                </div>
+
+                {/* status ticker */}
                 <div className="lcars-ticker">
-                    <span className="lcars-dot" />
+                    <span className="lcars-chevron" aria-hidden="true">▶</span>
                     <span className="lcars-ticker-text">
                         {STATUS_CYCLE[tick]}
                     </span>
                 </div>
-            </div>
-
-            {/* subtle corner badge */}
-            <div className="lcars-corner-id">
-                NCC-1701 • UX OPS
             </div>
         </div>
     );
