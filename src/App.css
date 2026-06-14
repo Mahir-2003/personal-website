@@ -50,6 +50,13 @@
   --lcars-purple:     #c084fc;
   --lcars-text:       rgba(255, 255, 255, 0.9);
   --lcars-text-dim:   rgba(148, 163, 184, 0.7);
+
+  /* ── Frame geometry — global so #main-content can reference the same values ── */
+  --fn-rail-w:  250px;
+  --fn-bar-h:   68px;
+  --fn-gutter:  20px;   /* breathing room beyond the frame edge */
+  --fn-ease:    cubic-bezier(.62, 0, .20, 1);
+  --fn-arm-dur: .46s;
 }
 
 body {
@@ -157,6 +164,10 @@ body {
 }
 
 @media (max-width: 720px) {
+  :root {
+    --fn-rail-w: 150px;
+    --fn-bar-h:  75px;
+  }
   .lcars-frame {
     --fn-rail-w: 150px;
     --fn-bar-h:  75px;
@@ -597,11 +608,28 @@ body {
   cursor: pointer;
 }
 
+/* ── content inset — keeps page content inside the L-frame's working area ── */
+/*
+   Uses :has() on body so only the [data-open] attribute on the frame element
+   drives this — no JS changes needed. The geometry tokens come from :root so
+   the inset and the frame arms always use identical values.
+*/
+#main-content {
+  transition:
+    padding-left var(--fn-arm-dur) var(--fn-ease),
+    padding-top  var(--fn-arm-dur) var(--fn-ease);
+}
+body:has(#lcars-frame[data-open]) #main-content {
+  padding-left: calc(var(--fn-rail-w) + var(--fn-gutter));
+  padding-top:  calc(var(--fn-bar-h)  + var(--fn-gutter));
+}
+
 /* ── reduced motion ──────────────────────────────────────────── */
 @media (prefers-reduced-motion: reduce) {
   .lcars-frame *,
   .lcars-combadge,
-  .lcars-backdrop {
+  .lcars-backdrop,
+  #main-content {
     transition-duration: 0s !important;
     animation: none !important;
   }
