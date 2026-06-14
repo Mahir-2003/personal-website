@@ -117,120 +117,496 @@ body {
     inset 0 0 20px 0 rgba(255, 255, 255, 0.15);
 }
 
-/* Navigation Buttons */
-.lcars-nav-button {
-  position: relative;
-  display: block;
-  background: rgba(30, 41, 59, 0.4);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  transition: all 1s cubic-bezier(0.4, 0, 0.2, 1);
-  overflow: hidden;
-  animation: slideInLeft 1s ease-out;
-  will-change: transform, opacity;
+/* ============================================================
+   LCARS FRAME LOCK NAVIGATION
+   Design tokens scoped to .lcars-frame so they don't bleed
+   into the rest of the app.
+   ============================================================ */
+.lcars-frame {
+  /* ---- geometry ---- */
+  --fn-rail-w: 250px;
+  --fn-bar-h:  68px;
+  --fn-inr:    46px;   /* inner concave elbow radius */
+  --fn-out:    28px;   /* outer rounded corner (footer) */
+  --fn-gap:    5px;    /* gap between segments */
+  --fn-pad:    14px;
+
+  /* ---- palette ---- */
+  --fn-orange: #FF9C00;
+  --fn-tan:    #E4B57E;
+  --fn-sand:   #FFCC99;
+  --fn-lilac:  #CC99CC;
+  --fn-violet: #9D7AD0;
+  --fn-blue:   #6A8CD6;
+  --fn-sky:    #9EC3FF;
+  --fn-peach:  #FF9C66;
+  --fn-red:    #CC4A5A;
+  --fn-mint:   #7FD1A6;
+  --fn-ink:    #15100A;
+  --fn-panel:  #0c0c12;
+
+  /* ---- motion ---- */
+  --fn-ease: cubic-bezier(.62, 0, .20, 1);
+  --fn-pop:  cubic-bezier(.20, .80, .25, 1);
+  --fn-arm-dur:     .46s;
+  --fn-content-dur: .34s;
+
+  /* ---- font stacks ---- */
+  --fn-font: 'Antonio', 'Orbitron', sans-serif;
+  --fn-mono: 'JetBrains Mono', 'Courier New', monospace;
 }
 
-.lcars-nav-expanded {
-  border-radius: 50px 8px 8px 50px;
-  padding: 12px 20px 12px 16px;
-  width: 100%;
+@media (max-width: 720px) {
+  .lcars-frame {
+    --fn-rail-w: 150px;
+    --fn-bar-h:  75px;
+    --fn-inr:    34px;
+  }
 }
 
-.lcars-nav-collapsed {
-  border-radius: 50%;
-  width: 56px;
-  height: 56px;
+/* ── frame root ─────────────────────────────────────────────── */
+.lcars-frame {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  pointer-events: none;  /* frame itself never blocks clicks */
+}
+.lcars-frame > * { pointer-events: auto; }
+
+/* ── corner elbow ───────────────────────────────────────────── */
+.lcars-corner {
+  position: absolute;
+  left: 0; top: 0;
+  width: var(--fn-rail-w);
+  height: var(--fn-bar-h);
+  background: var(--fn-orange);
+  border-radius: 0 0 var(--fn-inr) 0;
   display: flex;
   align-items: center;
-  justify-content: center;
-  padding: 0;
+  justify-content: flex-end;
+  padding-left: 76px;  /* reserve space for combadge (22px offset + 46px width + 8px gap) */
+  padding-right: 18px;
+  overflow: hidden;
+  /* starts scaled-down and invisible, pops in when open */
+  opacity: 0;
+  transform: scale(.55);
+  transform-origin: top left;
+  transition: opacity .28s var(--fn-pop), transform .28s var(--fn-pop);
 }
-
-.lcars-nav-button:hover {
-  background: rgba(59, 130, 246, 0.2);
-  border-color: rgba(59, 130, 246, 0.4);
-  transform: translateX(4px) scale(1.02);
-}
-
-.lcars-nav-active {
-  background: rgba(251, 146, 60, 0.3) !important;
-  border-color: rgba(251, 146, 60, 0.6) !important;
-  box-shadow: 
-    0 0 24px rgba(251, 146, 60, 0.4),
-    inset 0 0 20px rgba(251, 146, 60, 0.2);
-}
-
-.lcars-nav-id {
-  font-size: 0.75rem;
+.lcars-wordmark {
+  font-family: 'TNG', 'Antonio', 'Orbitron', sans-serif;
   font-weight: 700;
-  color: #fb923c;
-  opacity: 0.8;
+  font-style: italic;
+  font-size: 34px;
+  letter-spacing: .05em;
+  color: var(--fn-ink);
+  white-space: nowrap;
+}
+@media (max-width: 720px) {
+  .lcars-wordmark { display: none; }
 }
 
-.lcars-active-indicator {
-  width: 8px;
-  height: 8px;
-  background: #fb923c;
-  border-radius: 50%;
-  box-shadow: 0 0 12px #fb923c;
-  animation: pulse 1s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-}
-
-/* Button Glow Effect */
-.lcars-button-glow {
+/* ── top arm ────────────────────────────────────────────────── */
+.lcars-topbar {
   position: absolute;
-  top: 50%;
-  left: -100%;
-  width: 100%;
-  height: 200%;
-  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
-  transform: translateY(-50%) skewX(-45deg);
-  transition: left 1s ease;
+  left: calc(var(--fn-rail-w) + var(--fn-gap));
+  top: 0;
+  right: 0;
+  height: var(--fn-bar-h);
+  display: flex;
+  align-items: stretch;
+  gap: var(--fn-gap);
+  /* arm grows left → right via clip-path */
+  clip-path: inset(0 100% 0 0);
+  transition: clip-path var(--fn-arm-dur) var(--fn-ease);
+}
+.lcars-seg {
+  background: var(--fn-tan);
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+}
+.lcars-seg-title {
+  flex: 1;
+  padding: 0 20px;
+  color: var(--fn-ink);
+  font-family: var(--fn-font);
+  font-weight: 700;
+  font-size: 19px;
+  letter-spacing: .24em;
+  white-space: nowrap;
+}
+.lcars-seg-deco {
+  width: 46px;
+  background: var(--fn-violet);
+  flex-shrink: 0;
+}
+.lcars-seg-deco-b {
+  width: 22px;
+  background: var(--fn-peach);
+  flex-shrink: 0;
+}
+.lcars-seg-readout {
+  width: 260px;
+  flex-shrink: 0;
+  justify-content: space-between;
+  padding: 0 18px;
+  background: var(--fn-panel);
+  border-radius: 2px;
+  font-family: var(--fn-mono);
+}
+@media (max-width: 720px) {
+  .lcars-seg-readout { display: none; }
+}
+.lcars-seg-sd {
+  color: var(--fn-sand);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: .16em;
+}
+.lcars-seg-online {
+  color: var(--fn-mint);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .18em;
 }
 
-.lcars-nav-button:hover .lcars-button-glow {
-  left: 100%;
-}
-
-/* Status Indicators */
-.lcars-status-indicator {
-  background: rgba(30, 41, 59, 0.3);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.06);
-  border-radius: 8px;
-  padding: 8px;
+/* ── left rail ──────────────────────────────────────────────── */
+.lcars-rail {
+  position: absolute;
+  left: 0;
+  top: calc(var(--fn-bar-h) + var(--fn-gap));
+  bottom: 0;
+  width: var(--fn-rail-w);
   display: flex;
   flex-direction: column;
+  gap: var(--fn-gap);
+  /* arm grows top → bottom via clip-path */
+  clip-path: inset(0 0 100% 0);
+  transition: clip-path var(--fn-arm-dur) var(--fn-ease);
+}
+
+.lcars-rail-tag {
+  background: var(--fn-sand);
+  color: var(--fn-ink);
+  border-radius: 2px;
+  height: 30px;
+  display: flex;
   align-items: center;
-  gap: 4px;
+  justify-content: flex-end;
+  padding-right: 14px;
+  font-family: var(--fn-font);
+  font-size: 12px;
+  letter-spacing: .18em;
+  font-weight: 600;
+  flex-shrink: 0;
 }
 
-/* Diagnostic Strips */
-.lcars-diagnostic-orange {
-  background: linear-gradient(90deg, transparent, #fb923c, transparent);
-  box-shadow: 0 0 8px #fb923c;
-  animation: diagnosticPulse 3s ease-in-out infinite;
+/* nav list */
+.lcars-nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--fn-gap);
+  flex-shrink: 0;
 }
 
-.lcars-diagnostic-blue {
-  background: linear-gradient(90deg, transparent, #60a5fa, transparent);
-  box-shadow: 0 0 8px #60a5fa;
-  animation: diagnosticPulse 3s ease-in-out infinite 0.3s;
+/* nav item — styled as a Link but looks like the LCARS flat button */
+.lcars-nav-item {
+  --c: var(--fn-orange);  /* per-item color override via inline style */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  width: 100%;
+  height: 62px;
+  border: 0;
+  cursor: pointer;
+  background: var(--c);
+  color: var(--fn-ink);
+  border-radius: 2px;
+  padding: 0 18px 0 0;
+  font-family: var(--fn-font);
+  position: relative;
+  overflow: hidden;
+  text-decoration: none;
+  transition: filter .15s ease, opacity var(--fn-content-dur) ease, transform var(--fn-content-dur) ease;
+}
+.lcars-nav-item:hover { filter: brightness(1.12); }
+.lcars-nav-item:focus-visible { outline: 3px solid #fff; outline-offset: -5px; }
+.lcars-nav-tag {
+  font-family: var(--fn-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .2em;
+  opacity: 0.75;
+}
+.lcars-nav-label {
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: .04em;
+  white-space: nowrap;
+}
+@media (max-width: 720px) {
+  .lcars-nav-label { font-size: 16px; }
+}
+/* active state: inset ring + left nub + dot */
+.lcars-nav-item[aria-current="page"] {
+  box-shadow: inset 0 0 0 4px var(--fn-ink);
+}
+.lcars-nav-item[aria-current="page"]::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 50%;
+  transform: translateY(-50%);
+  width: 10px; height: 26px;
+  background: var(--fn-ink);
+  border-radius: 0 4px 4px 0;
+}
+.lcars-nav-item[aria-current="page"]::after {
+  content: "";
+  position: absolute;
+  left: 18px; top: 50%;
+  transform: translateY(-50%);
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  background: var(--fn-ink);
 }
 
-.lcars-diagnostic-purple {
-  background: linear-gradient(90deg, transparent, #c084fc, transparent);
-  box-shadow: 0 0 8px #c084fc;
-  animation: diagnosticPulse 3s ease-in-out infinite 0.6s;
+/* decorative spacer — fills the rail's flexible middle */
+.lcars-rail-deco {
+  flex: 1;
+  min-height: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--fn-gap);
+}
+.lcars-rail-deco-block {
+  display: block;
+  border-radius: 2px;
+}
+.lcars-rail-deco-block:nth-child(1) { height: 10px; background: var(--fn-peach); }
+.lcars-rail-deco-block:nth-child(2) { height: 34px; background: var(--fn-violet); opacity: .85; }
+.lcars-rail-deco-block:nth-child(3) { flex: 1; background: var(--fn-blue); opacity: .28; }
+.lcars-rail-deco-block:nth-child(4) { height: 10px; background: var(--fn-lilac); }
+
+/* system status panel */
+.lcars-sysstatus {
+  background: var(--fn-panel);
+  border-radius: 2px;
+  padding: 10px 12px;
+  flex-shrink: 0;
+}
+.lcars-sysstatus-heading {
+  margin: 0 0 8px;
+  color: var(--fn-lilac);
+  font-family: var(--fn-font);
+  font-size: 12px;
+  letter-spacing: .22em;
+  font-weight: 700;
+}
+.lcars-sysstatus-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 3px 0;
+}
+.lcars-sysstatus-key {
+  color: #9a9ab8;
+  font-family: var(--fn-font);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .16em;
+  white-space: nowrap;
+}
+.lcars-sysstatus-val {
+  font-family: var(--fn-mono);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .1em;
+  white-space: nowrap;
+}
+.lcars-sysstatus-val--on  { color: var(--fn-mint); }
+.lcars-sysstatus-val--sec { color: var(--fn-sky); }
+.lcars-sysstatus-val--acc { color: var(--fn-lilac); }
+
+/* footer cap */
+.lcars-rail-foot {
+  background: var(--fn-violet);
+  border-radius: 0 0 0 var(--fn-out);
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex-shrink: 0;
+}
+.lcars-ticker {
+  display: flex;
+  gap: 3px;
+  height: 8px;
+}
+.lcars-ticker-seg {
+  border-radius: 1px;
+  display: block;
+  animation: lcars-ticker-wave 2.8s ease-in-out infinite;
+}
+.lcars-ticker-seg:nth-child(1) { animation-delay: 0.00s; }
+.lcars-ticker-seg:nth-child(2) { animation-delay: 0.18s; }
+.lcars-ticker-seg:nth-child(3) { animation-delay: 0.36s; }
+.lcars-ticker-seg:nth-child(4) { animation-delay: 0.54s; }
+.lcars-ticker-seg:nth-child(5) { animation-delay: 0.72s; }
+.lcars-ticker-seg:nth-child(6) { animation-delay: 0.90s; }
+.lcars-ticker-seg:nth-child(7) { animation-delay: 1.08s; }
+.lcars-ticker-seg:nth-child(8) { animation-delay: 1.26s; }
+@keyframes lcars-ticker-wave {
+  0%, 100% { opacity: 0.35; }
+  50%      { opacity: 1.0; }
+}
+.lcars-rail-lbl {
+  color: var(--fn-ink);
+  font-family: var(--fn-font);
+  font-size: 11px;
+  letter-spacing: .18em;
+  font-weight: 600;
+  text-align: right;
 }
 
-.lcars-diagnostic-green {
-  background: linear-gradient(90deg, transparent, #4ade80, transparent);
-  box-shadow: 0 0 8px #4ade80;
-  animation: diagnosticPulse 3s ease-in-out infinite 0.9s;
+/* ── staggered content reveal ────────────────────────────────── */
+/* All content elements start invisible and slightly offset */
+.lcars-seg,
+.lcars-rail-tag,
+.lcars-nav-item,
+.lcars-rail-deco,
+.lcars-sysstatus,
+.lcars-rail-foot {
+  opacity: 0;
+  transform: translateY(-8px);
+  transition:
+    opacity var(--fn-content-dur) ease,
+    transform var(--fn-content-dur) ease;
 }
+/* Nav items slide from the left instead of down */
+.lcars-rail .lcars-nav-item { transform: translateX(-20px); }
+
+/* When open: extend arms */
+.lcars-frame[data-open] .lcars-topbar {
+  clip-path: inset(0 0 0 0);
+  transition-delay: .06s;
+}
+.lcars-frame[data-open] .lcars-rail { clip-path: inset(0 0 0 0); }
+.lcars-frame[data-open] .lcars-corner { opacity: 1; transform: scale(1); }
+
+/* When open: reveal all content */
+.lcars-frame[data-open] .lcars-seg,
+.lcars-frame[data-open] .lcars-rail-tag,
+.lcars-frame[data-open] .lcars-nav-item,
+.lcars-frame[data-open] .lcars-rail-deco,
+.lcars-frame[data-open] .lcars-sysstatus,
+.lcars-frame[data-open] .lcars-rail-foot {
+  opacity: 1;
+  transform: none;
+}
+/* Stagger delays via per-element --i custom property set inline */
+.lcars-frame[data-open] .lcars-rail-tag    { transition-delay: .24s; }
+.lcars-frame[data-open] .lcars-nav-item    { transition-delay: calc(.28s + var(--i, 0) * .07s); }
+.lcars-frame[data-open] .lcars-rail-deco   { transition-delay: .5s; }
+.lcars-frame[data-open] .lcars-sysstatus   { transition-delay: .54s; }
+.lcars-frame[data-open] .lcars-rail-foot   { transition-delay: .58s; }
+.lcars-frame[data-open] .lcars-seg         { transition-delay: calc(.2s + var(--i, 0) * .05s); }
+
+/* ── combadge trigger ────────────────────────────────────────── */
+.lcars-combadge {
+  position: absolute;
+  left: 22px;
+  top: calc((var(--fn-bar-h) - 46px) / 2);
+  z-index: 60;
+  width: 46px; height: 46px;
+  padding: 0; border: 0;
+  border-radius: 0;
+  background: transparent;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  filter: drop-shadow(0 0 6px rgba(255, 156, 0, .4));
+  transition: filter .35s ease, transform .35s var(--fn-pop);
+}
+.lcars-combadge:focus,
+.lcars-combadge:focus-visible { outline: none; }
+.lcars-combadge:hover  { transform: scale(1.06); }
+.lcars-combadge:active { transform: scale(.94); }
+.lcars-frame[data-open] .lcars-combadge {
+  filter: drop-shadow(0 0 11px rgba(255, 156, 0, .7));
+}
+.lcars-combadge-img {
+  width: 46px; height: 46px;
+  display: block;
+  object-fit: contain;
+}
+/* pulsing invitation ring — only when closed */
+.lcars-combadge-ring {
+  position: absolute;
+  inset: -6px;
+  border-radius: 50%;
+  border: 2px solid #FF9C00;
+  opacity: 0;
+}
+.lcars-frame:not([data-open]) .lcars-combadge-ring {
+  animation: lcars-pulse-ring 2s ease-out infinite;
+}
+@keyframes lcars-pulse-ring {
+  0%   { opacity: .5; transform: scale(.85); }
+  70%  { opacity: 0;  transform: scale(1.25); }
+  100% { opacity: 0; }
+}
+
+/* "◂ ACCESS" hint — visible only when closed */
+.lcars-hint {
+  position: absolute;
+  left: 78px;
+  top: calc((var(--fn-bar-h) - 46px) / 2 + 13px);
+  z-index: 60;
+  color: #FF9C00;
+  font-family: var(--fn-mono);
+  font-size: 11px;
+  letter-spacing: .24em;
+  opacity: 0;
+  transition: opacity .3s ease;
+  pointer-events: none;
+  white-space: nowrap;
+}
+.lcars-frame:not([data-open]) .lcars-hint {
+  opacity: .9;
+  transition-delay: .2s;
+}
+
+/* ── backdrop (closes nav on outside click) ──────────────────── */
+/* pointer-events disabled when closed so nav doesn't block the page */
+.lcars-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 49;
+  background: transparent;
+  pointer-events: none;
+  transition: background .3s ease;
+}
+.lcars-backdrop[data-open] {
+  background: rgba(0, 0, 0, .35);
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+/* ── reduced motion ──────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  .lcars-frame *,
+  .lcars-combadge,
+  .lcars-backdrop {
+    transition-duration: 0s !important;
+    animation: none !important;
+  }
+}
+
 
 /* Glow Effects */
 .lcars-glow {
@@ -253,51 +629,7 @@ body {
   text-shadow: 0 0 15px rgba(74, 222, 128, 0.8);
 }
 
-/* Gradient Animation */
-.lcars-gradient-animate {
-  background: linear-gradient(45deg, 
-    rgba(251, 146, 60, 0.1) 0%,
-    rgba(96, 165, 250, 0.1) 25%,
-    rgba(192, 132, 252, 0.1) 50%,
-    rgba(251, 146, 60, 0.1) 100%
-  );
-  background-size: 400% 400%;
-  animation: gradientShift 15s ease infinite;
-}
-
 /* Animations */
-@keyframes slideInLeft {
-  from {
-    opacity: 0;
-    transform: translateX(-20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-@keyframes diagnosticPulse {
-  0%, 100% {
-    opacity: 0.3;
-  }
-  50% {
-    opacity: 1;
-  }
-}
-
-@keyframes gradientShift {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
 @keyframes pulse {
   0%, 100% {
     opacity: 1;
@@ -462,7 +794,7 @@ body {
   margin-top: 6px;
 }
 
-.lcars-seg {
+.lcars-segbar .lcars-seg {
   height: 14px;
   border-radius: 3px;
   position: relative;
@@ -471,23 +803,23 @@ body {
   animation: lcarsPulse 1.4s ease-in-out infinite;
 }
 
-.lcars-seg:nth-child(3n + 1) {
+.lcars-segbar .lcars-seg:nth-child(3n + 1) {
   background: rgba(251, 146, 60, 0.18);
   --seg-sweep: rgba(251, 146, 60, 0.9);
   --seg-glow: rgba(251, 146, 60, 0.5);
 }
-.lcars-seg:nth-child(3n + 2) {
+.lcars-segbar .lcars-seg:nth-child(3n + 2) {
   background: rgba(96, 165, 250, 0.18);
   --seg-sweep: rgba(96, 165, 250, 0.9);
   --seg-glow: rgba(96, 165, 250, 0.5);
 }
-.lcars-seg:nth-child(3n) {
+.lcars-segbar .lcars-seg:nth-child(3n) {
   background: rgba(192, 132, 252, 0.18);
   --seg-sweep: rgba(192, 132, 252, 0.9);
   --seg-glow: rgba(192, 132, 252, 0.5);
 }
 
-.lcars-seg::before {
+.lcars-segbar .lcars-seg::before {
   content: "";
   position: absolute;
   inset: 0;
@@ -525,8 +857,8 @@ body {
   opacity: 0.75;
 }
 
-/* Status ticker */
-.lcars-ticker {
+/* Status ticker (loading screen only) */
+.lcars-loading-overlay .lcars-ticker {
   display: inline-flex;
   align-items: center;
   gap: 10px;
@@ -536,7 +868,7 @@ body {
   color: rgba(229, 231, 235, 0.85);
 }
 
-.lcars-chevron {
+.lcars-loading-overlay .lcars-chevron {
   color: #fb923c;
   font-size: 9px;
   animation: lcarsBlink 1s ease-in-out infinite;
@@ -544,7 +876,7 @@ body {
   flex-shrink: 0;
 }
 
-.lcars-ticker-text {
+.lcars-loading-overlay .lcars-ticker-text {
   white-space: nowrap;
   max-width: calc(min(560px, 80vw));
   overflow: hidden;
@@ -1079,9 +1411,10 @@ body {
 
 /* Respect reduced motion */
 @media (prefers-reduced-motion: reduce) {
-  .lcars-seg::before,
-  .lcars-seg,
-  .lcars-chevron,
+  .lcars-segbar .lcars-seg::before,
+  .lcars-segbar .lcars-seg,
+  .lcars-loading-overlay .lcars-chevron,
+  .lcars-ticker-seg,
   .lcars-hud-top,
   .lcars-hud-bottom,
   .lcars-panel { animation: none !important; }

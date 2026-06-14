@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useLayoutEffect, useMemo } from 'react';
 import enterpriseTop from "../assets/ncc1701-top-transparent.webp"
 import enterpriseIso from "../assets/ncc1701-iso-transparent.webp"
 import enterpriseFront from "../assets/ncc1701-front-transparent.webp"
@@ -31,34 +31,30 @@ const pageInfo = {
 }
 
 const LoadingScreen = ({ isLoading, currentPage }) => {
-    const [mounted, setMounted] = useState(false);
-    const [isOpaque, setIsOpaque] = useState(false);
+    // visible starts true if we're already loading on mount (initial page load)
+    const [visible, setVisible] = useState(isLoading);
     const [tick, setTick] = useState(0);
     const [scramble, setScramble] = useState(["47634.44", "001", "ALPHA-1"]);
 
     const page = pageInfo[currentPage] ?? pageInfo["/"];
     const message = useMemo(() => page.msg, [page]);
 
-    useEffect(() => {
-        if (isLoading) {
-            setMounted(true);
-            const timer = setTimeout(() => setIsOpaque(true), 30);
-            return () => clearTimeout(timer);
-        } else {
-            setIsOpaque(false);
-        }
+    // Show synchronously before the browser paints — prevents the new route
+    // from ever being visible on mobile where useEffect fires too late.
+    useLayoutEffect(() => {
+        if (isLoading) setVisible(true);
     }, [isLoading]);
 
     // rotate status line while visible
     useEffect(() => {
-        if (!mounted) return;
+        if (!visible) return;
         const id = setInterval(() => setTick((t) => (t + 1) % STATUS_CYCLE.length), 1600);
         return () => clearInterval(id);
-    }, [mounted]);
+    }, [visible]);
 
-    // scramble readout values while loading
+    // scramble readout values while visible
     useEffect(() => {
-        if (!mounted) return;
+        if (!visible) return;
         const id = setInterval(() => {
             setScramble([
                 (40000 + Math.random() * 9999).toFixed(2),
@@ -67,20 +63,18 @@ const LoadingScreen = ({ isLoading, currentPage }) => {
             ]);
         }, 200);
         return () => clearInterval(id);
-    }, [mounted]);
+    }, [visible]);
 
+    // After the fade-out CSS transition ends, unmount completely
     const handleTransitionEnd = () => {
-        if (!isLoading) {
-            setMounted(false);
-        }
+        if (!isLoading) setVisible(false);
     };
 
-    if (!mounted) return null;
+    if (!visible) return null;
 
     return (
         <div
-            className={`lcars-loading-overlay fixed inset-0 z-[9999] transition-opacity duration-500 ${isOpaque ? "opacity-100" : "opacity-0"
-                }`}
+            className={`lcars-loading-overlay fixed inset-0 z-[9999] transition-opacity duration-500 ${isLoading ? "opacity-100" : "opacity-0"}`}
             onTransitionEnd={handleTransitionEnd}
             aria-live="polite"
             role="status"

@@ -1,4 +1,4 @@
-import { createContext, useContext, useState, useEffect } from 'react';
+import { createContext, useContext, useState, useEffect, useLayoutEffect, useRef } from 'react';
 import { useLocation } from 'react-router';
 import LoadingScreen from '../components/LoadingScreen';
 
@@ -8,44 +8,35 @@ export const LoadingProvider = ({ children }) => {
     const [isLoading, setIsLoading] = useState(true);
     const location = useLocation();
     const [currentPath, setCurrentPath] = useState(location.pathname);
-    const [isInitialLoad, setIsInitialLoad] = useState(true);
+    // Ref instead of state: won't trigger nav effect when it flips to false
+    const isInitialLoadRef = useRef(true);
 
     // Initial load
     useEffect(() => {
         const timer = setTimeout(() => {
             setIsLoading(false);
-            setIsInitialLoad(false);
+            isInitialLoadRef.current = false;
         }, 1000);
         return () => clearTimeout(timer);
     }, []);
 
-    // Handle navigation changes - this runs synchronously when location changes
-    useEffect(() => {
-        // Skip if this is the initial load
-        if (isInitialLoad) {
-            return;
-        }
-
-        // Immediately set loading to true to prevent flash
+    // Fire synchronously before browser paint so loading screen blocks the new
+    // route from ever being visible, even on slow mobile devices.
+    useLayoutEffect(() => {
+        if (isInitialLoadRef.current) return;
+        window.scrollTo(0, 0);
         setIsLoading(true);
         setCurrentPath(location.pathname);
-        
-        const timer = setTimeout(() => {
-            setIsLoading(false);
-        }, 800);
-
+        const timer = setTimeout(() => setIsLoading(false), 800);
         return () => clearTimeout(timer);
-    }, [location.pathname, isInitialLoad]);
+    }, [location.pathname]);
 
-    const value = { 
-        isLoading, 
-        currentPath
-    };
+    const value = { isLoading, currentPath };
 
     return (
         <LoadingContext.Provider value={value}>
             <LoadingScreen isLoading={isLoading} currentPage={currentPath} />
-            {!isLoading && children}
+            {children}
         </LoadingContext.Provider>
     );
 };
