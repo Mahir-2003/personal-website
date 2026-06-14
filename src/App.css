@@ -882,7 +882,7 @@ body {
 /* ===== LCARS Status / generic badge ===== */
 .lcars-badge {
   font-family: 'JetBrains Mono', 'Courier New', monospace;
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.22em;
   padding: 3px 10px;
