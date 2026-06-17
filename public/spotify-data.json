@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-16T11:13:19.786Z",
+  "lastUpdated": "2026-06-17T10:59:46.895Z",
   "topTracks": [
-    {
-      "name": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
     {
       "name": "New Bestie",
       "artist": "Drake",
       "album": "MAID OF HONOUR",
       "image": "https://i.scdn.co/image/ab67616d0000b273539bb112d7c970545dd971e3",
       "external_url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
+    },
+    {
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
       "name": "Whisper My Name",
@@ -30,11 +30,11 @@
       "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
-      "name": "Need",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
+      "name": "lesbian vampire killers",
+      "artist": "bleood",
+      "album": "rascal 51",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
+      "external_url": "https://open.spotify.com/track/7qFEVA1l8uN8mqjT3TeeeB"
     },
     {
       "name": "What Did I Miss?",
@@ -51,11 +51,11 @@
       "external_url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD"
     },
     {
-      "name": "End of spring",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
+      "name": "360/2 !",
+      "artist": "Zaybeezy",
+      "album": "360/2 !",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
+      "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
     },
     {
       "name": "Princess",
@@ -72,18 +72,18 @@
       "external_url": "https://open.spotify.com/track/58k79edmPOpxXbP7Hppn34"
     },
     {
-      "name": "lesbian vampire killers",
-      "artist": "bleood",
-      "album": "rascal 51",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
-      "external_url": "https://open.spotify.com/track/7qFEVA1l8uN8mqjT3TeeeB"
-    },
-    {
       "name": "Soju",
       "artist": "Lucy Bedroque",
       "album": "Tether",
       "image": "https://i.scdn.co/image/ab67616d0000b273c2fa41d8565f3264a1162a82",
       "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
+    },
+    {
+      "name": "Need",
+      "artist": "Nine Vicious",
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
     },
     {
       "name": "Trevon O'Ryan Echols",
@@ -93,18 +93,11 @@
       "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
     },
     {
-      "name": "360/2 !",
-      "artist": "Zaybeezy",
-      "album": "360/2 !",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
-      "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
-    },
-    {
-      "name": "Tuition",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
+      "name": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+      "external_url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
     },
     {
       "name": "Make Them Cry",
@@ -119,6 +112,13 @@
       "album": "PROTAGONIST",
       "image": "https://i.scdn.co/image/ab67616d0000b2738eabe1fe40434866f52fea76",
       "external_url": "https://open.spotify.com/track/6RRpMHfjsLFMu2S8LUAtHj"
+    },
+    {
+      "name": "Tuition",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
     },
     {
       "name": "How to Pretend",
@@ -149,11 +149,11 @@
       "external_url": "https://open.spotify.com/track/2JLzVBFFRsqgmu20e3p2Rm"
     },
     {
-      "name": "Twice",
-      "artist": "Charli xcx",
-      "album": "CRASH",
-      "image": "https://i.scdn.co/image/ab67616d0000b273eefcaa4f481bb1c3b3b53743",
-      "external_url": "https://open.spotify.com/track/3phMvUDFwKvFbKABGrmqMV"
+      "name": "my way",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "external_url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
     },
     {
       "name": "Trade Winds, White Heat",
@@ -170,11 +170,11 @@
       "external_url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
     },
     {
-      "name": "Glass",
+      "name": "End of spring",
       "artist": "kuru",
       "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d",
-      "external_url": "https://open.spotify.com/track/0dyU4wcuHCldwHD9MQFVjM"
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
     }
   ],
   "topArtists": [
@@ -214,6 +214,15 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
+      "name": "kuru",
+      "genres": [
+        "hyperpop",
+        "cloud rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+    },
+    {
       "name": "Nine Vicious",
       "genres": [
         "rage rap",
@@ -223,13 +232,10 @@
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     },
     {
-      "name": "kuru",
-      "genres": [
-        "hyperpop",
-        "cloud rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+      "name": "Olivia Rodrigo",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+      "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
     },
     {
       "name": "Destroy Lonely",
@@ -252,14 +258,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-    },
-    {
-      "name": "Current Joys",
-      "genres": [
-        "lo-fi indie"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
-      "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
     }
   ]
 }
