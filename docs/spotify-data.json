@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T10:22:55.093Z",
+  "lastUpdated": "2026-06-19T10:39:38.695Z",
   "topTracks": [
     {
       "name": "New Bestie",
@@ -30,6 +30,13 @@
       "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
+      "name": "360/2 !",
+      "artist": "Zaybeezy",
+      "album": "360/2 !",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
+      "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
+    },
+    {
       "name": "lesbian vampire killers",
       "artist": "bleood",
       "album": "rascal 51",
@@ -42,20 +49,6 @@
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
-    },
-    {
-      "name": "munni & drugs",
-      "artist": "bleood",
-      "album": "how bleood stole Xmas",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
-      "external_url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD"
-    },
-    {
-      "name": "360/2 !",
-      "artist": "Zaybeezy",
-      "album": "360/2 !",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
-      "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
     },
     {
       "name": "Princess",
@@ -93,6 +86,13 @@
       "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
     },
     {
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
       "name": "drop dead",
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
@@ -105,20 +105,6 @@
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "external_url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
-    },
-    {
-      "name": "maybach key fob",
-      "artist": "bleood",
-      "album": "PROTAGONIST",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738eabe1fe40434866f52fea76",
-      "external_url": "https://open.spotify.com/track/6RRpMHfjsLFMu2S8LUAtHj"
-    },
-    {
-      "name": "Tuition",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
     },
     {
       "name": "How to Pretend",
@@ -142,13 +128,6 @@
       "external_url": "https://open.spotify.com/track/1uKWqIe47TjOC06rvTEWQa"
     },
     {
-      "name": "Posing Tonight",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/2JLzVBFFRsqgmu20e3p2Rm"
-    },
-    {
       "name": "my way",
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
@@ -170,11 +149,32 @@
       "external_url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
     },
     {
-      "name": "End of spring",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
+      "name": "Shabang",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
+    },
+    {
+      "name": "Make Them Know",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/1xO3PpGchMqMmmF6OEtH5Y"
+    },
+    {
+      "name": "F33l Lik3 Dyin",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb",
+      "external_url": "https://open.spotify.com/track/1xVVYE1ahLotRpppJViVzs"
+    },
+    {
+      "name": "munni & drugs",
+      "artist": "bleood",
+      "album": "how bleood stole Xmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
+      "external_url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD"
     }
   ],
   "topArtists": [
@@ -185,15 +185,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-    },
-    {
-      "name": "bleood",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
-      "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
     },
     {
       "name": "Ken Carson",
@@ -214,22 +205,21 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "kuru",
-      "genres": [
-        "hyperpop",
-        "cloud rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-    },
-    {
-      "name": "Nine Vicious",
+      "name": "bleood",
       "genres": [
         "rage rap",
         "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb40b103ffba8c19b29a25c0cd",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
+      "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+    },
+    {
+      "name": "Playboi Carti",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
       "name": "Olivia Rodrigo",
@@ -246,18 +236,31 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
-      "name": "BENEE",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb42a704d73b253170e18c16a1",
-      "external_url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+      "name": "Nine Vicious",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb40b103ffba8c19b29a25c0cd",
+      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     },
     {
-      "name": "Playboi Carti",
+      "name": "slayr",
       "genres": [
-        "rage rap"
+        "rage rap",
+        "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebbfac44317de9cbd41bad9f64",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+    },
+    {
+      "name": "kuru",
+      "genres": [
+        "hyperpop",
+        "cloud rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     }
   ]
 }
