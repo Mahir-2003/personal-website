@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T10:39:38.695Z",
+  "lastUpdated": "2026-06-20T09:17:57.663Z",
   "topTracks": [
     {
       "name": "New Bestie",
@@ -9,18 +9,18 @@
       "external_url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
     },
     {
-      "name": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
       "name": "Whisper My Name",
       "artist": "Drake",
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+    },
+    {
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
       "name": "Moon and the Stars",
@@ -51,6 +51,13 @@
       "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
     },
     {
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
       "name": "Princess",
       "artist": "BENEE",
       "album": "Ur an Angel I’m Just Particles",
@@ -72,25 +79,11 @@
       "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
     },
     {
-      "name": "Need",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/5XKityfpG87Vu0M6TZz46y"
-    },
-    {
       "name": "Trevon O'Ryan Echols",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
       "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
-    },
-    {
-      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "name": "drop dead",
@@ -175,6 +168,13 @@
       "album": "how bleood stole Xmas",
       "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
       "external_url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD"
+    },
+    {
+      "name": "Champions",
+      "artist": "Kanye West",
+      "album": "Champions",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bddf05707f93b37fdbfeaab5",
+      "external_url": "https://open.spotify.com/track/2nBI3iWLhupR7LyAJ5GGkE"
     }
   ],
   "topArtists": [
@@ -191,7 +191,7 @@
       "genres": [
         "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
@@ -254,13 +254,10 @@
       "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
     },
     {
-      "name": "kuru",
-      "genres": [
-        "hyperpop",
-        "cloud rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+      "name": "BENEE",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb42a704d73b253170e18c16a1",
+      "external_url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
     }
   ]
 }
