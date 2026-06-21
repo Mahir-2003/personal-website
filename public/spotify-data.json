@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T09:17:57.663Z",
+  "lastUpdated": "2026-06-21T09:52:33.785Z",
   "topTracks": [
     {
       "name": "New Bestie",
@@ -72,18 +72,18 @@
       "external_url": "https://open.spotify.com/track/58k79edmPOpxXbP7Hppn34"
     },
     {
-      "name": "Soju",
-      "artist": "Lucy Bedroque",
-      "album": "Tether",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c2fa41d8565f3264a1162a82",
-      "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
-    },
-    {
       "name": "Trevon O'Ryan Echols",
       "artist": "Nine Vicious",
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
       "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
+    },
+    {
+      "name": "Soju",
+      "artist": "Lucy Bedroque",
+      "album": "Tether",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c2fa41d8565f3264a1162a82",
+      "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
     },
     {
       "name": "drop dead",
@@ -103,8 +103,8 @@
       "name": "How to Pretend",
       "artist": "Lucy Bedroque",
       "album": "Fête de la Vanille",
-      "image": "https://i.scdn.co/image/ab67616d0000b273da81537bdc7de47cb60b48fd",
-      "external_url": "https://open.spotify.com/track/0scMB4WVJbCkVY8uLYPX11"
+      "image": "https://i.scdn.co/image/ab67616d0000b273367048530b1e018c30162d35",
+      "external_url": "https://open.spotify.com/track/0H0eIjcXruQpntK0LuNa5v"
     },
     {
       "name": "Different Color Molly",
@@ -149,13 +149,6 @@
       "external_url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
     },
     {
-      "name": "Make Them Know",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/1xO3PpGchMqMmmF6OEtH5Y"
-    },
-    {
       "name": "F33l Lik3 Dyin",
       "artist": "Playboi Carti",
       "album": "Whole Lotta Red",
@@ -175,6 +168,13 @@
       "album": "Champions",
       "image": "https://i.scdn.co/image/ab67616d0000b273bddf05707f93b37fdbfeaab5",
       "external_url": "https://open.spotify.com/track/2nBI3iWLhupR7LyAJ5GGkE"
+    },
+    {
+      "name": "Void",
+      "artist": "The Neighbourhood",
+      "album": "Hard To Imagine The Neighbourhood Ever Changing",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
+      "external_url": "https://open.spotify.com/track/2wXioTynVwrEWYRv6R6vEj"
     }
   ],
   "topArtists": [
