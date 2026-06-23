@@ -1,5 +1,13 @@
 [
   {
+    "title": "Obsession",
+    "year": "2025",
+    "rating": "\u2605\u2605\u2605\u2605\u00bd",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/3/4/4/7/2/1234472-obsession-2025-2-0-600-0-900-crop.jpg?v=cff6fc00b6",
+    "watchedDate": "Jun 22, 2026",
+    "link": "https://letterboxd.com/meatymahir/film/obsession-2025/"
+  },
+  {
     "title": "Backrooms",
     "year": "2026",
     "rating": "\u2605\u2605\u2605\u2605",
@@ -30,13 +38,5 @@
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/4/51784-batman-begins-0-600-0-900-crop.jpg?v=f090edc352",
     "watchedDate": "May 27, 2026",
     "link": "https://letterboxd.com/meatymahir/film/batman-begins/"
-  },
-  {
-    "title": "Glass Onion",
-    "year": "2022",
-    "rating": "\u2605\u2605\u2605\u00bd",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/8/6/7/2/3/586723-glass-onion-0-600-0-900-crop.jpg?v=9c6cce161b",
-    "watchedDate": "May 22, 2026",
-    "link": "https://letterboxd.com/meatymahir/film/glass-onion/"
   }
 ]

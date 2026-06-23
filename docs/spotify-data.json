@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T11:57:57.938Z",
+  "lastUpdated": "2026-06-23T09:42:24.971Z",
   "topTracks": [
     {
       "name": "New Bestie",
@@ -51,18 +51,18 @@
       "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
     },
     {
-      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
       "name": "Princess",
       "artist": "BENEE",
       "album": "Ur an Angel I’m Just Particles",
       "image": "https://i.scdn.co/image/ab67616d0000b273cd91de3901cce7d141c0480e",
       "external_url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
+    },
+    {
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "name": "FUCK U BITCH I WANNA B ALONE",
@@ -77,13 +77,6 @@
       "album": "EMOTIONS",
       "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
       "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
-    },
-    {
-      "name": "Soju",
-      "artist": "Lucy Bedroque",
-      "album": "Tether",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c2fa41d8565f3264a1162a82",
-      "external_url": "https://open.spotify.com/track/05rwWvQh48ENpd7UuperwJ"
     },
     {
       "name": "drop dead",
@@ -142,13 +135,6 @@
       "external_url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
     },
     {
-      "name": "Shabang",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
-    },
-    {
       "name": "Sunset",
       "artist": "LUCKI",
       "album": "Sunset",
@@ -175,6 +161,20 @@
       "album": "Champions",
       "image": "https://i.scdn.co/image/ab67616d0000b273bddf05707f93b37fdbfeaab5",
       "external_url": "https://open.spotify.com/track/2nBI3iWLhupR7LyAJ5GGkE"
+    },
+    {
+      "name": "Void",
+      "artist": "The Neighbourhood",
+      "album": "Hard To Imagine The Neighbourhood Ever Changing",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
+      "external_url": "https://open.spotify.com/track/2wXioTynVwrEWYRv6R6vEj"
+    },
+    {
+      "name": "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
+      "artist": "Playboi Carti",
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "external_url": "https://open.spotify.com/track/45Ln3F9PRPYTXBcMFkZMzS"
     }
   ],
   "topArtists": [
@@ -205,14 +205,6 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "Playboi Carti",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-    },
-    {
       "name": "bleood",
       "genres": [
         "rage rap",
@@ -220,6 +212,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
       "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+    },
+    {
+      "name": "Playboi Carti",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
       "name": "Olivia Rodrigo",
