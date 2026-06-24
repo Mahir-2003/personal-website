@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T09:42:24.971Z",
+  "lastUpdated": "2026-06-24T09:33:11.424Z",
   "topTracks": [
     {
       "name": "New Bestie",
@@ -9,18 +9,18 @@
       "external_url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
     },
     {
-      "name": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
       "name": "Moon and the Stars",
       "artist": "prettifun",
       "album": "Moon and the Stars",
       "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
       "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
+    },
+    {
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
       "name": "Whisper My Name",
@@ -44,25 +44,11 @@
       "external_url": "https://open.spotify.com/track/7qFEVA1l8uN8mqjT3TeeeB"
     },
     {
-      "name": "What Did I Miss?",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
-    },
-    {
       "name": "Princess",
       "artist": "BENEE",
       "album": "Ur an Angel I’m Just Particles",
       "image": "https://i.scdn.co/image/ab67616d0000b273cd91de3901cce7d141c0480e",
       "external_url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
-    },
-    {
-      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "name": "FUCK U BITCH I WANNA B ALONE",
@@ -86,13 +72,6 @@
       "external_url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
     },
     {
-      "name": "Make Them Cry",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
-    },
-    {
       "name": "How to Pretend",
       "artist": "Lucy Bedroque",
       "album": "Fête de la Vanille",
@@ -114,6 +93,13 @@
       "external_url": "https://open.spotify.com/track/1uKWqIe47TjOC06rvTEWQa"
     },
     {
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+    },
+    {
       "name": "my way",
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
@@ -133,6 +119,13 @@
       "album": "Blonde",
       "image": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
       "external_url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
+    },
+    {
+      "name": "Like Lil Mexico",
+      "artist": "Che",
+      "album": "Empty Clip",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398f62679a9cd98349e34cb13",
+      "external_url": "https://open.spotify.com/track/6pCWilRnRht1OyS64qulyz"
     },
     {
       "name": "Sunset",
@@ -175,6 +168,13 @@
       "album": "Die Lit",
       "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
       "external_url": "https://open.spotify.com/track/45Ln3F9PRPYTXBcMFkZMzS"
+    },
+    {
+      "name": "expectations",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+      "external_url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT"
     }
   ],
   "topArtists": [
@@ -236,6 +236,15 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
+      "name": "Che",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+    },
+    {
       "name": "Nine Vicious",
       "genres": [
         "rage rap",
@@ -252,12 +261,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebbfac44317de9cbd41bad9f64",
       "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
-    },
-    {
-      "name": "BENEE",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb42a704d73b253170e18c16a1",
-      "external_url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
     }
   ]
 }
