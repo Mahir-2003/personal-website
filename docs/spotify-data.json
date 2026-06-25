@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T09:33:11.424Z",
+  "lastUpdated": "2026-06-25T09:25:11.768Z",
   "topTracks": [
     {
       "name": "New Bestie",
@@ -16,18 +16,18 @@
       "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
+      "name": "Like Lil Mexico",
+      "artist": "pænut",
+      "album": "Like Lil Mexico",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b8e70b214b25696add10c32",
+      "external_url": "https://open.spotify.com/track/25lmtZvomf4gF89aDdhcAU"
+    },
+    {
       "name": "Janice STFU",
       "artist": "Drake",
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "name": "Whisper My Name",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
     },
     {
       "name": "360/2 !",
@@ -37,6 +37,13 @@
       "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
     },
     {
+      "name": "Whisper My Name",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+    },
+    {
       "name": "lesbian vampire killers",
       "artist": "bleood",
       "album": "rascal 51",
@@ -44,11 +51,11 @@
       "external_url": "https://open.spotify.com/track/7qFEVA1l8uN8mqjT3TeeeB"
     },
     {
-      "name": "Princess",
-      "artist": "BENEE",
-      "album": "Ur an Angel I’m Just Particles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cd91de3901cce7d141c0480e",
-      "external_url": "https://open.spotify.com/track/26LhC1DhMM2dPhHxcibOS8"
+      "name": "My Blood",
+      "artist": "Current Joys",
+      "album": "Wild Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
+      "external_url": "https://open.spotify.com/track/1vUsFRnCPVgilmT69KHyDa"
     },
     {
       "name": "FUCK U BITCH I WANNA B ALONE",
@@ -56,6 +63,20 @@
       "album": "rascal 51",
       "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
       "external_url": "https://open.spotify.com/track/58k79edmPOpxXbP7Hppn34"
+    },
+    {
+      "name": "DMX",
+      "artist": "Che",
+      "album": "Empty Clip",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733340f2d3ddfcbdf89f62ab0a",
+      "external_url": "https://open.spotify.com/track/5SCpnmhpXquVeRqthWPKN6"
+    },
+    {
+      "name": "Goons",
+      "artist": "Dom Corleo",
+      "album": "On My Own",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a682813ff50108b914dfd0f1",
+      "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
     },
     {
       "name": "Trevon O'Ryan Echols",
@@ -70,6 +91,13 @@
       "album": "you seem pretty sad for a girl so in love",
       "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
       "external_url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
+    },
+    {
+      "name": "Og Ginobili",
+      "artist": "pænut",
+      "album": "Og Ginobili",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d97933beafaca3b8e854ca7c",
+      "external_url": "https://open.spotify.com/track/5JMPb5hFlRsAIhG57aDwdG"
     },
     {
       "name": "How to Pretend",
@@ -121,13 +149,6 @@
       "external_url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
     },
     {
-      "name": "Like Lil Mexico",
-      "artist": "Che",
-      "album": "Empty Clip",
-      "image": "https://i.scdn.co/image/ab67616d0000b27398f62679a9cd98349e34cb13",
-      "external_url": "https://open.spotify.com/track/6pCWilRnRht1OyS64qulyz"
-    },
-    {
       "name": "Sunset",
       "artist": "LUCKI",
       "album": "Sunset",
@@ -154,61 +175,46 @@
       "album": "Champions",
       "image": "https://i.scdn.co/image/ab67616d0000b273bddf05707f93b37fdbfeaab5",
       "external_url": "https://open.spotify.com/track/2nBI3iWLhupR7LyAJ5GGkE"
-    },
-    {
-      "name": "Void",
-      "artist": "The Neighbourhood",
-      "album": "Hard To Imagine The Neighbourhood Ever Changing",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
-      "external_url": "https://open.spotify.com/track/2wXioTynVwrEWYRv6R6vEj"
-    },
-    {
-      "name": "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
-      "artist": "Playboi Carti",
-      "album": "Die Lit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
-      "external_url": "https://open.spotify.com/track/45Ln3F9PRPYTXBcMFkZMzS"
-    },
-    {
-      "name": "expectations",
-      "artist": "Olivia Rodrigo",
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
-      "external_url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT"
     }
   ],
   "topArtists": [
     {
-      "name": "Drake",
-      "genres": [
-        "rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-    },
-    {
       "name": "Ken Carson",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-    },
-    {
-      "name": "Lucy Bedroque",
       "genres": [
         "hyperpop",
         "rage rap",
         "cloud rap"
       ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+    },
+    {
+      "name": "Drake",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "name": "Lucy Bedroque",
+      "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
+      "name": "Che",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+    },
+    {
       "name": "bleood",
       "genres": [
-        "rage rap",
-        "underground hip hop"
+        "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
       "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
@@ -216,16 +222,27 @@
     {
       "name": "Playboi Carti",
       "genres": [
-        "rage rap"
+        "rage rap",
+        "underground hip hop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
       "name": "Olivia Rodrigo",
-      "genres": [],
+      "genres": [
+        "rap"
+      ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
       "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+    },
+    {
+      "name": "Current Joys",
+      "genres": [
+        "lo-fi indie"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
+      "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
     },
     {
       "name": "Destroy Lonely",
@@ -236,15 +253,6 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
-      "name": "Che",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
-    },
-    {
       "name": "Nine Vicious",
       "genres": [
         "rage rap",
@@ -252,15 +260,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb40b103ffba8c19b29a25c0cd",
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
-    },
-    {
-      "name": "slayr",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebbfac44317de9cbd41bad9f64",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
     }
   ]
 }
