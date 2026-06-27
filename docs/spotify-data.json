@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T09:30:16.904Z",
+  "lastUpdated": "2026-06-27T08:38:02.944Z",
   "topTracks": [
     {
       "name": "Like Lil Mexico",
@@ -16,11 +16,32 @@
       "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
+      "name": "360/2 !",
+      "artist": "Zaybeezy",
+      "album": "360/2 !",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
+      "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
+    },
+    {
+      "name": "Goons",
+      "artist": "Dom Corleo",
+      "album": "On My Own",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a682813ff50108b914dfd0f1",
+      "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
+    },
+    {
       "name": "New Bestie",
       "artist": "Drake",
       "album": "MAID OF HONOUR",
       "image": "https://i.scdn.co/image/ab67616d0000b273539bb112d7c970545dd971e3",
       "external_url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
+    },
+    {
+      "name": "lesbian vampire killers",
+      "artist": "bleood",
+      "album": "rascal 51",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
+      "external_url": "https://open.spotify.com/track/7qFEVA1l8uN8mqjT3TeeeB"
     },
     {
       "name": "Janice STFU",
@@ -30,25 +51,11 @@
       "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
-      "name": "360/2 !",
-      "artist": "Zaybeezy",
-      "album": "360/2 !",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
-      "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
-    },
-    {
       "name": "Whisper My Name",
       "artist": "Drake",
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
-    },
-    {
-      "name": "lesbian vampire killers",
-      "artist": "bleood",
-      "album": "rascal 51",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
-      "external_url": "https://open.spotify.com/track/7qFEVA1l8uN8mqjT3TeeeB"
     },
     {
       "name": "My Blood",
@@ -70,13 +77,6 @@
       "album": "Empty Clip",
       "image": "https://i.scdn.co/image/ab67616d0000b2733340f2d3ddfcbdf89f62ab0a",
       "external_url": "https://open.spotify.com/track/5SCpnmhpXquVeRqthWPKN6"
-    },
-    {
-      "name": "Goons",
-      "artist": "Dom Corleo",
-      "album": "On My Own",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a682813ff50108b914dfd0f1",
-      "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
     },
     {
       "name": "Trevon O'Ryan Echols",
@@ -121,25 +121,11 @@
       "external_url": "https://open.spotify.com/track/1uKWqIe47TjOC06rvTEWQa"
     },
     {
-      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
       "name": "my way",
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
       "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
       "external_url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
-    },
-    {
-      "name": "Trade Winds, White Heat",
-      "artist": "Tim Hecker",
-      "album": "Radio Amor",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c0a49edb7e2c60e7a5f361b9",
-      "external_url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "name": "Self Control",
@@ -163,27 +149,39 @@
       "external_url": "https://open.spotify.com/track/1xVVYE1ahLotRpppJViVzs"
     },
     {
-      "name": "munni & drugs",
-      "artist": "bleood",
-      "album": "how bleood stole Xmas",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
-      "external_url": "https://open.spotify.com/track/2etzOehzQTsA75wwQ79AYD"
-    },
-    {
       "name": "Champions",
       "artist": "Kanye West",
       "album": "Champions",
       "image": "https://i.scdn.co/image/ab67616d0000b273bddf05707f93b37fdbfeaab5",
       "external_url": "https://open.spotify.com/track/2nBI3iWLhupR7LyAJ5GGkE"
+    },
+    {
+      "name": "Void",
+      "artist": "The Neighbourhood",
+      "album": "Hard To Imagine The Neighbourhood Ever Changing",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
+      "external_url": "https://open.spotify.com/track/2wXioTynVwrEWYRv6R6vEj"
+    },
+    {
+      "name": "Tuesday",
+      "artist": "Che",
+      "album": "Empty Clip",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733340f2d3ddfcbdf89f62ab0a",
+      "external_url": "https://open.spotify.com/track/3LMYqbuwU50depDa9TbKgE"
+    },
+    {
+      "name": "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
+      "artist": "Playboi Carti",
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "external_url": "https://open.spotify.com/track/45Ln3F9PRPYTXBcMFkZMzS"
     }
   ],
   "topArtists": [
     {
       "name": "Ken Carson",
       "genres": [
-        "hyperpop",
-        "rage rap",
-        "cloud rap"
+        "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
@@ -191,33 +189,26 @@
     {
       "name": "Drake",
       "genres": [
-        "rage rap",
-        "underground hip hop"
+        "lo-fi indie"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
       "name": "Lucy Bedroque",
-      "genres": [],
+      "genres": [
+        "rage rap"
+      ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
       "name": "Che",
       "genres": [
-        "rage rap"
+        "rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
       "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
-    },
-    {
-      "name": "bleood",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
-      "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
     },
     {
       "name": "Playboi Carti",
@@ -229,17 +220,25 @@
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
-      "name": "Olivia Rodrigo",
+      "name": "bleood",
       "genres": [
-        "lo-fi indie"
+        "hyperpop",
+        "rage rap",
+        "cloud rap"
       ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
+      "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
       "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
     },
     {
       "name": "Current Joys",
       "genres": [
-        "rap"
+        "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
       "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
@@ -247,7 +246,8 @@
     {
       "name": "Destroy Lonely",
       "genres": [
-        "rage rap"
+        "rage rap",
+        "underground hip hop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
