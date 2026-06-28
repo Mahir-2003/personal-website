@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T08:38:02.944Z",
+  "lastUpdated": "2026-06-28T08:54:25.550Z",
   "topTracks": [
     {
       "name": "Like Lil Mexico",
@@ -181,7 +181,7 @@
     {
       "name": "Ken Carson",
       "genres": [
-        "rage rap"
+        "lo-fi indie"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
@@ -189,23 +189,22 @@
     {
       "name": "Drake",
       "genres": [
-        "lo-fi indie"
+        "rage rap",
+        "underground hip hop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
       "name": "Lucy Bedroque",
-      "genres": [
-        "rage rap"
-      ],
+      "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
       "name": "Che",
       "genres": [
-        "rap"
+        "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
       "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
@@ -213,8 +212,7 @@
     {
       "name": "Playboi Carti",
       "genres": [
-        "rage rap",
-        "underground hip hop"
+        "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
@@ -231,14 +229,17 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "genres": [],
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
       "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
     },
     {
       "name": "Current Joys",
       "genres": [
-        "rage rap"
+        "rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
       "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
@@ -246,8 +247,7 @@
     {
       "name": "Destroy Lonely",
       "genres": [
-        "rage rap",
-        "underground hip hop"
+        "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
