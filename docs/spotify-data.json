@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T08:54:25.550Z",
+  "lastUpdated": "2026-06-29T11:02:55.786Z",
   "topTracks": [
     {
       "name": "Like Lil Mexico",
@@ -44,13 +44,6 @@
       "external_url": "https://open.spotify.com/track/7qFEVA1l8uN8mqjT3TeeeB"
     },
     {
-      "name": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
       "name": "Whisper My Name",
       "artist": "Drake",
       "album": "ICEMAN",
@@ -77,13 +70,6 @@
       "album": "Empty Clip",
       "image": "https://i.scdn.co/image/ab67616d0000b2733340f2d3ddfcbdf89f62ab0a",
       "external_url": "https://open.spotify.com/track/5SCpnmhpXquVeRqthWPKN6"
-    },
-    {
-      "name": "Trevon O'Ryan Echols",
-      "artist": "Nine Vicious",
-      "album": "EMOTIONS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
-      "external_url": "https://open.spotify.com/track/7wkqBIb3TzcrRNJEetu8rM"
     },
     {
       "name": "drop dead",
@@ -128,11 +114,25 @@
       "external_url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
     },
     {
+      "name": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+    },
+    {
       "name": "Self Control",
       "artist": "Frank Ocean",
       "album": "Blonde",
       "image": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
       "external_url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
+    },
+    {
+      "name": "Rolled1",
+      "artist": "prettifun",
+      "album": "FunHouse",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e8bbebfd885e526480c09096",
+      "external_url": "https://open.spotify.com/track/5MHj0hobJDXM728rf99qSS"
     },
     {
       "name": "Sunset",
@@ -181,30 +181,25 @@
     {
       "name": "Ken Carson",
       "genres": [
-        "lo-fi indie"
+        "rage rap",
+        "underground hip hop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
-      "name": "Drake",
+      "name": "Lucy Bedroque",
       "genres": [
         "rage rap",
         "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-    },
-    {
-      "name": "Lucy Bedroque",
-      "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
       "name": "Che",
       "genres": [
-        "rage rap"
+        "rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
       "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
@@ -216,6 +211,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+    },
+    {
+      "name": "Drake",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     },
     {
       "name": "bleood",
@@ -238,28 +241,25 @@
     },
     {
       "name": "Current Joys",
-      "genres": [
-        "rap"
-      ],
+      "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
       "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
     },
     {
       "name": "Destroy Lonely",
       "genres": [
-        "rage rap"
+        "lo-fi indie"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
-      "name": "Nine Vicious",
+      "name": "slayr",
       "genres": [
-        "rage rap",
-        "underground hip hop"
+        "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb40b103ffba8c19b29a25c0cd",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebbfac44317de9cbd41bad9f64",
+      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
     }
   ]
 }
