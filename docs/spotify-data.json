@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2026-06-29T11:02:55.786Z",
+  "lastUpdated": "2026-06-30T09:39:00.384Z",
   "topTracks": [
+    {
+      "name": "iffy iffy",
+      "artist": "LE SSERAFIM",
+      "album": "'PUREFLOW', Pt. 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
+      "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
+    },
     {
       "name": "Like Lil Mexico",
       "artist": "Che",
@@ -16,13 +23,6 @@
       "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
-      "name": "360/2 !",
-      "artist": "Zaybeezy",
-      "album": "360/2 !",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
-      "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
-    },
-    {
       "name": "Goons",
       "artist": "Dom Corleo",
       "album": "On My Own",
@@ -30,11 +30,25 @@
       "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
     },
     {
-      "name": "New Bestie",
-      "artist": "Drake",
-      "album": "MAID OF HONOUR",
-      "image": "https://i.scdn.co/image/ab67616d0000b273539bb112d7c970545dd971e3",
-      "external_url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
+      "name": "Nothing Like Uuu",
+      "artist": "Event Horizon",
+      "album": "Nothing Like Uuu",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dad72a08e833d77245d4e562",
+      "external_url": "https://open.spotify.com/track/3RmD7BudEFsdbpuigbd3ph"
+    },
+    {
+      "name": "360/2 !",
+      "artist": "Zaybeezy",
+      "album": "360/2 !",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
+      "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
+    },
+    {
+      "name": "eternal sunshine",
+      "artist": "Ariana Grande",
+      "album": "eternal sunshine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+      "external_url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
     },
     {
       "name": "lesbian vampire killers",
@@ -49,6 +63,13 @@
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+    },
+    {
+      "name": "How to Pretend",
+      "artist": "Lucy Bedroque",
+      "album": "Fête de la Vanille",
+      "image": "https://i.scdn.co/image/ab67616d0000b273367048530b1e018c30162d35",
+      "external_url": "https://open.spotify.com/track/0H0eIjcXruQpntK0LuNa5v"
     },
     {
       "name": "My Blood",
@@ -86,11 +107,11 @@
       "external_url": "https://open.spotify.com/track/5KbEOYfLdTaUxM8KKTvDJ9"
     },
     {
-      "name": "How to Pretend",
-      "artist": "Lucy Bedroque",
-      "album": "Fête de la Vanille",
-      "image": "https://i.scdn.co/image/ab67616d0000b273367048530b1e018c30162d35",
-      "external_url": "https://open.spotify.com/track/0H0eIjcXruQpntK0LuNa5v"
+      "name": "Pureflow",
+      "artist": "LE SSERAFIM",
+      "album": "'PUREFLOW', Pt. 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
+      "external_url": "https://open.spotify.com/track/0mgbaZyS4BCJjJ3EeG0TXm"
     },
     {
       "name": "Different Color Molly",
@@ -135,54 +156,32 @@
       "external_url": "https://open.spotify.com/track/5MHj0hobJDXM728rf99qSS"
     },
     {
+      "name": "Tuition",
+      "artist": "Don Toliver",
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
+    },
+    {
+      "name": "don't wanna break up again",
+      "artist": "Ariana Grande",
+      "album": "eternal sunshine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+      "external_url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
+    },
+    {
       "name": "Sunset",
       "artist": "LUCKI",
       "album": "Sunset",
       "image": "https://i.scdn.co/image/ab67616d0000b2738afe05439fd7b3d4a6b79bb9",
       "external_url": "https://open.spotify.com/track/0zXnqruuTKhV7dTmbaO52L"
-    },
-    {
-      "name": "F33l Lik3 Dyin",
-      "artist": "Playboi Carti",
-      "album": "Whole Lotta Red",
-      "image": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb",
-      "external_url": "https://open.spotify.com/track/1xVVYE1ahLotRpppJViVzs"
-    },
-    {
-      "name": "Champions",
-      "artist": "Kanye West",
-      "album": "Champions",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bddf05707f93b37fdbfeaab5",
-      "external_url": "https://open.spotify.com/track/2nBI3iWLhupR7LyAJ5GGkE"
-    },
-    {
-      "name": "Void",
-      "artist": "The Neighbourhood",
-      "album": "Hard To Imagine The Neighbourhood Ever Changing",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
-      "external_url": "https://open.spotify.com/track/2wXioTynVwrEWYRv6R6vEj"
-    },
-    {
-      "name": "Tuesday",
-      "artist": "Che",
-      "album": "Empty Clip",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733340f2d3ddfcbdf89f62ab0a",
-      "external_url": "https://open.spotify.com/track/3LMYqbuwU50depDa9TbKgE"
-    },
-    {
-      "name": "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
-      "artist": "Playboi Carti",
-      "album": "Die Lit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
-      "external_url": "https://open.spotify.com/track/45Ln3F9PRPYTXBcMFkZMzS"
     }
   ],
   "topArtists": [
     {
       "name": "Ken Carson",
       "genres": [
-        "rage rap",
-        "underground hip hop"
+        "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
@@ -190,8 +189,9 @@
     {
       "name": "Lucy Bedroque",
       "genres": [
+        "hyperpop",
         "rage rap",
-        "underground hip hop"
+        "cloud rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
@@ -199,7 +199,8 @@
     {
       "name": "Che",
       "genres": [
-        "rap"
+        "rage rap",
+        "underground hip hop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
       "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
@@ -213,50 +214,49 @@
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
-      "name": "Drake",
+      "name": "Current Joys",
       "genres": [
-        "rage rap"
+        "lo-fi indie"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
+      "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
     },
     {
       "name": "bleood",
       "genres": [
-        "hyperpop",
         "rage rap",
-        "cloud rap"
+        "underground hip hop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
       "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
     },
     {
-      "name": "Olivia Rodrigo",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-      "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-    },
-    {
-      "name": "Current Joys",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
-      "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-    },
-    {
       "name": "Destroy Lonely",
       "genres": [
-        "lo-fi indie"
+        "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
+      "name": "Olivia Rodrigo",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+      "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+    },
+    {
+      "name": "Drake",
+      "genres": [
+        "rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
       "name": "slayr",
       "genres": [
-        "rage rap"
+        "rage rap",
+        "underground hip hop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebbfac44317de9cbd41bad9f64",
       "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
