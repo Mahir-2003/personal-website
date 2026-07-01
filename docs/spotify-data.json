@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T09:39:00.384Z",
+  "lastUpdated": "2026-07-01T09:50:44.340Z",
   "topTracks": [
     {
       "name": "iffy iffy",
@@ -30,6 +30,13 @@
       "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
     },
     {
+      "name": "eternal sunshine",
+      "artist": "Ariana Grande",
+      "album": "eternal sunshine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+      "external_url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
+    },
+    {
       "name": "Nothing Like Uuu",
       "artist": "Event Horizon",
       "album": "Nothing Like Uuu",
@@ -42,13 +49,6 @@
       "album": "360/2 !",
       "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
       "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
-    },
-    {
-      "name": "eternal sunshine",
-      "artist": "Ariana Grande",
-      "album": "eternal sunshine",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
-      "external_url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
     },
     {
       "name": "lesbian vampire killers",
@@ -93,6 +93,13 @@
       "external_url": "https://open.spotify.com/track/5SCpnmhpXquVeRqthWPKN6"
     },
     {
+      "name": "don't wanna break up again",
+      "artist": "Ariana Grande",
+      "album": "eternal sunshine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+      "external_url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
+    },
+    {
       "name": "drop dead",
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
@@ -107,11 +114,25 @@
       "external_url": "https://open.spotify.com/track/5KbEOYfLdTaUxM8KKTvDJ9"
     },
     {
+      "name": "Blue",
+      "artist": "PinkPantheress",
+      "album": "Heaven knows",
+      "image": "https://i.scdn.co/image/ab67616d0000b27315a9d5a02103c2d683c07fb4",
+      "external_url": "https://open.spotify.com/track/0LsfA3w3zQh2fcN4XeHmSK"
+    },
+    {
       "name": "Pureflow",
       "artist": "LE SSERAFIM",
       "album": "'PUREFLOW', Pt. 1",
       "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
       "external_url": "https://open.spotify.com/track/0mgbaZyS4BCJjJ3EeG0TXm"
+    },
+    {
+      "name": "bye",
+      "artist": "Ariana Grande",
+      "album": "eternal sunshine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+      "external_url": "https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl"
     },
     {
       "name": "Different Color Molly",
@@ -154,27 +175,6 @@
       "album": "FunHouse",
       "image": "https://i.scdn.co/image/ab67616d0000b273e8bbebfd885e526480c09096",
       "external_url": "https://open.spotify.com/track/5MHj0hobJDXM728rf99qSS"
-    },
-    {
-      "name": "Tuition",
-      "artist": "Don Toliver",
-      "album": "OCTANE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-      "external_url": "https://open.spotify.com/track/3kw29NreyBGyArNmYARr63"
-    },
-    {
-      "name": "don't wanna break up again",
-      "artist": "Ariana Grande",
-      "album": "eternal sunshine",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
-      "external_url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
-    },
-    {
-      "name": "Sunset",
-      "artist": "LUCKI",
-      "album": "Sunset",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738afe05439fd7b3d4a6b79bb9",
-      "external_url": "https://open.spotify.com/track/0zXnqruuTKhV7dTmbaO52L"
     }
   ],
   "topArtists": [
@@ -185,16 +185,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-    },
-    {
-      "name": "Lucy Bedroque",
-      "genres": [
-        "hyperpop",
-        "rage rap",
-        "cloud rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
       "name": "Che",
@@ -231,6 +221,24 @@
       "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
     },
     {
+      "name": "Lucy Bedroque",
+      "genres": [
+        "hyperpop",
+        "rage rap",
+        "cloud rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+    },
+    {
+      "name": "Ariana Grande",
+      "genres": [
+        "pop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb766397ec42a573a53eb5fb87",
+      "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
       "name": "Destroy Lonely",
       "genres": [
         "rage rap"
@@ -245,21 +253,10 @@
       "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
     },
     {
-      "name": "Drake",
-      "genres": [
-        "rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-    },
-    {
-      "name": "slayr",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebbfac44317de9cbd41bad9f64",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+      "name": "Don Toliver",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     }
   ]
 }
