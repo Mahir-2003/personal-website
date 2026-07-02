@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T09:50:44.340Z",
+  "lastUpdated": "2026-07-02T09:15:05.033Z",
   "topTracks": [
     {
       "name": "iffy iffy",
@@ -100,6 +100,13 @@
       "external_url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
     },
     {
+      "name": "NEW DROP",
+      "artist": "Don Toliver",
+      "album": "HARDSTONE PSYCHO",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
+      "external_url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
       "name": "drop dead",
       "artist": "Olivia Rodrigo",
       "album": "you seem pretty sad for a girl so in love",
@@ -168,13 +175,6 @@
       "album": "Blonde",
       "image": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
       "external_url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
-    },
-    {
-      "name": "Rolled1",
-      "artist": "prettifun",
-      "album": "FunHouse",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e8bbebfd885e526480c09096",
-      "external_url": "https://open.spotify.com/track/5MHj0hobJDXM728rf99qSS"
     }
   ],
   "topArtists": [
@@ -202,6 +202,12 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+    },
+    {
+      "name": "Don Toliver",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     },
     {
       "name": "Current Joys",
@@ -251,12 +257,6 @@
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
       "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-    },
-    {
-      "name": "Don Toliver",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
-      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     }
   ]
 }
