@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T08:39:08.046Z",
+  "lastUpdated": "2026-07-05T08:54:37.502Z",
   "topTracks": [
     {
       "name": "iffy iffy",
@@ -7,6 +7,13 @@
       "album": "'PUREFLOW', Pt. 1",
       "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
       "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
+    },
+    {
+      "name": "interlude",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
     },
     {
       "name": "Like Lil Mexico",
@@ -30,6 +37,13 @@
       "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
     },
     {
+      "name": "deaf note (with Playboi Carti)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
+    },
+    {
       "name": "eternal sunshine",
       "artist": "Ariana Grande",
       "album": "eternal sunshine",
@@ -51,18 +65,11 @@
       "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
     },
     {
-      "name": "interlude",
+      "name": "wheredoistart",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
-    },
-    {
-      "name": "lesbian vampire killers",
-      "artist": "bleood",
-      "album": "rascal 51",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
-      "external_url": "https://open.spotify.com/track/7qFEVA1l8uN8mqjT3TeeeB"
+      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
     },
     {
       "name": "Whisper My Name",
@@ -86,6 +93,13 @@
       "external_url": "https://open.spotify.com/track/5SCpnmhpXquVeRqthWPKN6"
     },
     {
+      "name": "NEW DROP",
+      "artist": "Don Toliver",
+      "album": "HARDSTONE PSYCHO",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
+      "external_url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
       "name": "don't wanna break up again",
       "artist": "Ariana Grande",
       "album": "eternal sunshine",
@@ -93,18 +107,11 @@
       "external_url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
     },
     {
-      "name": "wheredoistart",
+      "name": "somanybags",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
-    },
-    {
-      "name": "NEW DROP",
-      "artist": "Don Toliver",
-      "album": "HARDSTONE PSYCHO",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
-      "external_url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+      "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
     },
     {
       "name": "drop dead",
@@ -119,6 +126,34 @@
       "album": "Empty Clip",
       "image": "https://i.scdn.co/image/ab67616d0000b2733340f2d3ddfcbdf89f62ab0a",
       "external_url": "https://open.spotify.com/track/5KbEOYfLdTaUxM8KKTvDJ9"
+    },
+    {
+      "name": "gynecologist",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
+    },
+    {
+      "name": "possession",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
+    },
+    {
+      "name": "lesbian vampire killers",
+      "artist": "bleood",
+      "album": "rascal 51",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
+      "external_url": "https://open.spotify.com/track/7qFEVA1l8uN8mqjT3TeeeB"
+    },
+    {
+      "name": "shopping (with Destroy Lonely)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
     },
     {
       "name": "How to Pretend",
@@ -140,41 +175,6 @@
       "album": "'PUREFLOW', Pt. 1",
       "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
       "external_url": "https://open.spotify.com/track/0mgbaZyS4BCJjJ3EeG0TXm"
-    },
-    {
-      "name": "bye",
-      "artist": "Ariana Grande",
-      "album": "eternal sunshine",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
-      "external_url": "https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl"
-    },
-    {
-      "name": "Different Color Molly",
-      "artist": "Smokepurpp",
-      "album": "Deadstar",
-      "image": "https://i.scdn.co/image/ab67616d0000b273713a9bf340b5d911a4401cd7",
-      "external_url": "https://open.spotify.com/track/1kySJ6L4TrkWfevhRSY0Ge"
-    },
-    {
-      "name": "Pots",
-      "artist": "Ken Carson",
-      "album": "A Great Chaos",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bc2fbaa359030887a9a60d7e",
-      "external_url": "https://open.spotify.com/track/1uKWqIe47TjOC06rvTEWQa"
-    },
-    {
-      "name": "my way",
-      "artist": "Olivia Rodrigo",
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-      "external_url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
-    },
-    {
-      "name": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     }
   ],
   "topArtists": [
