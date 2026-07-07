@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T10:25:41.213Z",
+  "lastUpdated": "2026-07-07T09:44:31.433Z",
   "topTracks": [
     {
       "name": "iffy iffy",
@@ -30,6 +30,13 @@
       "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
+      "name": "deaf note (with Playboi Carti)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
+    },
+    {
       "name": "Goons",
       "artist": "Dom Corleo",
       "album": "On My Own",
@@ -37,11 +44,11 @@
       "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
     },
     {
-      "name": "deaf note (with Playboi Carti)",
+      "name": "wheredoistart",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
+      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
     },
     {
       "name": "eternal sunshine",
@@ -65,13 +72,6 @@
       "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
     },
     {
-      "name": "wheredoistart",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
-    },
-    {
       "name": "Whisper My Name",
       "artist": "Drake",
       "album": "ICEMAN",
@@ -79,11 +79,25 @@
       "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
     },
     {
+      "name": "shopping (with Destroy Lonely)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
+    },
+    {
       "name": "My Blood",
       "artist": "Current Joys",
       "album": "Wild Heart",
       "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
       "external_url": "https://open.spotify.com/track/1vUsFRnCPVgilmT69KHyDa"
+    },
+    {
+      "name": "somanybags",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
     },
     {
       "name": "DMX",
@@ -105,13 +119,6 @@
       "album": "eternal sunshine",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
       "external_url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
-    },
-    {
-      "name": "somanybags",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
     },
     {
       "name": "drop dead",
@@ -147,13 +154,6 @@
       "album": "rascal 51",
       "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
       "external_url": "https://open.spotify.com/track/7qFEVA1l8uN8mqjT3TeeeB"
-    },
-    {
-      "name": "shopping (with Destroy Lonely)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
     },
     {
       "name": "How to Pretend",
