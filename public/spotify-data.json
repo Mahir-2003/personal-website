@@ -1,19 +1,26 @@
 {
-  "lastUpdated": "2026-07-07T09:44:31.433Z",
+  "lastUpdated": "2026-07-08T08:30:47.592Z",
   "topTracks": [
-    {
-      "name": "iffy iffy",
-      "artist": "LE SSERAFIM",
-      "album": "'PUREFLOW', Pt. 1",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
-      "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
-    },
     {
       "name": "interlude",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
+    },
+    {
+      "name": "deaf note (with Playboi Carti)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
+    },
+    {
+      "name": "iffy iffy",
+      "artist": "LE SSERAFIM",
+      "album": "'PUREFLOW', Pt. 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
+      "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
     },
     {
       "name": "Like Lil Mexico",
@@ -30,11 +37,11 @@
       "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
-      "name": "deaf note (with Playboi Carti)",
+      "name": "truth",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
+      "external_url": "https://open.spotify.com/track/51bG14rUj0hyH1Ts8vmbZt"
     },
     {
       "name": "Goons",
@@ -51,20 +58,6 @@
       "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
     },
     {
-      "name": "eternal sunshine",
-      "artist": "Ariana Grande",
-      "album": "eternal sunshine",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
-      "external_url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
-    },
-    {
-      "name": "Nothing like uuu",
-      "artist": "Nettspend",
-      "album": "Nothing like uuu",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737aad2d9a061b550958e5847d",
-      "external_url": "https://open.spotify.com/track/3h7QZ9cXhlOoh1ywJWS8GH"
-    },
-    {
       "name": "360/2 !",
       "artist": "Zaybeezy",
       "album": "360/2 !",
@@ -72,11 +65,18 @@
       "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
     },
     {
-      "name": "Whisper My Name",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+      "name": "eternal sunshine",
+      "artist": "Ariana Grande",
+      "album": "eternal sunshine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+      "external_url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
+    },
+    {
+      "name": "gynecologist",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
     },
     {
       "name": "shopping (with Destroy Lonely)",
@@ -86,13 +86,6 @@
       "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
     },
     {
-      "name": "My Blood",
-      "artist": "Current Joys",
-      "album": "Wild Heart",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
-      "external_url": "https://open.spotify.com/track/1vUsFRnCPVgilmT69KHyDa"
-    },
-    {
       "name": "somanybags",
       "artist": "Ken Carson",
       "album": "xperiment",
@@ -100,11 +93,18 @@
       "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
     },
     {
-      "name": "DMX",
-      "artist": "Che",
-      "album": "Empty Clip",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733340f2d3ddfcbdf89f62ab0a",
-      "external_url": "https://open.spotify.com/track/5SCpnmhpXquVeRqthWPKN6"
+      "name": "Nothing like uuu",
+      "artist": "Nettspend",
+      "album": "Nothing like uuu",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737aad2d9a061b550958e5847d",
+      "external_url": "https://open.spotify.com/track/3h7QZ9cXhlOoh1ywJWS8GH"
+    },
+    {
+      "name": "ghost (with Lil Uzi Vert)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
     },
     {
       "name": "NEW DROP",
@@ -112,6 +112,27 @@
       "album": "HARDSTONE PSYCHO",
       "image": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
       "external_url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
+      "name": "My Blood",
+      "artist": "Current Joys",
+      "album": "Wild Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
+      "external_url": "https://open.spotify.com/track/1vUsFRnCPVgilmT69KHyDa"
+    },
+    {
+      "name": "Whisper My Name",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
+    },
+    {
+      "name": "DMX",
+      "artist": "Che",
+      "album": "Empty Clip",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733340f2d3ddfcbdf89f62ab0a",
+      "external_url": "https://open.spotify.com/track/5SCpnmhpXquVeRqthWPKN6"
     },
     {
       "name": "don't wanna break up again",
@@ -128,18 +149,18 @@
       "external_url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
     },
     {
+      "name": "Televisions",
+      "artist": "Current Joys",
+      "album": "Wild Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
+      "external_url": "https://open.spotify.com/track/58AnWrEk6nkQfAeDMlXjLI"
+    },
+    {
       "name": "Og Ginobili",
       "artist": "Che",
       "album": "Empty Clip",
       "image": "https://i.scdn.co/image/ab67616d0000b2733340f2d3ddfcbdf89f62ab0a",
       "external_url": "https://open.spotify.com/track/5KbEOYfLdTaUxM8KKTvDJ9"
-    },
-    {
-      "name": "gynecologist",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
     },
     {
       "name": "possession",
@@ -149,32 +170,11 @@
       "external_url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
     },
     {
-      "name": "lesbian vampire killers",
-      "artist": "bleood",
-      "album": "rascal 51",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730ed5f98ffa9f824f41bf1015",
-      "external_url": "https://open.spotify.com/track/7qFEVA1l8uN8mqjT3TeeeB"
-    },
-    {
-      "name": "How to Pretend",
-      "artist": "Lucy Bedroque",
-      "album": "Fête de la Vanille",
-      "image": "https://i.scdn.co/image/ab67616d0000b273367048530b1e018c30162d35",
-      "external_url": "https://open.spotify.com/track/0H0eIjcXruQpntK0LuNa5v"
-    },
-    {
-      "name": "Blue",
-      "artist": "PinkPantheress",
-      "album": "Heaven knows",
-      "image": "https://i.scdn.co/image/ab67616d0000b27315a9d5a02103c2d683c07fb4",
-      "external_url": "https://open.spotify.com/track/0LsfA3w3zQh2fcN4XeHmSK"
-    },
-    {
-      "name": "Pureflow",
-      "artist": "LE SSERAFIM",
-      "album": "'PUREFLOW', Pt. 1",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
-      "external_url": "https://open.spotify.com/track/0mgbaZyS4BCJjJ3EeG0TXm"
+      "name": "wedidit (with Playboi Carti)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
     }
   ],
   "topArtists": [
@@ -187,6 +187,14 @@
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
+      "name": "Playboi Carti",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+    },
+    {
       "name": "Che",
       "genres": [
         "rage rap",
@@ -196,12 +204,10 @@
       "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
     },
     {
-      "name": "Playboi Carti",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+      "name": "Don Toliver",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     },
     {
       "name": "Current Joys",
@@ -220,6 +226,14 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
+      "name": "Drake",
+      "genres": [
+        "rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
       "name": "Ariana Grande",
       "genres": [
         "pop"
@@ -232,20 +246,6 @@
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
       "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-    },
-    {
-      "name": "Drake",
-      "genres": [
-        "rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-    },
-    {
-      "name": "Don Toliver",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
-      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     },
     {
       "name": "LE SSERAFIM",
