@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T08:30:47.592Z",
+  "lastUpdated": "2026-07-09T09:46:37.659Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -23,6 +23,13 @@
       "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
     },
     {
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Moon and the Stars",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
+      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
+    },
+    {
       "name": "Like Lil Mexico",
       "artist": "Che",
       "album": "Empty Clip",
@@ -30,11 +37,11 @@
       "external_url": "https://open.spotify.com/track/6pCWilRnRht1OyS64qulyz"
     },
     {
-      "name": "Moon and the Stars",
-      "artist": "prettifun",
-      "album": "Moon and the Stars",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
-      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
+      "name": "wheredoistart",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
     },
     {
       "name": "truth",
@@ -51,25 +58,11 @@
       "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
     },
     {
-      "name": "wheredoistart",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
-    },
-    {
       "name": "360/2 !",
       "artist": "Zaybeezy",
       "album": "360/2 !",
       "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
       "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
-    },
-    {
-      "name": "eternal sunshine",
-      "artist": "Ariana Grande",
-      "album": "eternal sunshine",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
-      "external_url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
     },
     {
       "name": "gynecologist",
@@ -84,6 +77,13 @@
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
+    },
+    {
+      "name": "eternal sunshine",
+      "artist": "Ariana Grande",
+      "album": "eternal sunshine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+      "external_url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
     },
     {
       "name": "somanybags",
@@ -135,11 +135,32 @@
       "external_url": "https://open.spotify.com/track/5SCpnmhpXquVeRqthWPKN6"
     },
     {
+      "name": "wedidit (with Playboi Carti)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
+    },
+    {
+      "name": "knocking",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/019BNL7sruegNcJiErXwFT"
+    },
+    {
       "name": "don't wanna break up again",
       "artist": "Ariana Grande",
       "album": "eternal sunshine",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
       "external_url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
+    },
+    {
+      "name": "amandabynes",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/2jwUDUQcIAuEBh7qqabhwM"
     },
     {
       "name": "drop dead",
@@ -154,27 +175,6 @@
       "album": "Wild Heart",
       "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
       "external_url": "https://open.spotify.com/track/58AnWrEk6nkQfAeDMlXjLI"
-    },
-    {
-      "name": "Og Ginobili",
-      "artist": "Che",
-      "album": "Empty Clip",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733340f2d3ddfcbdf89f62ab0a",
-      "external_url": "https://open.spotify.com/track/5KbEOYfLdTaUxM8KKTvDJ9"
-    },
-    {
-      "name": "possession",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
-    },
-    {
-      "name": "wedidit (with Playboi Carti)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
     }
   ],
   "topArtists": [
@@ -187,14 +187,6 @@
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
-      "name": "Playboi Carti",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-    },
-    {
       "name": "Che",
       "genres": [
         "rage rap",
@@ -202,6 +194,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
       "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+    },
+    {
+      "name": "Playboi Carti",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
       "name": "Don Toliver",
@@ -248,12 +248,14 @@
       "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
     },
     {
-      "name": "LE SSERAFIM",
+      "name": "Lucy Bedroque",
       "genres": [
-        "k-pop"
+        "hyperpop",
+        "rage rap",
+        "cloud rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebd4037f03c5f92e7e6ea89b9e",
-      "external_url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     }
   ]
 }
