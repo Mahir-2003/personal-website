@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T09:37:39.135Z",
+  "lastUpdated": "2026-07-11T07:58:14.884Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -23,18 +23,18 @@
       "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
     },
     {
-      "name": "Moon and the Stars",
-      "artist": "prettifun",
-      "album": "Moon and the Stars",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
-      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
-    },
-    {
       "name": "wheredoistart",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
+    },
+    {
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Moon and the Stars",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
+      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
       "name": "Like Lil Mexico",
@@ -49,6 +49,20 @@
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/51bG14rUj0hyH1Ts8vmbZt"
+    },
+    {
+      "name": "shopping (with Destroy Lonely)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
+    },
+    {
+      "name": "somanybags",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
     },
     {
       "name": "Goons",
@@ -72,13 +86,6 @@
       "external_url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
     },
     {
-      "name": "shopping (with Destroy Lonely)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
-    },
-    {
       "name": "eternal sunshine",
       "artist": "Ariana Grande",
       "album": "eternal sunshine",
@@ -86,18 +93,18 @@
       "external_url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
     },
     {
-      "name": "somanybags",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
-    },
-    {
       "name": "Nothing like uuu",
       "artist": "Nettspend",
       "album": "Nothing like uuu",
       "image": "https://i.scdn.co/image/ab67616d0000b2737aad2d9a061b550958e5847d",
       "external_url": "https://open.spotify.com/track/3h7QZ9cXhlOoh1ywJWS8GH"
+    },
+    {
+      "name": "possession",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
     },
     {
       "name": "ghost (with Lil Uzi Vert)",
@@ -121,20 +128,6 @@
       "external_url": "https://open.spotify.com/track/1vUsFRnCPVgilmT69KHyDa"
     },
     {
-      "name": "Whisper My Name",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
-    },
-    {
-      "name": "Dmx",
-      "artist": "Che",
-      "album": "Empty Clip",
-      "image": "https://i.scdn.co/image/ab67616d0000b27338e909c720027af5fc9d7b02",
-      "external_url": "https://open.spotify.com/track/4kklE7L96CxHCn6XlwuwJ0"
-    },
-    {
       "name": "wedidit (with Playboi Carti)",
       "artist": "Ken Carson",
       "album": "xperiment",
@@ -142,18 +135,11 @@
       "external_url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
     },
     {
-      "name": "knocking",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/019BNL7sruegNcJiErXwFT"
-    },
-    {
-      "name": "don't wanna break up again",
-      "artist": "Ariana Grande",
-      "album": "eternal sunshine",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
-      "external_url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
+      "name": "Whisper My Name",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
     },
     {
       "name": "amandabynes",
@@ -163,18 +149,32 @@
       "external_url": "https://open.spotify.com/track/2jwUDUQcIAuEBh7qqabhwM"
     },
     {
-      "name": "drop dead",
-      "artist": "Olivia Rodrigo",
-      "album": "you seem pretty sad for a girl so in love",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
-      "external_url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
+      "name": "knocking",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/019BNL7sruegNcJiErXwFT"
     },
     {
-      "name": "Televisions",
-      "artist": "Current Joys",
-      "album": "Wild Heart",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
-      "external_url": "https://open.spotify.com/track/58AnWrEk6nkQfAeDMlXjLI"
+      "name": "wrist",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/2LLALDUCUNpRPNNGLOwOrq"
+    },
+    {
+      "name": "the ritual",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/3Tfu5jSKfVpjHxwteBnJC8"
+    },
+    {
+      "name": "Dmx",
+      "artist": "Che",
+      "album": "Empty Clip",
+      "image": "https://i.scdn.co/image/ab67616d0000b27338e909c720027af5fc9d7b02",
+      "external_url": "https://open.spotify.com/track/4kklE7L96CxHCn6XlwuwJ0"
     }
   ],
   "topArtists": [
