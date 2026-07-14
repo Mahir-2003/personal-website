@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T09:29:58.987Z",
+  "lastUpdated": "2026-07-14T08:07:50.328Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -30,13 +30,6 @@
       "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
     },
     {
-      "name": "Moon and the Stars",
-      "artist": "prettifun",
-      "album": "Moon and the Stars",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
-      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
-    },
-    {
       "name": "Like Lil Mexico",
       "artist": "Che",
       "album": "Empty Clip",
@@ -65,18 +58,18 @@
       "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
     },
     {
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Moon and the Stars",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
+      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
+    },
+    {
       "name": "Goons",
       "artist": "Dom Corleo",
       "album": "On My Own",
       "image": "https://i.scdn.co/image/ab67616d0000b273a682813ff50108b914dfd0f1",
       "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
-    },
-    {
-      "name": "360/2 !",
-      "artist": "Zaybeezy",
-      "album": "360/2 !",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
-      "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
     },
     {
       "name": "gynecologist",
@@ -128,18 +121,25 @@
       "external_url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
     },
     {
-      "name": "amandabynes",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/2jwUDUQcIAuEBh7qqabhwM"
-    },
-    {
       "name": "knocking",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/019BNL7sruegNcJiErXwFT"
+    },
+    {
+      "name": "360/2 !",
+      "artist": "Zaybeezy",
+      "album": "360/2 !",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
+      "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
+    },
+    {
+      "name": "amandabynes",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/2jwUDUQcIAuEBh7qqabhwM"
     },
     {
       "name": "wrist",
@@ -234,12 +234,6 @@
       "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
     },
     {
-      "name": "Olivia Rodrigo",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-      "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-    },
-    {
       "name": "prettifun",
       "genres": [
         "rage rap",
@@ -249,13 +243,18 @@
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
-      "name": "slayr",
+      "name": "Olivia Rodrigo",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+      "external_url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+    },
+    {
+      "name": "LE SSERAFIM",
       "genres": [
-        "rage rap",
-        "underground hip hop"
+        "k-pop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebbfac44317de9cbd41bad9f64",
-      "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebd4037f03c5f92e7e6ea89b9e",
+      "external_url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
     }
   ]
 }
