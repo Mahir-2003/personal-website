@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T08:12:55.347Z",
+  "lastUpdated": "2026-07-16T08:16:16.237Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -65,18 +65,18 @@
       "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
     },
     {
-      "name": "Moon and the Stars",
-      "artist": "prettifun",
-      "album": "Moon and the Stars",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
-      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
-    },
-    {
       "name": "gynecologist",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
+    },
+    {
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Moon and the Stars",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
+      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
       "name": "eternal sunshine",
@@ -128,6 +128,13 @@
       "external_url": "https://open.spotify.com/track/019BNL7sruegNcJiErXwFT"
     },
     {
+      "name": "wrist",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/2LLALDUCUNpRPNNGLOwOrq"
+    },
+    {
       "name": "amandabynes",
       "artist": "Ken Carson",
       "album": "xperiment",
@@ -135,18 +142,18 @@
       "external_url": "https://open.spotify.com/track/2jwUDUQcIAuEBh7qqabhwM"
     },
     {
+      "name": "amnesia",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/6nqUtTNGowzyJYhuIuZj9Z"
+    },
+    {
       "name": "360/2 !",
       "artist": "Zaybeezy",
       "album": "360/2 !",
       "image": "https://i.scdn.co/image/ab67616d0000b2736efaac285f7241644077a162",
       "external_url": "https://open.spotify.com/track/0O5eBogAMyGh40G8GiNCxT"
-    },
-    {
-      "name": "wrist",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/2LLALDUCUNpRPNNGLOwOrq"
     },
     {
       "name": "the ritual",
@@ -168,13 +175,6 @@
       "album": "eternal sunshine",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
       "external_url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
-    },
-    {
-      "name": "edm",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/3XhMqaH1IhunxatNHlPZED"
     }
   ],
   "topArtists": [
@@ -234,15 +234,6 @@
       "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
     },
     {
-      "name": "prettifun",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
-    },
-    {
       "name": "Oneohtrix Point Never",
       "genres": [
         "plunderphonics",
@@ -256,12 +247,22 @@
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
     },
     {
-      "name": "LE SSERAFIM",
+      "name": "prettifun",
       "genres": [
-        "k-pop"
+        "rage rap",
+        "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebd4037f03c5f92e7e6ea89b9e",
-      "external_url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+    },
+    {
+      "name": "Lil Uzi Vert",
+      "genres": [
+        "melodic rap",
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
     }
   ]
 }
