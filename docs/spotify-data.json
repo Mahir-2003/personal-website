@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T08:11:28.998Z",
+  "lastUpdated": "2026-07-18T07:53:17.826Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -33,8 +33,8 @@
       "name": "Like Lil Mexico",
       "artist": "Che",
       "album": "Empty Clip",
-      "image": "https://i.scdn.co/image/ab67616d0000b27338e909c720027af5fc9d7b02",
-      "external_url": "https://open.spotify.com/track/1PtYATsFztyH6KgTbdKjhR"
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbf536c192db2db8dca36e2e",
+      "external_url": "https://open.spotify.com/track/4OtrV0qxORlHxndu3AlW9Y"
     },
     {
       "name": "truth",
@@ -65,18 +65,18 @@
       "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
     },
     {
-      "name": "gynecologist",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
-    },
-    {
       "name": "Moon and the Stars",
       "artist": "prettifun",
       "album": "Moon and the Stars",
       "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
       "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
+    },
+    {
+      "name": "gynecologist",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
     },
     {
       "name": "eternal sunshine",
@@ -149,6 +149,13 @@
       "external_url": "https://open.spotify.com/track/6nqUtTNGowzyJYhuIuZj9Z"
     },
     {
+      "name": "From The Sea/It Looms (Chapters I & II)",
+      "artist": "Leon Vynehall",
+      "album": "Nothing Is Still",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db1083f417644e3e1cf47543",
+      "external_url": "https://open.spotify.com/track/0lDKZO6dS927plsK7SGmh4"
+    },
+    {
       "name": "the ritual",
       "artist": "Ken Carson",
       "album": "xperiment",
@@ -156,25 +163,18 @@
       "external_url": "https://open.spotify.com/track/3Tfu5jSKfVpjHxwteBnJC8"
     },
     {
-      "name": "Dmx",
-      "artist": "Che",
-      "album": "Empty Clip",
-      "image": "https://i.scdn.co/image/ab67616d0000b27338e909c720027af5fc9d7b02",
-      "external_url": "https://open.spotify.com/track/4kklE7L96CxHCn6XlwuwJ0"
+      "name": "Intro",
+      "artist": "Pi’erre Bourne",
+      "album": "The Life Of Pi'erre 5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273857ffe0b5ad52bf5625572db",
+      "external_url": "https://open.spotify.com/track/4GuP8UZCJBFn7Gbjs8PVlq"
     },
     {
-      "name": "don't wanna break up again",
-      "artist": "Ariana Grande",
-      "album": "eternal sunshine",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
-      "external_url": "https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA"
-    },
-    {
-      "name": "edm",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/3XhMqaH1IhunxatNHlPZED"
+      "name": "which way",
+      "artist": "Destroy Lonely",
+      "album": "If Looks Could Kill",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735887b3f4481d39becbebffbc",
+      "external_url": "https://open.spotify.com/track/4VNd3XTKq7M4368Hmq6iS5"
     }
   ],
   "topArtists": [
@@ -201,15 +201,6 @@
       "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     },
     {
-      "name": "Che",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
-    },
-    {
       "name": "Playboi Carti",
       "genres": [
         "rage rap"
@@ -226,12 +217,29 @@
       "external_url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
     },
     {
+      "name": "Che",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+    },
+    {
       "name": "Ariana Grande",
       "genres": [
         "pop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb766397ec42a573a53eb5fb87",
       "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "name": "Destroy Lonely",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
       "name": "Lucy Bedroque",
@@ -255,15 +263,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb479c5d1829178f3c53a7e5e9",
       "external_url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-    },
-    {
-      "name": "prettifun",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     }
   ]
 }
