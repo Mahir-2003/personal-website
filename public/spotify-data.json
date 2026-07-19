@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T07:53:17.826Z",
+  "lastUpdated": "2026-07-19T08:21:33.668Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -128,6 +128,13 @@
       "external_url": "https://open.spotify.com/track/019BNL7sruegNcJiErXwFT"
     },
     {
+      "name": "J'adore",
+      "artist": "Pi’erre Bourne",
+      "album": "Made In Paris",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
+      "external_url": "https://open.spotify.com/track/1Menul8KHa5YAvVZQKi63k"
+    },
+    {
       "name": "wrist",
       "artist": "Ken Carson",
       "album": "xperiment",
@@ -156,25 +163,18 @@
       "external_url": "https://open.spotify.com/track/0lDKZO6dS927plsK7SGmh4"
     },
     {
+      "name": "Retraite",
+      "artist": "Pi’erre Bourne",
+      "album": "Made In Paris",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
+      "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
+    },
+    {
       "name": "the ritual",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/3Tfu5jSKfVpjHxwteBnJC8"
-    },
-    {
-      "name": "Intro",
-      "artist": "Pi’erre Bourne",
-      "album": "The Life Of Pi'erre 5",
-      "image": "https://i.scdn.co/image/ab67616d0000b273857ffe0b5ad52bf5625572db",
-      "external_url": "https://open.spotify.com/track/4GuP8UZCJBFn7Gbjs8PVlq"
-    },
-    {
-      "name": "which way",
-      "artist": "Destroy Lonely",
-      "album": "If Looks Could Kill",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735887b3f4481d39becbebffbc",
-      "external_url": "https://open.spotify.com/track/4VNd3XTKq7M4368Hmq6iS5"
     }
   ],
   "topArtists": [
