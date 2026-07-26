@@ -63,6 +63,10 @@ jobs:
               }
             }, tokenBody);
 
+            if (!tokenData.access_token) {
+              console.error('Spotify token refresh failed:', JSON.stringify(tokenData));
+              process.exit(1);
+            }
             const accessToken = tokenData.access_token;
 
             const tracksData = await httpsRequest({
@@ -78,6 +82,15 @@ jobs:
               method: 'GET',
               headers: { 'Authorization': `Bearer ${accessToken}` }
             });
+
+            if (!Array.isArray(tracksData.items)) {
+              console.error('Unexpected top-tracks response:', JSON.stringify(tracksData));
+              process.exit(1);
+            }
+            if (!Array.isArray(artistsData.items)) {
+              console.error('Unexpected top-artists response:', JSON.stringify(artistsData));
+              process.exit(1);
+            }
 
             const topTracks = tracksData.items.map(t => ({
               name: t.name,
@@ -219,6 +232,7 @@ jobs:
 
   commit:
     needs: [fetch-spotify, fetch-letterboxd]
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -226,6 +240,7 @@ jobs:
           fetch-depth: 0
 
       - uses: actions/download-artifact@v4
+        continue-on-error: true
         with:
           name: spotify-data
           path: public
@@ -239,8 +254,8 @@ jobs:
       - name: Copy to docs and commit if changed
         run: |
           mkdir -p docs
-          cp public/spotify-data.json docs/spotify-data.json
-          cp public/letterboxd.json docs/letterboxd.json
+          [ -f public/spotify-data.json ] && cp public/spotify-data.json docs/spotify-data.json || echo "spotify-data.json unavailable this run, keeping previous version"
+          [ -f public/letterboxd.json ] && cp public/letterboxd.json docs/letterboxd.json || echo "letterboxd.json unavailable this run, keeping previous version"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/spotify-data.json public/letterboxd.json docs/spotify-data.json docs/letterboxd.json
