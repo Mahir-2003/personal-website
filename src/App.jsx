@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, Navigate, useLocation } from 'react-router' // Changed from HashRouter
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router'
 import Home from './pages/Home';
 import Navigation from './components/Navigation';
 import { LoadingProvider, useLoading } from './hooks/useLoading';
@@ -9,7 +9,6 @@ import TechStack from './pages/TechStack';
 import Blog from './pages/Blog';
 
 function AppContent() {
-  const location = useLocation();
   const { isLoading, currentPath } = useLoading();
 
   return (

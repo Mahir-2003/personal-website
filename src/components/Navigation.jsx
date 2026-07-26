@@ -1,267 +1,196 @@
 import { Link, useLocation } from "react-router";
-import { useState, useMemo, useCallback, useEffect, memo } from "react";
+import { useState, useEffect, useCallback } from "react";
 import tngBadge from "../assets/TNG_badge.svg";
 
-const NAVIGATION_ITEMS = [
-    { path: '/', label: 'HOME', id: '001' },
-    { path: '/personal-log', label: 'PERSONAL LOG', id: '002' },
-    { path: '/projects', label: 'PROJECTS', id: '003' },
-    // below are removed til further notice
-    // { path: '/tech-stack', label: 'TECH STACK', id: '004' },
-    // { path: '/blog', label: 'LOGS', id: '005' }
+/* ── Nav items ─────────────────────────────────────────────────────────────── */
+const NAV_ITEMS = [
+    { path: '/', label: 'HOME', id: '001', color: '#FF9C00' },
+    { path: '/personal-log', label: 'PERSONAL LOG', id: '002', color: '#CC99CC' },
+    { path: '/projects', label: 'PROJECTS', id: '003', color: '#6A8CD6' },
 ];
 
-const NavigationItem = memo(({ item, index, isExpanded, isActive, getTransitionDelay }) => {
+/* ── Ticker segment data (matches prototype's footer colorstrip) ─────────── */
+const TICKER_SEGS = [
+    { flex: 3,   color: '#FF9C00' },
+    { flex: 1.4, color: '#CC99CC' },
+    { flex: 2.2, color: '#6A8CD6' },
+    { flex: 1,   color: '#FF9C66' },
+    { flex: 2.8, color: '#FFCC99' },
+    { flex: 1.1, color: '#CC4A5A' },
+    { flex: 1.8, color: '#7FD1A6' },
+    { flex: 1.3, color: '#9D7AD0' },
+];
 
-    // memoized classnames below for better performance
-    const linkClassName = useMemo(() => `
-        lcars-nav-button group
-        transition-all duration-1500 ease-out
-        ${isExpanded ? 'lcars-nav-expanded transform translate-x-0 scale-100' : 'lcars-nav-collapsed transform translate-x-0 scale-100'}
-        ${isActive(item.path) ? 'lcars-nav-active' : ''}
-    `, [isExpanded, isActive, item.path]);
+/* ── TNG-style stardate ─────────────────────────────────────────────────── */
+function computeStardate() {
+    const now = new Date();
+    const yStart = new Date(now.getFullYear(), 0, 0);
+    const doy = Math.floor((now - yStart) / 86400000);
+    const frac = (now - new Date(now.getFullYear(), now.getMonth(), now.getDate())) / 86400000;
+    const base = 80000 + (now.getFullYear() - 2026) * 1000;
+    return 'SD ' + (base + doy * 2.74 + frac * 2).toFixed(1);
+}
 
-    const labelClassName = useMemo(() => `
-        flex-1 text-left ml-4 font-bold tracking-wider
-        transition-all duration-1500 ease-out overflow-hidden whitespace-nowrap
-        ${isExpanded ? 'max-w-full transform scale-100' : 'max-w-0 transform scale-0'}
-    `, [isExpanded]);
+/* ── Navigation ─────────────────────────────────────────────────────────── */
+export default function Navigation() {
+    // Default to open on first visit; persist state across sessions
+    const [isOpen, setIsOpen] = useState(() => {
+        try {
+            const saved = localStorage.getItem('lcars.nav.open');
+            return saved !== null ? saved === '1' : true;
+        } catch { return true; }
+    });
 
-    const indicatorClassName = useMemo(() => `
-        lcars-active-indicator
-        transition-all duration-1500 ease-out
-        ${isExpanded ? 'transform scale-100' : 'transform scale-0'}
-    `, [isExpanded]);
-
-    return (
-        <Link
-            key={item.path}
-            to={item.path}
-            className={linkClassName}
-            style={getTransitionDelay(index)}
-        >
-            <div className="relative z-10 flex items-center">
-                <span className="lcars-nav-id">
-                    {item.id}
-                </span>
-                <div className={labelClassName}>
-                    {item.label}
-                </div>
-                {isActive(item.path) && isExpanded && (
-                    <div className={indicatorClassName}></div>
-                )}
-            </div>
-
-            <div className="lcars-button-glow"></div>
-        </Link>
-    );
-});
-
-const Navigation = memo(() => {
-    const [isExpanded, setIsExpanded] = useState(false);
+    const [stardate, setStardate] = useState(computeStardate);
     const location = useLocation();
 
-    const toggleExpanded = useCallback(() => {
-        setIsExpanded(prev => !prev);
+    // Persist open state
+    useEffect(() => {
+        try { localStorage.setItem('lcars.nav.open', isOpen ? '1' : '0'); } catch {}
+    }, [isOpen]);
+
+    // Escape to close
+    useEffect(() => {
+        const onKey = (e) => { if (e.key === 'Escape') setIsOpen(false); };
+        document.addEventListener('keydown', onKey);
+        return () => document.removeEventListener('keydown', onKey);
     }, []);
 
-    const isActive = useCallback((path) => location.pathname === path, [location.pathname]);
-
+    // Live stardate — refreshes every 4 s
     useEffect(() => {
-        const handleKeyDown = (e) => {
-            if (e.key === 'Escape' && isExpanded) setIsExpanded(false);
-        };
-        document.addEventListener('keydown', handleKeyDown);
-        return () => document.removeEventListener('keydown', handleKeyDown);
-    }, [isExpanded]);
+        const id = setInterval(() => setStardate(computeStardate()), 4000);
+        return () => clearInterval(id);
+    }, []);
 
-    // memoized all classnames for better performance.
+    // Close nav after navigating so page is visible
+    useEffect(() => {
+        setIsOpen(false);
+    }, [location.pathname]);
 
-    const navClassName = useMemo(() => `
-        fixed top-0 left-0 h-full z-50 w-80
-        transition-transform duration-1500 ease-out
-        ${isExpanded ? 'translate-x-0' : '-translate-x-full'}
-        p-6
-    `, [isExpanded]);
-
-    const lcarsContainerClassName = useMemo(() => `
-        lcars-glass-panel rounded-3xl relative overflow-hidden
-        transition-all duration-1500 ease-out
-        ${isExpanded ? 'transform scale-100' : 'transform scale-0'}
-        p-6 mb-4
-    `, [isExpanded]);
-
-    const lcarsTextClassName = useMemo(() => `
-        text-orange-400 font-black tracking-wider text-5xl ml-4
-        transition-all duration-1500 ease-out
-        ${isExpanded ? 'transform scale-100' : 'transform scale-0'}
-    `, [isExpanded]);
-
-    const subtitleClassName = useMemo(() => `
-        text-blue-300 text-sm opacity-90 tracking-widest font-semibold
-        transition-all duration-1500 ease-out
-        ${isExpanded ? 'transform scale-100' : 'transform scale-0'}
-    `, [isExpanded]);
-
-    const statusBarClassName = useMemo(() => `
-        lcars-glass-panel rounded-2xl relative overflow-hidden
-        transition-all duration-1500 ease-out
-        ${isExpanded ? 'transform scale-100 px-6 py-3' : 'transform scale-0 px-0 py-0 pointer-events-none'}
-    `, [isExpanded]);
-
-    const navItemsClassName = useMemo(() => `
-        space-y-3
-        transition-all duration-1500 ease-out
-        ${isExpanded ? 'transform translate-x-0 scale-100' : 'transform translate-x-0 scale-0 pointer-events-none'}
-    `, [isExpanded]);
-
-    const systemStatusClassName = useMemo(() => `
-        absolute bottom-6 left-6 right-6
-        transition-all duration-1500 ease-out
-        ${isExpanded ? 'transform translate-y-0 scale-100' : 'transform translate-y-8 scale-0 pointer-events-none'}
-    `, [isExpanded]);
-
-    const getTransitionDelay = useCallback((index) => ({
-        transitionDelay: isExpanded ? `${index * 0.1}s` : '0s'
-    }), [isExpanded]);
-
-    const statusHeaderClassName = useMemo(() => `
-        text-center mb-3
-        transition-all duration-1500 ease-out
-        ${isExpanded ? 'transform scale-100' : 'transform scale-0'}
-    `, [isExpanded]);
-
-    const statusGridClassName = useMemo(() => `
-        grid grid-cols-3 gap-2
-        transition-all duration-1500 ease-out
-        ${isExpanded ? 'transform scale-100' : 'transform scale-0'}
-    `, [isExpanded]);
+    const toggle = useCallback(() => setIsOpen(o => !o), []);
 
     return (
         <>
-            {/* Fixed communicator badge — lives outside <nav> so it's never clipped by the translate */}
+            {/*
+              Backdrop — sits below the frame (z-index 49).
+              pointer-events are disabled when closed (CSS handles this via [data-open]).
+            */}
             <div
-                className="fixed top-12 left-12 z-[60] cursor-pointer select-none
-                           hover:scale-110 hover:rotate-3 hover:drop-shadow-[0_0_20px_rgba(251,146,60,0.6)]
-                           w-12 h-12 flex items-center justify-center
-                           transition-transform duration-300 ease-out"
-                onClick={toggleExpanded}
+                className="lcars-backdrop"
+                aria-hidden="true"
+                onClick={() => setIsOpen(false)}
+                {...(isOpen ? { 'data-open': '' } : {})}
+            />
+
+            {/*
+              Frame root — position:fixed, inset:0, pointer-events:none.
+              Children re-enable pointer events via CSS (.lcars-frame > *).
+              The [data-open] attribute drives all CSS transitions.
+            */}
+            <nav
+                className="lcars-frame"
+                aria-label="Primary navigation"
+                id="lcars-frame"
+                {...(isOpen ? { 'data-open': '' } : {})}
             >
-                {/* Ping ring — only when collapsed */}
-                {!isExpanded && (
-                    <div className="border-2 border-orange-400/40 rounded-full absolute inset-0 animate-ping" style={{ animationDuration: '2s' }}></div>
-                )}
-                {/* Background ring */}
-                <div className="absolute inset-0 rounded-full lcars-nav-active backdrop-blur-sm border-2 border-orange-400/70"></div>
+                {/* ── Corner elbow block ──────────────────────────────────────── */}
+                <div className="lcars-corner" aria-hidden="true">
+                    <span className="lcars-wordmark">LCARS</span>
+                </div>
 
-                <img
-                    src={tngBadge}
-                    alt="TNG Badge"
-                    className="w-full h-full object-contain relative z-10"
-                />
-            </div>
+                {/* ── Top arm ─────────────────────────────────────────────────── */}
+                <header className="lcars-topbar" id="lcars-panel">
+                    <div className="lcars-seg lcars-seg-title" style={{ '--i': 0 }} aria-hidden="true" />
+                    <div className="lcars-seg lcars-seg-deco"   style={{ '--i': 1 }} aria-hidden="true" />
+                    <div className="lcars-seg lcars-seg-deco-b" style={{ '--i': 2 }} aria-hidden="true" />
+                    <div className="lcars-seg lcars-seg-readout" style={{ '--i': 3 }} aria-hidden="true">
+                        <span className="lcars-seg-sd">{stardate}</span>
+                        <span className="lcars-seg-online">&#9679;&nbsp;ONLINE</span>
+                    </div>
+                </header>
 
-            {/* Transparent backdrop — invisible tap/click target to close nav */}
-            {isExpanded && (
-                <div
-                    className="fixed inset-0 z-40"
-                    onClick={toggleExpanded}
-                    aria-hidden="true"
-                />
-            )}
+                {/* ── Left rail ───────────────────────────────────────────────── */}
+                <div className="lcars-rail">
+                    <div className="lcars-rail-tag">AUTHORIZED ACCESS</div>
 
-            {/* floating nav sidebar */}
-            <nav className={navClassName}>
-                {/* Header section */}
-                <div className="mb-8 relative">
-                    {/* LCARS container - always present but invisible when collapsed */}
-                    <div className={lcarsContainerClassName}>
-                        <div className="relative z-10">
-                            {/* container for badge space and text */}
-                            <div className="flex items-center mb-4">
-                                {/* space reserved for the external badge */}
-                                <div className="w-12 h-12 flex-shrink-0"></div>
+                    <ul className="lcars-nav-list" role="list">
+                        {NAV_ITEMS.map((item, i) => (
+                            <li key={item.path}>
+                                <Link
+                                    to={item.path}
+                                    className="lcars-nav-item"
+                                    aria-current={location.pathname === item.path ? 'page' : undefined}
+                                    onClick={() => setIsOpen(false)}
+                                    style={{ '--c': item.color, '--i': i }}
+                                >
+                                    <span className="lcars-nav-tag">{item.id}</span>
+                                    <span className="lcars-nav-label">{item.label}</span>
+                                </Link>
+                            </li>
+                        ))}
+                    </ul>
 
-                                {/* LCARS text - fades in next to badge */}
-                                <div className={lcarsTextClassName} style={{ fontFamily: "TNG, Orbitron, sans-serif" }}>
-                                    <span className="whitespace-nowrap">LCARS</span>
-                                </div>
-                            </div>
-
-                            {/* Subtitle - fades in below */}
-                            <div className={subtitleClassName}>
-                                <span className="whitespace-nowrap block">STARFLEET DATABASE</span>
-                            </div>
-                        </div>
-
-                        {/* animated gradient overlay */}
-                        <div className="absolute inset-0 opacity-30 lcars-gradient-animate"></div>
+                    {/* Decorative spacer blocks */}
+                    <div className="lcars-rail-deco" aria-hidden="true">
+                        <span className="lcars-rail-deco-block" />
+                        <span className="lcars-rail-deco-block" />
+                        <span className="lcars-rail-deco-block" />
+                        <span className="lcars-rail-deco-block" />
                     </div>
 
-                    {/* status bar - fades in when expanded */}
-                    <div className={statusBarClassName}>
-                        <div className="text-orange-400 text-xs font-bold tracking-widest text-center lcars-glow-orange">
-                            <span className="whitespace-nowrap block">AUTHORIZED ACCESS ONLY</span>
+                    {/* System status */}
+                    <div className="lcars-sysstatus" aria-label="System status">
+                        <p className="lcars-sysstatus-heading">SYSTEM STATUS</p>
+                        <div className="lcars-sysstatus-row">
+                            <span className="lcars-sysstatus-key">POWER</span>
+                            <span className="lcars-sysstatus-val lcars-sysstatus-val--on">ONLINE</span>
                         </div>
+                        <div className="lcars-sysstatus-row">
+                            <span className="lcars-sysstatus-key">SECTOR</span>
+                            <span className="lcars-sysstatus-val lcars-sysstatus-val--sec">SOL-3</span>
+                        </div>
+                        <div className="lcars-sysstatus-row">
+                            <span className="lcars-sysstatus-key">ACCESS</span>
+                            <span className="lcars-sysstatus-val lcars-sysstatus-val--acc">GUEST</span>
+                        </div>
+                    </div>
+
+                    {/* Footer cap */}
+                    <div className="lcars-rail-foot" aria-hidden="true">
+                        <div className="lcars-ticker">
+                            {TICKER_SEGS.map((seg, i) => (
+                                <span
+                                    key={i}
+                                    className="lcars-ticker-seg"
+                                    style={{ flex: seg.flex, background: seg.color }}
+                                />
+                            ))}
+                        </div>
+                        <span className="lcars-rail-lbl">LCARS 47-B</span>
                     </div>
                 </div>
 
-                {/* nav items - floating buttons with staggered animation */}
-                <div className={navItemsClassName}>
-                    {NAVIGATION_ITEMS.map((item, index) => (
-                        <NavigationItem
-                            key={item.path}
-                            item={item}
-                            index={index}
-                            isExpanded={isExpanded}
-                            isActive={isActive}
-                            getTransitionDelay={getTransitionDelay}
-                        />
-                    ))}
-                </div>
+                {/* ── Combadge trigger (persistent, never moves) ──────────────── */}
+                <button
+                    className="lcars-combadge"
+                    id="lcars-combadge"
+                    aria-expanded={isOpen}
+                    aria-controls="lcars-panel"
+                    aria-label={isOpen ? 'Close LCARS navigation' : 'Open LCARS navigation'}
+                    onClick={toggle}
+                >
+                    <span className="lcars-combadge-ring" aria-hidden="true" />
+                    <img
+                        src={tngBadge}
+                        alt=""
+                        aria-hidden="true"
+                        className="lcars-combadge-img"
+                    />
+                </button>
 
-                {/* system status panel - floating at bottom with smooth transition */}
-                <div className={systemStatusClassName}>
-
-                    <div className="lcars-glass-panel rounded-2xl p-4 mb-4">
-                        <div className={statusHeaderClassName}>
-                            <h3 className="text-purple-400 font-bold text-sm tracking-widest lcars-glow-purple whitespace-nowrap">
-                                SYSTEM STATUS
-                            </h3>
-                        </div>
-
-                        <div className={statusGridClassName}>
-                            {/* POWER */}
-                            <div className="lcars-status-indicator">
-                                <span className="text-xs font-semibold text-gray-400 whitespace-nowrap">POWER</span>
-                                <span className="text-xs font-bold text-green-400 lcars-glow-green whitespace-nowrap">ONLINE</span>
-                            </div>
-
-                            {/* SECTOR */}
-                            <div className="lcars-status-indicator">
-                                <span className="text-xs font-semibold text-gray-400 whitespace-nowrap">SECTOR</span>
-                                <span className="text-xs font-bold text-blue-400 lcars-glow-blue whitespace-nowrap">SOL-3</span>
-                            </div>
-
-                            {/* ACCESS */}
-                            <div className="lcars-status-indicator">
-                                <span className="text-xs font-semibold text-gray-400 whitespace-nowrap">ACCESS</span>
-                                <span className="text-xs font-bold text-purple-400 lcars-glow-purple whitespace-nowrap">GUEST</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    {/* LCARS diagnostic strip */}
-                    <div className="flex space-x-2">
-                        <div className="flex-1 h-1 rounded-full lcars-diagnostic-orange"></div>
-                        <div className="flex-1 h-1 rounded-full lcars-diagnostic-blue"></div>
-                        <div className="flex-1 h-1 rounded-full lcars-diagnostic-purple"></div>
-                        <div className="flex-1 h-1 rounded-full lcars-diagnostic-green"></div>
-                    </div>
-                </div>
+                {/* "◂ ACCESS" hint — visible only when closed */}
+                <span className="lcars-hint" aria-hidden="true">&#9666;&nbsp;ACCESS</span>
             </nav>
         </>
-    )
-});
-
-export default Navigation
+    );
+}

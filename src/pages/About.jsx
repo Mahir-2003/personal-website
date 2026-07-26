@@ -3,6 +3,7 @@ import { Canvas } from '@react-three/fiber';
 import Starfield from '../components/Starfield';
 import LetterboxdFeed from '../components/LetterboxdFeed';
 import SpotifyStats from '../components/SpotifyStats';
+import { SectionHeader, CornerTicks, stardate } from '../components/LcarsChrome';
 
 function timeAgo(isoString) {
     const seconds = Math.floor((Date.now() - new Date(isoString)) / 1000);
@@ -44,29 +45,34 @@ const About = () => {
 
             {/* Content Section */}
             <div className="relative z-10 p-8 min-h-screen">
-                <div className="max-w-4xl mx-auto">
-                    <h1 className="text-4xl font-bold text-orange-400 mb-8">
-                        [ PERSONAL LOG ]
-                    </h1>
+                <div className="max-w-6xl mx-auto px-4">
+                    <div className="mb-8">
+                        <SectionHeader
+                            title="Personal Log"
+                            meta={`SD ${stardate()}`}
+                            h={46}
+                            fontSize="clamp(18px, 5.5vw, 26px)"
+                            barHeight={14}
+                        />
+                    </div>
 
                     {/* bio */}
                     <section className="mb-12">
-                        <div className="flex items-baseline justify-between mb-4">
-                            <h2 className="text-2xl font-bold text-blue-400">RECENT ACTIVITY</h2>
-                            {lastSynced && (
-                                <span className="text-gray-500 text-xs tracking-widest">
-                                    SYNCED {timeAgo(lastSynced).toUpperCase()}
-                                </span>
-                            )}
-                        </div>
-                        <div className="bg-gray-900/90 backdrop-blur-sm p-6 rounded-lg">
-                            <p className="text-gray-300 leading-relaxed">
-                                I'm drawn to stories - whether they're told through film, music, books, or anything else. I also like keeping track of the things I watch and listen to.
-                            </p>
-                            <br />
-                            <p className="text-gray-300 leading-relaxed">
-                                Below you can find what I've been up to recently!
-                            </p>
+                        <SectionHeader
+                            title="Recent Activity"
+                            meta={lastSynced ? `SYNCED ${timeAgo(lastSynced).toUpperCase()}` : undefined}
+                        />
+                        <div className="lcars-text-block relative mt-4">
+                            <CornerTicks color="var(--lcars-orange)" size={16} inset={4} />
+                            <div className="max-w-3xl">
+                                <p className="leading-relaxed" style={{ color: 'var(--lcars-text)' }}>
+                                    I'm drawn to stories - whether they're told through film, music, books, or anything else. I also like keeping track of the things I watch and listen to.
+                                </p>
+                                <br />
+                                <p className="leading-relaxed" style={{ color: 'var(--lcars-text)' }}>
+                                    Below you can find what I've been up to recently!
+                                </p>
+                            </div>
                         </div>
                     </section>
 

@@ -4,8 +4,8 @@ import { Link } from 'react-router';
 import Galaxy from '../components/Galaxy';
 import Starfield from '../components/Starfield';
 import CareerTimeline from '../components/CareerTimeline';
-import SkillsGlobe from '../components/SkillsGlobe';
-import SkillCard from '../components/SkillCard';
+import TechConsole from '../components/TechConsole';
+import { SectionHeader, CornerTicks, stardate } from '../components/LcarsChrome';
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 
 
@@ -79,71 +79,33 @@ const Home = () => {
 
             {/* Content Section */}
             <div className="relative z-10 p-8 min-h-screen">
-                <div className="max-w-4xl mx-auto">
+                <div className="max-w-6xl mx-auto px-4">
                     {/* Current status dash */}
                     <section className="mt-16">
-                        <h2 className="text-2xl font-bold text-orange-400 mb-6">
-                            [ CURRENT STATUS ]
-                        </h2>
-                        <div className="bg-gray-900/90 backdrop-blur-sm p-6 rounded-lg border border-blue-400/30">
-                            <p className="text-gray-300 leading-relaxed">
-                                I am a software engineer with a passion for creating innovative solutions
-                                and exploring the possibilities of technology. I'm always seeking out new technologies,
-                                new frameworks, and boldly building exploring no one has before.
-                            </p>
-                            <br />
-                            <p className="text-gray-300 leading-relaxed">
-                                When I'm not engineering, you'll likely find me playing video games, listening to music, or watching movies - Feel free to check out my <Link to="/personal-log" className="lcars-inline-link">Personal Log</Link> to see what I've been up to!
-                            </p>
+                        <SectionHeader title="Current Status" meta={`SD ${stardate()}`} />
+                        <div className="lcars-text-block relative mt-4">
+                            <CornerTicks color="var(--lcars-orange)" size={16} inset={4} />
+                            <div className="max-w-3xl">
+                                <p className="leading-relaxed" style={{ color: 'rgba(255,255,255,0.88)' }}>
+                                    I am a software engineer with a passion for creating innovative solutions
+                                    and exploring the possibilities of technology. I'm always seeking out new technologies,
+                                    new frameworks, and boldly building exploring no one has before.
+                                </p>
+                                <br />
+                                <p className="leading-relaxed" style={{ color: 'rgba(255,255,255,0.88)' }}>
+                                    When I'm not engineering, you'll likely find me playing video games, listening to music, or watching movies - Feel free to check out my <Link to="/personal-log" className="lcars-inline-link">Personal Log</Link> to see what I've been up to!
+                                </p>
+                            </div>
                         </div>
-                    </section>
-
-                    {/* Skills Globe Section */}
-                    <section className="mt-16">
-                        <h2 className="text-2xl font-bold text-orange-400 mb-6">
-                            [ TECHNOLOGY SPHERE ]
-                        </h2>
                     </section>
                 </div>
 
                 {/* globe section - full width container */}
-                <div className="mt-8">
-                    {/* main layout, cards beside globe on desktop, below on mobile */}
-                    <div className="flex flex-col lg:flex-row gap-3 lg:gap-6 items-center lg:items-start justify-center max-w-5xl mx-auto px-4">
-                        <div className="hidden lg:block w-64 space-y-4 flex-shrink-0">
-                            <SkillCard side="left" />
-                        </div>
-                        
-                        <div className="w-full lg:w-auto lg:flex-1 lg:max-w-3xl h-[500px] md:h-[600px] lg:h-[700px] rounded-lg overflow-hidden">
-                            <Canvas
-                                camera={{
-                                    position: [0, 0, 25],
-                                    fov: 60,
-                                    near: 0.1,
-                                    far: 1000
-                                }}
-                            >
-                                <Suspense fallback={null}>
-                                    <SkillsGlobe />
-                                    <ambientLight intensity={0.5} />
-                                    <pointLight position={[10, 10, 10]} intensity={1} />
-                                </Suspense>
-                            </Canvas>
-                        </div>
-                        
-                        <div className="hidden lg:block w-64 space-y-4 flex-shrink-0">
-                            <SkillCard side="right" />
-                        </div>
-                    </div>
-
-                    {/* mobile view - all cards below globe*/}
-                    <div className="lg:hidden mt-6 grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-4xl mx-auto px-4">
-                        <SkillCard side="left" />
-                        <SkillCard side="right" />
-                    </div>
+                <div className="mt-16">
+                    <TechConsole />
                 </div>
 
-                <div className="max-w-4xl mx-auto">
+                <div className="max-w-6xl mx-auto px-4">
                     <section className="mt-16">
                         <CareerTimeline />
                     </section>
