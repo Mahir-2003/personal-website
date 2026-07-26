@@ -53,8 +53,8 @@ const Home = () => {
                             style={{ fontFamily: 'TNG, Orbitron, sans-serif' }}>
                             MAHIR HUSAIN KHAN
                         </h1>
+                        <p className="text-lg md:text-xl text-gray-300 mb-6">Member of Technical Staff @ Oracle</p>
                         <p className="text-lg md:text-xl text-gray-300 mb-6">CS + DS Student at UW-Madison</p>
-                        <p className="text-lg md:text-xl text-gray-300 mb-6">Software Engineer - Prev @ PlayStation</p>
                         <div className="flex gap-4 pointer-events-auto">
                             <a 
                                 href="https://github.com/Mahir-2003" 

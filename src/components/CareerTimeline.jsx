@@ -5,15 +5,25 @@ import uwLogo from "../assets/career/uw-crest-color-web-digital.svg"
 import ssecLogo from "../assets/career/SSEC Logo.jpg"
 import messengerLogo from "../assets/career/wisco-messenger.png"
 import cyberforceLogo from "../assets/career/cyberforce_logo_white.png"
+import oracleLogo from "../assets/career/oracle.svg"
 
 const CareerTimeline = () => {
     const jobs = [
+        {
+            status: "Current",
+            company: "Oracle",
+            position: "Member of Technical Staff",
+            description: [
+                "On the GoldenGate Replication team within Oracle's Database Technologies Organization"
+            ],
+            img: oracleLogo
+        },
         {
             status: "Previous",
             company: "UW-Madison Housing Department",
             position: "House Fellow (Resident Assistant)",
             description: [
-                "Working at Sellery Residence Hall, building safe, respectful and inclusive communities for all residents"
+                "Worked at Sellery Residence Hall, building safe, respectful and inclusive communities for all residents"
             ],
             img: uwLogo
         },
