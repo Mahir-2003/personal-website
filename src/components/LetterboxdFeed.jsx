@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 import { MdRefresh } from 'react-icons/md';
+import { SectionHeader, CornerTicks } from './LcarsChrome';
 
 const LetterboxdFeed = () => {
     const [movies, setMovies] = useState([]);
@@ -26,26 +27,24 @@ const LetterboxdFeed = () => {
         fetchLetterboxdFeed();
     }, [fetchLetterboxdFeed]);
 
-    const SectionHeader = () => (
-        <div className="flex justify-between items-center mb-4">
-            <h2 className="text-2xl font-bold text-orange-400">RECENT VIEWINGS</h2>
-            <button
-                onClick={fetchLetterboxdFeed}
-                disabled={loading}
-                className="lcars-refresh-btn"
-                title="Refresh feed"
-            >
-                <MdRefresh className={loading ? 'animate-spin' : ''} />
-                REFRESH
-            </button>
-        </div>
+    const refreshButton = (
+        <button
+            onClick={fetchLetterboxdFeed}
+            disabled={loading}
+            className="lcars-refresh-btn"
+            title="Refresh feed"
+        >
+            <MdRefresh className={loading ? 'animate-spin' : ''} />
+            REFRESH
+        </button>
     );
 
     if (loading && movies.length === 0) {
         return (
             <section className="mb-12">
-                <SectionHeader />
-                <div className="lcars-text-block flex items-center justify-center" style={{ minHeight: '200px' }}>
+                <SectionHeader title="Recent Viewings" right={refreshButton} />
+                <div className="lcars-text-block relative mt-4 flex items-center justify-center" style={{ minHeight: '200px' }}>
+                    <CornerTicks color="var(--lcars-orange)" />
                     <div className="flex items-center gap-3">
                         <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-orange-400" />
                         <span className="text-sm tracking-wider" style={{ color: 'var(--lcars-text-dim)' }}>
@@ -60,8 +59,9 @@ const LetterboxdFeed = () => {
     if (error) {
         return (
             <section className="mb-12">
-                <SectionHeader />
-                <div className="lcars-note-block" style={{ borderLeftColor: '#f87171' }}>
+                <SectionHeader title="Recent Viewings" right={refreshButton} />
+                <div className="lcars-note-block relative mt-4" style={{ borderLeftColor: '#f87171' }}>
+                    <CornerTicks color="var(--lcars-orange)" />
                     <p style={{ color: '#f87171', fontWeight: 700, marginBottom: '4px' }}>SYSTEM ERROR</p>
                     <p style={{ color: 'var(--lcars-text-dim)' }}>{error}</p>
                 </div>
@@ -71,9 +71,10 @@ const LetterboxdFeed = () => {
 
     return (
         <section className="mb-12">
-            <SectionHeader />
+            <SectionHeader title="Recent Viewings" right={refreshButton} />
 
-            <div className="lcars-text-block relative" style={{ minHeight: '300px' }}>
+            <div className="lcars-text-block relative mt-4" style={{ minHeight: '300px' }}>
+                <CornerTicks color="var(--lcars-orange)" />
                 {/* Loading overlay when refreshing with existing data */}
                 {loading && (
                     <div className="absolute inset-0 z-10 flex items-center justify-center rounded-sm"
@@ -112,7 +113,7 @@ const LetterboxdFeed = () => {
                                 </div>
                             )}
                             <div className="lcars-media-card-info">
-                                <h3 className="font-semibold text-sm leading-tight mb-1"
+                                <h3 className="font-semibold text-sm leading-tight mb-1 break-words"
                                     style={{ color: 'var(--lcars-text)' }}>
                                     {movie.title}
                                 </h3>

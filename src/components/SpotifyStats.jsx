@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { SectionHeader, CornerTicks } from './LcarsChrome';
 
 const SpotifyStats = () => {
   const [spotifyData, setSpotifyData] = useState(null);
@@ -26,8 +27,9 @@ const SpotifyStats = () => {
   if (loading) {
     return (
       <section className="mb-12">
-        <h2 className="text-2xl font-bold text-orange-400 mb-4">MUSIC ANALYTICS</h2>
-        <div className="lcars-text-block flex items-center justify-center" style={{ minHeight: '150px' }}>
+        <SectionHeader title="Music Analytics" />
+        <div className="lcars-text-block relative mt-4 flex items-center justify-center" style={{ minHeight: '150px' }}>
+          <CornerTicks color="var(--lcars-orange)" />
           <div className="flex items-center gap-3">
             <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-orange-400" />
             <span className="text-sm tracking-wider" style={{ color: 'var(--lcars-text-dim)' }}>
@@ -42,8 +44,9 @@ const SpotifyStats = () => {
   if (error) {
     return (
       <section className="mb-12">
-        <h2 className="text-2xl font-bold text-orange-400 mb-4">MUSIC ANALYTICS</h2>
-        <div className="lcars-note-block" style={{ borderLeftColor: '#f87171' }}>
+        <SectionHeader title="Music Analytics" />
+        <div className="lcars-note-block relative mt-4" style={{ borderLeftColor: '#f87171' }}>
+          <CornerTicks color="var(--lcars-orange)" />
           <p style={{ color: '#f87171', fontWeight: 700, marginBottom: '4px' }}>SYSTEM ERROR</p>
           <p style={{ color: 'var(--lcars-text-dim)' }}>{error}</p>
         </div>
@@ -53,9 +56,10 @@ const SpotifyStats = () => {
 
   return (
     <section className="mb-12">
-      <h2 className="text-2xl font-bold text-orange-400 mb-4">MUSIC ANALYTICS</h2>
+      <SectionHeader title="Music Analytics" />
 
-      <div className="lcars-text-block">
+      <div className="lcars-text-block relative mt-4">
+        <CornerTicks color="var(--lcars-orange)" />
         {/* Stream status + last updated */}
         <div className="flex items-center justify-between mb-6">
           <div className="flex items-center gap-3">

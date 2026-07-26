@@ -94,17 +94,21 @@ export function CornerTicks({ color = 'var(--lcars-orange)', size = 22, inset = 
    competing shapes fighting for attention, especially on narrow screens. The
    stardate is flavor text, not a control, so it's rendered as plain small
    monospace instead, which also sidesteps needing to hide it below a breakpoint. */
-export function SectionHeader({ title, meta, accent = 'var(--lcars-orange)', barColor = 'rgba(192,132,252,0.35)' }) {
+export function SectionHeader({
+    title, meta, right, accent = 'var(--lcars-orange)', barColor = 'rgba(192,132,252,0.35)',
+    h = 30, fontSize = 'clamp(12px, 3.6vw, 15px)', barHeight = 10,
+}) {
     return (
-        <div className="flex items-center gap-2 sm:gap-3">
-            <Pill color={accent} side="both" h={30} style={{ fontSize: 'clamp(12px, 3.6vw, 15px)' }}>{title}</Pill>
-            <Bar color={barColor} height={10} />
+        <div className="flex items-center gap-2 sm:gap-3 flex-wrap">
+            <Pill color={accent} side="both" h={h} style={{ fontSize }}>{title}</Pill>
+            <Bar color={barColor} height={barHeight} className="hidden sm:block" />
             {meta && (
                 <span style={{
                     fontFamily: MONO, fontSize: 11, letterSpacing: '0.15em',
                     color: 'var(--lcars-text-dim)', whiteSpace: 'nowrap', flexShrink: 0,
                 }}>{meta}</span>
             )}
+            {right}
         </div>
     );
 }

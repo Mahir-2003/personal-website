@@ -1,5 +1,6 @@
 import { Canvas } from '@react-three/fiber';
 import Starfield from '../components/Starfield';
+import { SectionHeader, CornerTicks, stardate } from '../components/LcarsChrome';
 
 const BADGE_CLASS = {
   'Completed':     'lcars-badge lcars-badge--completed',
@@ -78,19 +79,20 @@ const Projects = () => {
       </div>
 
       <div className="min-h-screen p-8">
-        <div className="max-w-6xl mx-auto">
-          {/* Page header — matches Home.jsx section header style */}
-          <h1 className="text-4xl font-bold text-orange-400 mb-2">
-            [ PROJECT ARCHIVE ]
-          </h1>
-          <p className="career-timeline-meta">STARFLEET PROJECT DATABASE // {projects.length} RECORDS</p>
+        <div className="max-w-6xl mx-auto px-4">
+          {/* Page header — matches Home.jsx/About.jsx section header style */}
+          <SectionHeader title="Project Archive" meta={`SD ${stardate()}`} h={46} fontSize="clamp(18px, 5.5vw, 26px)" barHeight={14} />
+          <p className="career-timeline-meta mt-4">STARFLEET PROJECT DATABASE // {projects.length} RECORDS</p>
           <div className="career-timeline-strip" aria-hidden="true">
             <span /><span /><span /><span /><span />
           </div>
 
-          <p className="mt-8 mb-10 text-lg" style={{ color: 'var(--lcars-text)' }}>
-            Take a look at some of the projects I've worked on!
-          </p>
+          <div className="lcars-text-block relative mt-8 mb-10">
+            <CornerTicks color="var(--lcars-orange)" size={16} inset={4} />
+            <p className="text-lg max-w-3xl" style={{ color: 'var(--lcars-text)' }}>
+              Take a look at some of the projects I've worked on!
+            </p>
+          </div>
 
           {/* Projects Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -142,7 +144,8 @@ const Projects = () => {
           </div>
 
           {/* Mission log note */}
-          <div className="mt-12 lcars-note-block">
+          <div className="mt-12 lcars-note-block relative">
+            <CornerTicks color="var(--lcars-orange)" size={16} inset={4} />
             <p style={{ color: 'var(--lcars-text)' }}>
               <span style={{ color: 'var(--lcars-orange)', fontWeight: 700 }}>MISSION LOG:</span>{' '}
               More projects are being catalogued and will be added to this archive as they complete their
