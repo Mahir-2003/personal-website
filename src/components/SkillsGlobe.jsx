@@ -26,7 +26,7 @@ import {
     SiGooglecloud
 } from 'react-icons/si';
 
-// Export skills data for use by SkillCard
+// Export skills data for use by TechConsole
 export const skills = [
     // Programming Languages
     { name: 'JavaScript', category: 'Programming Languages', proficiency: 90, icon: SiJavascript, iconColor: '#F7DF1E', related: ['React', 'Node.js', 'TypeScript'] },
@@ -56,7 +56,24 @@ export const skills = [
     { name: 'Google Cloud', category: 'Tools', proficiency: 50, icon: SiGooglecloud, iconColor: '#4285F4', related: [] },
 ];
 
-const SkillsGlobe = () => {
+// LCARS category color-coding, shared with TechConsole's rail/readout
+export const CATEGORY_COLORS = {
+    'Programming Languages': '#fb923c', // LCARS orange
+    'Frameworks': '#9999ff',            // LCARS blue
+    'Backend / Databases': '#c084fc',   // LCARS purple
+    'Tools': '#60a5fa',                 // sky blue
+};
+export const CATEGORIES = Object.keys(CATEGORY_COLORS);
+
+// Rail button flavor: short label + LCARS reference code
+export const CATEGORY_META = {
+    'Programming Languages': { short: 'LANGUAGES', code: '01-440' },
+    'Frameworks': { short: 'FRAMEWORKS', code: '02-178' },
+    'Backend / Databases': { short: 'DATABASES', code: '03-905' },
+    'Tools': { short: 'TOOLS', code: '04-026' },
+};
+
+const SkillsGlobe = ({ activeCat = null, selected = null, onSelect = () => {} }) => {
     const groupRef = useRef();
     
     const { viewport } = useThree();
@@ -81,19 +98,10 @@ const SkillsGlobe = () => {
             
             // Scale based on proficiency: much smaller nodes (0.3x to 0.8x)
             const scale = 0.3 + (skill.proficiency / 100) * 0.5;
-            
+
             // LCARS tri-color per category (names must match skill data exactly)
-            let color;
-            if (skill.category === 'Programming Languages') {
-                color = '#fb923c'; // LCARS orange
-            } else if (skill.category === 'Frameworks') {
-                color = '#9999ff'; // LCARS blue
-            } else if (skill.category === 'Backend / Databases') {
-                color = '#c084fc'; // LCARS purple
-            } else { // Tools
-                color = '#60a5fa'; // sky blue
-            }
-            
+            const color = CATEGORY_COLORS[skill.category];
+
             positions.push({
                 ...skill,
                 position: [x, y, z],
@@ -184,6 +192,9 @@ const SkillsGlobe = () => {
                         key={skill.name}
                         skill={skill}
                         isMobile={isMobile}
+                        isDimmed={!!activeCat && skill.category !== activeCat}
+                        isSelected={selected === skill.name}
+                        onSelect={onSelect}
                     />
                 ))}
 
@@ -203,14 +214,20 @@ const SkillsGlobe = () => {
 };
 
 // Individual skill node
-const SkillNode = ({ skill, isMobile }) => {
+const SkillNode = ({ skill, isMobile, isDimmed = false, isSelected = false, onSelect = () => {} }) => {
     const IconComponent = skill.icon;
+    const iconOpacity = isDimmed ? 0.22 : 1;
+    const labelOpacity = isDimmed ? 0.22 : 0.7;
 
     return (
         <group position={skill.position}>
-            {/* Small invisible sphere at exact connection point for alignment */}
-            <mesh>
-                <sphereGeometry args={[0.05, 8, 8]} />
+            {/* Invisible sphere: click/hover target for selecting this skill */}
+            <mesh
+                onClick={(e) => { e.stopPropagation(); onSelect(skill.name); }}
+                onPointerOver={(e) => { e.stopPropagation(); document.body.style.cursor = 'pointer'; }}
+                onPointerOut={() => { document.body.style.cursor = 'auto'; }}
+            >
+                <sphereGeometry args={[0.45, 12, 12]} />
                 <meshBasicMaterial
                     color={skill.color}
                     transparent
@@ -230,11 +247,14 @@ const SkillNode = ({ skill, isMobile }) => {
                 }}
             >
                 <div style={{
-                    fontSize: '24px',
+                    fontSize: isSelected ? '28px' : '24px',
                     color: skill.iconColor,
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
+                    opacity: iconOpacity,
+                    filter: isSelected ? `drop-shadow(0 0 6px ${skill.color})` : 'none',
+                    transition: 'opacity 0.2s ease',
                 }}>
                     <IconComponent />
                 </div>
@@ -243,7 +263,7 @@ const SkillNode = ({ skill, isMobile }) => {
             {/* Point light for glow */}
             <pointLight
                 color={skill.color}
-                intensity={0.3}
+                intensity={isDimmed ? 0.08 : (isSelected ? 0.7 : 0.3)}
                 distance={2}
             />
 
@@ -254,7 +274,7 @@ const SkillNode = ({ skill, isMobile }) => {
                     distanceFactor={14}
                     position={[0, -0.7, 0]}
                     style={{
-                        opacity: 0.7,
+                        opacity: labelOpacity,
                         pointerEvents: 'none'
                     }}
                 >
@@ -263,12 +283,12 @@ const SkillNode = ({ skill, isMobile }) => {
                         backdropFilter: 'blur(8px)',
                         padding: '2px 7px',
                         borderRadius: '2px',
-                        border: `1px solid ${skill.color}99`,
+                        border: `1px solid ${skill.color}${isSelected ? 'ff' : '99'}`,
                         color: '#fff',
                         fontSize: '10px',
                         fontWeight: '600',
                         whiteSpace: 'nowrap',
-                        boxShadow: `0 0 8px ${skill.color}50`,
+                        boxShadow: `0 0 ${isSelected ? 12 : 8}px ${skill.color}${isSelected ? '90' : '50'}`,
                         fontFamily: 'Orbitron, sans-serif',
                         letterSpacing: '0.05em',
                     }}>

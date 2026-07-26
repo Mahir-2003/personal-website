@@ -4,8 +4,7 @@ import { Link } from 'react-router';
 import Galaxy from '../components/Galaxy';
 import Starfield from '../components/Starfield';
 import CareerTimeline from '../components/CareerTimeline';
-import SkillsGlobe from '../components/SkillsGlobe';
-import SkillCard from '../components/SkillCard';
+import TechConsole from '../components/TechConsole';
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 
 
@@ -108,39 +107,7 @@ const Home = () => {
 
                 {/* globe section - full width container */}
                 <div className="mt-8">
-                    {/* main layout, cards beside globe on desktop, below on mobile */}
-                    <div className="flex flex-col lg:flex-row gap-3 lg:gap-6 items-center lg:items-start justify-center max-w-5xl mx-auto px-4">
-                        <div className="hidden lg:block w-64 space-y-4 flex-shrink-0">
-                            <SkillCard side="left" />
-                        </div>
-                        
-                        <div className="w-full lg:w-auto lg:flex-1 lg:max-w-3xl h-[500px] md:h-[600px] lg:h-[700px] rounded-lg overflow-hidden">
-                            <Canvas
-                                camera={{
-                                    position: [0, 0, 25],
-                                    fov: 60,
-                                    near: 0.1,
-                                    far: 1000
-                                }}
-                            >
-                                <Suspense fallback={null}>
-                                    <SkillsGlobe />
-                                    <ambientLight intensity={0.5} />
-                                    <pointLight position={[10, 10, 10]} intensity={1} />
-                                </Suspense>
-                            </Canvas>
-                        </div>
-                        
-                        <div className="hidden lg:block w-64 space-y-4 flex-shrink-0">
-                            <SkillCard side="right" />
-                        </div>
-                    </div>
-
-                    {/* mobile view - all cards below globe*/}
-                    <div className="lg:hidden mt-6 grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-4xl mx-auto px-4">
-                        <SkillCard side="left" />
-                        <SkillCard side="right" />
-                    </div>
+                    <TechConsole />
                 </div>
 
                 <div className="max-w-4xl mx-auto">
