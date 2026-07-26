@@ -165,7 +165,7 @@ jobs:
 
           root = ET.fromstring(xml_data)
           channel = root.find('channel')
-          items = channel.findall('item')[:5]
+          items = channel.findall('item')[:6]
 
           movies = []
           for item in items:
