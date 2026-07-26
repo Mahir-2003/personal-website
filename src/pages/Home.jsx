@@ -5,6 +5,7 @@ import Galaxy from '../components/Galaxy';
 import Starfield from '../components/Starfield';
 import CareerTimeline from '../components/CareerTimeline';
 import TechConsole from '../components/TechConsole';
+import { SectionHeader, CornerTicks, stardate } from '../components/LcarsChrome';
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 
 
@@ -78,39 +79,33 @@ const Home = () => {
 
             {/* Content Section */}
             <div className="relative z-10 p-8 min-h-screen">
-                <div className="max-w-4xl mx-auto">
+                <div className="max-w-6xl mx-auto px-4">
                     {/* Current status dash */}
                     <section className="mt-16">
-                        <h2 className="text-2xl font-bold text-orange-400 mb-6">
-                            [ CURRENT STATUS ]
-                        </h2>
-                        <div className="lcars-text-block">
-                            <p className="leading-relaxed" style={{ color: 'rgba(255,255,255,0.88)' }}>
-                                I am a software engineer with a passion for creating innovative solutions
-                                and exploring the possibilities of technology. I'm always seeking out new technologies,
-                                new frameworks, and boldly building exploring no one has before.
-                            </p>
-                            <br />
-                            <p className="leading-relaxed" style={{ color: 'rgba(255,255,255,0.88)' }}>
-                                When I'm not engineering, you'll likely find me playing video games, listening to music, or watching movies - Feel free to check out my <Link to="/personal-log" className="lcars-inline-link">Personal Log</Link> to see what I've been up to!
-                            </p>
+                        <SectionHeader title="Current Status" meta={`SD ${stardate()}`} />
+                        <div className="lcars-text-block relative mt-4">
+                            <CornerTicks color="var(--lcars-orange)" size={16} inset={4} />
+                            <div className="max-w-3xl">
+                                <p className="leading-relaxed" style={{ color: 'rgba(255,255,255,0.88)' }}>
+                                    I am a software engineer with a passion for creating innovative solutions
+                                    and exploring the possibilities of technology. I'm always seeking out new technologies,
+                                    new frameworks, and boldly building exploring no one has before.
+                                </p>
+                                <br />
+                                <p className="leading-relaxed" style={{ color: 'rgba(255,255,255,0.88)' }}>
+                                    When I'm not engineering, you'll likely find me playing video games, listening to music, or watching movies - Feel free to check out my <Link to="/personal-log" className="lcars-inline-link">Personal Log</Link> to see what I've been up to!
+                                </p>
+                            </div>
                         </div>
-                    </section>
-
-                    {/* Skills Globe Section */}
-                    <section className="mt-16">
-                        <h2 className="text-2xl font-bold text-orange-400 mb-6">
-                            [ TECHNOLOGY SPHERE ]
-                        </h2>
                     </section>
                 </div>
 
                 {/* globe section - full width container */}
-                <div className="mt-8">
+                <div className="mt-16">
                     <TechConsole />
                 </div>
 
-                <div className="max-w-4xl mx-auto">
+                <div className="max-w-6xl mx-auto px-4">
                     <section className="mt-16">
                         <CareerTimeline />
                     </section>

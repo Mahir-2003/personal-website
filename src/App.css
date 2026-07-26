@@ -1067,25 +1067,40 @@ body:has(#lcars-frame[data-open]) #main-content {
 /* Card body */
 .career-card-body {
   display: flex;
-  gap: 20px;
-  padding: 18px 22px 20px;
+  gap: 14px;
+  padding: 14px 16px 16px;
   align-items: flex-start;
+}
+
+@media (min-width: 480px) {
+  .career-card-body {
+    gap: 20px;
+    padding: 18px 22px 20px;
+  }
 }
 
 /* Logo box */
 .career-card-logo-wrap {
   flex-shrink: 0;
-  width: 58px;
-  height: 58px;
+  width: 46px;
+  height: 46px;
   position: relative;
   border: 1px solid rgba(255, 153, 0, 0.18);
   border-radius: 2px;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 9px;
+  padding: 7px;
   background: rgba(255, 255, 255, 0.03);
   transition: border-color 0.35s ease;
+}
+
+@media (min-width: 480px) {
+  .career-card-logo-wrap {
+    width: 58px;
+    height: 58px;
+    padding: 9px;
+  }
 }
 
 .career-card:hover .career-card-logo-wrap {
@@ -1118,10 +1133,20 @@ body:has(#lcars-frame[data-open]) #main-content {
 
 .career-card-header {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: flex-start;
-  gap: 12px;
+  gap: 8px 12px;
   margin-bottom: 10px;
+}
+
+/* Allow the company/position text to shrink and wrap instead of forcing
+   the status badge into overflow when the card is narrower than both
+   need combined (min-width: 0 overrides the flex-item default of "auto",
+   which otherwise floors shrinkage at the longest word's width). */
+.career-card-title-group {
+  min-width: 0;
+  flex: 1 1 160px;
 }
 
 .career-card-company {

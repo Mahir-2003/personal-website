@@ -15,7 +15,7 @@ const CareerCard = ({ status, company, position, description, img }) => {
                 {/* Main content */}
                 <div className="career-card-content">
                     <div className="career-card-header">
-                        <div>
+                        <div className="career-card-title-group">
                             <p className="career-card-company">{company}</p>
                             <p className="career-card-position">{position}</p>
                         </div>
