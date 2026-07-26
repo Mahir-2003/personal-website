@@ -89,7 +89,7 @@ const Home = () => {
                                 <p className="leading-relaxed" style={{ color: 'rgba(255,255,255,0.88)' }}>
                                     I am a software engineer with a passion for creating innovative solutions
                                     and exploring the possibilities of technology. I'm always seeking out new technologies,
-                                    new frameworks, and boldly building exploring no one has before.
+                                    new frameworks, and boldly building what no one has before.
                                 </p>
                                 <br />
                                 <p className="leading-relaxed" style={{ color: 'rgba(255,255,255,0.88)' }}>
