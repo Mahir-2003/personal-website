@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T23:26:07.383Z",
+  "lastUpdated": "2026-07-27T09:54:21.539Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -16,18 +16,18 @@
       "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
     },
     {
-      "name": "wheredoistart",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
-    },
-    {
       "name": "iffy iffy",
       "artist": "LE SSERAFIM",
       "album": "'PUREFLOW', Pt. 1",
       "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
       "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
+    },
+    {
+      "name": "wheredoistart",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
     },
     {
       "name": "truth",
@@ -77,6 +77,20 @@
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
+    },
+    {
+      "name": "What Did I Miss?",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
+    },
+    {
+      "name": "Setting Sun",
+      "artist": "You'll Never Get to Heaven",
+      "album": "Wave Your Moonlight Hat For The Snowfall Train",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ce5c493f13bfb11a6b9a98c",
+      "external_url": "https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN"
     },
     {
       "name": "Nothing like uuu",
@@ -161,20 +175,6 @@
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/6nqUtTNGowzyJYhuIuZj9Z"
-    },
-    {
-      "name": "From The Sea/It Looms (Chapters I & II)",
-      "artist": "Leon Vynehall",
-      "album": "Nothing Is Still",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db1083f417644e3e1cf47543",
-      "external_url": "https://open.spotify.com/track/0lDKZO6dS927plsK7SGmh4"
-    },
-    {
-      "name": "Goons",
-      "artist": "Dom Corleo",
-      "album": "On My Own",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a682813ff50108b914dfd0f1",
-      "external_url": "https://open.spotify.com/track/0veOr06kbQEacPUw6UmV8k"
     }
   ],
   "topArtists": [
@@ -195,15 +195,6 @@
       "external_url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
     },
     {
-      "name": "prettifun",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
-    },
-    {
       "name": "Tim Hecker",
       "genres": [
         "drone",
@@ -218,13 +209,13 @@
       "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
     },
     {
-      "name": "Egobreak",
+      "name": "prettifun",
       "genres": [
-        "hyperpop",
-        "rage rap"
+        "rage rap",
+        "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb573cb30543b877f8c9554693",
-      "external_url": "https://open.spotify.com/artist/2Vcda6Z3Ugbq2ZlYnKGGfC"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
       "name": "Playboi Carti",
@@ -233,6 +224,15 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+    },
+    {
+      "name": "Egobreak",
+      "genres": [
+        "hyperpop",
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb573cb30543b877f8c9554693",
+      "external_url": "https://open.spotify.com/artist/2Vcda6Z3Ugbq2ZlYnKGGfC"
     },
     {
       "name": "Don Toliver",
@@ -251,20 +251,21 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
+      "name": "Che",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
+      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+    },
+    {
       "name": "Destroy Lonely",
       "genres": [
         "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-    },
-    {
-      "name": "Ariana Grande",
-      "genres": [
-        "pop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb766397ec42a573a53eb5fb87",
-      "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
     }
   ]
 }
