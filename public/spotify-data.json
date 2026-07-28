@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T09:54:21.539Z",
+  "lastUpdated": "2026-07-28T08:35:34.489Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -16,25 +16,11 @@
       "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
     },
     {
-      "name": "iffy iffy",
-      "artist": "LE SSERAFIM",
-      "album": "'PUREFLOW', Pt. 1",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
-      "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
-    },
-    {
       "name": "wheredoistart",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
-    },
-    {
-      "name": "truth",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/51bG14rUj0hyH1Ts8vmbZt"
     },
     {
       "name": "somanybags",
@@ -44,11 +30,11 @@
       "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
     },
     {
-      "name": "Moon and the Stars",
-      "artist": "prettifun",
-      "album": "Moon and the Stars",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
-      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
+      "name": "truth",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/51bG14rUj0hyH1Ts8vmbZt"
     },
     {
       "name": "shopping (with Destroy Lonely)",
@@ -65,6 +51,13 @@
       "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
     },
     {
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Moon and the Stars",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
+      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
+    },
+    {
       "name": "J'adore",
       "artist": "Pi’erre Bourne",
       "album": "Made In Paris",
@@ -77,6 +70,13 @@
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
+    },
+    {
+      "name": "iffy iffy",
+      "artist": "LE SSERAFIM",
+      "album": "'PUREFLOW', Pt. 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
+      "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
     },
     {
       "name": "What Did I Miss?",
@@ -107,18 +107,18 @@
       "external_url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
     },
     {
-      "name": "eternal sunshine",
-      "artist": "Ariana Grande",
-      "album": "eternal sunshine",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
-      "external_url": "https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ"
-    },
-    {
       "name": "ghost (with Lil Uzi Vert)",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
+    },
+    {
+      "name": "Livin' Loose",
+      "artist": "George Clanton",
+      "album": "Slide",
+      "image": "https://i.scdn.co/image/ab67616d0000b27354823b660c0985479ea17f08",
+      "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
     },
     {
       "name": "NEW DROP",
@@ -149,13 +149,6 @@
       "external_url": "https://open.spotify.com/track/019BNL7sruegNcJiErXwFT"
     },
     {
-      "name": "Drunk And Nasty (feat. Sharc)",
-      "artist": "Pi’erre Bourne",
-      "album": "The Life Of Pi'erre 5",
-      "image": "https://i.scdn.co/image/ab67616d0000b273857ffe0b5ad52bf5625572db",
-      "external_url": "https://open.spotify.com/track/1lAJUXyP5S2dUYHer1xBas"
-    },
-    {
       "name": "wrist",
       "artist": "Ken Carson",
       "album": "xperiment",
@@ -175,6 +168,13 @@
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/6nqUtTNGowzyJYhuIuZj9Z"
+    },
+    {
+      "name": "From The Sea/It Looms (Chapters I & II)",
+      "artist": "Leon Vynehall",
+      "album": "Nothing Is Still",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db1083f417644e3e1cf47543",
+      "external_url": "https://open.spotify.com/track/0lDKZO6dS927plsK7SGmh4"
     }
   ],
   "topArtists": [
@@ -218,6 +218,15 @@
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
+      "name": "Egobreak",
+      "genres": [
+        "rage rap",
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb573cb30543b877f8c9554693",
+      "external_url": "https://open.spotify.com/artist/2Vcda6Z3Ugbq2ZlYnKGGfC"
+    },
+    {
       "name": "Playboi Carti",
       "genres": [
         "rage rap"
@@ -226,38 +235,10 @@
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
-      "name": "Egobreak",
-      "genres": [
-        "hyperpop",
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb573cb30543b877f8c9554693",
-      "external_url": "https://open.spotify.com/artist/2Vcda6Z3Ugbq2ZlYnKGGfC"
-    },
-    {
-      "name": "Don Toliver",
+      "name": "The Weeknd",
       "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
-      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-    },
-    {
-      "name": "Lucy Bedroque",
-      "genres": [
-        "hyperpop",
-        "rage rap",
-        "cloud rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
-    },
-    {
-      "name": "Che",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb856122aa629701a14755ab65",
-      "external_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
       "name": "Destroy Lonely",
@@ -266,6 +247,20 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+    },
+    {
+      "name": "Joeyy",
+      "genres": [
+        "cloud rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebf001f885f283bd5fdf887e43",
+      "external_url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+    },
+    {
+      "name": "Don Toliver",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     }
   ]
 }
