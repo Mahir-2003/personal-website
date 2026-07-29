@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T08:35:34.489Z",
+  "lastUpdated": "2026-07-29T08:42:40.331Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -72,13 +72,6 @@
       "external_url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
     },
     {
-      "name": "iffy iffy",
-      "artist": "LE SSERAFIM",
-      "album": "'PUREFLOW', Pt. 1",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
-      "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
-    },
-    {
       "name": "What Did I Miss?",
       "artist": "Drake",
       "album": "ICEMAN",
@@ -91,13 +84,6 @@
       "album": "Wave Your Moonlight Hat For The Snowfall Train",
       "image": "https://i.scdn.co/image/ab67616d0000b2734ce5c493f13bfb11a6b9a98c",
       "external_url": "https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN"
-    },
-    {
-      "name": "Nothing like uuu",
-      "artist": "Nettspend",
-      "album": "Nothing like uuu",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737aad2d9a061b550958e5847d",
-      "external_url": "https://open.spotify.com/track/3h7QZ9cXhlOoh1ywJWS8GH"
     },
     {
       "name": "possession",
@@ -121,11 +107,18 @@
       "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
     },
     {
-      "name": "NEW DROP",
-      "artist": "Don Toliver",
-      "album": "HARDSTONE PSYCHO",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
-      "external_url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+      "name": "Havana",
+      "artist": "Pz'",
+      "album": "Havana",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357bbd7d01640d557ebfce6e5",
+      "external_url": "https://open.spotify.com/track/3WVJfN1JmGewlDXGkQf0I4"
+    },
+    {
+      "name": "Kittens",
+      "artist": "Che",
+      "album": "Fully Loaded",
+      "image": "https://i.scdn.co/image/ab67616d0000b273803db73710ba6421a3422ae1",
+      "external_url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
     },
     {
       "name": "Coat I Would Buy",
@@ -135,11 +128,25 @@
       "external_url": "https://open.spotify.com/track/1dNpt3Aj5T7hpP54GJZaZS"
     },
     {
+      "name": "iffy iffy",
+      "artist": "LE SSERAFIM",
+      "album": "'PUREFLOW', Pt. 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
+      "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
+    },
+    {
       "name": "wedidit (with Playboi Carti)",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
+    },
+    {
+      "name": "Party4u!",
+      "artist": "Autumn!",
+      "album": "Party4u!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
+      "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
     },
     {
       "name": "knocking",
@@ -168,13 +175,6 @@
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/6nqUtTNGowzyJYhuIuZj9Z"
-    },
-    {
-      "name": "From The Sea/It Looms (Chapters I & II)",
-      "artist": "Leon Vynehall",
-      "album": "Nothing Is Still",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db1083f417644e3e1cf47543",
-      "external_url": "https://open.spotify.com/track/0lDKZO6dS927plsK7SGmh4"
     }
   ],
   "topArtists": [
@@ -257,10 +257,14 @@
       "external_url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
     },
     {
-      "name": "Don Toliver",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
-      "external_url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+      "name": "Lucy Bedroque",
+      "genres": [
+        "hyperpop",
+        "rage rap",
+        "cloud rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     }
   ]
 }
