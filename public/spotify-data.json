@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T08:28:26.418Z",
+  "lastUpdated": "2026-07-31T08:51:11.581Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -107,18 +107,18 @@
       "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
     },
     {
-      "name": "Havana",
-      "artist": "Pz'",
-      "album": "Havana",
-      "image": "https://i.scdn.co/image/ab67616d0000b27357bbd7d01640d557ebfce6e5",
-      "external_url": "https://open.spotify.com/track/3WVJfN1JmGewlDXGkQf0I4"
-    },
-    {
       "name": "Kittens",
       "artist": "Che",
       "album": "Fully Loaded",
       "image": "https://i.scdn.co/image/ab67616d0000b273803db73710ba6421a3422ae1",
       "external_url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
+    },
+    {
+      "name": "Havana",
+      "artist": "Pz'",
+      "album": "Havana",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357bbd7d01640d557ebfce6e5",
+      "external_url": "https://open.spotify.com/track/3WVJfN1JmGewlDXGkQf0I4"
     },
     {
       "name": "Coat I Would Buy",
@@ -133,6 +133,13 @@
       "album": "'PUREFLOW', Pt. 1",
       "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
       "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
+    },
+    {
+      "name": "Face Pressed Against Glass",
+      "artist": "Cities Aviv",
+      "album": "The Crashing Sound of How It Goes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733496e50a6c23e63f7f9eb7e0",
+      "external_url": "https://open.spotify.com/track/7cfVuZCP1nI08FEPgXtt6G"
     },
     {
       "name": "wedidit (with Playboi Carti)",
@@ -168,13 +175,6 @@
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/2jwUDUQcIAuEBh7qqabhwM"
-    },
-    {
-      "name": "amnesia",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/6nqUtTNGowzyJYhuIuZj9Z"
     }
   ],
   "topArtists": [
@@ -218,6 +218,22 @@
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
+      "name": "Playboi Carti",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+    },
+    {
+      "name": "Pz'",
+      "genres": [
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9087490518ae4f6b178d6d78",
+      "external_url": "https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT"
+    },
+    {
       "name": "Egobreak",
       "genres": [
         "rage rap",
@@ -225,14 +241,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb573cb30543b877f8c9554693",
       "external_url": "https://open.spotify.com/artist/2Vcda6Z3Ugbq2ZlYnKGGfC"
-    },
-    {
-      "name": "Playboi Carti",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
       "name": "The Weeknd",
@@ -255,16 +263,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebf001f885f283bd5fdf887e43",
       "external_url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
-    },
-    {
-      "name": "Lucy Bedroque",
-      "genres": [
-        "hyperpop",
-        "rage rap",
-        "cloud rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     }
   ]
 }
