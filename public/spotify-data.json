@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T08:51:11.581Z",
+  "lastUpdated": "2026-08-01T08:22:30.473Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -37,18 +37,18 @@
       "external_url": "https://open.spotify.com/track/51bG14rUj0hyH1Ts8vmbZt"
     },
     {
-      "name": "shopping (with Destroy Lonely)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
-    },
-    {
       "name": "Retraite",
       "artist": "Pi’erre Bourne",
       "album": "Made In Paris",
       "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
       "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
+    },
+    {
+      "name": "shopping (with Destroy Lonely)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
     },
     {
       "name": "Moon and the Stars",
@@ -86,20 +86,6 @@
       "external_url": "https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN"
     },
     {
-      "name": "possession",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
-    },
-    {
-      "name": "ghost (with Lil Uzi Vert)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
-    },
-    {
       "name": "Livin' Loose",
       "artist": "George Clanton",
       "album": "Slide",
@@ -112,6 +98,13 @@
       "album": "Fully Loaded",
       "image": "https://i.scdn.co/image/ab67616d0000b273803db73710ba6421a3422ae1",
       "external_url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
+    },
+    {
+      "name": "possession",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
     },
     {
       "name": "Havana",
@@ -142,13 +135,6 @@
       "external_url": "https://open.spotify.com/track/7cfVuZCP1nI08FEPgXtt6G"
     },
     {
-      "name": "wedidit (with Playboi Carti)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
-    },
-    {
       "name": "Party4u!",
       "artist": "Autumn!",
       "album": "Party4u!",
@@ -156,25 +142,39 @@
       "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
     },
     {
-      "name": "knocking",
+      "name": "wedidit (with Playboi Carti)",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/019BNL7sruegNcJiErXwFT"
+      "external_url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
     },
     {
-      "name": "wrist",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/2LLALDUCUNpRPNNGLOwOrq"
+      "name": "From The Sea/It Looms (Chapters I & II)",
+      "artist": "Leon Vynehall",
+      "album": "Nothing Is Still",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db1083f417644e3e1cf47543",
+      "external_url": "https://open.spotify.com/track/0lDKZO6dS927plsK7SGmh4"
     },
     {
-      "name": "amandabynes",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/2jwUDUQcIAuEBh7qqabhwM"
+      "name": "HEDIS BUSSIN'",
+      "artist": "Pz'",
+      "album": "HEDIS BUSSIN'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bb51f21e81707f1334e3d88",
+      "external_url": "https://open.spotify.com/track/3Xy2FGv9vTZ3DHzHyeouAT"
+    },
+    {
+      "name": "RIP Follies",
+      "artist": "diamond*",
+      "album": "RIP Follies",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738fadbbc1cb244ac7a7589bd2",
+      "external_url": "https://open.spotify.com/track/4i5KO5Fb66BcdpduBTOQ5A"
+    },
+    {
+      "name": "Behind the Bank",
+      "artist": "Oneohtrix Point Never",
+      "album": "Betrayed in the Octagon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27347a6ec6ebf30595ab878d1e1",
+      "external_url": "https://open.spotify.com/track/0hMAkHg3xvr5K4uPetYm5o"
     }
   ],
   "topArtists": [
