@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T08:22:30.473Z",
+  "lastUpdated": "2026-08-02T08:25:29.167Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -23,11 +23,11 @@
       "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
     },
     {
-      "name": "somanybags",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
+      "name": "Retraite",
+      "artist": "Pi’erre Bourne",
+      "album": "Made In Paris",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
+      "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
     },
     {
       "name": "truth",
@@ -37,25 +37,11 @@
       "external_url": "https://open.spotify.com/track/51bG14rUj0hyH1Ts8vmbZt"
     },
     {
-      "name": "Retraite",
-      "artist": "Pi’erre Bourne",
-      "album": "Made In Paris",
-      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
-      "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
-    },
-    {
-      "name": "shopping (with Destroy Lonely)",
+      "name": "somanybags",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
-    },
-    {
-      "name": "Moon and the Stars",
-      "artist": "prettifun",
-      "album": "Moon and the Stars",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
-      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
+      "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
     },
     {
       "name": "J'adore",
@@ -65,11 +51,18 @@
       "external_url": "https://open.spotify.com/track/1Menul8KHa5YAvVZQKi63k"
     },
     {
-      "name": "gynecologist",
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Moon and the Stars",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
+      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
+    },
+    {
+      "name": "shopping (with Destroy Lonely)",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
+      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
     },
     {
       "name": "What Did I Miss?",
@@ -100,13 +93,6 @@
       "external_url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
     },
     {
-      "name": "possession",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
-    },
-    {
       "name": "Havana",
       "artist": "Pz'",
       "album": "Havana",
@@ -121,13 +107,6 @@
       "external_url": "https://open.spotify.com/track/1dNpt3Aj5T7hpP54GJZaZS"
     },
     {
-      "name": "iffy iffy",
-      "artist": "LE SSERAFIM",
-      "album": "'PUREFLOW', Pt. 1",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733fba33983638fcf9704c965d",
-      "external_url": "https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9"
-    },
-    {
       "name": "Face Pressed Against Glass",
       "artist": "Cities Aviv",
       "album": "The Crashing Sound of How It Goes",
@@ -140,13 +119,6 @@
       "album": "Party4u!",
       "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
       "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
-    },
-    {
-      "name": "wedidit (with Playboi Carti)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
     },
     {
       "name": "From The Sea/It Looms (Chapters I & II)",
@@ -175,6 +147,34 @@
       "album": "Betrayed in the Octagon",
       "image": "https://i.scdn.co/image/ab67616d0000b27347a6ec6ebf30595ab878d1e1",
       "external_url": "https://open.spotify.com/track/0hMAkHg3xvr5K4uPetYm5o"
+    },
+    {
+      "name": "WAYS OF THE WORLD",
+      "artist": "Cities Aviv",
+      "album": "MAN PLAYS THE HORN",
+      "image": "https://i.scdn.co/image/ab67616d0000b27300e3df8cfaf9a89084f43f6f",
+      "external_url": "https://open.spotify.com/track/3pi5GrqAlDzerGgk0rn3rY"
+    },
+    {
+      "name": "no pressure",
+      "artist": "Destroy Lonely",
+      "album": "</3³",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7b2fb87f7316720422d2525",
+      "external_url": "https://open.spotify.com/track/419vPj2tN0KADfmLkBfBZe"
+    },
+    {
+      "name": "Intro",
+      "artist": "Pi’erre Bourne",
+      "album": "The Life Of Pi'erre 5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273857ffe0b5ad52bf5625572db",
+      "external_url": "https://open.spotify.com/track/4GuP8UZCJBFn7Gbjs8PVlq"
+    },
+    {
+      "name": "Light",
+      "artist": "prettifun",
+      "album": "Pretti",
+      "image": "https://i.scdn.co/image/ab67616d0000b273986fb8c23fb36f54373ca88c",
+      "external_url": "https://open.spotify.com/track/4MARgoyXPn4qNw9qUN6yIr"
     }
   ],
   "topArtists": [
@@ -195,6 +195,23 @@
       "external_url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
     },
     {
+      "name": "Pz'",
+      "genres": [
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9087490518ae4f6b178d6d78",
+      "external_url": "https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT"
+    },
+    {
+      "name": "prettifun",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+    },
+    {
       "name": "Tim Hecker",
       "genres": [
         "drone",
@@ -209,29 +226,12 @@
       "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
     },
     {
-      "name": "prettifun",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
-    },
-    {
       "name": "Playboi Carti",
       "genres": [
         "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-    },
-    {
-      "name": "Pz'",
-      "genres": [
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9087490518ae4f6b178d6d78",
-      "external_url": "https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT"
     },
     {
       "name": "Egobreak",

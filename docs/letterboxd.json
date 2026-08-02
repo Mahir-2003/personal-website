@@ -1,5 +1,37 @@
 [
   {
+    "title": "Spider-Man: Brand New Day",
+    "year": "2026",
+    "rating": "\u2605\u2605\u2605\u2605\u00bd",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/7/2/8/7/1/872871-spider-man-brand-new-day-0-600-0-900-crop.jpg?v=ebe6beb4fc",
+    "watchedDate": "Aug 01, 2026",
+    "link": "https://letterboxd.com/meatymahir/film/spider-man-brand-new-day/"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": "2021",
+    "rating": "\u2605\u2605\u2605\u00bd",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/6/0/7/8/7/560787-spider-man-no-way-home-0-600-0-900-crop.jpg?v=a336d4f40c",
+    "watchedDate": "Aug 01, 2026",
+    "link": "https://letterboxd.com/meatymahir/film/spider-man-no-way-home/"
+  },
+  {
+    "title": "Spider-Man: Far From Home",
+    "year": "2019",
+    "rating": "\u2605\u2605\u2605",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/6/2/9/7/7/362977-spider-man-far-from-home-0-600-0-900-crop.jpg?v=d139fbf2ae",
+    "watchedDate": "Aug 01, 2026",
+    "link": "https://letterboxd.com/meatymahir/film/spider-man-far-from-home/"
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "year": "2017",
+    "rating": "\u2605\u2605\u2605\u2605",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/4/2/7/1/0/242710-spider-man-homecoming-0-600-0-900-crop.jpg?v=61e8c57229",
+    "watchedDate": "Aug 01, 2026",
+    "link": "https://letterboxd.com/meatymahir/film/spider-man-homecoming/"
+  },
+  {
     "title": "Dunkirk",
     "year": "2017",
     "rating": "\u2605\u2605\u2605",
@@ -14,37 +46,5 @@
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/3/4/4/7/2/1234472-obsession-2025-2-0-600-0-900-crop.jpg?v=cff6fc00b6",
     "watchedDate": "Jun 22, 2026",
     "link": "https://letterboxd.com/meatymahir/film/obsession-2025/"
-  },
-  {
-    "title": "Backrooms",
-    "year": "2026",
-    "rating": "\u2605\u2605\u2605\u2605",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/9/7/6/4/1/9/976419-backrooms-2026-0-600-0-900-crop.jpg?v=f7a99e3fc8",
-    "watchedDate": "Jun 13, 2026",
-    "link": "https://letterboxd.com/meatymahir/film/backrooms-2026/"
-  },
-  {
-    "title": "Michael",
-    "year": "2026",
-    "rating": "\u2605\u2605\u2605",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/4/1/1/0/3/841103-michael-2026-0-600-0-900-crop.jpg?v=1e8e478e40",
-    "watchedDate": "Jun 02, 2026",
-    "link": "https://letterboxd.com/meatymahir/film/michael-2026/"
-  },
-  {
-    "title": "The Devil Wears Prada 2",
-    "year": "2026",
-    "rating": "\u2605\u2605\u2605",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/9/5/5/8/6/1195586-the-devil-wears-prada-2-0-600-0-900-crop.jpg?v=0d955add69",
-    "watchedDate": "May 28, 2026",
-    "link": "https://letterboxd.com/meatymahir/film/the-devil-wears-prada-2/"
-  },
-  {
-    "title": "Batman Begins",
-    "year": "2005",
-    "rating": "\u2605\u2605\u2605\u00bd",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/4/51784-batman-begins-0-600-0-900-crop.jpg?v=f090edc352",
-    "watchedDate": "May 27, 2026",
-    "link": "https://letterboxd.com/meatymahir/film/batman-begins/"
   }
 ]
