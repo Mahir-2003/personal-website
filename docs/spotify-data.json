@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T08:25:29.167Z",
+  "lastUpdated": "2026-08-03T09:48:06.735Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -203,6 +203,14 @@
       "external_url": "https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT"
     },
     {
+      "name": "Destroy Lonely",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+    },
+    {
       "name": "prettifun",
       "genres": [
         "rage rap",
@@ -249,20 +257,14 @@
       "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
-      "name": "Destroy Lonely",
+      "name": "Lucy Bedroque",
       "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-    },
-    {
-      "name": "Joeyy",
-      "genres": [
+        "hyperpop",
+        "rage rap",
         "cloud rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebf001f885f283bd5fdf887e43",
-      "external_url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     }
   ]
 }
