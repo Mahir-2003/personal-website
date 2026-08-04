@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T09:48:06.735Z",
+  "lastUpdated": "2026-08-04T08:38:10.297Z",
   "topTracks": [
     {
       "name": "interlude",
@@ -16,13 +16,6 @@
       "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
     },
     {
-      "name": "wheredoistart",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
-    },
-    {
       "name": "Retraite",
       "artist": "Pi’erre Bourne",
       "album": "Made In Paris",
@@ -30,18 +23,11 @@
       "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
     },
     {
-      "name": "truth",
+      "name": "wheredoistart",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/51bG14rUj0hyH1Ts8vmbZt"
-    },
-    {
-      "name": "somanybags",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
+      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
     },
     {
       "name": "J'adore",
@@ -58,11 +44,11 @@
       "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
-      "name": "shopping (with Destroy Lonely)",
+      "name": "truth",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
+      "external_url": "https://open.spotify.com/track/51bG14rUj0hyH1Ts8vmbZt"
     },
     {
       "name": "What Did I Miss?",
@@ -72,18 +58,11 @@
       "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
     },
     {
-      "name": "Setting Sun",
-      "artist": "You'll Never Get to Heaven",
-      "album": "Wave Your Moonlight Hat For The Snowfall Train",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ce5c493f13bfb11a6b9a98c",
-      "external_url": "https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN"
-    },
-    {
-      "name": "Livin' Loose",
-      "artist": "George Clanton",
-      "album": "Slide",
-      "image": "https://i.scdn.co/image/ab67616d0000b27354823b660c0985479ea17f08",
-      "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
+      "name": "somanybags",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
     },
     {
       "name": "Kittens",
@@ -93,11 +72,11 @@
       "external_url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
     },
     {
-      "name": "Havana",
-      "artist": "Pz'",
-      "album": "Havana",
-      "image": "https://i.scdn.co/image/ab67616d0000b27357bbd7d01640d557ebfce6e5",
-      "external_url": "https://open.spotify.com/track/3WVJfN1JmGewlDXGkQf0I4"
+      "name": "shopping (with Destroy Lonely)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
     },
     {
       "name": "Coat I Would Buy",
@@ -105,6 +84,27 @@
       "album": "Coat I Would Buy",
       "image": "https://i.scdn.co/image/ab67616d0000b27390edef5b1a87715706d3ede9",
       "external_url": "https://open.spotify.com/track/1dNpt3Aj5T7hpP54GJZaZS"
+    },
+    {
+      "name": "Livin' Loose",
+      "artist": "George Clanton",
+      "album": "Slide",
+      "image": "https://i.scdn.co/image/ab67616d0000b27354823b660c0985479ea17f08",
+      "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
+    },
+    {
+      "name": "SEALS & TAGS",
+      "artist": "Pz'",
+      "album": "B4NTB",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735344ce749ea1b79ddab232fb",
+      "external_url": "https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM"
+    },
+    {
+      "name": "Havana",
+      "artist": "Pz'",
+      "album": "Havana",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357bbd7d01640d557ebfce6e5",
+      "external_url": "https://open.spotify.com/track/3WVJfN1JmGewlDXGkQf0I4"
     },
     {
       "name": "Face Pressed Against Glass",
@@ -121,18 +121,18 @@
       "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
     },
     {
+      "name": "Setting Sun",
+      "artist": "You'll Never Get to Heaven",
+      "album": "Wave Your Moonlight Hat For The Snowfall Train",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ce5c493f13bfb11a6b9a98c",
+      "external_url": "https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN"
+    },
+    {
       "name": "From The Sea/It Looms (Chapters I & II)",
       "artist": "Leon Vynehall",
       "album": "Nothing Is Still",
       "image": "https://i.scdn.co/image/ab67616d0000b273db1083f417644e3e1cf47543",
       "external_url": "https://open.spotify.com/track/0lDKZO6dS927plsK7SGmh4"
-    },
-    {
-      "name": "HEDIS BUSSIN'",
-      "artist": "Pz'",
-      "album": "HEDIS BUSSIN'",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734bb51f21e81707f1334e3d88",
-      "external_url": "https://open.spotify.com/track/3Xy2FGv9vTZ3DHzHyeouAT"
     },
     {
       "name": "RIP Follies",
@@ -211,6 +211,15 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
+      "name": "Lil Uzi Vert",
+      "genres": [
+        "melodic rap",
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+    },
+    {
       "name": "prettifun",
       "genres": [
         "rage rap",
@@ -255,16 +264,6 @@
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
       "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-    },
-    {
-      "name": "Lucy Bedroque",
-      "genres": [
-        "hyperpop",
-        "rage rap",
-        "cloud rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     }
   ]
 }
