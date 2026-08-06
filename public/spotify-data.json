@@ -1,13 +1,6 @@
 {
-  "lastUpdated": "2026-08-05T08:37:31.140Z",
+  "lastUpdated": "2026-08-06T08:37:20.856Z",
   "topTracks": [
-    {
-      "name": "interlude",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
-    },
     {
       "name": "Retraite",
       "artist": "Pi’erre Bourne",
@@ -16,18 +9,11 @@
       "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
     },
     {
-      "name": "deaf note (with Playboi Carti)",
+      "name": "interlude",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
-    },
-    {
-      "name": "wheredoistart",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
+      "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
     },
     {
       "name": "J'adore",
@@ -37,11 +23,11 @@
       "external_url": "https://open.spotify.com/track/1Menul8KHa5YAvVZQKi63k"
     },
     {
-      "name": "Moon and the Stars",
-      "artist": "prettifun",
-      "album": "Moon and the Stars",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
-      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
+      "name": "deaf note (with Playboi Carti)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
     },
     {
       "name": "What Did I Miss?",
@@ -51,18 +37,25 @@
       "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
     },
     {
+      "name": "wheredoistart",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
+    },
+    {
+      "name": "SEALS & TAGS",
+      "artist": "Pz'",
+      "album": "B4NTB",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735344ce749ea1b79ddab232fb",
+      "external_url": "https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM"
+    },
+    {
       "name": "somanybags",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
-    },
-    {
-      "name": "Kittens",
-      "artist": "Che",
-      "album": "Fully Loaded",
-      "image": "https://i.scdn.co/image/ab67616d0000b273803db73710ba6421a3422ae1",
-      "external_url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
     },
     {
       "name": "Coat I Would Buy",
@@ -79,6 +72,13 @@
       "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
     },
     {
+      "name": "Kittens",
+      "artist": "Che",
+      "album": "Fully Loaded",
+      "image": "https://i.scdn.co/image/ab67616d0000b273803db73710ba6421a3422ae1",
+      "external_url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
+    },
+    {
       "name": "Havana",
       "artist": "Pz'",
       "album": "Havana",
@@ -91,13 +91,6 @@
       "album": "The Crashing Sound of How It Goes",
       "image": "https://i.scdn.co/image/ab67616d0000b2733496e50a6c23e63f7f9eb7e0",
       "external_url": "https://open.spotify.com/track/7cfVuZCP1nI08FEPgXtt6G"
-    },
-    {
-      "name": "SEALS & TAGS",
-      "artist": "Pz'",
-      "album": "B4NTB",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735344ce749ea1b79ddab232fb",
-      "external_url": "https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM"
     },
     {
       "name": "Party4u!",
@@ -114,11 +107,11 @@
       "external_url": "https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN"
     },
     {
-      "name": "shopping (with Destroy Lonely)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Moon and the Stars",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
+      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
       "name": "From The Sea/It Looms (Chapters I & II)",
@@ -163,18 +156,25 @@
       "external_url": "https://open.spotify.com/track/4GuP8UZCJBFn7Gbjs8PVlq"
     },
     {
-      "name": "Light",
-      "artist": "prettifun",
-      "album": "Pretti",
-      "image": "https://i.scdn.co/image/ab67616d0000b273986fb8c23fb36f54373ca88c",
-      "external_url": "https://open.spotify.com/track/4MARgoyXPn4qNw9qUN6yIr"
-    },
-    {
       "name": "THE POPE",
       "artist": "MIKE",
       "album": "POMPEII // UTILITY",
       "image": "https://i.scdn.co/image/ab67616d0000b2732da17f0e1d1ff1a6e9ccc424",
       "external_url": "https://open.spotify.com/track/4uV4oV3nENqs0XO2eHlFb0"
+    },
+    {
+      "name": "nauseous",
+      "artist": "Egobreak",
+      "album": "nauseous",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731966d8d79561e2129370b3d4",
+      "external_url": "https://open.spotify.com/track/7D08bBvmgoOB0xgFVGAs2d"
+    },
+    {
+      "name": "shopping (with Destroy Lonely)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
     }
   ],
   "topArtists": [
@@ -234,15 +234,6 @@
       "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
     },
     {
-      "name": "prettifun",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
-    },
-    {
       "name": "Playboi Carti",
       "genres": [
         "rage rap"
@@ -258,6 +249,15 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb573cb30543b877f8c9554693",
       "external_url": "https://open.spotify.com/artist/2Vcda6Z3Ugbq2ZlYnKGGfC"
+    },
+    {
+      "name": "prettifun",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
       "name": "The Weeknd",
