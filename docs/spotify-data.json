@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T08:37:20.856Z",
+  "lastUpdated": "2026-08-07T07:17:26.253Z",
   "topTracks": [
     {
       "name": "Retraite",
@@ -16,13 +16,6 @@
       "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
     },
     {
-      "name": "J'adore",
-      "artist": "Pi’erre Bourne",
-      "album": "Made In Paris",
-      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
-      "external_url": "https://open.spotify.com/track/1Menul8KHa5YAvVZQKi63k"
-    },
-    {
       "name": "deaf note (with Playboi Carti)",
       "artist": "Ken Carson",
       "album": "xperiment",
@@ -30,18 +23,18 @@
       "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
     },
     {
+      "name": "J'adore",
+      "artist": "Pi’erre Bourne",
+      "album": "Made In Paris",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
+      "external_url": "https://open.spotify.com/track/1Menul8KHa5YAvVZQKi63k"
+    },
+    {
       "name": "What Did I Miss?",
       "artist": "Drake",
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
-    },
-    {
-      "name": "wheredoistart",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
     },
     {
       "name": "SEALS & TAGS",
@@ -79,11 +72,25 @@
       "external_url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
     },
     {
+      "name": "wheredoistart",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
+    },
+    {
       "name": "Havana",
       "artist": "Pz'",
       "album": "Havana",
       "image": "https://i.scdn.co/image/ab67616d0000b27357bbd7d01640d557ebfce6e5",
       "external_url": "https://open.spotify.com/track/3WVJfN1JmGewlDXGkQf0I4"
+    },
+    {
+      "name": "RATHER LIE (with The Weeknd)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "external_url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
     },
     {
       "name": "Face Pressed Against Glass",
@@ -107,6 +114,13 @@
       "external_url": "https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN"
     },
     {
+      "name": "CRUSH (with Travis Scott)",
+      "artist": "Playboi Carti",
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "external_url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
+    },
+    {
       "name": "Moon and the Stars",
       "artist": "prettifun",
       "album": "Moon and the Stars",
@@ -114,11 +128,18 @@
       "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
     },
     {
-      "name": "From The Sea/It Looms (Chapters I & II)",
-      "artist": "Leon Vynehall",
-      "album": "Nothing Is Still",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db1083f417644e3e1cf47543",
-      "external_url": "https://open.spotify.com/track/0lDKZO6dS927plsK7SGmh4"
+      "name": "Eventually",
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+      "external_url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
+    },
+    {
+      "name": "shopping (with Destroy Lonely)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
     },
     {
       "name": "RIP Follies",
@@ -126,6 +147,13 @@
       "album": "RIP Follies",
       "image": "https://i.scdn.co/image/ab67616d0000b2738fadbbc1cb244ac7a7589bd2",
       "external_url": "https://open.spotify.com/track/4i5KO5Fb66BcdpduBTOQ5A"
+    },
+    {
+      "name": "From The Sea/It Looms (Chapters I & II)",
+      "artist": "Leon Vynehall",
+      "album": "Nothing Is Still",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db1083f417644e3e1cf47543",
+      "external_url": "https://open.spotify.com/track/0lDKZO6dS927plsK7SGmh4"
     },
     {
       "name": "Behind the Bank",
@@ -147,34 +175,6 @@
       "album": "</3³",
       "image": "https://i.scdn.co/image/ab67616d0000b273d7b2fb87f7316720422d2525",
       "external_url": "https://open.spotify.com/track/419vPj2tN0KADfmLkBfBZe"
-    },
-    {
-      "name": "Intro",
-      "artist": "Pi’erre Bourne",
-      "album": "The Life Of Pi'erre 5",
-      "image": "https://i.scdn.co/image/ab67616d0000b273857ffe0b5ad52bf5625572db",
-      "external_url": "https://open.spotify.com/track/4GuP8UZCJBFn7Gbjs8PVlq"
-    },
-    {
-      "name": "THE POPE",
-      "artist": "MIKE",
-      "album": "POMPEII // UTILITY",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732da17f0e1d1ff1a6e9ccc424",
-      "external_url": "https://open.spotify.com/track/4uV4oV3nENqs0XO2eHlFb0"
-    },
-    {
-      "name": "nauseous",
-      "artist": "Egobreak",
-      "album": "nauseous",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731966d8d79561e2129370b3d4",
-      "external_url": "https://open.spotify.com/track/7D08bBvmgoOB0xgFVGAs2d"
-    },
-    {
-      "name": "shopping (with Destroy Lonely)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
     }
   ],
   "topArtists": [
@@ -195,6 +195,14 @@
       "external_url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
     },
     {
+      "name": "Playboi Carti",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+    },
+    {
       "name": "Pz'",
       "genres": [
         "underground hip hop"
@@ -207,7 +215,7 @@
       "genres": [
         "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc83ffef1cbf86d4d17e862d8",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
@@ -216,7 +224,7 @@
         "melodic rap",
         "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
       "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
     },
     {
@@ -232,14 +240,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
       "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-    },
-    {
-      "name": "Playboi Carti",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
       "name": "Egobreak",
