@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T07:17:26.253Z",
+  "lastUpdated": "2026-08-08T06:54:57.709Z",
   "topTracks": [
     {
       "name": "Retraite",
@@ -16,18 +16,18 @@
       "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
     },
     {
-      "name": "deaf note (with Playboi Carti)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
-    },
-    {
       "name": "J'adore",
       "artist": "Pi’erre Bourne",
       "album": "Made In Paris",
       "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
       "external_url": "https://open.spotify.com/track/1Menul8KHa5YAvVZQKi63k"
+    },
+    {
+      "name": "deaf note (with Playboi Carti)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
     },
     {
       "name": "What Did I Miss?",
@@ -42,13 +42,6 @@
       "album": "B4NTB",
       "image": "https://i.scdn.co/image/ab67616d0000b2735344ce749ea1b79ddab232fb",
       "external_url": "https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM"
-    },
-    {
-      "name": "somanybags",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
     },
     {
       "name": "Coat I Would Buy",
@@ -72,11 +65,11 @@
       "external_url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
     },
     {
-      "name": "wheredoistart",
+      "name": "somanybags",
       "artist": "Ken Carson",
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
+      "external_url": "https://open.spotify.com/track/2uOrtaTKpLlCnpW9wy0ldX"
     },
     {
       "name": "Havana",
@@ -135,13 +128,6 @@
       "external_url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
     },
     {
-      "name": "shopping (with Destroy Lonely)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/7xKm3Uo6n2yHS4pfKjD1xY"
-    },
-    {
       "name": "RIP Follies",
       "artist": "diamond*",
       "album": "RIP Follies",
@@ -163,6 +149,13 @@
       "external_url": "https://open.spotify.com/track/0hMAkHg3xvr5K4uPetYm5o"
     },
     {
+      "name": "MONSTER",
+      "artist": "Destroy Lonely",
+      "album": "MONSTER",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a28e8a6638b65f13952bb4d",
+      "external_url": "https://open.spotify.com/track/2rSNj3zySzJ09yWUQar6Iz"
+    },
+    {
       "name": "WAYS OF THE WORLD",
       "artist": "Cities Aviv",
       "album": "MAN PLAYS THE HORN",
@@ -175,17 +168,16 @@
       "album": "</3³",
       "image": "https://i.scdn.co/image/ab67616d0000b273d7b2fb87f7316720422d2525",
       "external_url": "https://open.spotify.com/track/419vPj2tN0KADfmLkBfBZe"
+    },
+    {
+      "name": "Intro",
+      "artist": "Pi’erre Bourne",
+      "album": "The Life Of Pi'erre 5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273857ffe0b5ad52bf5625572db",
+      "external_url": "https://open.spotify.com/track/4GuP8UZCJBFn7Gbjs8PVlq"
     }
   ],
   "topArtists": [
-    {
-      "name": "Ken Carson",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-    },
     {
       "name": "Pi’erre Bourne",
       "genres": [
@@ -193,6 +185,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb0654f82c997f5da62667924c",
       "external_url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+    },
+    {
+      "name": "Ken Carson",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
       "name": "Playboi Carti",
