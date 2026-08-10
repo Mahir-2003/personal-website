@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T06:57:52.152Z",
+  "lastUpdated": "2026-08-10T07:43:27.745Z",
   "topTracks": [
     {
       "name": "Retraite",
@@ -142,6 +142,13 @@
       "external_url": "https://open.spotify.com/track/0hMAkHg3xvr5K4uPetYm5o"
     },
     {
+      "name": "G6 Anthem",
+      "artist": "Lucy Bedroque",
+      "album": "Unmusique",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
+      "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
+    },
+    {
       "name": "MONSTER",
       "artist": "Destroy Lonely",
       "album": "MONSTER",
@@ -168,13 +175,6 @@
       "album": "The Life Of Pi'erre 5",
       "image": "https://i.scdn.co/image/ab67616d0000b273857ffe0b5ad52bf5625572db",
       "external_url": "https://open.spotify.com/track/4GuP8UZCJBFn7Gbjs8PVlq"
-    },
-    {
-      "name": "THE POPE",
-      "artist": "MIKE",
-      "album": "POMPEII // UTILITY",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732da17f0e1d1ff1a6e9ccc424",
-      "external_url": "https://open.spotify.com/track/4uV4oV3nENqs0XO2eHlFb0"
     }
   ],
   "topArtists": [
@@ -185,14 +185,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb0654f82c997f5da62667924c",
       "external_url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
-    },
-    {
-      "name": "Playboi Carti",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
       "name": "Pz'",
@@ -211,12 +203,30 @@
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
+      "name": "Playboi Carti",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+    },
+    {
       "name": "Destroy Lonely",
       "genres": [
         "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+    },
+    {
+      "name": "Lucy Bedroque",
+      "genres": [
+        "hyperpop",
+        "rage rap",
+        "cloud rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
       "name": "Lil Uzi Vert",
@@ -226,6 +236,15 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
       "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+    },
+    {
+      "name": "prettifun",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
       "name": "Tim Hecker",
@@ -240,25 +259,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
       "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-    },
-    {
-      "name": "Lucy Bedroque",
-      "genres": [
-        "hyperpop",
-        "rage rap",
-        "cloud rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
-    },
-    {
-      "name": "prettifun",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
       "name": "Egobreak",
