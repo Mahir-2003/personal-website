@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-11T07:09:03.053Z",
+  "lastUpdated": "2026-08-12T07:25:50.862Z",
   "topTracks": [
-    {
-      "name": "Retraite",
-      "artist": "Pi’erre Bourne",
-      "album": "Made In Paris",
-      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
-      "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
-    },
     {
       "name": "Livin' Loose",
       "artist": "George Clanton",
       "album": "Slide",
       "image": "https://i.scdn.co/image/ab67616d0000b27354823b660c0985479ea17f08",
       "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
+    },
+    {
+      "name": "Retraite",
+      "artist": "Pi’erre Bourne",
+      "album": "Made In Paris",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
+      "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
     },
     {
       "name": "SEALS & TAGS",
@@ -49,6 +49,13 @@
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
+    },
+    {
+      "name": "Go !",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
     },
     {
       "name": "Setting Sun",
@@ -114,6 +121,13 @@
       "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
     },
     {
+      "name": "UNETHICAL",
+      "artist": "Faouzia",
+      "album": "FILM NOIR",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736224a61efd4fe783c1832bd7",
+      "external_url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
+    },
+    {
       "name": "CRUSH (with Travis Scott)",
       "artist": "Playboi Carti",
       "album": "MUSIC",
@@ -142,27 +156,6 @@
       "external_url": "https://open.spotify.com/track/4i5KO5Fb66BcdpduBTOQ5A"
     },
     {
-      "name": "From The Sea/It Looms (Chapters I & II)",
-      "artist": "Leon Vynehall",
-      "album": "Nothing Is Still",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db1083f417644e3e1cf47543",
-      "external_url": "https://open.spotify.com/track/0lDKZO6dS927plsK7SGmh4"
-    },
-    {
-      "name": "Go !",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
-    },
-    {
-      "name": "Behind the Bank",
-      "artist": "Oneohtrix Point Never",
-      "album": "Betrayed in the Octagon",
-      "image": "https://i.scdn.co/image/ab67616d0000b27347a6ec6ebf30595ab878d1e1",
-      "external_url": "https://open.spotify.com/track/0hMAkHg3xvr5K4uPetYm5o"
-    },
-    {
       "name": "G6 Anthem",
       "artist": "Lucy Bedroque",
       "album": "Unmusique",
@@ -175,6 +168,13 @@
       "album": "MAN PLAYS THE HORN",
       "image": "https://i.scdn.co/image/ab67616d0000b27300e3df8cfaf9a89084f43f6f",
       "external_url": "https://open.spotify.com/track/3pi5GrqAlDzerGgk0rn3rY"
+    },
+    {
+      "name": "no pressure",
+      "artist": "Destroy Lonely",
+      "album": "</3³",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7b2fb87f7316720422d2525",
+      "external_url": "https://open.spotify.com/track/419vPj2tN0KADfmLkBfBZe"
     }
   ],
   "topArtists": [
@@ -219,6 +219,15 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
+      "name": "Lil Uzi Vert",
+      "genres": [
+        "melodic rap",
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+    },
+    {
       "name": "Lucy Bedroque",
       "genres": [
         "hyperpop",
@@ -227,15 +236,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
-    },
-    {
-      "name": "Lil Uzi Vert",
-      "genres": [
-        "melodic rap",
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
-      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
     },
     {
       "name": "Egobreak",
