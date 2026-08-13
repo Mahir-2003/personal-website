@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T07:25:50.862Z",
+  "lastUpdated": "2026-08-13T07:35:47.131Z",
   "topTracks": [
     {
       "name": "Livin' Loose",
@@ -44,11 +44,18 @@
       "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
     },
     {
-      "name": "deaf note (with Playboi Carti)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
+      "name": "Setting Sun",
+      "artist": "You'll Never Get to Heaven",
+      "album": "Wave Your Moonlight Hat For The Snowfall Train",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ce5c493f13bfb11a6b9a98c",
+      "external_url": "https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN"
+    },
+    {
+      "name": "INTERSTELLAR (feat. Jahvor)",
+      "artist": "BNYX®",
+      "album": "LOADING...",
+      "image": "https://i.scdn.co/image/ab67616d0000b27338373bdf54004a7d2e1a69ce",
+      "external_url": "https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl"
     },
     {
       "name": "Go !",
@@ -56,13 +63,6 @@
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
       "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
-    },
-    {
-      "name": "Setting Sun",
-      "artist": "You'll Never Get to Heaven",
-      "album": "Wave Your Moonlight Hat For The Snowfall Train",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ce5c493f13bfb11a6b9a98c",
-      "external_url": "https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN"
     },
     {
       "name": "interlude",
@@ -84,6 +84,13 @@
       "album": "Fully Loaded",
       "image": "https://i.scdn.co/image/ab67616d0000b273803db73710ba6421a3422ae1",
       "external_url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
+    },
+    {
+      "name": "deaf note (with Playboi Carti)",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
     },
     {
       "name": "Face Pressed Against Glass",
@@ -119,6 +126,13 @@
       "album": "Party4u!",
       "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
       "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
+    },
+    {
+      "name": "Gas. Brake.",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
     },
     {
       "name": "UNETHICAL",
@@ -161,20 +175,6 @@
       "album": "Unmusique",
       "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
       "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
-    },
-    {
-      "name": "WAYS OF THE WORLD",
-      "artist": "Cities Aviv",
-      "album": "MAN PLAYS THE HORN",
-      "image": "https://i.scdn.co/image/ab67616d0000b27300e3df8cfaf9a89084f43f6f",
-      "external_url": "https://open.spotify.com/track/3pi5GrqAlDzerGgk0rn3rY"
-    },
-    {
-      "name": "no pressure",
-      "artist": "Destroy Lonely",
-      "album": "</3³",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d7b2fb87f7316720422d2525",
-      "external_url": "https://open.spotify.com/track/419vPj2tN0KADfmLkBfBZe"
     }
   ],
   "topArtists": [
