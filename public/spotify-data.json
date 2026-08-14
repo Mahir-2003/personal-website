@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T07:35:47.131Z",
+  "lastUpdated": "2026-08-14T07:25:35.967Z",
   "topTracks": [
     {
       "name": "Livin' Loose",
@@ -16,13 +16,6 @@
       "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
     },
     {
-      "name": "SEALS & TAGS",
-      "artist": "Pz'",
-      "album": "B4NTB",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735344ce749ea1b79ddab232fb",
-      "external_url": "https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM"
-    },
-    {
       "name": "MONSTER",
       "artist": "Destroy Lonely",
       "album": "MONSTER",
@@ -30,11 +23,11 @@
       "external_url": "https://open.spotify.com/track/2rSNj3zySzJ09yWUQar6Iz"
     },
     {
-      "name": "J'adore",
-      "artist": "Pi’erre Bourne",
-      "album": "Made In Paris",
-      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
-      "external_url": "https://open.spotify.com/track/1Menul8KHa5YAvVZQKi63k"
+      "name": "SEALS & TAGS",
+      "artist": "Pz'",
+      "album": "B4NTB",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735344ce749ea1b79ddab232fb",
+      "external_url": "https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM"
     },
     {
       "name": "What Did I Miss?",
@@ -42,6 +35,13 @@
       "album": "ICEMAN",
       "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
       "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
+    },
+    {
+      "name": "J'adore",
+      "artist": "Pi’erre Bourne",
+      "album": "Made In Paris",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
+      "external_url": "https://open.spotify.com/track/1Menul8KHa5YAvVZQKi63k"
     },
     {
       "name": "Setting Sun",
@@ -86,13 +86,6 @@
       "external_url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
     },
     {
-      "name": "deaf note (with Playboi Carti)",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
-    },
-    {
       "name": "Face Pressed Against Glass",
       "artist": "Cities Aviv",
       "album": "The Crashing Sound of How It Goes",
@@ -114,11 +107,25 @@
       "external_url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
     },
     {
-      "name": "Maverick Intro",
+      "name": "Gas. Brake.",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
+      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+    },
+    {
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Moon and the Stars",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
+      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
+    },
+    {
+      "name": "THE POPE",
+      "artist": "MIKE",
+      "album": "POMPEII // UTILITY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732da17f0e1d1ff1a6e9ccc424",
+      "external_url": "https://open.spotify.com/track/4uV4oV3nENqs0XO2eHlFb0"
     },
     {
       "name": "Party4u!",
@@ -126,13 +133,6 @@
       "album": "Party4u!",
       "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
       "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
-    },
-    {
-      "name": "Gas. Brake.",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
     },
     {
       "name": "UNETHICAL",
@@ -149,13 +149,6 @@
       "external_url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
     },
     {
-      "name": "Moon and the Stars",
-      "artist": "prettifun",
-      "album": "Moon and the Stars",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364af2dd2a1110ab5371bd099",
-      "external_url": "https://open.spotify.com/track/3dhBOVSwWub4L4DGqHx8Ia"
-    },
-    {
       "name": "Eventually",
       "artist": "Tame Impala",
       "album": "Currents",
@@ -170,6 +163,13 @@
       "external_url": "https://open.spotify.com/track/4i5KO5Fb66BcdpduBTOQ5A"
     },
     {
+      "name": "Maverick Intro",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
+    },
+    {
       "name": "G6 Anthem",
       "artist": "Lucy Bedroque",
       "album": "Unmusique",
@@ -178,14 +178,6 @@
     }
   ],
   "topArtists": [
-    {
-      "name": "Pi’erre Bourne",
-      "genres": [
-        "melodic rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb0654f82c997f5da62667924c",
-      "external_url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
-    },
     {
       "name": "Pz'",
       "genres": [
@@ -219,6 +211,14 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
+      "name": "Pi’erre Bourne",
+      "genres": [
+        "melodic rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0654f82c997f5da62667924c",
+      "external_url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+    },
+    {
       "name": "Lil Uzi Vert",
       "genres": [
         "melodic rap",
@@ -238,15 +238,6 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "Egobreak",
-      "genres": [
-        "rage rap",
-        "hyperpop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb573cb30543b877f8c9554693",
-      "external_url": "https://open.spotify.com/artist/2Vcda6Z3Ugbq2ZlYnKGGfC"
-    },
-    {
       "name": "prettifun",
       "genres": [
         "rage rap",
@@ -254,6 +245,15 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+    },
+    {
+      "name": "Egobreak",
+      "genres": [
+        "rage rap",
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb573cb30543b877f8c9554693",
+      "external_url": "https://open.spotify.com/artist/2Vcda6Z3Ugbq2ZlYnKGGfC"
     },
     {
       "name": "Tim Hecker",
