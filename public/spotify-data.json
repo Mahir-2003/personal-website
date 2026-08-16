@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T06:39:06.942Z",
+  "lastUpdated": "2026-08-16T06:40:52.371Z",
   "topTracks": [
     {
       "name": "Livin' Loose",
@@ -23,18 +23,18 @@
       "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
     },
     {
+      "name": "Maverick Intro",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
+    },
+    {
       "name": "SEALS & TAGS",
       "artist": "Pz'",
       "album": "B4NTB",
       "image": "https://i.scdn.co/image/ab67616d0000b2735344ce749ea1b79ddab232fb",
       "external_url": "https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM"
-    },
-    {
-      "name": "What Did I Miss?",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
     },
     {
       "name": "Go !",
@@ -44,11 +44,18 @@
       "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
     },
     {
-      "name": "Maverick Intro",
+      "name": "What Did I Miss?",
+      "artist": "Drake",
+      "album": "ICEMAN",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+      "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
+    },
+    {
+      "name": "Gas. Brake.",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
+      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
     },
     {
       "name": "Setting Sun",
@@ -63,13 +70,6 @@
       "album": "LOADING...",
       "image": "https://i.scdn.co/image/ab67616d0000b27338373bdf54004a7d2e1a69ce",
       "external_url": "https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl"
-    },
-    {
-      "name": "Gas. Brake.",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
     },
     {
       "name": "twisted",
@@ -128,6 +128,13 @@
       "external_url": "https://open.spotify.com/track/1Menul8KHa5YAvVZQKi63k"
     },
     {
+      "name": "Poured",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
+    },
+    {
       "name": "THE POPE",
       "artist": "MIKE",
       "album": "POMPEII // UTILITY",
@@ -156,25 +163,18 @@
       "external_url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
     },
     {
+      "name": "Yoko",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
+    },
+    {
       "name": "RIP Follies",
       "artist": "diamond*",
       "album": "RIP Follies",
       "image": "https://i.scdn.co/image/ab67616d0000b2738fadbbc1cb244ac7a7589bd2",
       "external_url": "https://open.spotify.com/track/4i5KO5Fb66BcdpduBTOQ5A"
-    },
-    {
-      "name": "G6 Anthem",
-      "artist": "Lucy Bedroque",
-      "album": "Unmusique",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
-    },
-    {
-      "name": "WAYS OF THE WORLD",
-      "artist": "Cities Aviv",
-      "album": "MAN PLAYS THE HORN",
-      "image": "https://i.scdn.co/image/ab67616d0000b27300e3df8cfaf9a89084f43f6f",
-      "external_url": "https://open.spotify.com/track/3pi5GrqAlDzerGgk0rn3rY"
     }
   ],
   "topArtists": [
@@ -220,14 +220,6 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
-      "name": "Pi’erre Bourne",
-      "genres": [
-        "melodic rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb0654f82c997f5da62667924c",
-      "external_url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
-    },
-    {
       "name": "Lucy Bedroque",
       "genres": [
         "hyperpop",
@@ -236,6 +228,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+    },
+    {
+      "name": "kuru",
+      "genres": [
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
       "name": "prettifun",
