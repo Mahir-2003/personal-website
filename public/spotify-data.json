@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T06:40:52.371Z",
+  "lastUpdated": "2026-08-17T06:56:53.079Z",
   "topTracks": [
     {
       "name": "Livin' Loose",
@@ -14,13 +14,6 @@
       "album": "MONSTER",
       "image": "https://i.scdn.co/image/ab67616d0000b273bbf227c955ae7b4935a39194",
       "external_url": "https://open.spotify.com/track/2rSNj3zySzJ09yWUQar6Iz"
-    },
-    {
-      "name": "Retraite",
-      "artist": "Pi’erre Bourne",
-      "album": "Made In Paris",
-      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
-      "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
     },
     {
       "name": "Maverick Intro",
@@ -65,13 +58,6 @@
       "external_url": "https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN"
     },
     {
-      "name": "INTERSTELLAR (feat. Jahvor)",
-      "artist": "BNYX®",
-      "album": "LOADING...",
-      "image": "https://i.scdn.co/image/ab67616d0000b27338373bdf54004a7d2e1a69ce",
-      "external_url": "https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl"
-    },
-    {
       "name": "twisted",
       "artist": "luvfredo",
       "album": "twisted",
@@ -84,6 +70,13 @@
       "album": "Party4u!",
       "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
       "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
+    },
+    {
+      "name": "Retraite",
+      "artist": "Pi’erre Bourne",
+      "album": "Made In Paris",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
+      "external_url": "https://open.spotify.com/track/5ABrlAFm8bIA3gvUvoc7Sy"
     },
     {
       "name": "Coat I Would Buy",
@@ -107,6 +100,13 @@
       "external_url": "https://open.spotify.com/track/7cfVuZCP1nI08FEPgXtt6G"
     },
     {
+      "name": "INTERSTELLAR (feat. Jahvor)",
+      "artist": "BNYX®",
+      "album": "LOADING...",
+      "image": "https://i.scdn.co/image/ab67616d0000b27338373bdf54004a7d2e1a69ce",
+      "external_url": "https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl"
+    },
+    {
       "name": "Havana",
       "artist": "Pz'",
       "album": "Havana",
@@ -119,13 +119,6 @@
       "album": "MUSIC",
       "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
       "external_url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
-    },
-    {
-      "name": "J'adore",
-      "artist": "Pi’erre Bourne",
-      "album": "Made In Paris",
-      "image": "https://i.scdn.co/image/ab67616d0000b27328a853e47556ac5db92f4843",
-      "external_url": "https://open.spotify.com/track/1Menul8KHa5YAvVZQKi63k"
     },
     {
       "name": "Poured",
@@ -149,6 +142,20 @@
       "external_url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
     },
     {
+      "name": "Africa",
+      "artist": "TOTO",
+      "album": "Toto IV",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df",
+      "external_url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "name": "Bubbles",
+      "artist": "Yosi Horikawa",
+      "album": "Wandering",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d09a384de0438a4ad206d13",
+      "external_url": "https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x"
+    },
+    {
       "name": "CRUSH (with Travis Scott)",
       "artist": "Playboi Carti",
       "album": "MUSIC",
@@ -168,13 +175,6 @@
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
       "external_url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
-    },
-    {
-      "name": "RIP Follies",
-      "artist": "diamond*",
-      "album": "RIP Follies",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738fadbbc1cb244ac7a7589bd2",
-      "external_url": "https://open.spotify.com/track/4i5KO5Fb66BcdpduBTOQ5A"
     }
   ],
   "topArtists": [
@@ -230,14 +230,6 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "kuru",
-      "genres": [
-        "hyperpop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-    },
-    {
       "name": "prettifun",
       "genres": [
         "rage rap",
@@ -268,6 +260,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebcd1bb3562720521214eb29d1",
       "external_url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+    },
+    {
+      "name": "kuru",
+      "genres": [
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     }
   ]
 }
