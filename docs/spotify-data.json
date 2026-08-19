@@ -1,13 +1,6 @@
 {
-  "lastUpdated": "2026-08-18T06:43:59.458Z",
+  "lastUpdated": "2026-08-19T06:45:02.755Z",
   "topTracks": [
-    {
-      "name": "Livin' Loose",
-      "artist": "George Clanton",
-      "album": "Slide",
-      "image": "https://i.scdn.co/image/ab67616d0000b27354823b660c0985479ea17f08",
-      "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
-    },
     {
       "name": "Maverick Intro",
       "artist": "Lil Uzi Vert",
@@ -23,11 +16,25 @@
       "external_url": "https://open.spotify.com/track/2rSNj3zySzJ09yWUQar6Iz"
     },
     {
+      "name": "Livin' Loose",
+      "artist": "George Clanton",
+      "album": "Slide",
+      "image": "https://i.scdn.co/image/ab67616d0000b27354823b660c0985479ea17f08",
+      "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
+    },
+    {
       "name": "Go !",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
       "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
+    },
+    {
+      "name": "twisted",
+      "artist": "luvfredo",
+      "album": "twisted",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b8cb069fc4ddda50be9af53",
+      "external_url": "https://open.spotify.com/track/2Wyg3QZBRZcMeKJ5hwqTDY"
     },
     {
       "name": "SEALS & TAGS",
@@ -51,13 +58,6 @@
       "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
     },
     {
-      "name": "twisted",
-      "artist": "luvfredo",
-      "album": "twisted",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734b8cb069fc4ddda50be9af53",
-      "external_url": "https://open.spotify.com/track/2Wyg3QZBRZcMeKJ5hwqTDY"
-    },
-    {
       "name": "Setting Sun",
       "artist": "You'll Never Get to Heaven",
       "album": "Wave Your Moonlight Hat For The Snowfall Train",
@@ -79,11 +79,11 @@
       "external_url": "https://open.spotify.com/track/7Axp58dkUabcFGYXokXxwp"
     },
     {
-      "name": "CRAZY (feat. PinkPantheress)",
+      "name": "CRAZY",
       "artist": "LE SSERAFIM",
-      "album": "CRAZY (feat. PinkPantheress)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735aeb64a714a6797a49350d1b",
-      "external_url": "https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn"
+      "album": "CRAZY (Party Remixes 1)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27331cc95b28680b61772da876f",
+      "external_url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
     },
     {
       "name": "Party4u!",
@@ -220,6 +220,14 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
+      "name": "kuru",
+      "genres": [
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+    },
+    {
       "name": "Lucy Bedroque",
       "genres": [
         "hyperpop",
@@ -228,14 +236,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
-    },
-    {
-      "name": "kuru",
-      "genres": [
-        "hyperpop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
       "name": "Egobreak",
