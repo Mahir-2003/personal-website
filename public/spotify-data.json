@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T06:47:19.715Z",
+  "lastUpdated": "2026-08-21T06:49:13.838Z",
   "topTracks": [
     {
       "name": "Maverick Intro",
@@ -23,6 +23,13 @@
       "external_url": "https://open.spotify.com/track/2Wyg3QZBRZcMeKJ5hwqTDY"
     },
     {
+      "name": "Gas. Brake.",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+    },
+    {
       "name": "Go !",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
@@ -42,13 +49,6 @@
       "album": "B4NTB",
       "image": "https://i.scdn.co/image/ab67616d0000b2735344ce749ea1b79ddab232fb",
       "external_url": "https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM"
-    },
-    {
-      "name": "Gas. Brake.",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
     },
     {
       "name": "What Did I Miss?",
@@ -86,11 +86,11 @@
       "external_url": "https://open.spotify.com/track/7Axp58dkUabcFGYXokXxwp"
     },
     {
-      "name": "CRAZY",
+      "name": "CRAZY (feat. PinkPantheress)",
       "artist": "LE SSERAFIM",
-      "album": "CRAZY (Party Remixes 1)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27331cc95b28680b61772da876f",
-      "external_url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
+      "album": "CRAZY (feat. PinkPantheress)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735aeb64a714a6797a49350d1b",
+      "external_url": "https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn"
     },
     {
       "name": "CRUSH (with Travis Scott)",
@@ -135,6 +135,13 @@
       "external_url": "https://open.spotify.com/track/7cfVuZCP1nI08FEPgXtt6G"
     },
     {
+      "name": "U wld never do it",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+    },
+    {
       "name": "INTERSTELLAR (feat. Jahvor)",
       "artist": "BNYX®",
       "album": "LOADING...",
@@ -168,13 +175,6 @@
       "album": "FILM NOIR",
       "image": "https://i.scdn.co/image/ab67616d0000b2736224a61efd4fe783c1832bd7",
       "external_url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
-    },
-    {
-      "name": "ROCKSTAR P",
-      "artist": "Baby Keem",
-      "album": "DIE FOR MY BITCH",
-      "image": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
-      "external_url": "https://open.spotify.com/track/0lTH3Dt0GlBQhxFHSnaZ7g"
     }
   ],
   "topArtists": [
@@ -212,20 +212,20 @@
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
-      "name": "Playboi Carti",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-    },
-    {
       "name": "Destroy Lonely",
       "genres": [
         "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+    },
+    {
+      "name": "Playboi Carti",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
       "name": "Lucy Bedroque",
