@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T06:40:49.406Z",
+  "lastUpdated": "2026-08-23T06:41:33.209Z",
   "topTracks": [
     {
       "name": "Maverick Intro",
@@ -121,18 +121,18 @@
       "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
     },
     {
-      "name": "Party4u!",
-      "artist": "Autumn!",
-      "album": "Party4u!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ea8e4cbd8332d02a77adfe86",
-      "external_url": "https://open.spotify.com/track/5ggjbrGoP8zZvwPiv9j27d"
-    },
-    {
       "name": "Scene",
       "artist": "prettifun",
       "album": "Scene",
       "image": "https://i.scdn.co/image/ab67616d0000b273210a29e35a61dff251a872e5",
       "external_url": "https://open.spotify.com/track/6gZ7KnYv3MFu0bmoBENZkS"
+    },
+    {
+      "name": "Havana",
+      "artist": "Pz'",
+      "album": "Havana",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357bbd7d01640d557ebfce6e5",
+      "external_url": "https://open.spotify.com/track/3WVJfN1JmGewlDXGkQf0I4"
     },
     {
       "name": "Face Pressed Against Glass",
@@ -156,13 +156,6 @@
       "external_url": "https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl"
     },
     {
-      "name": "Havana",
-      "artist": "Pz'",
-      "album": "Havana",
-      "image": "https://i.scdn.co/image/ab67616d0000b27357bbd7d01640d557ebfce6e5",
-      "external_url": "https://open.spotify.com/track/3WVJfN1JmGewlDXGkQf0I4"
-    },
-    {
       "name": "THE POPE",
       "artist": "MIKE",
       "album": "POMPEII // UTILITY",
@@ -175,6 +168,13 @@
       "album": "FILM NOIR",
       "image": "https://i.scdn.co/image/ab67616d0000b2736224a61efd4fe783c1832bd7",
       "external_url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
+    },
+    {
+      "name": "Noir kei",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
     }
   ],
   "topArtists": [
