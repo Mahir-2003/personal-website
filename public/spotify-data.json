@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T06:41:33.209Z",
+  "lastUpdated": "2026-08-24T06:59:58.438Z",
   "topTracks": [
     {
       "name": "Maverick Intro",
@@ -72,13 +72,6 @@
       "external_url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
     },
     {
-      "name": "What Did I Miss?",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-      "external_url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
-    },
-    {
       "name": "FW19",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -107,6 +100,13 @@
       "external_url": "https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn"
     },
     {
+      "name": "End of spring",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
+    },
+    {
       "name": "CRUSH (with Travis Scott)",
       "artist": "Playboi Carti",
       "album": "MUSIC",
@@ -123,9 +123,9 @@
     {
       "name": "Scene",
       "artist": "prettifun",
-      "album": "Scene",
-      "image": "https://i.scdn.co/image/ab67616d0000b273210a29e35a61dff251a872e5",
-      "external_url": "https://open.spotify.com/track/6gZ7KnYv3MFu0bmoBENZkS"
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/6zyQdgXjwx0u1FwMlvxctR"
     },
     {
       "name": "Havana",
@@ -179,15 +179,6 @@
   ],
   "topArtists": [
     {
-      "name": "Lil Uzi Vert",
-      "genres": [
-        "melodic rap",
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
-      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-    },
-    {
       "name": "kuru",
       "genres": [
         "hyperpop"
@@ -196,12 +187,13 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
-      "name": "Pz'",
+      "name": "Lil Uzi Vert",
       "genres": [
-        "underground hip hop"
+        "melodic rap",
+        "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9087490518ae4f6b178d6d78",
-      "external_url": "https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
     },
     {
       "name": "Ken Carson",
@@ -221,6 +213,14 @@
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
+      "name": "Destroy Lonely",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+    },
+    {
       "name": "Playboi Carti",
       "genres": [
         "rage rap"
@@ -229,12 +229,12 @@
       "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
-      "name": "Destroy Lonely",
+      "name": "Pz'",
       "genres": [
-        "rage rap"
+        "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9087490518ae4f6b178d6d78",
+      "external_url": "https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT"
     },
     {
       "name": "Lucy Bedroque",
