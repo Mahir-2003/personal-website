@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T06:51:19.287Z",
+  "lastUpdated": "2026-08-27T17:24:53.844Z",
   "topTracks": [
     {
       "name": "Maverick Intro",
@@ -9,6 +9,13 @@
       "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
     },
     {
+      "name": "Scene",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/6zyQdgXjwx0u1FwMlvxctR"
+    },
+    {
       "name": "Gas. Brake.",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
@@ -16,11 +23,18 @@
       "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
     },
     {
-      "name": "Scene",
+      "name": "Rollacoasta",
       "artist": "prettifun",
       "album": "Pretti Loves U 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/6zyQdgXjwx0u1FwMlvxctR"
+      "external_url": "https://open.spotify.com/track/0Reng10iZSowA8IlegRTtL"
+    },
+    {
+      "name": "Go !",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
     },
     {
       "name": "MONSTER",
@@ -37,18 +51,32 @@
       "external_url": "https://open.spotify.com/track/2Wyg3QZBRZcMeKJ5hwqTDY"
     },
     {
-      "name": "Go !",
+      "name": "Noir kei",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
+    },
+    {
+      "name": "Yoko",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
+      "external_url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
     },
     {
-      "name": "Rollacoasta",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/0Reng10iZSowA8IlegRTtL"
+      "name": "U wld never do it",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+    },
+    {
+      "name": "SPEED DEMON",
+      "artist": "Lucy Bedroque",
+      "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738bf9f50617421dac218ce57a",
+      "external_url": "https://open.spotify.com/track/1QfO3h4g6GZvvg6HTQlXiu"
     },
     {
       "name": "SEALS & TAGS",
@@ -72,18 +100,18 @@
       "external_url": "https://open.spotify.com/track/7Axp58dkUabcFGYXokXxwp"
     },
     {
-      "name": "Yoko",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
-    },
-    {
-      "name": "U wld never do it",
+      "name": "FW19",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+      "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
+    },
+    {
+      "name": "Steps",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
     },
     {
       "name": "End of spring",
@@ -93,18 +121,18 @@
       "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
     },
     {
-      "name": "FW19",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
-    },
-    {
       "name": "Don't get stuck",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
       "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
+    },
+    {
+      "name": "All Knowing",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/59GgkNvTjsEcALfELOPuVk"
     },
     {
       "name": "Say It Was",
@@ -121,13 +149,6 @@
       "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
     },
     {
-      "name": "Steps",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
-    },
-    {
       "name": "Livin' Loose",
       "artist": "George Clanton",
       "album": "Slide",
@@ -142,13 +163,6 @@
       "external_url": "https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn"
     },
     {
-      "name": "Noir kei",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
-    },
-    {
       "name": "CRUSH (with Travis Scott)",
       "artist": "Playboi Carti",
       "album": "MUSIC",
@@ -156,25 +170,11 @@
       "external_url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
     },
     {
-      "name": "Face Pressed Against Glass",
-      "artist": "Cities Aviv",
-      "album": "The Crashing Sound of How It Goes",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733496e50a6c23e63f7f9eb7e0",
-      "external_url": "https://open.spotify.com/track/7cfVuZCP1nI08FEPgXtt6G"
-    },
-    {
-      "name": "INTERSTELLAR (feat. Jahvor)",
-      "artist": "BNYX®",
-      "album": "LOADING...",
-      "image": "https://i.scdn.co/image/ab67616d0000b27338373bdf54004a7d2e1a69ce",
-      "external_url": "https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl"
-    },
-    {
-      "name": "All Knowing",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/59GgkNvTjsEcALfELOPuVk"
+      "name": "2Door",
+      "artist": "kuru",
+      "album": "Stay true forever",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396918036ed875f148a09112c",
+      "external_url": "https://open.spotify.com/track/30P4anN6nOSBifO45J6WH4"
     }
   ],
   "topArtists": [
@@ -205,14 +205,6 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
-      "name": "Playboi Carti",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-    },
-    {
       "name": "Ken Carson",
       "genres": [
         "rage rap"
@@ -221,12 +213,12 @@
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
-      "name": "Destroy Lonely",
+      "name": "Playboi Carti",
       "genres": [
         "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
       "name": "Lucy Bedroque",
@@ -237,6 +229,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+    },
+    {
+      "name": "Destroy Lonely",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
       "name": "Pz'",
