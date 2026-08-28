@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T17:24:53.844Z",
+  "lastUpdated": "2026-08-28T18:18:12.256Z",
   "topTracks": [
     {
       "name": "Maverick Intro",
@@ -28,6 +28,13 @@
       "album": "Pretti Loves U 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
       "external_url": "https://open.spotify.com/track/0Reng10iZSowA8IlegRTtL"
+    },
+    {
+      "name": "SPEED DEMON",
+      "artist": "Lucy Bedroque",
+      "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738bf9f50617421dac218ce57a",
+      "external_url": "https://open.spotify.com/track/1QfO3h4g6GZvvg6HTQlXiu"
     },
     {
       "name": "Go !",
@@ -72,11 +79,11 @@
       "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
     },
     {
-      "name": "SPEED DEMON",
-      "artist": "Lucy Bedroque",
-      "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738bf9f50617421dac218ce57a",
-      "external_url": "https://open.spotify.com/track/1QfO3h4g6GZvvg6HTQlXiu"
+      "name": "Poured",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
     },
     {
       "name": "SEALS & TAGS",
@@ -86,13 +93,6 @@
       "external_url": "https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM"
     },
     {
-      "name": "Poured",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
-    },
-    {
       "name": "223",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
@@ -100,18 +100,18 @@
       "external_url": "https://open.spotify.com/track/7Axp58dkUabcFGYXokXxwp"
     },
     {
-      "name": "FW19",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
-    },
-    {
       "name": "Steps",
       "artist": "prettifun",
       "album": "Pretti Loves U 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
       "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
+    },
+    {
+      "name": "FW19",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
     },
     {
       "name": "End of spring",
@@ -149,6 +149,13 @@
       "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
     },
     {
+      "name": "9 bitches (with ApolloRed1 )",
+      "artist": "Ken Carson",
+      "album": "xperiment - cartunez",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
+      "external_url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
+    },
+    {
       "name": "Livin' Loose",
       "artist": "George Clanton",
       "album": "Slide",
@@ -156,25 +163,18 @@
       "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
     },
     {
+      "name": "SICKÖ",
+      "artist": "diamond*",
+      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
+      "external_url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
+    },
+    {
       "name": "CRAZY (feat. PinkPantheress)",
       "artist": "LE SSERAFIM",
       "album": "CRAZY (feat. PinkPantheress)",
       "image": "https://i.scdn.co/image/ab67616d0000b2735aeb64a714a6797a49350d1b",
       "external_url": "https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn"
-    },
-    {
-      "name": "CRUSH (with Travis Scott)",
-      "artist": "Playboi Carti",
-      "album": "MUSIC",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
-      "external_url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
-    },
-    {
-      "name": "2Door",
-      "artist": "kuru",
-      "album": "Stay true forever",
-      "image": "https://i.scdn.co/image/ab67616d0000b27396918036ed875f148a09112c",
-      "external_url": "https://open.spotify.com/track/30P4anN6nOSBifO45J6WH4"
     }
   ],
   "topArtists": [
@@ -213,14 +213,6 @@
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
-      "name": "Playboi Carti",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-    },
-    {
       "name": "Lucy Bedroque",
       "genres": [
         "hyperpop",
@@ -231,6 +223,14 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
+      "name": "Playboi Carti",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+    },
+    {
       "name": "Destroy Lonely",
       "genres": [
         "rage rap"
@@ -239,12 +239,13 @@
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     },
     {
-      "name": "Pz'",
+      "name": "diamond*",
       "genres": [
-        "underground hip hop"
+        "underground hip hop",
+        "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9087490518ae4f6b178d6d78",
-      "external_url": "https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5405a63dceea87e672dcce01",
+      "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
     },
     {
       "name": "slayr",
