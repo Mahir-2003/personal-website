@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T18:18:12.256Z",
+  "lastUpdated": "2026-08-29T12:26:33.507Z",
   "topTracks": [
     {
       "name": "Maverick Intro",
@@ -33,7 +33,7 @@
       "name": "SPEED DEMON",
       "artist": "Lucy Bedroque",
       "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738bf9f50617421dac218ce57a",
+      "image": "https://i.scdn.co/image/ab67616d0000b27370f18db72394fa65e71d4bb3",
       "external_url": "https://open.spotify.com/track/1QfO3h4g6GZvvg6HTQlXiu"
     },
     {
@@ -81,7 +81,7 @@
     {
       "name": "Poured",
       "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
+      "album": "Maverick “Almost Forever�� EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
       "external_url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
     },
@@ -105,6 +105,13 @@
       "album": "Pretti Loves U 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
       "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
+    },
+    {
+      "name": "Livin' Loose",
+      "artist": "George Clanton",
+      "album": "Slide",
+      "image": "https://i.scdn.co/image/ab67616d0000b27354823b660c0985479ea17f08",
+      "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
     },
     {
       "name": "FW19",
@@ -154,13 +161,6 @@
       "album": "xperiment - cartunez",
       "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
       "external_url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
-    },
-    {
-      "name": "Livin' Loose",
-      "artist": "George Clanton",
-      "album": "Slide",
-      "image": "https://i.scdn.co/image/ab67616d0000b27354823b660c0985479ea17f08",
-      "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
     },
     {
       "name": "SICKÖ",
@@ -223,6 +223,15 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
+      "name": "diamond*",
+      "genres": [
+        "underground hip hop",
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5405a63dceea87e672dcce01",
+      "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
+    },
+    {
       "name": "Playboi Carti",
       "genres": [
         "rage rap"
@@ -237,15 +246,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-    },
-    {
-      "name": "diamond*",
-      "genres": [
-        "underground hip hop",
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5405a63dceea87e672dcce01",
-      "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
     },
     {
       "name": "slayr",
