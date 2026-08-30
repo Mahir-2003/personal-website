@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T12:26:33.507Z",
+  "lastUpdated": "2026-08-30T11:27:08.577Z",
   "topTracks": [
     {
       "name": "Maverick Intro",
@@ -16,18 +16,18 @@
       "external_url": "https://open.spotify.com/track/6zyQdgXjwx0u1FwMlvxctR"
     },
     {
-      "name": "Gas. Brake.",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
-    },
-    {
       "name": "Rollacoasta",
       "artist": "prettifun",
       "album": "Pretti Loves U 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
       "external_url": "https://open.spotify.com/track/0Reng10iZSowA8IlegRTtL"
+    },
+    {
+      "name": "Gas. Brake.",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
     },
     {
       "name": "SPEED DEMON",
@@ -65,6 +65,13 @@
       "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
     },
     {
+      "name": "Steps",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
+    },
+    {
       "name": "Yoko",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
@@ -81,16 +88,9 @@
     {
       "name": "Poured",
       "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever�� EP",
+      "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
       "external_url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
-    },
-    {
-      "name": "SEALS & TAGS",
-      "artist": "Pz'",
-      "album": "B4NTB",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735344ce749ea1b79ddab232fb",
-      "external_url": "https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM"
     },
     {
       "name": "223",
@@ -100,11 +100,11 @@
       "external_url": "https://open.spotify.com/track/7Axp58dkUabcFGYXokXxwp"
     },
     {
-      "name": "Steps",
+      "name": "All Knowing",
       "artist": "prettifun",
       "album": "Pretti Loves U 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
+      "external_url": "https://open.spotify.com/track/59GgkNvTjsEcALfELOPuVk"
     },
     {
       "name": "Livin' Loose",
@@ -114,11 +114,25 @@
       "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
     },
     {
+      "name": "off a bean",
+      "artist": "Ken Carson",
+      "album": "xperiment - cartunez",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
+      "external_url": "https://open.spotify.com/track/59rmIsiTbQg2wbFjLnpsMe"
+    },
+    {
       "name": "FW19",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
       "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
+    },
+    {
+      "name": "9 bitches (with ApolloRed1 )",
+      "artist": "Ken Carson",
+      "album": "xperiment - cartunez",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
+      "external_url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
     },
     {
       "name": "End of spring",
@@ -135,13 +149,6 @@
       "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
     },
     {
-      "name": "All Knowing",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/59GgkNvTjsEcALfELOPuVk"
-    },
-    {
       "name": "Say It Was",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
@@ -156,13 +163,6 @@
       "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
     },
     {
-      "name": "9 bitches (with ApolloRed1 )",
-      "artist": "Ken Carson",
-      "album": "xperiment - cartunez",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
-      "external_url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
-    },
-    {
       "name": "SICKÖ",
       "artist": "diamond*",
       "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
@@ -170,11 +170,11 @@
       "external_url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
     },
     {
-      "name": "CRAZY (feat. PinkPantheress)",
-      "artist": "LE SSERAFIM",
-      "album": "CRAZY (feat. PinkPantheress)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735aeb64a714a6797a49350d1b",
-      "external_url": "https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn"
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/4aY54agzacXyMxb7jowbOv"
     }
   ],
   "topArtists": [
@@ -186,6 +186,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+    },
+    {
+      "name": "Ken Carson",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
       "name": "Lil Uzi Vert",
@@ -203,14 +211,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-    },
-    {
-      "name": "Ken Carson",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
       "name": "Lucy Bedroque",
