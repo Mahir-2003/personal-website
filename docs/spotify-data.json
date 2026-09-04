@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T10:49:33.450Z",
+  "lastUpdated": "2026-09-04T10:48:47.902Z",
   "topTracks": [
     {
       "name": "Scene",
@@ -232,14 +232,6 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "Playboi Carti",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-    },
-    {
       "name": "PinkPantheress",
       "genres": [
         "bedroom pop"
@@ -263,6 +255,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc9af537b072eccabc79257dc",
       "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+    },
+    {
+      "name": "A$AP Rocky",
+      "genres": [
+        "rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
+      "external_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
     }
   ]
 }
