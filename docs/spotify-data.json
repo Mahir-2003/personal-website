@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T11:49:49.572Z",
+  "lastUpdated": "2026-09-08T10:47:17.805Z",
   "topTracks": [
     {
       "name": "Scene",
@@ -23,13 +23,6 @@
       "external_url": "https://open.spotify.com/track/1QfO3h4g6GZvvg6HTQlXiu"
     },
     {
-      "name": "Maverick Intro",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
-    },
-    {
       "name": "Gas. Brake.",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
@@ -42,6 +35,13 @@
       "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
       "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
       "external_url": "https://open.spotify.com/track/40Yyv1h6gm0HaruXif6A3Y"
+    },
+    {
+      "name": "Maverick Intro",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
     },
     {
       "name": "Steps",
@@ -86,13 +86,6 @@
       "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
     },
     {
-      "name": "Go !",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
-    },
-    {
       "name": "All Knowing",
       "artist": "prettifun",
       "album": "Pretti Loves U 2",
@@ -107,39 +100,18 @@
       "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
     },
     {
+      "name": "Go !",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
+    },
+    {
       "name": "FW19",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
       "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
-    },
-    {
-      "name": "Livin' Loose",
-      "artist": "George Clanton",
-      "album": "Slide",
-      "image": "https://i.scdn.co/image/ab67616d0000b27354823b660c0985479ea17f08",
-      "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
-    },
-    {
-      "name": "Yoko",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
-    },
-    {
-      "name": "Moon and the Stars",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/4aY54agzacXyMxb7jowbOv"
-    },
-    {
-      "name": "9 bitches (with ApolloRed1 )",
-      "artist": "Ken Carson",
-      "album": "xperiment - cartunez",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
-      "external_url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
     },
     {
       "name": "Poured",
@@ -149,11 +121,32 @@
       "external_url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
     },
     {
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/4aY54agzacXyMxb7jowbOv"
+    },
+    {
+      "name": "Yoko",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
+    },
+    {
       "name": "223",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
       "external_url": "https://open.spotify.com/track/7Axp58dkUabcFGYXokXxwp"
+    },
+    {
+      "name": "9 bitches (with ApolloRed1 )",
+      "artist": "Ken Carson",
+      "album": "xperiment - cartunez",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
+      "external_url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
     },
     {
       "name": "End of spring",
@@ -170,11 +163,18 @@
       "external_url": "https://open.spotify.com/track/1xCmHI33UwCDZyb0HFSTw6"
     },
     {
-      "name": "MONSTER",
-      "artist": "Destroy Lonely",
-      "album": "MONSTER",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbf227c955ae7b4935a39194",
-      "external_url": "https://open.spotify.com/track/2rSNj3zySzJ09yWUQar6Iz"
+      "name": "Pray for...",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
+    },
+    {
+      "name": "Like glue",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/4WNPHMoMm3tcGW70lxRkZ4"
     }
   ],
   "topArtists": [
@@ -240,6 +240,14 @@
       "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     {
+      "name": "Ariana Grande",
+      "genres": [
+        "pop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+      "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
       "name": "Destroy Lonely",
       "genres": [
         "rage rap"
@@ -255,14 +263,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc9af537b072eccabc79257dc",
       "external_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
-    },
-    {
-      "name": "Playboi Carti",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     }
   ]
 }
