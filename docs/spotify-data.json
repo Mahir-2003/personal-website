@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T10:50:28.423Z",
+  "lastUpdated": "2026-09-11T10:46:24.900Z",
   "topTracks": [
     {
       "name": "Scene",
@@ -37,6 +37,13 @@
       "external_url": "https://open.spotify.com/track/40Yyv1h6gm0HaruXif6A3Y"
     },
     {
+      "name": "scrape",
+      "artist": "Ken Carson",
+      "album": "xperiment - cartunez",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
+      "external_url": "https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC"
+    },
+    {
       "name": "Steps",
       "artist": "prettifun",
       "album": "Pretti Loves U 2",
@@ -65,13 +72,6 @@
       "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
     },
     {
-      "name": "twisted",
-      "artist": "luvfredo",
-      "album": "twisted",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734b8cb069fc4ddda50be9af53",
-      "external_url": "https://open.spotify.com/track/2Wyg3QZBRZcMeKJ5hwqTDY"
-    },
-    {
       "name": "SICKÖ",
       "artist": "diamond*",
       "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
@@ -79,18 +79,18 @@
       "external_url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
     },
     {
-      "name": "scrape",
-      "artist": "Ken Carson",
-      "album": "xperiment - cartunez",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
-      "external_url": "https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC"
-    },
-    {
       "name": "Gas. Brake.",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
       "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+    },
+    {
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/4aY54agzacXyMxb7jowbOv"
     },
     {
       "name": "All Knowing",
@@ -107,18 +107,18 @@
       "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
     },
     {
-      "name": "Moon and the Stars",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/4aY54agzacXyMxb7jowbOv"
-    },
-    {
       "name": "9 bitches (with ApolloRed1 )",
       "artist": "Ken Carson",
       "album": "xperiment - cartunez",
       "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
       "external_url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
+    },
+    {
+      "name": "twisted",
+      "artist": "luvfredo",
+      "album": "twisted",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b8cb069fc4ddda50be9af53",
+      "external_url": "https://open.spotify.com/track/2Wyg3QZBRZcMeKJ5hwqTDY"
     },
     {
       "name": "50k",
@@ -149,11 +149,11 @@
       "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
     },
     {
-      "name": "Yoko",
+      "name": "Go !",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
+      "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
     },
     {
       "name": "swag jack",
@@ -170,11 +170,11 @@
       "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
     },
     {
-      "name": "Go !",
+      "name": "Yoko",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
+      "external_url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
     }
   ],
   "topArtists": [
@@ -206,8 +206,8 @@
     {
       "name": "diamond*",
       "genres": [
-        "rage rap",
-        "underground hip hop"
+        "underground hip hop",
+        "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb5405a63dceea87e672dcce01",
       "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
