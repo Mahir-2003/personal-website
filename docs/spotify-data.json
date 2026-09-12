@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T10:46:24.900Z",
+  "lastUpdated": "2026-09-12T10:15:30.554Z",
   "topTracks": [
     {
       "name": "Scene",
@@ -51,13 +51,6 @@
       "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
     },
     {
-      "name": "Maverick Intro",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
-    },
-    {
       "name": "U wld never do it",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -79,11 +72,11 @@
       "external_url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
     },
     {
-      "name": "Gas. Brake.",
+      "name": "Maverick Intro",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+      "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
     },
     {
       "name": "Moon and the Stars",
@@ -114,18 +107,18 @@
       "external_url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
     },
     {
-      "name": "twisted",
-      "artist": "luvfredo",
-      "album": "twisted",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734b8cb069fc4ddda50be9af53",
-      "external_url": "https://open.spotify.com/track/2Wyg3QZBRZcMeKJ5hwqTDY"
-    },
-    {
       "name": "50k",
       "artist": "Ken Carson",
       "album": "xperiment - cartunez",
       "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
       "external_url": "https://open.spotify.com/track/39xRN4sWk5iBpoJtszJTff"
+    },
+    {
+      "name": "Gas. Brake.",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
     },
     {
       "name": "End of spring",
@@ -149,13 +142,6 @@
       "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
     },
     {
-      "name": "Go !",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
-    },
-    {
       "name": "swag jack",
       "artist": "Ken Carson",
       "album": "xperiment - cartunez",
@@ -170,11 +156,25 @@
       "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
     },
     {
-      "name": "Yoko",
+      "name": "Nobody",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/3s72RIMx3B0V6s1BikStrA"
+    },
+    {
+      "name": "ALL STARS (feat. Pz', Southsidesilhouette)",
+      "artist": "diamond*",
+      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
+      "external_url": "https://open.spotify.com/track/4UhjksWXQEMOAMNGGvtqBz"
+    },
+    {
+      "name": "Go !",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
+      "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
     }
   ],
   "topArtists": [
@@ -232,6 +232,15 @@
       "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
     },
     {
+      "name": "Nettspend",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
+      "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+    },
+    {
       "name": "PinkPantheress",
       "genres": [
         "bedroom pop"
@@ -246,15 +255,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
       "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-    },
-    {
-      "name": "Nettspend",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
-      "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
     },
     {
       "name": "Destroy Lonely",
