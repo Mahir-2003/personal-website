@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T10:15:30.554Z",
+  "lastUpdated": "2026-09-13T11:15:54.859Z",
   "topTracks": [
     {
       "name": "Scene",
@@ -16,18 +16,18 @@
       "external_url": "https://open.spotify.com/track/1QfO3h4g6GZvvg6HTQlXiu"
     },
     {
-      "name": "Rollacoasta",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/0Reng10iZSowA8IlegRTtL"
-    },
-    {
       "name": "off a bean",
       "artist": "Ken Carson",
       "album": "xperiment - cartunez",
       "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
       "external_url": "https://open.spotify.com/track/59rmIsiTbQg2wbFjLnpsMe"
+    },
+    {
+      "name": "Rollacoasta",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/0Reng10iZSowA8IlegRTtL"
     },
     {
       "name": "MØNTREALITY FREESTYLE",
@@ -51,11 +51,11 @@
       "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
     },
     {
-      "name": "U wld never do it",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+      "name": "SICKÖ",
+      "artist": "diamond*",
+      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
+      "external_url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
     },
     {
       "name": "Noir kei",
@@ -65,18 +65,11 @@
       "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
     },
     {
-      "name": "SICKÖ",
-      "artist": "diamond*",
-      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
-      "external_url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
-    },
-    {
-      "name": "Maverick Intro",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
+      "name": "U wld never do it",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
     },
     {
       "name": "Moon and the Stars",
@@ -93,13 +86,6 @@
       "external_url": "https://open.spotify.com/track/59GgkNvTjsEcALfELOPuVk"
     },
     {
-      "name": "FW19",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
-    },
-    {
       "name": "9 bitches (with ApolloRed1 )",
       "artist": "Ken Carson",
       "album": "xperiment - cartunez",
@@ -114,11 +100,11 @@
       "external_url": "https://open.spotify.com/track/39xRN4sWk5iBpoJtszJTff"
     },
     {
-      "name": "Gas. Brake.",
+      "name": "Maverick Intro",
       "artist": "Lil Uzi Vert",
       "album": "Maverick “Almost Forever” EP",
       "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+      "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
     },
     {
       "name": "End of spring",
@@ -140,6 +126,13 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
       "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
+    },
+    {
+      "name": "Gas. Brake.",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
     },
     {
       "name": "swag jack",
@@ -170,11 +163,18 @@
       "external_url": "https://open.spotify.com/track/4UhjksWXQEMOAMNGGvtqBz"
     },
     {
-      "name": "Go !",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/1AIHzV65jSdYp3gxHGt0Nj"
+      "name": "interlude",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
+    },
+    {
+      "name": "maybach",
+      "artist": "Nettspend",
+      "album": "HIM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
+      "external_url": "https://open.spotify.com/track/22A5KtYVT2zuuBccsIQpwK"
     }
   ],
   "topArtists": [
@@ -223,15 +223,6 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "Lil Uzi Vert",
-      "genres": [
-        "melodic rap",
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
-      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-    },
-    {
       "name": "Nettspend",
       "genres": [
         "rage rap",
@@ -239,6 +230,15 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+    },
+    {
+      "name": "Lil Uzi Vert",
+      "genres": [
+        "melodic rap",
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
+      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
     },
     {
       "name": "PinkPantheress",
