@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T11:15:54.859Z",
+  "lastUpdated": "2026-09-14T12:04:51.610Z",
   "topTracks": [
     {
       "name": "Scene",
@@ -51,6 +51,13 @@
       "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
     },
     {
+      "name": "Noir kei",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
+    },
+    {
       "name": "SICKÖ",
       "artist": "diamond*",
       "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
@@ -58,11 +65,11 @@
       "external_url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
     },
     {
-      "name": "Noir kei",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
+      "name": "All Knowing",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/59GgkNvTjsEcALfELOPuVk"
     },
     {
       "name": "U wld never do it",
@@ -79,13 +86,6 @@
       "external_url": "https://open.spotify.com/track/4aY54agzacXyMxb7jowbOv"
     },
     {
-      "name": "All Knowing",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/59GgkNvTjsEcALfELOPuVk"
-    },
-    {
       "name": "9 bitches (with ApolloRed1 )",
       "artist": "Ken Carson",
       "album": "xperiment - cartunez",
@@ -98,6 +98,20 @@
       "album": "xperiment - cartunez",
       "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
       "external_url": "https://open.spotify.com/track/39xRN4sWk5iBpoJtszJTff"
+    },
+    {
+      "name": "Deposit",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/1xCmHI33UwCDZyb0HFSTw6"
+    },
+    {
+      "name": "cryn innis coupe",
+      "artist": "bleood",
+      "album": "haunted hills",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
+      "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
     },
     {
       "name": "Maverick Intro",
@@ -114,11 +128,11 @@
       "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
     },
     {
-      "name": "Deposit",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/1xCmHI33UwCDZyb0HFSTw6"
+      "name": "FW19",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
     },
     {
       "name": "Don't get stuck",
@@ -135,6 +149,13 @@
       "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
     },
     {
+      "name": "WHITEHORSEMANNEQUIN",
+      "artist": "Lucy Bedroque",
+      "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
+      "image": "https://i.scdn.co/image/ab67616d0000b27370f18db72394fa65e71d4bb3",
+      "external_url": "https://open.spotify.com/track/35ElU1Fn3b5fVvvQA4JjuY"
+    },
+    {
       "name": "swag jack",
       "artist": "Ken Carson",
       "album": "xperiment - cartunez",
@@ -142,39 +163,18 @@
       "external_url": "https://open.spotify.com/track/1D5l77n2T8B7kjPiRv2pVx"
     },
     {
+      "name": "Friday",
+      "artist": "Lucy Bedroque",
+      "album": "Tether",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734dc200e1f7ec1efbb832c9ce",
+      "external_url": "https://open.spotify.com/track/1fft5VgOX5p6vudLDsExLV"
+    },
+    {
       "name": "Pray for...",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
       "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
-    },
-    {
-      "name": "Nobody",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/3s72RIMx3B0V6s1BikStrA"
-    },
-    {
-      "name": "ALL STARS (feat. Pz', Southsidesilhouette)",
-      "artist": "diamond*",
-      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
-      "external_url": "https://open.spotify.com/track/4UhjksWXQEMOAMNGGvtqBz"
-    },
-    {
-      "name": "interlude",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
-    },
-    {
-      "name": "maybach",
-      "artist": "Nettspend",
-      "album": "HIM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
-      "external_url": "https://open.spotify.com/track/22A5KtYVT2zuuBccsIQpwK"
     }
   ],
   "topArtists": [
@@ -196,6 +196,16 @@
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
+      "name": "Lucy Bedroque",
+      "genres": [
+        "hyperpop",
+        "rage rap",
+        "cloud rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+    },
+    {
       "name": "kuru",
       "genres": [
         "hyperpop"
@@ -211,16 +221,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb5405a63dceea87e672dcce01",
       "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
-    },
-    {
-      "name": "Lucy Bedroque",
-      "genres": [
-        "hyperpop",
-        "rage rap",
-        "cloud rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
-      "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
       "name": "Nettspend",
