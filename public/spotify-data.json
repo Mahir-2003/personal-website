@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-09-14T12:04:51.610Z",
+  "lastUpdated": "2026-09-15T11:17:43.006Z",
   "topTracks": [
-    {
-      "name": "Scene",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/6zyQdgXjwx0u1FwMlvxctR"
-    },
     {
       "name": "SPEED DEMON",
       "artist": "Lucy Bedroque",
       "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
       "image": "https://i.scdn.co/image/ab67616d0000b27370f18db72394fa65e71d4bb3",
       "external_url": "https://open.spotify.com/track/1QfO3h4g6GZvvg6HTQlXiu"
+    },
+    {
+      "name": "Scene",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/6zyQdgXjwx0u1FwMlvxctR"
     },
     {
       "name": "off a bean",
@@ -51,6 +51,13 @@
       "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
     },
     {
+      "name": "Moon and the Stars",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/4aY54agzacXyMxb7jowbOv"
+    },
+    {
       "name": "Noir kei",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -77,13 +84,6 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
       "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
-    },
-    {
-      "name": "Moon and the Stars",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/4aY54agzacXyMxb7jowbOv"
     },
     {
       "name": "9 bitches (with ApolloRed1 )",
@@ -114,41 +114,6 @@
       "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
     },
     {
-      "name": "Maverick Intro",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
-    },
-    {
-      "name": "End of spring",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
-    },
-    {
-      "name": "FW19",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
-    },
-    {
-      "name": "Don't get stuck",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
-    },
-    {
-      "name": "Gas. Brake.",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
-    },
-    {
       "name": "WHITEHORSEMANNEQUIN",
       "artist": "Lucy Bedroque",
       "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
@@ -170,11 +135,46 @@
       "external_url": "https://open.spotify.com/track/1fft5VgOX5p6vudLDsExLV"
     },
     {
-      "name": "Pray for...",
+      "name": "End of spring",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/1ySxrjvgjDmV9gWTNRklpK"
+      "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
+    },
+    {
+      "name": "Nobody",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/3s72RIMx3B0V6s1BikStrA"
+    },
+    {
+      "name": "Don't get stuck",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
+    },
+    {
+      "name": "Gas. Brake.",
+      "artist": "Lil Uzi Vert",
+      "album": "Maverick “Almost Forever” EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
+      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+    },
+    {
+      "name": "ALL STARS (feat. Pz', Southsidesilhouette)",
+      "artist": "diamond*",
+      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
+      "external_url": "https://open.spotify.com/track/4UhjksWXQEMOAMNGGvtqBz"
+    },
+    {
+      "name": "FW19",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
     }
   ],
   "topArtists": [
@@ -206,14 +206,6 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "kuru",
-      "genres": [
-        "hyperpop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-    },
-    {
       "name": "diamond*",
       "genres": [
         "underground hip hop",
@@ -221,6 +213,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb5405a63dceea87e672dcce01",
       "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
+    },
+    {
+      "name": "kuru",
+      "genres": [
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
       "name": "Nettspend",
@@ -232,6 +232,14 @@
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
     },
     {
+      "name": "PinkPantheress",
+      "genres": [
+        "bedroom pop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
+      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+    },
+    {
       "name": "Lil Uzi Vert",
       "genres": [
         "melodic rap",
@@ -239,14 +247,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
       "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-    },
-    {
-      "name": "PinkPantheress",
-      "genres": [
-        "bedroom pop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
-      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     {
       "name": "Ariana Grande",
