@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T11:00:13.716Z",
+  "lastUpdated": "2026-09-17T11:10:31.860Z",
   "topTracks": [
     {
       "name": "SPEED DEMON",
@@ -58,13 +58,6 @@
       "external_url": "https://open.spotify.com/track/4aY54agzacXyMxb7jowbOv"
     },
     {
-      "name": "Noir kei",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
-    },
-    {
       "name": "SICKÖ",
       "artist": "diamond*",
       "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
@@ -79,11 +72,11 @@
       "external_url": "https://open.spotify.com/track/59GgkNvTjsEcALfELOPuVk"
     },
     {
-      "name": "U wld never do it",
+      "name": "Noir kei",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
     },
     {
       "name": "9 bitches (with ApolloRed1 )",
@@ -114,6 +107,13 @@
       "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
     },
     {
+      "name": "U wld never do it",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+    },
+    {
       "name": "WHITEHORSEMANNEQUIN",
       "artist": "Lucy Bedroque",
       "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
@@ -135,25 +135,11 @@
       "external_url": "https://open.spotify.com/track/1fft5VgOX5p6vudLDsExLV"
     },
     {
-      "name": "End of spring",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/6phudk7PR3WbwHGUrveSub"
-    },
-    {
       "name": "Nobody",
       "artist": "prettifun",
       "album": "Pretti Loves U 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
       "external_url": "https://open.spotify.com/track/3s72RIMx3B0V6s1BikStrA"
-    },
-    {
-      "name": "Don't get stuck",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
     },
     {
       "name": "Gas. Brake.",
@@ -170,11 +156,25 @@
       "external_url": "https://open.spotify.com/track/4UhjksWXQEMOAMNGGvtqBz"
     },
     {
-      "name": "FW19",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/0FYh4CjkRzcPwrze8Kag8K"
+      "name": "Internet",
+      "artist": "prettifun",
+      "album": "FunHouse Deluxe",
+      "image": "https://i.scdn.co/image/ab67616d0000b273250613507ab9b4b08de3182c",
+      "external_url": "https://open.spotify.com/track/0fyDgYiyfD8H4bAogtaabD"
+    },
+    {
+      "name": "interlude",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
+    },
+    {
+      "name": "Just Me",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/2AZjw3M9j3vYNgNqOEt1P1"
     }
   ],
   "topArtists": [
