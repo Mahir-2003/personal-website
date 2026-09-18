@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T11:10:31.860Z",
+  "lastUpdated": "2026-09-18T10:43:56.042Z",
   "topTracks": [
     {
       "name": "SPEED DEMON",
@@ -142,18 +142,18 @@
       "external_url": "https://open.spotify.com/track/3s72RIMx3B0V6s1BikStrA"
     },
     {
-      "name": "Gas. Brake.",
-      "artist": "Lil Uzi Vert",
-      "album": "Maverick “Almost Forever” EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b273584ecfa79a1a2748e4cf4c88",
-      "external_url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
-    },
-    {
       "name": "ALL STARS (feat. Pz', Southsidesilhouette)",
       "artist": "diamond*",
       "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
       "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
       "external_url": "https://open.spotify.com/track/4UhjksWXQEMOAMNGGvtqBz"
+    },
+    {
+      "name": "Sexy Magic (from GTAVI: The Album)",
+      "artist": "CA7RIEL & Paco Amoroso",
+      "album": "Sexy Magic (from GTAVI: The Album)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273428173abda5ff463c0a8c27d",
+      "external_url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
     },
     {
       "name": "Internet",
@@ -215,14 +215,6 @@
       "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
     },
     {
-      "name": "kuru",
-      "genres": [
-        "hyperpop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-    },
-    {
       "name": "Nettspend",
       "genres": [
         "rage rap",
@@ -230,6 +222,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+    },
+    {
+      "name": "kuru",
+      "genres": [
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
       "name": "PinkPantheress",
