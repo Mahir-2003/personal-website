@@ -1,5 +1,13 @@
 [
   {
+    "title": "Coyote vs. Acme",
+    "year": "2026",
+    "rating": "\u2605\u2605\u2605\u00bd",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/0/8/8/1089088-coyote-vs-acme-0-600-0-900-crop.jpg?v=735eb10cc7",
+    "watchedDate": "Sep 18, 2026",
+    "link": "https://letterboxd.com/meatymahir/film/coyote-vs-acme/"
+  },
+  {
     "title": "Tony",
     "year": "2026",
     "rating": "\u2605\u2605\u2605\u2605",
@@ -38,13 +46,5 @@
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/6/0/7/8/7/560787-spider-man-no-way-home-0-600-0-900-crop.jpg?v=a336d4f40c",
     "watchedDate": "Aug 01, 2026",
     "link": "https://letterboxd.com/meatymahir/film/spider-man-no-way-home/"
-  },
-  {
-    "title": "Spider-Man: Far From Home",
-    "year": "2019",
-    "rating": "\u2605\u2605\u2605",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/6/2/9/7/7/362977-spider-man-far-from-home-0-600-0-900-crop.jpg?v=d139fbf2ae",
-    "watchedDate": "Aug 01, 2026",
-    "link": "https://letterboxd.com/meatymahir/film/spider-man-far-from-home/"
   }
 ]

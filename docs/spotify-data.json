@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T10:43:56.042Z",
+  "lastUpdated": "2026-09-19T10:28:09.074Z",
   "topTracks": [
     {
       "name": "SPEED DEMON",
@@ -44,11 +44,11 @@
       "external_url": "https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC"
     },
     {
-      "name": "Steps",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
+      "name": "SICKÖ",
+      "artist": "diamond*",
+      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
+      "external_url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
     },
     {
       "name": "Moon and the Stars",
@@ -58,18 +58,18 @@
       "external_url": "https://open.spotify.com/track/4aY54agzacXyMxb7jowbOv"
     },
     {
-      "name": "SICKÖ",
-      "artist": "diamond*",
-      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
-      "external_url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
-    },
-    {
       "name": "All Knowing",
       "artist": "prettifun",
       "album": "Pretti Loves U 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
       "external_url": "https://open.spotify.com/track/59GgkNvTjsEcALfELOPuVk"
+    },
+    {
+      "name": "50k",
+      "artist": "Ken Carson",
+      "album": "xperiment - cartunez",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
+      "external_url": "https://open.spotify.com/track/39xRN4sWk5iBpoJtszJTff"
     },
     {
       "name": "Noir kei",
@@ -86,20 +86,6 @@
       "external_url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
     },
     {
-      "name": "50k",
-      "artist": "Ken Carson",
-      "album": "xperiment - cartunez",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
-      "external_url": "https://open.spotify.com/track/39xRN4sWk5iBpoJtszJTff"
-    },
-    {
-      "name": "Deposit",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/1xCmHI33UwCDZyb0HFSTw6"
-    },
-    {
       "name": "cryn innis coupe",
       "artist": "bleood",
       "album": "haunted hills",
@@ -107,18 +93,25 @@
       "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
     },
     {
-      "name": "U wld never do it",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
-    },
-    {
       "name": "WHITEHORSEMANNEQUIN",
       "artist": "Lucy Bedroque",
       "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
       "image": "https://i.scdn.co/image/ab67616d0000b27370f18db72394fa65e71d4bb3",
       "external_url": "https://open.spotify.com/track/35ElU1Fn3b5fVvvQA4JjuY"
+    },
+    {
+      "name": "Steps",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/43vgCR8iQ8prgMieXBfXal"
+    },
+    {
+      "name": "U wld never do it",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
     },
     {
       "name": "swag jack",
@@ -135,11 +128,18 @@
       "external_url": "https://open.spotify.com/track/1fft5VgOX5p6vudLDsExLV"
     },
     {
-      "name": "Nobody",
+      "name": "Deposit",
       "artist": "prettifun",
       "album": "Pretti Loves U 2",
       "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/3s72RIMx3B0V6s1BikStrA"
+      "external_url": "https://open.spotify.com/track/1xCmHI33UwCDZyb0HFSTw6"
+    },
+    {
+      "name": "maybach",
+      "artist": "Nettspend",
+      "album": "HIM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
+      "external_url": "https://open.spotify.com/track/22A5KtYVT2zuuBccsIQpwK"
     },
     {
       "name": "ALL STARS (feat. Pz', Southsidesilhouette)",
@@ -149,6 +149,13 @@
       "external_url": "https://open.spotify.com/track/4UhjksWXQEMOAMNGGvtqBz"
     },
     {
+      "name": "ALL SPEAKERS GO TO HEAVEN",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
+    },
+    {
       "name": "Sexy Magic (from GTAVI: The Album)",
       "artist": "CA7RIEL & Paco Amoroso",
       "album": "Sexy Magic (from GTAVI: The Album)",
@@ -156,25 +163,18 @@
       "external_url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
     },
     {
+      "name": "change on me",
+      "artist": "Nettspend",
+      "album": "HIM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
+      "external_url": "https://open.spotify.com/track/4vSNmF3OxniaSnc5IQoMcw"
+    },
+    {
       "name": "Internet",
       "artist": "prettifun",
       "album": "FunHouse Deluxe",
       "image": "https://i.scdn.co/image/ab67616d0000b273250613507ab9b4b08de3182c",
       "external_url": "https://open.spotify.com/track/0fyDgYiyfD8H4bAogtaabD"
-    },
-    {
-      "name": "interlude",
-      "artist": "Ken Carson",
-      "album": "xperiment",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
-      "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
-    },
-    {
-      "name": "Just Me",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/2AZjw3M9j3vYNgNqOEt1P1"
     }
   ],
   "topArtists": [
@@ -240,15 +240,6 @@
       "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     {
-      "name": "Lil Uzi Vert",
-      "genres": [
-        "melodic rap",
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb0eb7019b6bb9ce078a9ac03b",
-      "external_url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-    },
-    {
       "name": "Ariana Grande",
       "genres": [
         "pop"
@@ -257,12 +248,20 @@
       "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
     },
     {
-      "name": "Destroy Lonely",
+      "name": "Yeat",
       "genres": [
         "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
+      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+    },
+    {
+      "name": "Playboi Carti",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     }
   ]
 }
