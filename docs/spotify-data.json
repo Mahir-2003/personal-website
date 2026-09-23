@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T11:07:43.695Z",
+  "lastUpdated": "2026-09-23T10:57:52.708Z",
   "topTracks": [
     {
       "name": "SPEED DEMON",
@@ -23,11 +23,11 @@
       "external_url": "https://open.spotify.com/track/6zyQdgXjwx0u1FwMlvxctR"
     },
     {
-      "name": "MØNTREALITY FREESTYLE",
-      "artist": "diamond*",
-      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
-      "external_url": "https://open.spotify.com/track/40Yyv1h6gm0HaruXif6A3Y"
+      "name": "MISS BEHAVIOR",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
     },
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -37,6 +37,13 @@
       "external_url": "https://open.spotify.com/track/1QIJivmbJu0ti0rTk1CujQ"
     },
     {
+      "name": "MØNTREALITY FREESTYLE",
+      "artist": "diamond*",
+      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
+      "external_url": "https://open.spotify.com/track/40Yyv1h6gm0HaruXif6A3Y"
+    },
+    {
       "name": "scrape",
       "artist": "Ken Carson",
       "album": "xperiment - cartunez",
@@ -44,11 +51,11 @@
       "external_url": "https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC"
     },
     {
-      "name": "MISS BEHAVIOR",
+      "name": "THE 9TH CIRCLE",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
+      "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
     },
     {
       "name": "Rollacoasta",
@@ -58,11 +65,39 @@
       "external_url": "https://open.spotify.com/track/0Reng10iZSowA8IlegRTtL"
     },
     {
+      "name": "B.Y.O.B.",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
+    },
+    {
+      "name": "SSJ2",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
+    },
+    {
+      "name": "ALL SPEAKERS GO TO HEAVEN",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
+    },
+    {
       "name": "SICKÖ",
       "artist": "diamond*",
       "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
       "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
       "external_url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
+    },
+    {
+      "name": "MARRIED TO MY JEWELER",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
     },
     {
       "name": "cryn innis coupe",
@@ -79,27 +114,6 @@
       "external_url": "https://open.spotify.com/track/39xRN4sWk5iBpoJtszJTff"
     },
     {
-      "name": "ALL SPEAKERS GO TO HEAVEN",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
-    },
-    {
-      "name": "SSJ2",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
-    },
-    {
-      "name": "B.Y.O.B.",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
-    },
-    {
       "name": "RHYNO (from GTAVI: The Album)",
       "artist": "Travis Scott",
       "album": "RHYNO (from GTAVI: The Album)",
@@ -114,11 +128,11 @@
       "external_url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
     },
     {
-      "name": "THE 9TH CIRCLE",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
+      "name": "maybach",
+      "artist": "Nettspend",
+      "album": "HIM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
+      "external_url": "https://open.spotify.com/track/22A5KtYVT2zuuBccsIQpwK"
     },
     {
       "name": "Moon and the Stars",
@@ -128,6 +142,20 @@
       "external_url": "https://open.spotify.com/track/4aY54agzacXyMxb7jowbOv"
     },
     {
+      "name": "ZYGOTE",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
+    },
+    {
+      "name": "STONE IN FOCUS",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
+    },
+    {
       "name": "Sexy Magic (from GTAVI: The Album)",
       "artist": "CA7RIEL & Paco Amoroso",
       "album": "Sexy Magic (from GTAVI: The Album)",
@@ -135,11 +163,11 @@
       "external_url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
     },
     {
-      "name": "MARRIED TO MY JEWELER",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
+      "name": "change on me",
+      "artist": "Nettspend",
+      "album": "HIM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
+      "external_url": "https://open.spotify.com/track/4vSNmF3OxniaSnc5IQoMcw"
     },
     {
       "name": "Noir kei",
@@ -147,34 +175,6 @@
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
       "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
-    },
-    {
-      "name": "WHITEHORSEMANNEQUIN",
-      "artist": "Lucy Bedroque",
-      "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
-      "image": "https://i.scdn.co/image/ab67616d0000b27370f18db72394fa65e71d4bb3",
-      "external_url": "https://open.spotify.com/track/35ElU1Fn3b5fVvvQA4JjuY"
-    },
-    {
-      "name": "maybach",
-      "artist": "Nettspend",
-      "album": "HIM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
-      "external_url": "https://open.spotify.com/track/22A5KtYVT2zuuBccsIQpwK"
-    },
-    {
-      "name": "swag jack",
-      "artist": "Ken Carson",
-      "album": "xperiment - cartunez",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
-      "external_url": "https://open.spotify.com/track/1D5l77n2T8B7kjPiRv2pVx"
-    },
-    {
-      "name": "Friday",
-      "artist": "Lucy Bedroque",
-      "album": "Tether",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734dc200e1f7ec1efbb832c9ce",
-      "external_url": "https://open.spotify.com/track/1fft5VgOX5p6vudLDsExLV"
     }
   ],
   "topArtists": [
@@ -206,15 +206,6 @@
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
-      "name": "diamond*",
-      "genres": [
-        "underground hip hop",
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5405a63dceea87e672dcce01",
-      "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
-    },
-    {
       "name": "Nettspend",
       "genres": [
         "rage rap",
@@ -224,12 +215,29 @@
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
     },
     {
+      "name": "diamond*",
+      "genres": [
+        "underground hip hop",
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5405a63dceea87e672dcce01",
+      "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
+    },
+    {
       "name": "kuru",
       "genres": [
         "hyperpop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+    },
+    {
+      "name": "Yeat",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
+      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
     },
     {
       "name": "PinkPantheress",
@@ -248,20 +256,13 @@
       "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
     },
     {
-      "name": "Yeat",
+      "name": "Nine Vicious",
       "genres": [
-        "rage rap"
+        "rage rap",
+        "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
-      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-    },
-    {
-      "name": "Destroy Lonely",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb52b49f674dc05f3773fe45fb",
+      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     }
   ]
 }
