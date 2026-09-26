@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T11:22:08.054Z",
+  "lastUpdated": "2026-09-26T10:57:57.827Z",
   "topTracks": [
     {
       "name": "SPEED DEMON",
@@ -93,13 +93,6 @@
       "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
-      "name": "MØNTREALITY FREESTYLE",
-      "artist": "diamond*",
-      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
-      "external_url": "https://open.spotify.com/track/40Yyv1h6gm0HaruXif6A3Y"
-    },
-    {
       "name": "cryn innis coupe",
       "artist": "bleood",
       "album": "haunted hills",
@@ -112,6 +105,13 @@
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
+    },
+    {
+      "name": "MØNTREALITY FREESTYLE",
+      "artist": "diamond*",
+      "album": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f039e28510bde6ef9511443",
+      "external_url": "https://open.spotify.com/track/40Yyv1h6gm0HaruXif6A3Y"
     },
     {
       "name": "maybach",
@@ -223,20 +223,20 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
-      "name": "Ariana Grande",
-      "genres": [
-        "pop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
-      "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-    },
-    {
       "name": "Yeat",
       "genres": [
         "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
       "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+    },
+    {
+      "name": "Ariana Grande",
+      "genres": [
+        "pop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+      "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
     },
     {
       "name": "diamond*",
