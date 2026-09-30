@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T12:19:07.257Z",
+  "lastUpdated": "2026-09-30T12:04:44.773Z",
   "topTracks": [
     {
       "name": "SPEED DEMON",
@@ -23,13 +23,6 @@
       "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
     },
     {
-      "name": "ALL SPEAKERS GO TO HEAVEN",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
-    },
-    {
       "name": "PEACE IN PANDEMONIUM",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -37,11 +30,25 @@
       "external_url": "https://open.spotify.com/track/1QIJivmbJu0ti0rTk1CujQ"
     },
     {
+      "name": "ALL SPEAKERS GO TO HEAVEN",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
+    },
+    {
       "name": "B.Y.O.B.",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
+    },
+    {
+      "name": "SSJ2",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
     },
     {
       "name": "ZYGOTE",
@@ -58,27 +65,6 @@
       "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
     },
     {
-      "name": "SSJ2",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
-    },
-    {
-      "name": "Scene",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/6zyQdgXjwx0u1FwMlvxctR"
-    },
-    {
-      "name": "RHYNO (from GTAVI: The Album)",
-      "artist": "Travis Scott",
-      "album": "RHYNO (from GTAVI: The Album)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
-      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
-    },
-    {
       "name": "OROCHIMARU",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -93,11 +79,25 @@
       "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
     },
     {
+      "name": "RHYNO (from GTAVI: The Album)",
+      "artist": "Travis Scott",
+      "album": "RHYNO (from GTAVI: The Album)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
+      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
+    },
+    {
       "name": "cryn innis coupe",
       "artist": "bleood",
       "album": "haunted hills",
       "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
       "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
+    },
+    {
+      "name": "off a bean",
+      "artist": "Ken Carson",
+      "album": "xperiment - cartunez",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
+      "external_url": "https://open.spotify.com/track/59rmIsiTbQg2wbFjLnpsMe"
     },
     {
       "name": "CO POISON",
@@ -107,11 +107,18 @@
       "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
     },
     {
-      "name": "off a bean",
-      "artist": "Ken Carson",
-      "album": "xperiment - cartunez",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
-      "external_url": "https://open.spotify.com/track/59rmIsiTbQg2wbFjLnpsMe"
+      "name": "ERASE YOUR SOCIAL",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
+    },
+    {
+      "name": "Scene",
+      "artist": "prettifun",
+      "album": "Pretti Loves U 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
+      "external_url": "https://open.spotify.com/track/6zyQdgXjwx0u1FwMlvxctR"
     },
     {
       "name": "scrape",
@@ -140,13 +147,6 @@
       "album": "Sexy Magic (from GTAVI: The Album)",
       "image": "https://i.scdn.co/image/ab67616d0000b273428173abda5ff463c0a8c27d",
       "external_url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
-    },
-    {
-      "name": "ERASE YOUR SOCIAL",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
     },
     {
       "name": "change on me",
@@ -256,13 +256,10 @@
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     },
     {
-      "name": "diamond*",
-      "genres": [
-        "underground hip hop",
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5405a63dceea87e672dcce01",
-      "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
+      "name": "ADÉLA",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb2005cc18964c60e22c4759b5",
+      "external_url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
     }
   ]
 }
