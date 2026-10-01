@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T12:04:44.773Z",
+  "lastUpdated": "2026-10-01T12:37:52.686Z",
   "topTracks": [
     {
       "name": "SPEED DEMON",
@@ -44,13 +44,6 @@
       "external_url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
     },
     {
-      "name": "SSJ2",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
-    },
-    {
       "name": "ZYGOTE",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -63,6 +56,13 @@
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
+    },
+    {
+      "name": "SSJ2",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
     },
     {
       "name": "OROCHIMARU",
@@ -86,6 +86,13 @@
       "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
+      "name": "CO POISON",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
+    },
+    {
       "name": "cryn innis coupe",
       "artist": "bleood",
       "album": "haunted hills",
@@ -100,11 +107,11 @@
       "external_url": "https://open.spotify.com/track/59rmIsiTbQg2wbFjLnpsMe"
     },
     {
-      "name": "CO POISON",
+      "name": "C SECTION",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
+      "external_url": "https://open.spotify.com/track/5m1NhECNVfCMb2ov6lYOh4"
     },
     {
       "name": "ERASE YOUR SOCIAL",
@@ -128,13 +135,6 @@
       "external_url": "https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC"
     },
     {
-      "name": "C SECTION",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5m1NhECNVfCMb2ov6lYOh4"
-    },
-    {
       "name": "maybach",
       "artist": "Nettspend",
       "album": "HIM",
@@ -149,18 +149,18 @@
       "external_url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
     },
     {
-      "name": "change on me",
-      "artist": "Nettspend",
-      "album": "HIM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
-      "external_url": "https://open.spotify.com/track/4vSNmF3OxniaSnc5IQoMcw"
-    },
-    {
       "name": "SAFESPACE",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
+    },
+    {
+      "name": "change on me",
+      "artist": "Nettspend",
+      "album": "HIM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
+      "external_url": "https://open.spotify.com/track/4vSNmF3OxniaSnc5IQoMcw"
     },
     {
       "name": "Taxi",
@@ -206,15 +206,6 @@
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
     },
     {
-      "name": "prettifun",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
-    },
-    {
       "name": "Yeat",
       "genres": [
         "rage rap"
@@ -231,20 +222,21 @@
       "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
     },
     {
+      "name": "prettifun",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+    },
+    {
       "name": "kuru",
       "genres": [
         "hyperpop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-    },
-    {
-      "name": "PinkPantheress",
-      "genres": [
-        "bedroom pop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
-      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     {
       "name": "Nine Vicious",
@@ -260,6 +252,14 @@
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb2005cc18964c60e22c4759b5",
       "external_url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+    },
+    {
+      "name": "Slow Attack Ensemble",
+      "genres": [
+        "ambient"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0be3f32ce1261b1d6c88925c",
+      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
     }
   ]
 }
