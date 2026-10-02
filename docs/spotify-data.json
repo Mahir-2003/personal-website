@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T12:37:52.686Z",
+  "lastUpdated": "2026-10-02T12:02:13.613Z",
   "topTracks": [
     {
       "name": "SPEED DEMON",
@@ -16,6 +16,13 @@
       "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
     },
     {
+      "name": "PEACE IN PANDEMONIUM",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/1QIJivmbJu0ti0rTk1CujQ"
+    },
+    {
       "name": "THE 9TH CIRCLE",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -23,11 +30,11 @@
       "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
     },
     {
-      "name": "PEACE IN PANDEMONIUM",
+      "name": "ZYGOTE",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/1QIJivmbJu0ti0rTk1CujQ"
+      "external_url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
     },
     {
       "name": "ALL SPEAKERS GO TO HEAVEN",
@@ -44,11 +51,11 @@
       "external_url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
     },
     {
-      "name": "ZYGOTE",
+      "name": "SSJ2",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
+      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
     },
     {
       "name": "MARRIED TO MY JEWELER",
@@ -58,18 +65,11 @@
       "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
     },
     {
-      "name": "SSJ2",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
-    },
-    {
-      "name": "OROCHIMARU",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/2etPfXcKrBkVN0Ejmqk10K"
+      "name": "RHYNO (from GTAVI: The Album)",
+      "artist": "Travis Scott",
+      "album": "RHYNO (from GTAVI: The Album)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
+      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
       "name": "STONE IN FOCUS",
@@ -79,18 +79,11 @@
       "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
     },
     {
-      "name": "RHYNO (from GTAVI: The Album)",
-      "artist": "Travis Scott",
-      "album": "RHYNO (from GTAVI: The Album)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
-      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
-    },
-    {
-      "name": "CO POISON",
+      "name": "OROCHIMARU",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
+      "external_url": "https://open.spotify.com/track/2etPfXcKrBkVN0Ejmqk10K"
     },
     {
       "name": "cryn innis coupe",
@@ -100,11 +93,11 @@
       "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
     },
     {
-      "name": "off a bean",
-      "artist": "Ken Carson",
-      "album": "xperiment - cartunez",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
-      "external_url": "https://open.spotify.com/track/59rmIsiTbQg2wbFjLnpsMe"
+      "name": "CO POISON",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
     },
     {
       "name": "C SECTION",
@@ -112,6 +105,13 @@
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/5m1NhECNVfCMb2ov6lYOh4"
+    },
+    {
+      "name": "off a bean",
+      "artist": "Ken Carson",
+      "album": "xperiment - cartunez",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b637cdd5d2df5a1f47883029",
+      "external_url": "https://open.spotify.com/track/59rmIsiTbQg2wbFjLnpsMe"
     },
     {
       "name": "ERASE YOUR SOCIAL",
@@ -170,11 +170,11 @@
       "external_url": "https://open.spotify.com/track/7Fe0VXxtzMGawlFDNin2Uu"
     },
     {
-      "name": "Friday",
-      "artist": "Lucy Bedroque",
-      "album": "Tether",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734dc200e1f7ec1efbb832c9ce",
-      "external_url": "https://open.spotify.com/track/1fft5VgOX5p6vudLDsExLV"
+      "name": "interlude",
+      "artist": "Ken Carson",
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
     }
   ],
   "topArtists": [
@@ -193,7 +193,7 @@
       "genres": [
         "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
@@ -206,20 +206,20 @@
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
     },
     {
+      "name": "kuru",
+      "genres": [
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+    },
+    {
       "name": "Yeat",
       "genres": [
         "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
       "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-    },
-    {
-      "name": "Ariana Grande",
-      "genres": [
-        "pop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
-      "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
     },
     {
       "name": "prettifun",
@@ -231,12 +231,12 @@
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
-      "name": "kuru",
+      "name": "Ariana Grande",
       "genres": [
-        "hyperpop"
+        "pop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+      "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
     },
     {
       "name": "Nine Vicious",
@@ -248,18 +248,19 @@
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     },
     {
+      "name": "diamond*",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5405a63dceea87e672dcce01",
+      "external_url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
+    },
+    {
       "name": "ADÉLA",
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb2005cc18964c60e22c4759b5",
       "external_url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-    },
-    {
-      "name": "Slow Attack Ensemble",
-      "genres": [
-        "ambient"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb0be3f32ce1261b1d6c88925c",
-      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
     }
   ]
 }
