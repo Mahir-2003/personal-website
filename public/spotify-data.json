@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T11:14:43.822Z",
+  "lastUpdated": "2026-10-04T11:54:34.252Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -9,18 +9,18 @@
       "external_url": "https://open.spotify.com/track/1QIJivmbJu0ti0rTk1CujQ"
     },
     {
-      "name": "SPEED DEMON",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
-    },
-    {
       "name": "MISS BEHAVIOR",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
+    },
+    {
+      "name": "SPEED DEMON",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
     },
     {
       "name": "THE 9TH CIRCLE",
@@ -44,18 +44,18 @@
       "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
     },
     {
-      "name": "ALL SPEAKERS GO TO HEAVEN",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
-    },
-    {
       "name": "B.Y.O.B.",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
+    },
+    {
+      "name": "ALL SPEAKERS GO TO HEAVEN",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
     },
     {
       "name": "SSJ2",
@@ -128,13 +128,6 @@
       "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
     },
     {
-      "name": "Scene",
-      "artist": "prettifun",
-      "album": "Pretti Loves U 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db15d55ea45e076e22c3df70",
-      "external_url": "https://open.spotify.com/track/6zyQdgXjwx0u1FwMlvxctR"
-    },
-    {
       "name": "scrape",
       "artist": "Ken Carson",
       "album": "xperiment - cartunez",
@@ -175,6 +168,13 @@
       "album": "Taxi",
       "image": "https://i.scdn.co/image/ab67616d0000b2739a5e1bae0fa8426fdfd69394",
       "external_url": "https://open.spotify.com/track/7Fe0VXxtzMGawlFDNin2Uu"
+    },
+    {
+      "name": "WHITEHORSEMANNEQUIN",
+      "artist": "Lucy Bedroque",
+      "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
+      "image": "https://i.scdn.co/image/ab67616d0000b27370f18db72394fa65e71d4bb3",
+      "external_url": "https://open.spotify.com/track/35ElU1Fn3b5fVvvQA4JjuY"
     }
   ],
   "topArtists": [
