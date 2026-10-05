@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T11:54:34.252Z",
+  "lastUpdated": "2026-10-05T13:53:27.184Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -156,18 +156,18 @@
       "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
     },
     {
-      "name": "change on me",
-      "artist": "Nettspend",
-      "album": "HIM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
-      "external_url": "https://open.spotify.com/track/4vSNmF3OxniaSnc5IQoMcw"
-    },
-    {
       "name": "Taxi",
       "artist": "JVD",
       "album": "Taxi",
       "image": "https://i.scdn.co/image/ab67616d0000b2739a5e1bae0fa8426fdfd69394",
       "external_url": "https://open.spotify.com/track/7Fe0VXxtzMGawlFDNin2Uu"
+    },
+    {
+      "name": "change on me",
+      "artist": "Nettspend",
+      "album": "HIM",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
+      "external_url": "https://open.spotify.com/track/4vSNmF3OxniaSnc5IQoMcw"
     },
     {
       "name": "WHITEHORSEMANNEQUIN",
@@ -231,14 +231,6 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
-      "name": "Ariana Grande",
-      "genres": [
-        "pop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
-      "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-    },
-    {
       "name": "Nine Vicious",
       "genres": [
         "rage rap",
@@ -246,6 +238,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb52b49f674dc05f3773fe45fb",
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+    },
+    {
+      "name": "Ariana Grande",
+      "genres": [
+        "pop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+      "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
     },
     {
       "name": "diamond*",
