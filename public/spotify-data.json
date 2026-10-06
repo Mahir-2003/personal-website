@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T13:53:27.184Z",
+  "lastUpdated": "2026-10-06T12:55:53.161Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -16,13 +16,6 @@
       "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
     },
     {
-      "name": "SPEED DEMON",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
-    },
-    {
       "name": "THE 9TH CIRCLE",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -30,18 +23,18 @@
       "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
     },
     {
+      "name": "SPEED DEMON",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
+    },
+    {
       "name": "ZYGOTE",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
-    },
-    {
-      "name": "MARRIED TO MY JEWELER",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
     },
     {
       "name": "B.Y.O.B.",
@@ -56,6 +49,13 @@
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
+    },
+    {
+      "name": "MARRIED TO MY JEWELER",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
     },
     {
       "name": "SSJ2",
@@ -114,6 +114,13 @@
       "external_url": "https://open.spotify.com/track/5m1NhECNVfCMb2ov6lYOh4"
     },
     {
+      "name": "Taxi",
+      "artist": "JVD",
+      "album": "Taxi",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a5e1bae0fa8426fdfd69394",
+      "external_url": "https://open.spotify.com/track/7Fe0VXxtzMGawlFDNin2Uu"
+    },
+    {
       "name": "off a bean",
       "artist": "Ken Carson",
       "album": "xperiment - cartunez",
@@ -156,13 +163,6 @@
       "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
     },
     {
-      "name": "Taxi",
-      "artist": "JVD",
-      "album": "Taxi",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739a5e1bae0fa8426fdfd69394",
-      "external_url": "https://open.spotify.com/track/7Fe0VXxtzMGawlFDNin2Uu"
-    },
-    {
       "name": "change on me",
       "artist": "Nettspend",
       "album": "HIM",
@@ -170,11 +170,11 @@
       "external_url": "https://open.spotify.com/track/4vSNmF3OxniaSnc5IQoMcw"
     },
     {
-      "name": "WHITEHORSEMANNEQUIN",
-      "artist": "Lucy Bedroque",
-      "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
-      "image": "https://i.scdn.co/image/ab67616d0000b27370f18db72394fa65e71d4bb3",
-      "external_url": "https://open.spotify.com/track/35ElU1Fn3b5fVvvQA4JjuY"
+      "name": "yung vocaloid",
+      "artist": "bleood",
+      "album": "haunted hills",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
+      "external_url": "https://open.spotify.com/track/2bPPmwZyWS4x9Z9HLSYGSs"
     }
   ],
   "topArtists": [
@@ -240,14 +240,6 @@
       "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
     },
     {
-      "name": "Ariana Grande",
-      "genres": [
-        "pop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
-      "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-    },
-    {
       "name": "diamond*",
       "genres": [
         "rage rap",
@@ -261,6 +253,14 @@
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5eb2005cc18964c60e22c4759b5",
       "external_url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+    },
+    {
+      "name": "PinkPantheress",
+      "genres": [
+        "bedroom pop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
+      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     }
   ]
 }
