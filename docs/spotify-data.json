@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T12:58:34.829Z",
+  "lastUpdated": "2026-10-09T12:44:54.865Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -9,18 +9,18 @@
       "external_url": "https://open.spotify.com/track/1QIJivmbJu0ti0rTk1CujQ"
     },
     {
-      "name": "MISS BEHAVIOR",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
-    },
-    {
       "name": "THE 9TH CIRCLE",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
+    },
+    {
+      "name": "MISS BEHAVIOR",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
     },
     {
       "name": "SPEED DEMON",
@@ -58,13 +58,6 @@
       "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
     },
     {
-      "name": "STONE IN FOCUS",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
-    },
-    {
       "name": "SSJ2",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -72,11 +65,11 @@
       "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
     },
     {
-      "name": "RHYNO (from GTAVI: The Album)",
-      "artist": "Travis Scott",
-      "album": "RHYNO (from GTAVI: The Album)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
-      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
+      "name": "STONE IN FOCUS",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
     },
     {
       "name": "OROCHIMARU",
@@ -86,18 +79,18 @@
       "external_url": "https://open.spotify.com/track/2etPfXcKrBkVN0Ejmqk10K"
     },
     {
+      "name": "RHYNO (from GTAVI: The Album)",
+      "artist": "Travis Scott",
+      "album": "RHYNO (from GTAVI: The Album)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
+      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
+    },
+    {
       "name": "C SECTION",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/5m1NhECNVfCMb2ov6lYOh4"
-    },
-    {
-      "name": "cryn innis coupe",
-      "artist": "bleood",
-      "album": "haunted hills",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
-      "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
     },
     {
       "name": "CO POISON",
@@ -107,11 +100,18 @@
       "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
     },
     {
+      "name": "cryn innis coupe",
+      "artist": "bleood",
+      "album": "haunted hills",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
+      "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
+    },
+    {
       "name": "Taxi",
       "artist": "JVD",
       "album": "Taxi",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739a5e1bae0fa8426fdfd69394",
-      "external_url": "https://open.spotify.com/track/7Fe0VXxtzMGawlFDNin2Uu"
+      "image": "https://i.scdn.co/image/ab67616d0000b273a19ff3bd762e7fe8257cab20",
+      "external_url": "https://open.spotify.com/track/6hzSVACHz0DqkMR4dAfgXa"
     },
     {
       "name": "interlude",
@@ -163,18 +163,18 @@
       "external_url": "https://open.spotify.com/track/6ecYdBmWJyVAm1QUN3yRiq"
     },
     {
+      "name": "Warmth",
+      "artist": "C418",
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
+    },
+    {
       "name": "change on me",
       "artist": "Nettspend",
       "album": "HIM",
       "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
       "external_url": "https://open.spotify.com/track/4vSNmF3OxniaSnc5IQoMcw"
-    },
-    {
-      "name": "I Must Apologise - Sango Remix",
-      "artist": "PinkPantheress",
-      "album": "to hell with it (Remixes)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c3c27b513afbce3c6c860376",
-      "external_url": "https://open.spotify.com/track/27XMzUYqMgk1GLpJ360eaH"
     }
   ],
   "topArtists": [
@@ -189,14 +189,6 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "Ken Carson",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-    },
-    {
       "name": "Nettspend",
       "genres": [
         "rage rap",
@@ -204,6 +196,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+    },
+    {
+      "name": "Ken Carson",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
       "name": "Yeat",
@@ -249,6 +249,14 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
+      "name": "PinkPantheress",
+      "genres": [
+        "bedroom pop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
+      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+    },
+    {
       "name": "Boards of Canada",
       "genres": [
         "idm",
@@ -259,14 +267,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-    },
-    {
-      "name": "PinkPantheress",
-      "genres": [
-        "bedroom pop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
-      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     }
   ]
 }
