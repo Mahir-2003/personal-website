@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T12:44:54.865Z",
+  "lastUpdated": "2026-10-10T12:03:31.527Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -93,18 +93,18 @@
       "external_url": "https://open.spotify.com/track/5m1NhECNVfCMb2ov6lYOh4"
     },
     {
+      "name": "Warmth",
+      "artist": "C418",
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
+    },
+    {
       "name": "CO POISON",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
-    },
-    {
-      "name": "cryn innis coupe",
-      "artist": "bleood",
-      "album": "haunted hills",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
-      "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
     },
     {
       "name": "Taxi",
@@ -128,11 +128,11 @@
       "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
     },
     {
-      "name": "yung vocaloid",
+      "name": "cryn innis coupe",
       "artist": "bleood",
       "album": "haunted hills",
       "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
-      "external_url": "https://open.spotify.com/track/2bPPmwZyWS4x9Z9HLSYGSs"
+      "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
     },
     {
       "name": "Sexy Magic (from GTAVI: The Album)",
@@ -149,11 +149,11 @@
       "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
     },
     {
-      "name": "maybach",
-      "artist": "Nettspend",
-      "album": "HIM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
-      "external_url": "https://open.spotify.com/track/22A5KtYVT2zuuBccsIQpwK"
+      "name": "yung vocaloid",
+      "artist": "bleood",
+      "album": "haunted hills",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
+      "external_url": "https://open.spotify.com/track/2bPPmwZyWS4x9Z9HLSYGSs"
     },
     {
       "name": "Gourmet",
@@ -163,18 +163,18 @@
       "external_url": "https://open.spotify.com/track/6ecYdBmWJyVAm1QUN3yRiq"
     },
     {
-      "name": "Warmth",
-      "artist": "C418",
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
-    },
-    {
-      "name": "change on me",
+      "name": "maybach",
       "artist": "Nettspend",
       "album": "HIM",
       "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
-      "external_url": "https://open.spotify.com/track/4vSNmF3OxniaSnc5IQoMcw"
+      "external_url": "https://open.spotify.com/track/22A5KtYVT2zuuBccsIQpwK"
+    },
+    {
+      "name": "I Must Apologise - Sango Remix",
+      "artist": "PinkPantheress",
+      "album": "to hell with it (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3c27b513afbce3c6c860376",
+      "external_url": "https://open.spotify.com/track/27XMzUYqMgk1GLpJ360eaH"
     }
   ],
   "topArtists": [
@@ -198,20 +198,20 @@
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
     },
     {
-      "name": "Ken Carson",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-    },
-    {
       "name": "Yeat",
       "genres": [
         "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
       "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+    },
+    {
+      "name": "Ken Carson",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
       "name": "prettifun",
@@ -232,29 +232,12 @@
       "external_url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
     },
     {
-      "name": "Nine Vicious",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb52b49f674dc05f3773fe45fb",
-      "external_url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
-    },
-    {
       "name": "kuru",
       "genres": [
         "hyperpop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-    },
-    {
-      "name": "PinkPantheress",
-      "genres": [
-        "bedroom pop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
-      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     {
       "name": "Boards of Canada",
@@ -267,6 +250,22 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+    },
+    {
+      "name": "PinkPantheress",
+      "genres": [
+        "bedroom pop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
+      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+    },
+    {
+      "name": "Playboi Carti",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     }
   ]
 }
