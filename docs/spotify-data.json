@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T12:03:31.527Z",
+  "lastUpdated": "2026-10-11T12:16:40.498Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -23,13 +23,6 @@
       "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
     },
     {
-      "name": "SPEED DEMON",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
-    },
-    {
       "name": "ZYGOTE",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -42,6 +35,13 @@
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
+    },
+    {
+      "name": "SPEED DEMON",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
     },
     {
       "name": "ALL SPEAKERS GO TO HEAVEN",
@@ -72,6 +72,13 @@
       "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
     },
     {
+      "name": "Warmth",
+      "artist": "C418",
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
+    },
+    {
       "name": "OROCHIMARU",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -91,13 +98,6 @@
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/5m1NhECNVfCMb2ov6lYOh4"
-    },
-    {
-      "name": "Warmth",
-      "artist": "C418",
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
     },
     {
       "name": "CO POISON",
@@ -128,13 +128,6 @@
       "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
     },
     {
-      "name": "cryn innis coupe",
-      "artist": "bleood",
-      "album": "haunted hills",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
-      "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
-    },
-    {
       "name": "Sexy Magic (from GTAVI: The Album)",
       "artist": "CA7RIEL & Paco Amoroso",
       "album": "Sexy Magic (from GTAVI: The Album)",
@@ -149,13 +142,6 @@
       "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
     },
     {
-      "name": "yung vocaloid",
-      "artist": "bleood",
-      "album": "haunted hills",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
-      "external_url": "https://open.spotify.com/track/2bPPmwZyWS4x9Z9HLSYGSs"
-    },
-    {
       "name": "Gourmet",
       "artist": "Tezzus",
       "album": "RichPhønks",
@@ -163,11 +149,25 @@
       "external_url": "https://open.spotify.com/track/6ecYdBmWJyVAm1QUN3yRiq"
     },
     {
-      "name": "maybach",
-      "artist": "Nettspend",
-      "album": "HIM",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e9c81e279805fd08e117c4df",
-      "external_url": "https://open.spotify.com/track/22A5KtYVT2zuuBccsIQpwK"
+      "name": "cryn innis coupe",
+      "artist": "bleood",
+      "album": "haunted hills",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
+      "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
+    },
+    {
+      "name": "yung vocaloid",
+      "artist": "bleood",
+      "album": "haunted hills",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
+      "external_url": "https://open.spotify.com/track/2bPPmwZyWS4x9Z9HLSYGSs"
+    },
+    {
+      "name": "HØRSEBIT (feat. Lil Righteous)",
+      "artist": "diamond*",
+      "album": "BLING SLIME VØL 1: HØSTED BY DJ HØLIDAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733ebe97b37ea3b5617e2b2279",
+      "external_url": "https://open.spotify.com/track/0kch28Rf1YSdyBtm8eIRj1"
     },
     {
       "name": "I Must Apologise - Sango Remix",
@@ -189,6 +189,14 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
+      "name": "Yeat",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
+      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+    },
+    {
       "name": "Nettspend",
       "genres": [
         "rage rap",
@@ -198,29 +206,12 @@
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
     },
     {
-      "name": "Yeat",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
-      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-    },
-    {
       "name": "Ken Carson",
       "genres": [
         "rage rap"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-    },
-    {
-      "name": "prettifun",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
       "name": "Oklou",
@@ -260,12 +251,21 @@
       "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     {
-      "name": "Playboi Carti",
+      "name": "prettifun",
       "genres": [
-        "rage rap"
+        "rage rap",
+        "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
+      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+    },
+    {
+      "name": "Slow Attack Ensemble",
+      "genres": [
+        "ambient"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0be3f32ce1261b1d6c88925c",
+      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
     }
   ]
 }
