@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T12:16:40.498Z",
+  "lastUpdated": "2026-10-12T14:41:11.825Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -37,18 +37,18 @@
       "external_url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
     },
     {
-      "name": "SPEED DEMON",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
-    },
-    {
       "name": "ALL SPEAKERS GO TO HEAVEN",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
+    },
+    {
+      "name": "SPEED DEMON",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
     },
     {
       "name": "MARRIED TO MY JEWELER",
@@ -149,11 +149,11 @@
       "external_url": "https://open.spotify.com/track/6ecYdBmWJyVAm1QUN3yRiq"
     },
     {
-      "name": "cryn innis coupe",
-      "artist": "bleood",
-      "album": "haunted hills",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735e9ec5f3bd65f251d2a87eeb",
-      "external_url": "https://open.spotify.com/track/2XfGmtdry95pUeEdIeGWDZ"
+      "name": "HØRSEBIT (feat. Lil Righteous)",
+      "artist": "diamond*",
+      "album": "BLING SLIME VØL 1: HØSTED BY DJ HØLIDAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733ebe97b37ea3b5617e2b2279",
+      "external_url": "https://open.spotify.com/track/0kch28Rf1YSdyBtm8eIRj1"
     },
     {
       "name": "yung vocaloid",
@@ -163,18 +163,18 @@
       "external_url": "https://open.spotify.com/track/2bPPmwZyWS4x9Z9HLSYGSs"
     },
     {
-      "name": "HØRSEBIT (feat. Lil Righteous)",
-      "artist": "diamond*",
-      "album": "BLING SLIME VØL 1: HØSTED BY DJ HØLIDAY",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733ebe97b37ea3b5617e2b2279",
-      "external_url": "https://open.spotify.com/track/0kch28Rf1YSdyBtm8eIRj1"
-    },
-    {
       "name": "I Must Apologise - Sango Remix",
       "artist": "PinkPantheress",
       "album": "to hell with it (Remixes)",
       "image": "https://i.scdn.co/image/ab67616d0000b273c3c27b513afbce3c6c860376",
       "external_url": "https://open.spotify.com/track/27XMzUYqMgk1GLpJ360eaH"
+    },
+    {
+      "name": "Tonight",
+      "artist": "Young Stoner Life",
+      "album": "Slime Language 3: Side B",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c661866b28fa6dbda912d815",
+      "external_url": "https://open.spotify.com/track/7DEQkqVoXjJT5KtdGQ5Ge5"
     }
   ],
   "topArtists": [
@@ -189,14 +189,6 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "Yeat",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
-      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-    },
-    {
       "name": "Nettspend",
       "genres": [
         "rage rap",
@@ -204,6 +196,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+    },
+    {
+      "name": "Yeat",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
+      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
     },
     {
       "name": "Ken Carson",
@@ -221,6 +221,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebf8b90fcffca3c4e28564f0e3",
       "external_url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+    },
+    {
+      "name": "PinkPantheress",
+      "genres": [
+        "bedroom pop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
+      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     {
       "name": "kuru",
@@ -243,29 +251,18 @@
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
     },
     {
-      "name": "PinkPantheress",
-      "genres": [
-        "bedroom pop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
-      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-    },
-    {
-      "name": "prettifun",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
-      "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
-    },
-    {
       "name": "Slow Attack Ensemble",
       "genres": [
         "ambient"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb0be3f32ce1261b1d6c88925c",
       "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
+    },
+    {
+      "name": "ADÉLA",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb2005cc18964c60e22c4759b5",
+      "external_url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
     }
   ]
 }
