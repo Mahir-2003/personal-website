@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T14:41:11.825Z",
+  "lastUpdated": "2026-10-13T13:44:43.172Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -163,18 +163,18 @@
       "external_url": "https://open.spotify.com/track/2bPPmwZyWS4x9Z9HLSYGSs"
     },
     {
-      "name": "I Must Apologise - Sango Remix",
-      "artist": "PinkPantheress",
-      "album": "to hell with it (Remixes)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c3c27b513afbce3c6c860376",
-      "external_url": "https://open.spotify.com/track/27XMzUYqMgk1GLpJ360eaH"
-    },
-    {
       "name": "Tonight",
       "artist": "Young Stoner Life",
       "album": "Slime Language 3: Side B",
       "image": "https://i.scdn.co/image/ab67616d0000b273c661866b28fa6dbda912d815",
       "external_url": "https://open.spotify.com/track/7DEQkqVoXjJT5KtdGQ5Ge5"
+    },
+    {
+      "name": "I Must Apologise - Sango Remix",
+      "artist": "PinkPantheress",
+      "album": "to hell with it (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3c27b513afbce3c6c860376",
+      "external_url": "https://open.spotify.com/track/27XMzUYqMgk1GLpJ360eaH"
     }
   ],
   "topArtists": [
@@ -231,14 +231,6 @@
       "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     {
-      "name": "kuru",
-      "genres": [
-        "hyperpop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-    },
-    {
       "name": "Boards of Canada",
       "genres": [
         "idm",
@@ -257,6 +249,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb0be3f32ce1261b1d6c88925c",
       "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
+    },
+    {
+      "name": "kuru",
+      "genres": [
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
       "name": "ADÉLA",
