@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T11:22:28.890Z",
+  "lastUpdated": "2026-10-15T10:59:26.676Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -44,18 +44,18 @@
       "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
     },
     {
-      "name": "SPEED DEMON",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
-    },
-    {
       "name": "MARRIED TO MY JEWELER",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
+    },
+    {
+      "name": "SPEED DEMON",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
     },
     {
       "name": "STONE IN FOCUS",
@@ -107,6 +107,13 @@
       "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
     },
     {
+      "name": "ERASE YOUR SOCIAL",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
+    },
+    {
       "name": "Taxi",
       "artist": "JVD",
       "album": "Taxi",
@@ -121,11 +128,18 @@
       "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
     },
     {
-      "name": "ERASE YOUR SOCIAL",
+      "name": "SAFESPACE",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
+      "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
+    },
+    {
+      "name": "Tonight",
+      "artist": "Young Stoner Life",
+      "album": "Slime Language 3: Side B",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c661866b28fa6dbda912d815",
+      "external_url": "https://open.spotify.com/track/7DEQkqVoXjJT5KtdGQ5Ge5"
     },
     {
       "name": "Sexy Magic (from GTAVI: The Album)",
@@ -133,13 +147,6 @@
       "album": "Sexy Magic (from GTAVI: The Album)",
       "image": "https://i.scdn.co/image/ab67616d0000b273428173abda5ff463c0a8c27d",
       "external_url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
-    },
-    {
-      "name": "SAFESPACE",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
     },
     {
       "name": "Gourmet",
@@ -163,13 +170,6 @@
       "external_url": "https://open.spotify.com/track/2bPPmwZyWS4x9Z9HLSYGSs"
     },
     {
-      "name": "Tonight",
-      "artist": "Young Stoner Life",
-      "album": "Slime Language 3: Side B",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c661866b28fa6dbda912d815",
-      "external_url": "https://open.spotify.com/track/7DEQkqVoXjJT5KtdGQ5Ge5"
-    },
-    {
       "name": "I Must Apologise - Sango Remix",
       "artist": "PinkPantheress",
       "album": "to hell with it (Remixes)",
@@ -189,6 +189,14 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
+      "name": "Yeat",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
+      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+    },
+    {
       "name": "Nettspend",
       "genres": [
         "rage rap",
@@ -196,14 +204,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-    },
-    {
-      "name": "Yeat",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
-      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
     },
     {
       "name": "Ken Carson",
@@ -223,14 +223,6 @@
       "external_url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
     },
     {
-      "name": "PinkPantheress",
-      "genres": [
-        "bedroom pop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
-      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-    },
-    {
       "name": "Boards of Canada",
       "genres": [
         "idm",
@@ -241,6 +233,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+    },
+    {
+      "name": "PinkPantheress",
+      "genres": [
+        "bedroom pop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
+      "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     {
       "name": "kuru",
