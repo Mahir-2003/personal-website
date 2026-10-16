@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T10:59:26.676Z",
+  "lastUpdated": "2026-10-16T10:54:43.516Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -65,13 +65,6 @@
       "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
     },
     {
-      "name": "SSJ2",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
-    },
-    {
       "name": "Warmth",
       "artist": "C418",
       "album": "Minecraft - Volume Beta",
@@ -79,18 +72,18 @@
       "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
     },
     {
+      "name": "SSJ2",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
+    },
+    {
       "name": "OROCHIMARU",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/2etPfXcKrBkVN0Ejmqk10K"
-    },
-    {
-      "name": "RHYNO (from GTAVI: The Album)",
-      "artist": "Travis Scott",
-      "album": "RHYNO (from GTAVI: The Album)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
-      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
       "name": "C SECTION",
@@ -107,13 +100,6 @@
       "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
     },
     {
-      "name": "ERASE YOUR SOCIAL",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
-    },
-    {
       "name": "Taxi",
       "artist": "JVD",
       "album": "Taxi",
@@ -128,11 +114,18 @@
       "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
     },
     {
-      "name": "SAFESPACE",
+      "name": "ERASE YOUR SOCIAL",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
+      "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
+    },
+    {
+      "name": "RHYNO (from GTAVI: The Album)",
+      "artist": "Travis Scott",
+      "album": "RHYNO (from GTAVI: The Album)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
+      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
       "name": "Tonight",
@@ -142,11 +135,11 @@
       "external_url": "https://open.spotify.com/track/7DEQkqVoXjJT5KtdGQ5Ge5"
     },
     {
-      "name": "Sexy Magic (from GTAVI: The Album)",
-      "artist": "CA7RIEL & Paco Amoroso",
-      "album": "Sexy Magic (from GTAVI: The Album)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273428173abda5ff463c0a8c27d",
-      "external_url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
+      "name": "SAFESPACE",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
     },
     {
       "name": "Gourmet",
@@ -175,6 +168,13 @@
       "album": "to hell with it (Remixes)",
       "image": "https://i.scdn.co/image/ab67616d0000b273c3c27b513afbce3c6c860376",
       "external_url": "https://open.spotify.com/track/27XMzUYqMgk1GLpJ360eaH"
+    },
+    {
+      "name": "freak",
+      "artist": "Ariana Grande",
+      "album": "petal",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+      "external_url": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K"
     }
   ],
   "topArtists": [
@@ -189,14 +189,6 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "Yeat",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
-      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-    },
-    {
       "name": "Nettspend",
       "genres": [
         "rage rap",
@@ -204,6 +196,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+    },
+    {
+      "name": "Yeat",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
+      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
     },
     {
       "name": "Ken Carson",
