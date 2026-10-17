@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T10:54:43.516Z",
+  "lastUpdated": "2026-10-17T10:17:01.985Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -9,18 +9,18 @@
       "external_url": "https://open.spotify.com/track/1QIJivmbJu0ti0rTk1CujQ"
     },
     {
-      "name": "MISS BEHAVIOR",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
-    },
-    {
       "name": "THE 9TH CIRCLE",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
+    },
+    {
+      "name": "MISS BEHAVIOR",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
     },
     {
       "name": "ZYGOTE",
@@ -37,20 +37,6 @@
       "external_url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
     },
     {
-      "name": "ALL SPEAKERS GO TO HEAVEN",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
-    },
-    {
-      "name": "MARRIED TO MY JEWELER",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
-    },
-    {
       "name": "SPEED DEMON",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -58,11 +44,11 @@
       "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
     },
     {
-      "name": "STONE IN FOCUS",
+      "name": "ALL SPEAKERS GO TO HEAVEN",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
+      "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
     },
     {
       "name": "Warmth",
@@ -72,11 +58,25 @@
       "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
     },
     {
+      "name": "MARRIED TO MY JEWELER",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
+    },
+    {
       "name": "SSJ2",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
+    },
+    {
+      "name": "STONE IN FOCUS",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
     },
     {
       "name": "OROCHIMARU",
@@ -100,6 +100,13 @@
       "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
     },
     {
+      "name": "ERASE YOUR SOCIAL",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
+    },
+    {
       "name": "Taxi",
       "artist": "JVD",
       "album": "Taxi",
@@ -112,13 +119,6 @@
       "album": "xperiment",
       "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
       "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
-    },
-    {
-      "name": "ERASE YOUR SOCIAL",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
     },
     {
       "name": "RHYNO (from GTAVI: The Album)",
@@ -135,18 +135,18 @@
       "external_url": "https://open.spotify.com/track/7DEQkqVoXjJT5KtdGQ5Ge5"
     },
     {
-      "name": "SAFESPACE",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
-    },
-    {
       "name": "Gourmet",
       "artist": "Tezzus",
       "album": "RichPhønks",
       "image": "https://i.scdn.co/image/ab67616d0000b273c7d69458728821445e0acb78",
       "external_url": "https://open.spotify.com/track/6ecYdBmWJyVAm1QUN3yRiq"
+    },
+    {
+      "name": "SAFESPACE",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
     },
     {
       "name": "HØRSEBIT (feat. Lil Righteous)",
@@ -189,6 +189,14 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
+      "name": "Yeat",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
+      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+    },
+    {
       "name": "Nettspend",
       "genres": [
         "rage rap",
@@ -196,14 +204,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb6bc255a221b2d2db4c1de21f",
       "external_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-    },
-    {
-      "name": "Yeat",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
-      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
     },
     {
       "name": "Ken Carson",
@@ -243,6 +243,14 @@
       "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     {
+      "name": "Slow Attack Ensemble",
+      "genres": [
+        "ambient"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0be3f32ce1261b1d6c88925c",
+      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
+    },
+    {
       "name": "kuru",
       "genres": [
         "hyperpop"
@@ -258,14 +266,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
-    },
-    {
-      "name": "Slow Attack Ensemble",
-      "genres": [
-        "ambient"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb0be3f32ce1261b1d6c88925c",
-      "external_url": "https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As"
     }
   ]
 }
