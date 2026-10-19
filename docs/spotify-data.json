@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T10:32:46.696Z",
+  "lastUpdated": "2026-10-19T12:26:00.835Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -9,6 +9,13 @@
       "external_url": "https://open.spotify.com/track/1QIJivmbJu0ti0rTk1CujQ"
     },
     {
+      "name": "ZYGOTE",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
+    },
+    {
       "name": "THE 9TH CIRCLE",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -16,11 +23,11 @@
       "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
     },
     {
-      "name": "ZYGOTE",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
+      "name": "Warmth",
+      "artist": "C418",
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
     },
     {
       "name": "MISS BEHAVIOR",
@@ -35,13 +42,6 @@
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
-    },
-    {
-      "name": "Warmth",
-      "artist": "C418",
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
     },
     {
       "name": "MARRIED TO MY JEWELER",
@@ -79,20 +79,6 @@
       "external_url": "https://open.spotify.com/track/2etPfXcKrBkVN0Ejmqk10K"
     },
     {
-      "name": "C SECTION",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5m1NhECNVfCMb2ov6lYOh4"
-    },
-    {
-      "name": "SSJ2",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
-    },
-    {
       "name": "Taxi",
       "artist": "JVD",
       "album": "Taxi",
@@ -107,25 +93,25 @@
       "external_url": "https://open.spotify.com/track/1GXj5hng2c7W42ZCwhjxna"
     },
     {
+      "name": "C SECTION",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/5m1NhECNVfCMb2ov6lYOh4"
+    },
+    {
+      "name": "SSJ2",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
+    },
+    {
       "name": "Tonight",
       "artist": "Young Stoner Life",
       "album": "Slime Language 3: Side B",
       "image": "https://i.scdn.co/image/ab67616d0000b273c661866b28fa6dbda912d815",
       "external_url": "https://open.spotify.com/track/7DEQkqVoXjJT5KtdGQ5Ge5"
-    },
-    {
-      "name": "RHYNO (from GTAVI: The Album)",
-      "artist": "Travis Scott",
-      "album": "RHYNO (from GTAVI: The Album)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
-      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
-    },
-    {
-      "name": "CO POISON",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
     },
     {
       "name": "Gourmet",
@@ -135,11 +121,18 @@
       "external_url": "https://open.spotify.com/track/6ecYdBmWJyVAm1QUN3yRiq"
     },
     {
-      "name": "ERASE YOUR SOCIAL",
+      "name": "CO POISON",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
+      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
+    },
+    {
+      "name": "RHYNO (from GTAVI: The Album)",
+      "artist": "Travis Scott",
+      "album": "RHYNO (from GTAVI: The Album)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
+      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
       "name": "HØRSEBIT (feat. Lil Righteous)",
@@ -156,6 +149,13 @@
       "external_url": "https://open.spotify.com/track/2bPPmwZyWS4x9Z9HLSYGSs"
     },
     {
+      "name": "ERASE YOUR SOCIAL",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
+    },
+    {
       "name": "I Must Apologise - Sango Remix",
       "artist": "PinkPantheress",
       "album": "to hell with it (Remixes)",
@@ -163,18 +163,18 @@
       "external_url": "https://open.spotify.com/track/27XMzUYqMgk1GLpJ360eaH"
     },
     {
-      "name": "SAFESPACE",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/6UoXKg3NiFTVW56Y5vNJ78"
-    },
-    {
       "name": "Secret",
       "artist": "ESPRIT 空想",
       "album": "200% Electronica",
       "image": "https://i.scdn.co/image/ab67616d0000b2739bf7d13db51dfd26eb1e49b0",
       "external_url": "https://open.spotify.com/track/54VrOVPO59T6fyE5Vx40P5"
+    },
+    {
+      "name": "freak",
+      "artist": "Ariana Grande",
+      "album": "petal",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+      "external_url": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K"
     }
   ],
   "topArtists": [
