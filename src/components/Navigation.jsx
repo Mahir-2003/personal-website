@@ -156,8 +156,8 @@ export default function Navigation() {
                     </div>
 
                     {/* Footer cap */}
-                    <div className="lcars-rail-foot" aria-hidden="true">
-                        <div className="lcars-ticker">
+                    <div className="lcars-rail-foot">
+                        <div className="lcars-ticker" aria-hidden="true">
                             {TICKER_SEGS.map((seg, i) => (
                                 <span
                                     key={i}
@@ -166,7 +166,10 @@ export default function Navigation() {
                                 />
                             ))}
                         </div>
-                        <span className="lcars-rail-lbl">LCARS 47-B</span>
+                        <p className="lcars-rail-note">
+                            This site uses privacy-friendly analytics. No cookies or personal data are collected.
+                        </p>
+                        <span className="lcars-rail-lbl" aria-hidden="true">LCARS 47-B</span>
                     </div>
                 </div>
 

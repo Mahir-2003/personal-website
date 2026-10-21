@@ -7,6 +7,7 @@ import About from './pages/About';
 import Projects from './pages/Projects';
 import TechStack from './pages/TechStack';
 import Blog from './pages/Blog';
+import AnalyticsTracker from './components/AnalyticsTracker';
 
 function AppContent() {
   const { isLoading, currentPath } = useLoading();
@@ -39,6 +40,7 @@ function AppContent() {
 function App() {
   return (
     <Router>
+      <AnalyticsTracker />
       <LoadingProvider>
         <AppContent />
       </LoadingProvider>
