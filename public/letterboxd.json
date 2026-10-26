@@ -1,5 +1,13 @@
 [
   {
+    "title": "Street Fighter",
+    "year": "2026",
+    "rating": "\u2605\u2605\u00bd",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/4/0/2/9/0/1040290-street-fighter-2026-0-600-0-900-crop.jpg?v=5cc9002644",
+    "watchedDate": "Oct 25, 2026",
+    "link": "https://letterboxd.com/meatymahir/film/street-fighter-2026/"
+  },
+  {
     "title": "10 Things I Hate About You",
     "year": "1999",
     "rating": "\u2605\u2605\u2605",
@@ -38,13 +46,5 @@
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/0/9/0/0/1/1209001-tony-2026-0-600-0-900-crop.jpg?v=63ce7b9234",
     "watchedDate": "Sep 12, 2026",
     "link": "https://letterboxd.com/meatymahir/film/tony-2026/"
-  },
-  {
-    "title": "The Odyssey",
-    "year": "2026",
-    "rating": "\u2605\u2605\u2605\u2605\u00bd",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/5/5/3/9/4/1255394-the-odyssey-2026-0-600-0-900-crop.jpg?v=1eed046d0c",
-    "watchedDate": "Aug 31, 2026",
-    "link": "https://letterboxd.com/meatymahir/film/the-odyssey-2026/"
   }
 ]
