@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T11:49:53.165Z",
+  "lastUpdated": "2026-11-01T12:49:03.270Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -65,13 +65,6 @@
       "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
     },
     {
-      "name": "MARRIED TO MY JEWELER",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
-    },
-    {
       "name": "SPEED DEMON",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -91,6 +84,13 @@
       "album": "Slime Language 3: Side B",
       "image": "https://i.scdn.co/image/ab67616d0000b273c661866b28fa6dbda912d815",
       "external_url": "https://open.spotify.com/track/7DEQkqVoXjJT5KtdGQ5Ge5"
+    },
+    {
+      "name": "MARRIED TO MY JEWELER",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
     },
     {
       "name": "Secret",
@@ -135,6 +135,13 @@
       "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
     },
     {
+      "name": "dats on u",
+      "artist": "KULAPHANTASY",
+      "album": "dats on u",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358fe88833993cbd3e812f4f3",
+      "external_url": "https://open.spotify.com/track/7MBSMztq9qkzpWXntrHwcR"
+    },
+    {
       "name": "OROCHIMARU",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -142,11 +149,11 @@
       "external_url": "https://open.spotify.com/track/2etPfXcKrBkVN0Ejmqk10K"
     },
     {
-      "name": "STONE IN FOCUS",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
+      "name": "LL50",
+      "artist": "Nettspend",
+      "album": "Virginia Creeper",
+      "image": "https://i.scdn.co/image/ab67616d0000b273798e8eab149ee6f280de9401",
+      "external_url": "https://open.spotify.com/track/0NwBVCDFDAXvhhlqeUEVIf"
     },
     {
       "name": "Tout Naturel",
@@ -156,13 +163,6 @@
       "external_url": "https://open.spotify.com/track/0A0FrmoICOQTDbnUQuBYn6"
     },
     {
-      "name": "dats on u",
-      "artist": "KULAPHANTASY",
-      "album": "dats on u",
-      "image": "https://i.scdn.co/image/ab67616d0000b27358fe88833993cbd3e812f4f3",
-      "external_url": "https://open.spotify.com/track/7MBSMztq9qkzpWXntrHwcR"
-    },
-    {
       "name": "The Path Less Travelled",
       "artist": "Vegyn",
       "album": "The Road To Hell Is Paved With Good Intentions",
@@ -170,11 +170,11 @@
       "external_url": "https://open.spotify.com/track/0IlWyIgaBCmtENOwwNCke0"
     },
     {
-      "name": "2010 Justin Bieber",
+      "name": "STONE IN FOCUS",
       "artist": "Lucy Bedroque",
-      "album": "Unmusique",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/5WIGbrfNMvFeCQOx5XykBO"
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
     }
   ],
   "topArtists": [
@@ -205,6 +205,15 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
+      "name": "bleood",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
+      "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+    },
+    {
       "name": "prettifun",
       "genres": [
         "rage rap",
@@ -214,13 +223,10 @@
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
-      "name": "bleood",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
-      "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+      "name": "The Weeknd",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
       "name": "Oklou",
@@ -242,12 +248,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-    },
-    {
-      "name": "The Weeknd",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
-      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
       "name": "PinkPantheress",
