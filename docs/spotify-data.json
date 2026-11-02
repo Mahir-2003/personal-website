@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T12:49:03.270Z",
+  "lastUpdated": "2026-11-02T14:58:43.848Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -9,13 +9,6 @@
       "external_url": "https://open.spotify.com/track/1QIJivmbJu0ti0rTk1CujQ"
     },
     {
-      "name": "Warmth",
-      "artist": "C418",
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
-    },
-    {
       "name": "I can live w that",
       "artist": "kuru",
       "album": "Backstage hologram",
@@ -23,11 +16,11 @@
       "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
     },
     {
-      "name": "THE 9TH CIRCLE",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
+      "name": "Warmth",
+      "artist": "C418",
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
     },
     {
       "name": "ALL SPEAKERS GO TO HEAVEN",
@@ -35,6 +28,13 @@
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
+    },
+    {
+      "name": "THE 9TH CIRCLE",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
     },
     {
       "name": "ZYGOTE",
@@ -49,6 +49,13 @@
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/1IjLLOz3hmXBcqwIYt0Cxi"
+    },
+    {
+      "name": "LL50",
+      "artist": "Nettspend",
+      "album": "Virginia Creeper",
+      "image": "https://i.scdn.co/image/ab67616d0000b273798e8eab149ee6f280de9401",
+      "external_url": "https://open.spotify.com/track/0NwBVCDFDAXvhhlqeUEVIf"
     },
     {
       "name": "G6 Anthem",
@@ -121,13 +128,6 @@
       "external_url": "https://open.spotify.com/track/0kch28Rf1YSdyBtm8eIRj1"
     },
     {
-      "name": "SSJ2",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
-    },
-    {
       "name": "ERASE YOUR SOCIAL",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -149,11 +149,11 @@
       "external_url": "https://open.spotify.com/track/2etPfXcKrBkVN0Ejmqk10K"
     },
     {
-      "name": "LL50",
-      "artist": "Nettspend",
-      "album": "Virginia Creeper",
-      "image": "https://i.scdn.co/image/ab67616d0000b273798e8eab149ee6f280de9401",
-      "external_url": "https://open.spotify.com/track/0NwBVCDFDAXvhhlqeUEVIf"
+      "name": "SSJ2",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
     },
     {
       "name": "Tout Naturel",
@@ -170,11 +170,11 @@
       "external_url": "https://open.spotify.com/track/0IlWyIgaBCmtENOwwNCke0"
     },
     {
-      "name": "STONE IN FOCUS",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/4J0jCv9V4U2eoNHP0ta2zJ"
+      "name": "Somewhere going home",
+      "artist": "kuru",
+      "album": "Stay true forever",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396918036ed875f148a09112c",
+      "external_url": "https://open.spotify.com/track/1e8mlqvEl9DH9AKJqwaAPG"
     }
   ],
   "topArtists": [
@@ -205,15 +205,6 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
-      "name": "bleood",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
-      "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
-    },
-    {
       "name": "prettifun",
       "genres": [
         "rage rap",
@@ -221,6 +212,15 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+    },
+    {
+      "name": "bleood",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
+      "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
     },
     {
       "name": "The Weeknd",
@@ -258,12 +258,12 @@
       "external_url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     {
-      "name": "Travis Scott",
+      "name": "Drake",
       "genres": [
         "rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
-      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     }
   ]
 }
