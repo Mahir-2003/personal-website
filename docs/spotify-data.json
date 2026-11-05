@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T13:54:36.780Z",
+  "lastUpdated": "2026-11-05T14:10:43.236Z",
   "topTracks": [
     {
       "name": "I can live w that",
@@ -9,18 +9,18 @@
       "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
     },
     {
-      "name": "Warmth",
-      "artist": "C418",
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
-    },
-    {
       "name": "PEACE IN PANDEMONIUM",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/1QIJivmbJu0ti0rTk1CujQ"
+    },
+    {
+      "name": "Warmth",
+      "artist": "C418",
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
     },
     {
       "name": "LL50",
@@ -86,6 +86,13 @@
       "external_url": "https://open.spotify.com/track/79209KOIW18hbquPZaXaDp"
     },
     {
+      "name": "flying dutchman",
+      "artist": "bleood",
+      "album": "KILL YOUR IDOLS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
+      "external_url": "https://open.spotify.com/track/6nhagnn23wN7VrePIA1fZf"
+    },
+    {
       "name": "Secret",
       "artist": "ESPRIT 空想",
       "album": "200% Electronica",
@@ -114,11 +121,11 @@
       "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
     },
     {
-      "name": "flying dutchman",
-      "artist": "bleood",
-      "album": "KILL YOUR IDOLS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
-      "external_url": "https://open.spotify.com/track/6nhagnn23wN7VrePIA1fZf"
+      "name": "U wld never do it",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
     },
     {
       "name": "MISS BEHAVIOR",
@@ -142,11 +149,11 @@
       "external_url": "https://open.spotify.com/track/5m1NhECNVfCMb2ov6lYOh4"
     },
     {
-      "name": "U wld never do it",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+      "name": "she loves me i hate her",
+      "artist": "bleood",
+      "album": "KILL YOUR IDOLS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
+      "external_url": "https://open.spotify.com/track/7i1T5GTzfVGzqlgG0SCRhs"
     },
     {
       "name": "Tout Naturel",
@@ -163,18 +170,11 @@
       "external_url": "https://open.spotify.com/track/1e8mlqvEl9DH9AKJqwaAPG"
     },
     {
-      "name": "2010 Justin Bieber",
-      "artist": "Lucy Bedroque",
-      "album": "Unmusique",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/5WIGbrfNMvFeCQOx5XykBO"
-    },
-    {
-      "name": "OROCHIMARU",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/2etPfXcKrBkVN0Ejmqk10K"
+      "name": "aw02 angel cry",
+      "artist": "bleood",
+      "album": "KILL YOUR IDOLS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
+      "external_url": "https://open.spotify.com/track/2eFbxJSFI0U1rVyme0iDGg"
     }
   ],
   "topArtists": [
@@ -197,6 +197,15 @@
       "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
+      "name": "bleood",
+      "genres": [
+        "rage rap",
+        "underground hip hop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
+      "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+    },
+    {
       "name": "kuru",
       "genres": [
         "hyperpop"
@@ -214,28 +223,10 @@
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
-      "name": "bleood",
-      "genres": [
-        "rage rap",
-        "underground hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
-      "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
-    },
-    {
       "name": "The Weeknd",
       "genres": [],
       "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
       "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-    },
-    {
-      "name": "Oklou",
-      "genres": [
-        "art pop",
-        "hyperpop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebf8b90fcffca3c4e28564f0e3",
-      "external_url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
     },
     {
       "name": "Drake",
@@ -244,6 +235,22 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
       "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "name": "Yeat",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
+      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+    },
+    {
+      "name": "Ariana Grande",
+      "genres": [
+        "pop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+      "external_url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
     },
     {
       "name": "Boards of Canada",
@@ -256,14 +263,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb8d582d93756e158b968cc35d",
       "external_url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-    },
-    {
-      "name": "Yeat",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfc759f7938b4c65bfe41c4ff",
-      "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
     }
   ]
 }

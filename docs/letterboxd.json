@@ -1,5 +1,13 @@
 [
   {
+    "title": "Godzilla Minus Zero",
+    "year": "2026",
+    "rating": "\u2605\u2605\u2605\u2605\u2605",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/6/8/4/1266684-godzilla-minus-zero-0-600-0-900-crop.jpg?v=38989be61d",
+    "watchedDate": "Nov 04, 2026",
+    "link": "https://letterboxd.com/meatymahir/film/godzilla-minus-zero/"
+  },
+  {
     "title": "Street Fighter",
     "year": "2026",
     "rating": "\u2605\u2605\u00bd",
@@ -38,13 +46,5 @@
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/0/8/8/1089088-coyote-vs-acme-0-600-0-900-crop.jpg?v=735eb10cc7",
     "watchedDate": "Sep 18, 2026",
     "link": "https://letterboxd.com/meatymahir/film/coyote-vs-acme/"
-  },
-  {
-    "title": "Tony",
-    "year": "2026",
-    "rating": "\u2605\u2605\u2605\u2605",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/0/9/0/0/1/1209001-tony-2026-0-600-0-900-crop.jpg?v=63ce7b9234",
-    "watchedDate": "Sep 12, 2026",
-    "link": "https://letterboxd.com/meatymahir/film/tony-2026/"
   }
 ]
