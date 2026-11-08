@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T12:36:59.848Z",
+  "lastUpdated": "2026-11-08T12:54:06.251Z",
   "topTracks": [
     {
       "name": "I can live w that",
@@ -35,13 +35,6 @@
       "album": "Unmusique",
       "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
       "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
-    },
-    {
-      "name": "Warmth",
-      "artist": "C418",
-      "album": "Minecraft - Volume Beta",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
-      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
     },
     {
       "name": "SPEED DEMON",
@@ -121,13 +114,6 @@
       "external_url": "https://open.spotify.com/track/3NwTDLpZRmyOTaOtGoVm8X"
     },
     {
-      "name": "MISS BEHAVIOR",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
-    },
-    {
       "name": "SSJ2",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -142,11 +128,18 @@
       "external_url": "https://open.spotify.com/track/7i1T5GTzfVGzqlgG0SCRhs"
     },
     {
-      "name": "Tonight",
-      "artist": "Young Stoner Life",
-      "album": "Slime Language 3: Side B",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c661866b28fa6dbda912d815",
-      "external_url": "https://open.spotify.com/track/7DEQkqVoXjJT5KtdGQ5Ge5"
+      "name": "MISS BEHAVIOR",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
+    },
+    {
+      "name": "Warmth",
+      "artist": "C418",
+      "album": "Minecraft - Volume Beta",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c918a500a7d16e0cc57bc068",
+      "external_url": "https://open.spotify.com/track/5tcpY8RPLxJ9X7O5AFFZLQ"
     },
     {
       "name": "ERASE YOUR SOCIAL",
@@ -175,6 +168,13 @@
       "album": "Unmusique",
       "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
       "external_url": "https://open.spotify.com/track/0A0FrmoICOQTDbnUQuBYn6"
+    },
+    {
+      "name": "Somewhere going home",
+      "artist": "kuru",
+      "album": "Stay true forever",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396918036ed875f148a09112c",
+      "external_url": "https://open.spotify.com/track/1e8mlqvEl9DH9AKJqwaAPG"
     }
   ],
   "topArtists": [
@@ -223,18 +223,18 @@
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
     },
     {
-      "name": "The Weeknd",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
-      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-    },
-    {
       "name": "pinponpanpon",
       "genres": [
         "hyperpop"
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb252c905e9b9fa29391cc75b7",
       "external_url": "https://open.spotify.com/artist/4f2l5pSKd1oUMEMx7SZBng"
+    },
+    {
+      "name": "The Weeknd",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
       "name": "Drake",
