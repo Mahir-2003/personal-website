@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T15:28:28.994Z",
+  "lastUpdated": "2026-11-10T14:28:51.184Z",
   "topTracks": [
     {
       "name": "I can live w that",
@@ -30,11 +30,11 @@
       "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
     },
     {
-      "name": "G6 Anthem",
+      "name": "CO POISON",
       "artist": "Lucy Bedroque",
-      "album": "Unmusique",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
     },
     {
       "name": "ZYGOTE",
@@ -44,18 +44,18 @@
       "external_url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
     },
     {
-      "name": "CO POISON",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
-    },
-    {
       "name": "flying dutchman",
       "artist": "bleood",
       "album": "KILL YOUR IDOLS",
       "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
       "external_url": "https://open.spotify.com/track/6nhagnn23wN7VrePIA1fZf"
+    },
+    {
+      "name": "G6 Anthem",
+      "artist": "Lucy Bedroque",
+      "album": "Unmusique",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
+      "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
     },
     {
       "name": "Mimosa",
@@ -93,18 +93,18 @@
       "external_url": "https://open.spotify.com/track/2eFbxJSFI0U1rVyme0iDGg"
     },
     {
-      "name": "MARRIED TO MY JEWELER",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
-    },
-    {
       "name": "THE 9TH CIRCLE",
       "artist": "Lucy Bedroque",
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
+    },
+    {
+      "name": "MARRIED TO MY JEWELER",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
     },
     {
       "name": "Tout Naturel",
@@ -135,6 +135,13 @@
       "external_url": "https://open.spotify.com/track/7i1T5GTzfVGzqlgG0SCRhs"
     },
     {
+      "name": "Livin' Loose",
+      "artist": "George Clanton",
+      "album": "Slide",
+      "image": "https://i.scdn.co/image/ab67616d0000b27354823b660c0985479ea17f08",
+      "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
+    },
+    {
       "name": "MISS BEHAVIOR",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -147,13 +154,6 @@
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
-    },
-    {
-      "name": "Livin' Loose",
-      "artist": "George Clanton",
-      "album": "Slide",
-      "image": "https://i.scdn.co/image/ab67616d0000b27354823b660c0985479ea17f08",
-      "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
     },
     {
       "name": "2010 Justin Bieber",
@@ -237,14 +237,6 @@
       "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
-      "name": "Drake",
-      "genres": [
-        "rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-      "external_url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-    },
-    {
       "name": "Yeat",
       "genres": [
         "rage rap"
@@ -253,13 +245,22 @@
       "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
     },
     {
-      "name": "KULAPHANTASY",
+      "name": "ESPRIT 空想",
       "genres": [
-        "hyperpop",
-        "rally house"
+        "vaporwave",
+        "plunderphonics",
+        "chillwave"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb088119870a7b62f5abf543aa",
-      "external_url": "https://open.spotify.com/artist/0h0owg66fumDOks3UBAkGz"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4205564ba1357895fc307c33",
+      "external_url": "https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI"
+    },
+    {
+      "name": "Destroy Lonely",
+      "genres": [
+        "rage rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
+      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
     }
   ]
 }
