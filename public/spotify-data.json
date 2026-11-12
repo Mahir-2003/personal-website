@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T13:43:09.969Z",
+  "lastUpdated": "2026-11-12T14:46:16.147Z",
   "topTracks": [
     {
       "name": "I can live w that",
@@ -30,13 +30,6 @@
       "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
     },
     {
-      "name": "CO POISON",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
-    },
-    {
       "name": "flying dutchman",
       "artist": "bleood",
       "album": "KILL YOUR IDOLS",
@@ -49,6 +42,13 @@
       "album": "Unmusique",
       "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
       "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
+    },
+    {
+      "name": "CO POISON",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
     },
     {
       "name": "U wld never do it",
@@ -100,13 +100,6 @@
       "external_url": "https://open.spotify.com/track/7MBSMztq9qkzpWXntrHwcR"
     },
     {
-      "name": "MARRIED TO MY JEWELER",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
-    },
-    {
       "name": "City Moon",
       "artist": "Love Spirals Downwards",
       "album": "Flux",
@@ -135,25 +128,18 @@
       "external_url": "https://open.spotify.com/track/2USTVgd20XRLMAhiYNklN8"
     },
     {
-      "name": "MISS BEHAVIOR",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
-    },
-    {
-      "name": "ERASE YOUR SOCIAL",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi"
-    },
-    {
       "name": "2010 Justin Bieber",
       "artist": "Lucy Bedroque",
       "album": "Unmusique",
       "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
       "external_url": "https://open.spotify.com/track/5WIGbrfNMvFeCQOx5XykBO"
+    },
+    {
+      "name": "MARRIED TO MY JEWELER",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
     },
     {
       "name": "Tout Naturel",
@@ -175,6 +161,20 @@
       "album": "KILL YOUR IDOLS",
       "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
       "external_url": "https://open.spotify.com/track/4krZLVqjq85zoWG8HQ1aKz"
+    },
+    {
+      "name": "Shibuya transfer",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
+    },
+    {
+      "name": "WHITEHORSEMANNEQUIN",
+      "artist": "Lucy Bedroque",
+      "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
+      "image": "https://i.scdn.co/image/ab67616d0000b27370f18db72394fa65e71d4bb3",
+      "external_url": "https://open.spotify.com/track/35ElU1Fn3b5fVvvQA4JjuY"
     }
   ],
   "topArtists": [
