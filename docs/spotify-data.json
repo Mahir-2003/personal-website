@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T14:46:16.147Z",
+  "lastUpdated": "2026-11-13T14:04:57.987Z",
   "topTracks": [
     {
       "name": "I can live w that",
@@ -65,6 +65,13 @@
       "external_url": "https://open.spotify.com/track/0EeOf7vFKG9BQeyX0XdkGE"
     },
     {
+      "name": "healing spiritual echo",
+      "artist": "meat computer",
+      "album": "slept on the floor still dreamt about you (pop edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734cac4a4cc899ccf1b9eed0bb",
+      "external_url": "https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0"
+    },
+    {
       "name": "ZYGOTE",
       "artist": "Lucy Bedroque",
       "album": "c",
@@ -91,6 +98,13 @@
       "album": "c",
       "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
       "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
+    },
+    {
+      "name": "Tofu",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/506gkKhPTLXEbmpBqJaA3h"
     },
     {
       "name": "dats on u",
@@ -161,20 +175,6 @@
       "album": "KILL YOUR IDOLS",
       "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
       "external_url": "https://open.spotify.com/track/4krZLVqjq85zoWG8HQ1aKz"
-    },
-    {
-      "name": "Shibuya transfer",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
-    },
-    {
-      "name": "WHITEHORSEMANNEQUIN",
-      "artist": "Lucy Bedroque",
-      "album": "SPEED DEMON / WHITEHORSEMANNEQUIN",
-      "image": "https://i.scdn.co/image/ab67616d0000b27370f18db72394fa65e71d4bb3",
-      "external_url": "https://open.spotify.com/track/35ElU1Fn3b5fVvvQA4JjuY"
     }
   ],
   "topArtists": [
@@ -231,10 +231,14 @@
       "external_url": "https://open.spotify.com/artist/4f2l5pSKd1oUMEMx7SZBng"
     },
     {
-      "name": "The Weeknd",
-      "genres": [],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
-      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      "name": "ESPRIT 空想",
+      "genres": [
+        "vaporwave",
+        "plunderphonics",
+        "chillwave"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4205564ba1357895fc307c33",
+      "external_url": "https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI"
     },
     {
       "name": "Yeat",
@@ -245,14 +249,10 @@
       "external_url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
     },
     {
-      "name": "ESPRIT 空想",
-      "genres": [
-        "vaporwave",
-        "plunderphonics",
-        "chillwave"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4205564ba1357895fc307c33",
-      "external_url": "https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI"
+      "name": "The Weeknd",
+      "genres": [],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+      "external_url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
       "name": "Destroy Lonely",
