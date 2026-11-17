@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T15:05:20.890Z",
+  "lastUpdated": "2026-11-17T15:38:16.521Z",
   "topTracks": [
     {
       "name": "I can live w that",
@@ -37,13 +37,6 @@
       "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
     },
     {
-      "name": "CO POISON",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
-    },
-    {
       "name": "healing spiritual echo",
       "artist": "meat computer",
       "album": "slept on the floor still dreamt about you (pop edition)",
@@ -51,11 +44,25 @@
       "external_url": "https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0"
     },
     {
+      "name": "CO POISON",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
+    },
+    {
       "name": "U wld never do it",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
       "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+    },
+    {
+      "name": "Tofu",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/506gkKhPTLXEbmpBqJaA3h"
     },
     {
       "name": "SSJ2",
@@ -79,11 +86,32 @@
       "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
     },
     {
-      "name": "Tofu",
+      "name": "MISS BEHAVIOR",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
+    },
+    {
+      "name": "dats on u",
+      "artist": "KULAPHANTASY",
+      "album": "dats on u",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358fe88833993cbd3e812f4f3",
+      "external_url": "https://open.spotify.com/track/7MBSMztq9qkzpWXntrHwcR"
+    },
+    {
+      "name": "Don't get stuck",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/506gkKhPTLXEbmpBqJaA3h"
+      "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
+    },
+    {
+      "name": "ZYGOTE",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
     },
     {
       "name": "aw02 angel cry",
@@ -93,11 +121,11 @@
       "external_url": "https://open.spotify.com/track/2eFbxJSFI0U1rVyme0iDGg"
     },
     {
-      "name": "MISS BEHAVIOR",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH"
+      "name": "Noir kei",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
     },
     {
       "name": "Mimosa",
@@ -114,11 +142,11 @@
       "external_url": "https://open.spotify.com/track/2c5jFqzmrM0XyJgWF63d4C"
     },
     {
-      "name": "dats on u",
-      "artist": "KULAPHANTASY",
-      "album": "dats on u",
-      "image": "https://i.scdn.co/image/ab67616d0000b27358fe88833993cbd3e812f4f3",
-      "external_url": "https://open.spotify.com/track/7MBSMztq9qkzpWXntrHwcR"
+      "name": "Smackdown",
+      "artist": "Lucy Bedroque",
+      "album": "Unmusique",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
+      "external_url": "https://open.spotify.com/track/7kAi27hSQ7AC2Rxcg8a8Ns"
     },
     {
       "name": "Somewhere going home",
@@ -135,46 +163,18 @@
       "external_url": "https://open.spotify.com/track/3NwTDLpZRmyOTaOtGoVm8X"
     },
     {
+      "name": "Princess Cuts (feat. Young T & Bugsey)",
+      "artist": "Headie One",
+      "album": "EDNA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e26b110b13afa82394613227",
+      "external_url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
+    },
+    {
       "name": "she loves me i hate her",
       "artist": "bleood",
       "album": "KILL YOUR IDOLS",
       "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
       "external_url": "https://open.spotify.com/track/7i1T5GTzfVGzqlgG0SCRhs"
-    },
-    {
-      "name": "Don't get stuck",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/4Iu9IWgq1Amk0pyZqZxwva"
-    },
-    {
-      "name": "Noir kei",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/0ObRtfLDkFqXeCmyzo3kxA"
-    },
-    {
-      "name": "2010 Justin Bieber",
-      "artist": "Lucy Bedroque",
-      "album": "Unmusique",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/5WIGbrfNMvFeCQOx5XykBO"
-    },
-    {
-      "name": "MARRIED TO MY JEWELER",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/7cZVOLh3KxQJs6TY2pmUCx"
-    },
-    {
-      "name": "Tout Naturel",
-      "artist": "Lucy Bedroque",
-      "album": "Unmusique",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/0A0FrmoICOQTDbnUQuBYn6"
     }
   ],
   "topArtists": [
@@ -189,12 +189,12 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "Ken Carson",
+      "name": "kuru",
       "genres": [
-        "rage rap"
+        "hyperpop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
       "name": "bleood",
@@ -206,12 +206,12 @@
       "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
     },
     {
-      "name": "kuru",
+      "name": "Ken Carson",
       "genres": [
-        "hyperpop"
+        "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     },
     {
       "name": "prettifun",
@@ -221,6 +221,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+    },
+    {
+      "name": "KULAPHANTASY",
+      "genres": [
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb088119870a7b62f5abf543aa",
+      "external_url": "https://open.spotify.com/artist/0h0owg66fumDOks3UBAkGz"
     },
     {
       "name": "pinponpanpon",
@@ -255,15 +263,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
       "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-    },
-    {
-      "name": "Ecco2k",
-      "genres": [
-        "cloud rap",
-        "hyperpop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb3745cfc78664b05f0ca32584",
-      "external_url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
     }
   ]
 }
