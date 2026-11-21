@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T14:59:59.301Z",
+  "lastUpdated": "2026-11-21T14:21:21.884Z",
   "topTracks": [
     {
       "name": "I can live w that",
@@ -189,14 +189,6 @@
       "external_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
     },
     {
-      "name": "kuru",
-      "genres": [
-        "hyperpop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
-      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-    },
-    {
       "name": "bleood",
       "genres": [
         "rage rap",
@@ -204,6 +196,14 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
       "external_url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+    },
+    {
+      "name": "kuru",
+      "genres": [
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdce73aca096d87ad51452cf8",
+      "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
       "name": "KULAPHANTASY",
