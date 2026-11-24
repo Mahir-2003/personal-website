@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T17:35:08.561Z",
+  "lastUpdated": "2026-11-24T17:05:41.259Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -26,8 +26,8 @@
       "name": "flying dutchman",
       "artist": "bleood",
       "album": "KILL YOUR IDOLS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
-      "external_url": "https://open.spotify.com/track/6nhagnn23wN7VrePIA1fZf"
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c5842f0b17b485a16ea73f1",
+      "external_url": "https://open.spotify.com/track/2z1t571SMqPkZoemi0RMBi"
     },
     {
       "name": "healing spiritual echo",
@@ -37,25 +37,11 @@
       "external_url": "https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0"
     },
     {
-      "name": "U wld never do it",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
-    },
-    {
       "name": "aw02 angel cry",
       "artist": "bleood",
       "album": "KILL YOUR IDOLS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
-      "external_url": "https://open.spotify.com/track/2eFbxJSFI0U1rVyme0iDGg"
-    },
-    {
-      "name": "G6 Anthem",
-      "artist": "Lucy Bedroque",
-      "album": "Unmusique",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c5842f0b17b485a16ea73f1",
+      "external_url": "https://open.spotify.com/track/7oLgjQxnLVJT8Zi5XEETRE"
     },
     {
       "name": "Shibuya transfer",
@@ -72,18 +58,11 @@
       "external_url": "https://open.spotify.com/track/506gkKhPTLXEbmpBqJaA3h"
     },
     {
-      "name": "Smackdown",
-      "artist": "Lucy Bedroque",
-      "album": "Unmusique",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/7kAi27hSQ7AC2Rxcg8a8Ns"
-    },
-    {
       "name": "she loves me i hate her",
       "artist": "bleood",
       "album": "KILL YOUR IDOLS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
-      "external_url": "https://open.spotify.com/track/7i1T5GTzfVGzqlgG0SCRhs"
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c5842f0b17b485a16ea73f1",
+      "external_url": "https://open.spotify.com/track/5EYibijHxU48N50z6h5TQl"
     },
     {
       "name": "Don't get stuck",
@@ -100,25 +79,18 @@
       "external_url": "https://open.spotify.com/track/6TsPjwYTD7nDTvpIQdi6qc"
     },
     {
-      "name": "CO POISON",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/5WIk0ewZnxrt7zMiDeG6os"
-    },
-    {
-      "name": "Tout Naturel",
+      "name": "G6 Anthem",
       "artist": "Lucy Bedroque",
       "album": "Unmusique",
       "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/0A0FrmoICOQTDbnUQuBYn6"
+      "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
     },
     {
       "name": "bite yoh neck",
       "artist": "bleood",
       "album": "KILL YOUR IDOLS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cc8130ca5efe226dee5e16c5",
-      "external_url": "https://open.spotify.com/track/4krZLVqjq85zoWG8HQ1aKz"
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c5842f0b17b485a16ea73f1",
+      "external_url": "https://open.spotify.com/track/0Bog5mYBfMlDecCLCBMDKT"
     },
     {
       "name": "are you okay?",
@@ -126,6 +98,13 @@
       "album": "Dreamcollider",
       "image": "https://i.scdn.co/image/ab67616d0000b27325942198a1d30b069f74d5f2",
       "external_url": "https://open.spotify.com/track/77RKTns194vbhdP7rh5HC2"
+    },
+    {
+      "name": "Smackdown",
+      "artist": "Lucy Bedroque",
+      "album": "Unmusique",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
+      "external_url": "https://open.spotify.com/track/7kAi27hSQ7AC2Rxcg8a8Ns"
     },
     {
       "name": "red light (alt)",
@@ -156,6 +135,13 @@
       "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
     },
     {
+      "name": "U wld never do it",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+    },
+    {
       "name": "dats on u",
       "artist": "KULAPHANTASY",
       "album": "dats on u",
@@ -175,6 +161,20 @@
       "album": "Disco Jazz",
       "image": "https://i.scdn.co/image/ab67616d0000b27333ba10ea93facb1819ab53d4",
       "external_url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
+    },
+    {
+      "name": "Tout Naturel",
+      "artist": "Lucy Bedroque",
+      "album": "Unmusique",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
+      "external_url": "https://open.spotify.com/track/0A0FrmoICOQTDbnUQuBYn6"
+    },
+    {
+      "name": "PinPonPanPon Youkoso!",
+      "artist": "pinponpanpon",
+      "album": "PinPonPeaceProject",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381c91b335fc2569825f2c532",
+      "external_url": "https://open.spotify.com/track/0hql8LKpQxh4sicRbzlN1s"
     }
   ],
   "topArtists": [
@@ -260,12 +260,12 @@
       "external_url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
     },
     {
-      "name": "Destroy Lonely",
+      "name": "Ken Carson",
       "genres": [
         "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebd4687f69ce1804bdbbc05517",
-      "external_url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
+      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     }
   ]
 }
