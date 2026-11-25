@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T17:05:41.259Z",
+  "lastUpdated": "2026-11-25T16:54:19.240Z",
   "topTracks": [
     {
       "name": "PEACE IN PANDEMONIUM",
@@ -23,6 +23,13 @@
       "external_url": "https://open.spotify.com/track/4sLbC2v6MSq7A5WdjnrEfj"
     },
     {
+      "name": "AHH YEA",
+      "artist": "Playboi Carti",
+      "album": "Grand Theft Auto VI: The Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce3850a25759c8add94fe8b5",
+      "external_url": "https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI"
+    },
+    {
       "name": "flying dutchman",
       "artist": "bleood",
       "album": "KILL YOUR IDOLS",
@@ -42,6 +49,13 @@
       "album": "KILL YOUR IDOLS",
       "image": "https://i.scdn.co/image/ab67616d0000b2734c5842f0b17b485a16ea73f1",
       "external_url": "https://open.spotify.com/track/7oLgjQxnLVJT8Zi5XEETRE"
+    },
+    {
+      "name": "Aaj Shanibar",
+      "artist": "Rupa",
+      "album": "Disco Jazz",
+      "image": "https://i.scdn.co/image/ab67616d0000b27333ba10ea93facb1819ab53d4",
+      "external_url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
     },
     {
       "name": "Shibuya transfer",
@@ -79,13 +93,6 @@
       "external_url": "https://open.spotify.com/track/6TsPjwYTD7nDTvpIQdi6qc"
     },
     {
-      "name": "G6 Anthem",
-      "artist": "Lucy Bedroque",
-      "album": "Unmusique",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
-    },
-    {
       "name": "bite yoh neck",
       "artist": "bleood",
       "album": "KILL YOUR IDOLS",
@@ -100,25 +107,11 @@
       "external_url": "https://open.spotify.com/track/77RKTns194vbhdP7rh5HC2"
     },
     {
-      "name": "Smackdown",
-      "artist": "Lucy Bedroque",
-      "album": "Unmusique",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/7kAi27hSQ7AC2Rxcg8a8Ns"
-    },
-    {
       "name": "red light (alt)",
       "artist": "KULAPHANTASY",
       "album": "red light (alt)",
       "image": "https://i.scdn.co/image/ab67616d0000b2730354166890b4482d12c49899",
       "external_url": "https://open.spotify.com/track/7sZU5tZcaFkGxAsygq1ltM"
-    },
-    {
-      "name": "ZYGOTE",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
     },
     {
       "name": "groovv",
@@ -135,20 +128,6 @@
       "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
     },
     {
-      "name": "U wld never do it",
-      "artist": "kuru",
-      "album": "Backstage hologram",
-      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
-      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
-    },
-    {
-      "name": "dats on u",
-      "artist": "KULAPHANTASY",
-      "album": "dats on u",
-      "image": "https://i.scdn.co/image/ab67616d0000b27358fe88833993cbd3e812f4f3",
-      "external_url": "https://open.spotify.com/track/7MBSMztq9qkzpWXntrHwcR"
-    },
-    {
       "name": "eradicate",
       "artist": "KULAPHANTASY",
       "album": "eradicate",
@@ -156,25 +135,46 @@
       "external_url": "https://open.spotify.com/track/0eudKExxZrQIO4Ay6TagpL"
     },
     {
-      "name": "Aaj Shanibar",
-      "artist": "Rupa",
-      "album": "Disco Jazz",
-      "image": "https://i.scdn.co/image/ab67616d0000b27333ba10ea93facb1819ab53d4",
-      "external_url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
-    },
-    {
-      "name": "Tout Naturel",
-      "artist": "Lucy Bedroque",
-      "album": "Unmusique",
-      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
-      "external_url": "https://open.spotify.com/track/0A0FrmoICOQTDbnUQuBYn6"
-    },
-    {
       "name": "PinPonPanPon Youkoso!",
       "artist": "pinponpanpon",
       "album": "PinPonPeaceProject",
       "image": "https://i.scdn.co/image/ab67616d0000b27381c91b335fc2569825f2c532",
       "external_url": "https://open.spotify.com/track/0hql8LKpQxh4sicRbzlN1s"
+    },
+    {
+      "name": "Aldehydes and Ketones",
+      "artist": "Ecco2k",
+      "album": "Echo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b00a5b78dcd1c0aae569f546",
+      "external_url": "https://open.spotify.com/track/1Aw9cm2pKcaDA4w5if9MHd"
+    },
+    {
+      "name": "U wld never do it",
+      "artist": "kuru",
+      "album": "Backstage hologram",
+      "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
+      "external_url": "https://open.spotify.com/track/2UrQ38DTGdUjzgWLex8nUo"
+    },
+    {
+      "name": "You Blossom Like Sakura",
+      "artist": "thewholeworld",
+      "album": "Elevated Motion",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e952483597db48484fce4e6b",
+      "external_url": "https://open.spotify.com/track/3k73xs8bdbkI8yM4ez4Rdl"
+    },
+    {
+      "name": "Smackdown",
+      "artist": "Lucy Bedroque",
+      "album": "Unmusique",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335c2d75dff53d549933ca10b",
+      "external_url": "https://open.spotify.com/track/7kAi27hSQ7AC2Rxcg8a8Ns"
+    },
+    {
+      "name": "ZYGOTE",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
     }
   ],
   "topArtists": [
@@ -215,6 +215,14 @@
       "external_url": "https://open.spotify.com/artist/0h0owg66fumDOks3UBAkGz"
     },
     {
+      "name": "pinponpanpon",
+      "genres": [
+        "hyperpop"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb252c905e9b9fa29391cc75b7",
+      "external_url": "https://open.spotify.com/artist/4f2l5pSKd1oUMEMx7SZBng"
+    },
+    {
       "name": "prettifun",
       "genres": [
         "rage rap",
@@ -222,14 +230,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5ebac465ae2e1060d01c4b00e92",
       "external_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
-    },
-    {
-      "name": "pinponpanpon",
-      "genres": [
-        "hyperpop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb252c905e9b9fa29391cc75b7",
-      "external_url": "https://open.spotify.com/artist/4f2l5pSKd1oUMEMx7SZBng"
     },
     {
       "name": "Ecco2k",
@@ -251,6 +251,14 @@
       "external_url": "https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI"
     },
     {
+      "name": "Travis Scott",
+      "genres": [
+        "rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+    },
+    {
       "name": "OsamaSon",
       "genres": [
         "rage rap",
@@ -258,14 +266,6 @@
       ],
       "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
       "external_url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-    },
-    {
-      "name": "Ken Carson",
-      "genres": [
-        "rage rap"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb35033cc5f61a8529cb15f1de",
-      "external_url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
     }
   ]
 }
