@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2026-11-26T16:32:02.998Z",
+  "lastUpdated": "2026-11-27T16:17:59.825Z",
   "topTracks": [
+    {
+      "name": "AHH YEA",
+      "artist": "Playboi Carti",
+      "album": "Grand Theft Auto VI: The Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730fe676a1c4dec35eb9b84dca",
+      "external_url": "https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI"
+    },
     {
       "name": "PEACE IN PANDEMONIUM",
       "artist": "Lucy Bedroque",
@@ -23,25 +30,11 @@
       "external_url": "https://open.spotify.com/track/0NwBVCDFDAXvhhlqeUEVIf"
     },
     {
-      "name": "AHH YEA",
-      "artist": "Playboi Carti",
-      "album": "Grand Theft Auto VI: The Album",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730fe676a1c4dec35eb9b84dca",
-      "external_url": "https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI"
-    },
-    {
       "name": "flying dutchman",
       "artist": "bleood",
       "album": "KILL YOUR IDOLS",
       "image": "https://i.scdn.co/image/ab67616d0000b2734c5842f0b17b485a16ea73f1",
       "external_url": "https://open.spotify.com/track/2z1t571SMqPkZoemi0RMBi"
-    },
-    {
-      "name": "healing spiritual echo",
-      "artist": "meat computer",
-      "album": "slept on the floor still dreamt about you (pop edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734cac4a4cc899ccf1b9eed0bb",
-      "external_url": "https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0"
     },
     {
       "name": "eradicate",
@@ -51,11 +44,11 @@
       "external_url": "https://open.spotify.com/track/0eudKExxZrQIO4Ay6TagpL"
     },
     {
-      "name": "aw02 angel cry",
-      "artist": "bleood",
-      "album": "KILL YOUR IDOLS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734c5842f0b17b485a16ea73f1",
-      "external_url": "https://open.spotify.com/track/7oLgjQxnLVJT8Zi5XEETRE"
+      "name": "healing spiritual echo",
+      "artist": "meat computer",
+      "album": "slept on the floor still dreamt about you (pop edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734cac4a4cc899ccf1b9eed0bb",
+      "external_url": "https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0"
     },
     {
       "name": "Shibuya transfer",
@@ -65,18 +58,18 @@
       "external_url": "https://open.spotify.com/track/1eROUyolOlu29FFHoBPLmU"
     },
     {
+      "name": "aw02 angel cry",
+      "artist": "bleood",
+      "album": "KILL YOUR IDOLS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c5842f0b17b485a16ea73f1",
+      "external_url": "https://open.spotify.com/track/7oLgjQxnLVJT8Zi5XEETRE"
+    },
+    {
       "name": "Tofu",
       "artist": "kuru",
       "album": "Backstage hologram",
       "image": "https://i.scdn.co/image/ab67616d0000b273858d1a7c08f66e43a7c12e63",
       "external_url": "https://open.spotify.com/track/506gkKhPTLXEbmpBqJaA3h"
-    },
-    {
-      "name": "ALL SPEAKERS GO TO HEAVEN",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
     },
     {
       "name": "she loves me i hate her",
@@ -121,6 +114,20 @@
       "external_url": "https://open.spotify.com/track/77RKTns194vbhdP7rh5HC2"
     },
     {
+      "name": "RHYNO (from GTAVI: The Album)",
+      "artist": "Travis Scott",
+      "album": "RHYNO (from GTAVI: The Album)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
+      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
+    },
+    {
+      "name": "Aaj Shanibar",
+      "artist": "Rupa",
+      "album": "Disco Jazz",
+      "image": "https://i.scdn.co/image/ab67616d0000b27333ba10ea93facb1819ab53d4",
+      "external_url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
+    },
+    {
       "name": "groovv",
       "artist": "KULAPHANTASY",
       "album": "groovv",
@@ -128,11 +135,11 @@
       "external_url": "https://open.spotify.com/track/3OUqPc9XG7rgFqm4G3H8L4"
     },
     {
-      "name": "RHYNO (from GTAVI: The Album)",
-      "artist": "Travis Scott",
-      "album": "RHYNO (from GTAVI: The Album)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731df7da7e2f1430731f1db26c",
-      "external_url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
+      "name": "ALL SPEAKERS GO TO HEAVEN",
+      "artist": "Lucy Bedroque",
+      "album": "c",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+      "external_url": "https://open.spotify.com/track/3zKdA7oG1Fh7Qo18n55LV3"
     },
     {
       "name": "PinPonPanPon Youkoso!",
@@ -163,18 +170,11 @@
       "external_url": "https://open.spotify.com/track/7kAi27hSQ7AC2Rxcg8a8Ns"
     },
     {
-      "name": "ZYGOTE",
-      "artist": "Lucy Bedroque",
-      "album": "c",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
-      "external_url": "https://open.spotify.com/track/1ix59Tny21Dw6uDvHipNJc"
-    },
-    {
-      "name": "Aaj Shanibar",
-      "artist": "Rupa",
-      "album": "Disco Jazz",
-      "image": "https://i.scdn.co/image/ab67616d0000b27333ba10ea93facb1819ab53d4",
-      "external_url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
+      "name": "Hot & talking",
+      "artist": "Say Now",
+      "album": "Hot & talking",
+      "image": "https://i.scdn.co/image/ab67616d0000b273374c61b2c7776a61535e2e98",
+      "external_url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
     }
   ],
   "topArtists": [
@@ -206,15 +206,6 @@
       "external_url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
     },
     {
-      "name": "KULAPHANTASY",
-      "genres": [
-        "hyperpop",
-        "experimental hip hop"
-      ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb088119870a7b62f5abf543aa",
-      "external_url": "https://open.spotify.com/artist/0h0owg66fumDOks3UBAkGz"
-    },
-    {
       "name": "prettifun",
       "genres": [
         "rage rap",
@@ -232,12 +223,21 @@
       "external_url": "https://open.spotify.com/artist/4f2l5pSKd1oUMEMx7SZBng"
     },
     {
-      "name": "Playboi Carti",
+      "name": "KULAPHANTASY",
       "genres": [
-        "rage rap"
+        "hyperpop",
+        "experimental hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb088119870a7b62f5abf543aa",
+      "external_url": "https://open.spotify.com/artist/0h0owg66fumDOks3UBAkGz"
+    },
+    {
+      "name": "Travis Scott",
+      "genres": [
+        "rap"
+      ],
+      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
     },
     {
       "name": "Ecco2k",
@@ -249,22 +249,21 @@
       "external_url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
     },
     {
-      "name": "ESPRIT 空想",
+      "name": "Playboi Carti",
       "genres": [
-        "vaporwave",
-        "chillwave",
-        "plunderphonics"
+        "rage rap"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4205564ba1357895fc307c33",
-      "external_url": "https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI"
+      "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+      "external_url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
     },
     {
-      "name": "Travis Scott",
+      "name": "OsamaSon",
       "genres": [
-        "rap"
+        "rage rap",
+        "underground hip hop"
       ],
-      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
-      "external_url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+      "image": "https://i.scdn.co/image/ab6761610000e5eb74ed087d1fbfbebac0380649",
+      "external_url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
     }
   ]
 }
